@@ -1,0 +1,31 @@
+// Utilisateurs fictifs de développement (personas)
+// Denis = médiéviste rigoureux, Bernard = conteur local, Marie = bénévole terrain, Claire = habitante
+
+export const seedUsers = [
+  {
+    id: 'a1111111-1111-1111-1111-111111111111',
+    name: 'Denis Archambault',
+    email: 'denis.medieviste@example.com',
+  },
+  {
+    id: 'b2222222-2222-2222-2222-222222222222',
+    name: 'Bernard Moreau',
+    email: 'bernard.conteur@example.com',
+  },
+  {
+    id: 'c3333333-3333-3333-3333-333333333333',
+    name: 'Marie Dupont',
+    email: 'marie.benevole@example.com',
+  },
+  {
+    id: 'd4444444-4444-4444-4444-444444444444',
+    name: 'Claire Martin',
+    email: 'claire.habitante@example.com',
+  },
+] as const
+
+// Shorthand IDs for use in other seed files
+export const DENIS = 'a1111111-1111-1111-1111-111111111111'
+export const BERNARD = 'b2222222-2222-2222-2222-222222222222'
+export const MARIE = 'c3333333-3333-3333-3333-333333333333'
+export const CLAIRE = 'd4444444-4444-4444-4444-444444444444'

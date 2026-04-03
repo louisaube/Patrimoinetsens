@@ -1,0 +1,149 @@
+# =============================================================================
+# Configuration du pipeline Gallica → RAG
+# Bulletins de la Société Archéologique de Sens (SAS)
+# 38 volumes numérisés sur Gallica (1846-1937)
+# =============================================================================
+
+# Clé API Mistral OCR (à renseigner dans .env)
+# MISTRAL_API_KEY=xxx
+
+# Modèle OCR
+ocr:
+  provider: mistral
+  model: mistral-ocr-latest
+  batch: true  # 2000 pages/$ en batch vs 1000 pages/$ en temps réel
+
+# Modèle pour la génération de contributions
+generation:
+  provider: anthropic
+  model: claude-sonnet-4-20250514
+  reading_level: "collège/lycée (11-18 ans)"
+  language: "fr"
+
+# Embedding pour le RAG
+embedding:
+  provider: openai
+  model: text-embedding-3-small
+  dimensions: 1536
+
+# Stockage vectoriel
+vector_store:
+  provider: chromadb  # local pour dev, pgvector (Supabase) pour prod
+  collection: sas_bulletins
+
+# Chunking
+chunking:
+  strategy: semantic  # semantic | fixed | paragraph
+  max_tokens: 800
+  overlap_tokens: 100
+
+# Bulletins SAS disponibles sur Gallica
+# Format: année → ARK identifier
+bulletins:
+  1846: bpt6k298584k
+  1851: bpt6k298585z
+  1852: bpt6k298586b
+  1853: bpt6k298587q
+  1854: bpt6k2985883
+  1858: bpt6k298589g
+  1861: bpt6k298590d
+  1863: bpt6k298591s
+  1867: bpt6k2985925
+  1872: bpt6k298593j
+  1877: bpt6k298594x
+  1880: bpt6k2985959
+  1885: bpt6k298596p
+  1888: bpt6k2985972
+  1892: bpt6k298598f
+  1894: bpt6k298599t
+  1895: bpt6k298600m
+  1897: bpt6k2986010
+  1900: bpt6k298602c
+  1903: bpt6k298603r
+  1904: bpt6k2986044
+  1906: bpt6k298605h
+  1908: bpt6k298606w
+  1909: bpt6k2986078
+  1910: bpt6k298608n
+  1911: bpt6k2986091
+  1912: bpt6k298610z
+  1913: bpt6k298611b
+  1916: bpt6k2986133
+  1917: bpt6k298614g
+  # 1918: pas numérisé
+  1925: bpt6k5577191g
+  1927: bpt6k5658266r
+  1929: bpt6k56139490
+  1931: bpt6k5613756f
+  1934: bpt6k56195890
+  1936: bpt6k97701869
+  1937: bpt6k5620625w
+
+# =============================================================================
+# Armorial historique de l'Yonne — Aristide Déy, 1863
+# 221 pages, blasons des familles nobles du département avant 1789
+# =============================================================================
+armorial:
+  # 3 couches d'armoriaux à fusionner dans l'annuaire
+  sources:
+    # 1. Armorial d'Hozier 1696 — manuscrit enluminé officiel
+    #    Généralité de Paris → élection de Sens
+    #    BnF ms. Français 32250-32252 (volumes Paris)
+    hozier:
+      title: "Armorial général de France — Généralité de Paris"
+      author: "Charles d'Hozier"
+      year: 1696
+      gallica_arks:
+        - bpt6k75545z     # Vol. 2 Paris
+        - bpt6k923004     # Vol. 3 Paris
+        - bpt6k92301g     # Vol. 4 Paris
+      note: "Manuscrit enluminé avec blasons peints. Chercher 'Sens' et 'Sénonais' dans les tables."
+
+    # 2. Armorial Déy 1863 — armorial historique imprimé
+    dey:
+      title: "Armorial historique de l'Yonne"
+      author: "Aristide Déy"
+      year: 1863
+      pages: 221
+      gallica_ark: bpt6k54082694
+      pdf_mirror: "http://echo.auxerre.free.fr/dossier_telechargement/1862_Armorial_Yonne.pdf"
+
+    # 3. Armorial moderne des communes
+    communes:
+      source: "https://armorialdefrance.fr/departement_communes.php?dept=89"
+      note: "Blasons actuels des communes de l'Yonne — données structurées à scraper"
+
+  # OCR : RolmOCR (Qwen2.5-VL) pour le texte + vision AI pour les blasons peints
+  ocr_model: rolmocr  # open source, Apache 2.0, SotA sur docs historiques
+  vision_model: qwen3-vl  # pour isoler et décrire les blasons peints (Hozier)
+
+# =============================================================================
+# Sujets à rechercher dans les bulletins (pour le RAG ciblé)
+heritage_subjects:
+  - cathédrale Saint-Étienne
+  - palais synodal
+  - maison d'Abraham
+  - remparts enceinte gallo-romaine
+  - poterne Quatre-Mares
+  - abbaye Sainte-Colombe
+  - basilique Saint-Savinien
+  - Saint-Pierre-le-Vif
+  - Jacobins dominicains
+  - Carmel carmélites
+  - Célestins Mallarmé
+  - Ursulines
+  - Hôtel-Dieu
+  - théâtre municipal
+  - monument aux morts
+  - tanneries Moulin à Tan
+  - usine plomb Lelièvre
+  - communauté juive
+  - Templiers procès
+  - Huguenots massacre 1562
+  - Noslon château archevêques
+  - Camp César Agedincum
+  - Jean Cousin peintre
+  - Thomas Becket
+  - Alexandre III pape
+  - Saint Louis mariage
+  - Brennus Sénons

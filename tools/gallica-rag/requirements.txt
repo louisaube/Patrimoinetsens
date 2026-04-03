@@ -1,0 +1,22 @@
+# Pipeline Gallica → RAG pour Patrimoine & Sens
+# python -m pip install -r requirements.txt
+
+# Téléchargement Gallica
+httpx>=0.27
+pyyaml>=6
+
+# OCR Mistral
+mistralai>=1.0
+
+# Embeddings & RAG
+openai>=1.0
+chromadb>=0.5
+
+# Génération de contributions
+anthropic>=0.40
+
+# Vision AI pour extraction blasons
+Pillow>=10.0
+
+# Utilitaires
+python-dotenv>=1.0
