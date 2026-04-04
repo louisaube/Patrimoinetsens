@@ -93,11 +93,38 @@ armorial:
       title: "Armorial général de France — Généralité de Paris"
       author: "Charles d'Hozier"
       year: 1696
-      gallica_arks:
-        - bpt6k75545z     # Vol. 2 Paris
-        - bpt6k923004     # Vol. 3 Paris
-        - bpt6k92301g     # Vol. 4 Paris
-      note: "Manuscrit enluminé avec blasons peints. Chercher 'Sens' et 'Sénonais' dans les tables."
+      # Le Sénonais est dans les volumes Paris (Généralité de Paris)
+      # Les entrées sont dispersées dans tout le volume (classées par charge, pas par lieu)
+      # Stratégie : extraire TOUT puis filtrer par lieu sénonais
+      volumes:
+        vol_xxiii:
+          ark: bpt6k111471q  # Paris partie 1, ms. Fr. 32250
+          pages: 654          # à vérifier
+        vol_xxiv:
+          ark: bpt6k111472c  # Paris partie 2, ms. Fr. 32251
+          pages: 654          # à vérifier
+        vol_xxv:
+          ark: bpt6k111473g  # Paris partie 3, ms. Fr. 32252 — contient section Sens p.36-58
+          pages: 654
+      # Lieux sénonais à filtrer dans les résultats
+      senonais_filter:
+        - Sens
+        - Villeneuve le Roy
+        - Villeneuve l'Archevêque
+        - Montereau
+        - Pont sur Yonne
+        - Joigny
+        - Thorigny
+        - Champigny
+        - Sainte Colombe
+        - Saint Denis les Sens
+        - Vulaines
+        - Subligny
+        - Paron
+        - Nailly
+        - Malay
+        - Sergines
+        - Courlon
 
     # 2. Armorial Déy 1863 — armorial historique imprimé
     dey:

@@ -1,0 +1,1435 @@
+{
+  "meta": {
+    "source": "Armorial general de France, dit d'Hozier",
+    "volume": "ms. Francais 32252 (Generalite de Paris, vol. III)",
+    "section": "Election de Sens",
+    "pages": "36-58",
+    "total": 101
+  },
+  "entries": [
+    {
+      "nom": "Barthélemy Mouflé",
+      "titre": "Docteur de la Maison et Société de Sorbonne, Vicaire général de M. l'Archevêque de Sens",
+      "lieu": "Ville de Paris / Sens",
+      "blason": "Écartelé, au 1 et au 4 d'azur à l'épée d'or accompagnée de deux lions affrontés de même, au 2 et au 3 d'or au lion de sable lampassé et couronné de gueules.",
+      "couleurs": [
+        "azur",
+        "or",
+        "sable",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.36",
+      "image": "blason_036_01_Barthélemy_Moutié.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean de Saint-Mesmin",
+      "titre": "Directeur des aides de Sens",
+      "lieu": "Sens",
+      "blason": "De gueules à trois fleurs de lys d'or, à la bordure d'argent chargée de huit merlettes de sable.",
+      "couleurs": [
+        "gueules",
+        "or",
+        "argent",
+        "sable"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.36",
+      "image": "blason_036_02_Jean_de_St_Mammes.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Paul le Riche",
+      "titre": "Préchantre de l'Église de Sens",
+      "lieu": "Sens",
+      "blason": "D'azur à la bande d'or chargée d'un bâton de sable posé en bande.",
+      "couleurs": [
+        "azur",
+        "or",
+        "sable"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.36",
+      "image": "blason_036_03_Paul_le_Riche.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jacques de Bernard",
+      "titre": "Chirurgien, Seigneur de Champigny",
+      "lieu": "Seigneur de Champeigney",
+      "blason": "D'azur à trois tours d'argent, maçonnées de sable, ouvertes et ajourées du champ.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "sable"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.36",
+      "image": "blason_036_04_Jacques_de_Bernard.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Alexandre Chuillier",
+      "titre": "Écuyer, Seigneur de Chalandas",
+      "lieu": "",
+      "blason": "Parti, au 1 d'azur à trois croissants d'or, au 2 d'argent à l'aigle de sable, becquée et membrée de gueules.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent",
+        "sable",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.36",
+      "image": "blason_036_05_Alexandre_Chuillier.jpg",
+      "type": "personne"
+    },
+    {
+      "position": 1,
+      "nom": "Georges de Moreuil",
+      "titre": "Écuyer",
+      "lieu": "Sens",
+      "type": "personne",
+      "blason": "D'azur semé de fleurs de lys d'or, au lion d'argent brochant.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.37",
+      "image": "blason_037_01_Georges_de_Moreuil.jpg"
+    },
+    {
+      "position": 2,
+      "nom": "François de Sainte-Chamand",
+      "titre": "Chevalier, Marquis de Méry, et Bonne de Chatelux sa femme",
+      "lieu": "Méry",
+      "type": "personne",
+      "blason": "Écartelé complexe, parti avec les armes de sa femme.",
+      "couleurs": [
+        "or",
+        "gueules",
+        "azur",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.37",
+      "image": "blason_037_02_François_de_Sainte-Chamand.jpg"
+    },
+    {
+      "position": 3,
+      "nom": "Dominique Albas",
+      "titre": "Prêtre, Chanoine de l'Église collégiale Saint-Martin de Fabling",
+      "lieu": "Sens",
+      "type": "personne",
+      "blason": "D'azur à trois croissants d'or.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.37",
+      "image": "blason_037_03_Dominique_Albas.jpg"
+    },
+    {
+      "position": 4,
+      "nom": "Pierre Poquelin",
+      "titre": "Archidiacre de Provins en l'Église de Sens, Curé de Saint-Pierre-le-Boujon",
+      "lieu": "Sens",
+      "type": "personne",
+      "blason": "D'azur à trois étoiles d'or, au franc-quartier d'argent à l'agneau pascal.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.37",
+      "image": "blason_037_04_Pierre_Poquelin.jpg"
+    },
+    {
+      "position": 5,
+      "nom": "Yves le Chapellier",
+      "titre": "Archidiacre de Melun, Chanoine en l'Église de Sens",
+      "lieu": "Sens",
+      "type": "personne",
+      "blason": "Palé de sinople et d'or, au chef chargé de trois losanges d'azur.",
+      "couleurs": [
+        "sinople",
+        "or",
+        "azur"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.37",
+      "image": "blason_037_05_Yves_le_Chapellier.jpg"
+    },
+    {
+      "nom": "Charles Baron",
+      "titre": "Chanoine en l'Église de Saint-Étienne de Sens",
+      "lieu": "S'Église de S'Étienne de Sens",
+      "blason": "D'azur à la fasce d'argent chargée de trois étoiles d'azur, en chef un agneau pascal d'argent, en pointe les lettres BB d'or.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.38",
+      "image": "blason_038_01_Charles_Baron.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean Burlugay",
+      "titre": "Chanoine en l'Église de Saint-Étienne de Sens",
+      "lieu": "S'Église de S'Étienne de Sens",
+      "blason": "D'argent au cœur de gueules.",
+      "couleurs": [
+        "argent",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.38",
+      "image": "blason_038_02_Jean_Burlugay.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jacques Segard",
+      "titre": "Chanoine en l'Église Saint-Étienne de Sens",
+      "lieu": "S'Église de S'Étienne de Sens",
+      "blason": "D'azur à la ruche d'or.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.38",
+      "image": "blason_038_03_Jacques_Segard.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean Noel",
+      "titre": "Chanoine en l'Église de Sens",
+      "lieu": "S'Église de Sens",
+      "blason": "D'argent à l'arbre de sinople, au chef d'azur chargé d'une étoile d'or accostée de deux croissants d'argent.",
+      "couleurs": [
+        "argent",
+        "sinople",
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.38",
+      "image": "blason_038_04_Jean_Noel.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jacques Marrés",
+      "titre": "Chanoine en l'Église de Sens",
+      "lieu": "S'Église de Sens",
+      "blason": "D'azur à l'aigle d'or posée sur un rocher du même, surmontée d'un soleil d'or.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.38",
+      "image": "blason_038_05_Jacques_Marres.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean le Riche",
+      "titre": "Chanoine de Sens",
+      "lieu": "Sens",
+      "blason": "D'azur à la demi-pique d'or couronnée du même, posée en pal.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.39",
+      "image": "blason_039_01_Jean_le_Riche.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Estienne Masson",
+      "titre": "Chanoine en l'Église de Sens",
+      "lieu": "Église de Sens",
+      "blason": "D'argent au cœur de gueules enflammé du même.",
+      "couleurs": [
+        "argent",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.39",
+      "image": "blason_039_02_Estienne_Masson.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Eustache de Feu",
+      "titre": "Chanoine en l'Église Saint-Étienne de Sens",
+      "lieu": "Église Sainte Étienne de Sens",
+      "blason": "D'argent au chevron d'azur accompagné de trois flammes de gueules, au chef de gueules au lion passant d'or.",
+      "couleurs": [
+        "argent",
+        "azur",
+        "gueules",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.39",
+      "image": "blason_039_03_Eustache_de_Feu.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Charles Mouchon",
+      "titre": "Prêtre, Chanoine en l'Église de Saint-Étienne de Sens",
+      "lieu": "Église Sainte Étienne de Sens",
+      "blason": "D'azur au chevron d'or accompagné de trois croissants d'argent.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.39",
+      "image": "blason_039_04_Charles_Mouchon.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jacques Chomoret",
+      "titre": "Chanoine en l'Église de Sens",
+      "lieu": "Église de Sens",
+      "blason": "D'argent au chevron d'azur accompagné en chef de deux flammes de gueules et d'un croissant d'azur, en pointe d'une tête de Maure de sable.",
+      "couleurs": [
+        "argent",
+        "azur",
+        "gueules",
+        "sable"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.39",
+      "image": "blason_039_05_Jacques_Chomoret.jpg",
+      "type": "personne"
+    },
+    {
+      "position": 3,
+      "nom": "François Guy",
+      "titre": "Chevalier, Seigneur de Plèrobon, Capitaine au Régiment Royal de Roussillon Cavalerie, et Jeanne Forestel sa femme",
+      "lieu": "Sens",
+      "type": "personne",
+      "blason": "Écartelé, au 1 et 4 d'azur au lion d'or, au 2 et 3 de gueules à trois tours d'argent.",
+      "couleurs": [
+        "azur",
+        "or",
+        "gueules",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.40",
+      "image": "blason_040_03_François_Guy.jpg"
+    },
+    {
+      "position": 4,
+      "nom": "Isaac Allou",
+      "titre": "Écuyer, Conseiller du Roy, Lieutenant Criminel de Robe Courte",
+      "lieu": "Sens",
+      "type": "personne",
+      "blason": "D'azur au chevron d'or accompagné de trois lions d'argent.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.40",
+      "image": "blason_040_04_Isaac_Allou.jpg"
+    },
+    {
+      "nom": "Etienne le Camus",
+      "titre": "Chanoine régulier et Chanoine de l'Église collégiale de Sens",
+      "lieu": "Ramon",
+      "blason": "Coupé, au 1 d'azur à la fleur de lys d'or, au 2 de gueules au pélican dans sa piété d'argent.",
+      "couleurs": [
+        "azur",
+        "or",
+        "gueules",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.41",
+      "image": "blason_041_01_Etienne_le_Camus.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean François Payans",
+      "titre": "Avocat au Roy au Bailliage de Senlis",
+      "lieu": "Senlis",
+      "blason": "D'argent à trois aigles de sable, becquées et membrées de gueules, posées deux en chef et une en pointe.",
+      "couleurs": [
+        "argent",
+        "sable",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.42",
+      "image": "blason_042_05_Jean_François_Payen.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "François Estienne",
+      "titre": "Grenotier",
+      "lieu": "Senlis",
+      "blason": "D'argent à un pal de sinople chargé de trois fleurs de gueules.",
+      "couleurs": [
+        "argent",
+        "sinople",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.43",
+      "image": "blason_043_04_François_Brunel.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Nicolas du Pont de Compiègne",
+      "titre": "Chevalier, Seigneur de Fontaineroux, Capitaine et Chef du Vol pour les Champs de la Chambre du Roy. Et Charlotte de Chezelles sa femme.",
+      "lieu": "Fontaineroux, Chezelles/Seine",
+      "blason": "De sable au lévrier courant d'argent colleté de gueules et bouclé d'or, au chef d'or chargé d'une aigle bicéphale issante d'azur.",
+      "couleurs": [
+        "sable",
+        "argent",
+        "gueules",
+        "or",
+        "azur"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.44 — Réf. Rietstap, Armorial Général (Béarn, Île-de-France, Champagne)",
+      "image": "blason_044_01_Nicolas_du_Pont_de_Compiègne.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean-Baptiste de Brenne",
+      "titre": "Chevalier, Seigneur de Marchais",
+      "lieu": "Marchais",
+      "blason": "D'argent au lion de sable.",
+      "couleurs": [
+        "argent",
+        "sable"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.44",
+      "image": "blason_044_02_Jean-Baptiste_de_Brenne.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Nicolas Haué",
+      "titre": "Écuyer",
+      "lieu": "Non spécifié",
+      "blason": "D'azur à la vache passante d'argent, accompagnée en chef de deux coquilles d'or.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.44",
+      "image": "blason_044_03_Nicolas_Haué.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Dominique de Cormiser",
+      "titre": "Conseiller",
+      "lieu": "Non spécifié",
+      "blason": "D'argent à l'arbre de sinople accosté de deux oiseaux de sable.",
+      "couleurs": [
+        "argent",
+        "sinople",
+        "sable"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.44",
+      "image": "blason_044_04_Dominique_de_Courcelles.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "L'abbaye de la Victoire",
+      "titre": "Abbaye",
+      "lieu": "Non spécifié",
+      "blason": "D'azur à la Vierge à l'Enfant d'or assise.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.44",
+      "image": "blason_044_05_Labbaye_de_la_Victoire.jpg",
+      "type": "institution"
+    },
+    {
+      "nom": "L'abbaye de Sainte-Marcoul",
+      "titre": "Abbaye",
+      "lieu": "",
+      "blason": "D'azur à un saint d'or debout tenant une palme du même.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.45",
+      "image": "blason_045_01_Labbaye_de_Sainte-Marie.jpg",
+      "type": "institution"
+    },
+    {
+      "nom": "Aubigant",
+      "titre": "Maire de la ville de Breil",
+      "lieu": "Breil",
+      "blason": "D'argent à cinq roses de gueules boutonnées d'or, posées 2, 2 et 1.",
+      "couleurs": [
+        "argent",
+        "gueules",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.45",
+      "image": "blason_045_02_Aubignant.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Nicolas Tafoureau",
+      "titre": "Doyen de Sens",
+      "lieu": "Sens",
+      "blason": "Écartelé d'azur, au 1 et 4 à l'aigle d'argent, au 2 et 3 à l'homme sauvage d'or, avec croissants et étoiles.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.45",
+      "image": "blason_045_03_Nicolas_Talonnet_Dagen_de_Sens.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Gabriel le Pré",
+      "titre": "Trésorier en l'Église de Sens",
+      "lieu": "Sens",
+      "blason": "D'argent à la cloche d'azur croisée d'or, accompagnée en chef de deux roses de gueules et en pointe d'une étoile de gueules.",
+      "couleurs": [
+        "argent",
+        "azur",
+        "or",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.45",
+      "image": "blason_045_04_Gabriel_de_Breteuil_en_lEglise_St_Jean.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Olivier Vincenot",
+      "titre": "Chanoine",
+      "lieu": "Sens",
+      "blason": "De sinople au chevron d'argent accompagné de trois couronnes d'or.",
+      "couleurs": [
+        "sinople",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.45",
+      "image": "blason_045_05_Olivier_Ducreux.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "François le Comte",
+      "titre": "Chevalier, Seigneur d'Hermay, la Mostèlerie, Préaux et autres lieux",
+      "lieu": "Montclair, Préaux",
+      "blason": "D'azur au chevron d'or accompagné en chef de deux étoiles d'or et en pointe d'une coquille d'argent.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.46",
+      "image": "blason_046_01_François_le_Comte.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Anne de Perthuis",
+      "titre": "Chevalier, Seigneur de Vertau et autres lieux",
+      "lieu": "Vertau",
+      "blason": "D'azur à la croix ancrée et déjointe d'argent.",
+      "couleurs": [
+        "azur",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.46 — Réf. Jougla de Morenas (Beauvaisis)",
+      "image": "blason_046_02_Anne_de_Perthuis.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Louis Coutellier",
+      "titre": "Chevalier, Seigneur de Jouy",
+      "lieu": "Jouy",
+      "blason": "D'argent à trois demi-vols de sable.",
+      "couleurs": [
+        "argent",
+        "sable"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.46",
+      "image": "blason_046_03_Louis_Coutellier.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Alain David",
+      "titre": "Conseiller",
+      "lieu": "",
+      "blason": "D'argent à la harpe de gueules, au chef de sinople chargé de trois couronnes d'or.",
+      "couleurs": [
+        "argent",
+        "gueules",
+        "sinople",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.46",
+      "image": "blason_046_04_Alain_David.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Louis Lafourceau",
+      "titre": "Conseiller",
+      "lieu": "",
+      "blason": "Écartelé d'azur, au 1 et 4 à l'aigle d'argent, au 2 et 3 à l'homme sauvage d'or, avec croissants et étoiles.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.46",
+      "image": "blason_046_05_Louis_de_Fourcault.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "La Demoiselle des Maîtres Royaux de la ville de Sens",
+      "titre": "",
+      "lieu": "Sens",
+      "blason": "D'azur au cygne d'argent.",
+      "couleurs": [
+        "azur",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.47",
+      "image": "blason_047_01_La_Con_de_Jas._Raymond,_Seigneur_de_Sens.jpg",
+      "type": "institution"
+    },
+    {
+      "nom": "Paul Dubé",
+      "titre": "Chanoine",
+      "lieu": "",
+      "blason": "Bandé d'azur et d'or, au chef de sinople chargé de trois aigles d'or.",
+      "couleurs": [
+        "azur",
+        "or",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.47",
+      "image": "blason_047_02_Paul_Dubé_Chan.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Henry Harouard",
+      "titre": "Chanoine",
+      "lieu": "",
+      "blason": "De sinople au chevron d'or accompagné de feuilles de chêne du même, en chef deux anges d'azur.",
+      "couleurs": [
+        "sinople",
+        "or",
+        "azur"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.47",
+      "image": "blason_047_03_Henry_Harvard_Chan.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Charles Henry Pinelle",
+      "titre": "Docteur en Médecine",
+      "lieu": "",
+      "blason": "D'or à deux fasces de gueules accompagnées de trois trèfles de sinople.",
+      "couleurs": [
+        "or",
+        "gueules",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.47",
+      "image": "blason_047_04_Charles_Henry_Randle_Dodelan.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Etienne Nicej",
+      "titre": "Chanoine",
+      "lieu": "",
+      "blason": "D'azur au chevron d'or, en chef un croissant d'argent, en pointe une étoile d'or.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.47",
+      "image": "blason_047_05_Guane_Greg_Chan.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean Le Couturier",
+      "titre": "Écuyer, Seigneur de Belleval, ci-devant Capitaine d'Infanterie",
+      "lieu": "de Pellevoisin, devant Cap d'Infanterie",
+      "blason": "D'argent à l'arbre de sinople fruité de gueules, surmonté d'une étoile d'or.",
+      "couleurs": [
+        "argent",
+        "sinople",
+        "gueules",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.48",
+      "image": "blason_048_01_Jean_Le_Couturier.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Antoine de Guerville",
+      "titre": "Écuyer, Seigneur de la Martinière",
+      "lieu": "de la Martinière",
+      "blason": "Bandé d'azur et d'or, au chef de sinople chargé de trois aigles d'or.",
+      "couleurs": [
+        "azur",
+        "or",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.48",
+      "image": "blason_048_02_Antoine_de_Guerville.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Charles François d'Haqueville",
+      "titre": "Écuyer",
+      "lieu": "",
+      "blason": "D'argent au chevron de sinople accompagné de trois dextrochères d'azur.",
+      "couleurs": [
+        "argent",
+        "sinople",
+        "azur"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.48",
+      "image": "blason_048_03_Charles_François_dHaqueville_Breyer.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Alexandre de Montrillon",
+      "titre": "Écuyer, Seigneur du Pin",
+      "lieu": "du Pin",
+      "blason": "D'or à deux fasces de gueules accompagnées de trois trèfles de sinople.",
+      "couleurs": [
+        "or",
+        "gueules",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.48",
+      "image": "blason_048_04_Alexandre_de_Montrillon_Breyer.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Philippe Véspasien de Bizemont",
+      "titre": "Écuyer, Seigneur de trois Maisons",
+      "lieu": "Seigneur des trois Maisons",
+      "blason": "D'azur au chevron d'or accompagné en chef de deux croissants d'argent et en pointe d'une molette d'éperon d'or.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.48 — Réf. Jougla de Morenas (Picardie, Beauce)",
+      "image": "blason_048_05_Philippe_Véspasien_de_Bizemont.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Etienne du Carroux de Valencenne",
+      "titre": "Écuyer, Seigneur de Mézière",
+      "lieu": "Méricourt",
+      "blason": "D'azur à saint Nicolas d'or, bénissant trois enfants dans un cuvier.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.49",
+      "image": "blason_049_01_Etienne_du_Carroux_de_Valencenne.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "François Blesnon",
+      "titre": "Chanoine",
+      "lieu": "Sens",
+      "blason": "D'argent à la cloche d'azur croisée d'or, accompagnée en chef d'une rose de gueules et en pointe d'une étoile de gueules.",
+      "couleurs": [
+        "argent",
+        "azur",
+        "or",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.49",
+      "image": "blason_049_02_François_Blenon.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Pierre du Sacq",
+      "titre": "Chanoine",
+      "lieu": "Sens",
+      "blason": "D'argent à l'arbre de sinople terrassé du même, au chef bandé d'azur et d'or.",
+      "couleurs": [
+        "argent",
+        "sinople",
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.49",
+      "image": "blason_049_03_Pierre_du_Saq.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Guillaume Travers",
+      "titre": "Curé",
+      "lieu": "Sens",
+      "blason": "D'azur à saint Joseph d'or tenant un enfant par la main.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.49",
+      "image": "blason_049_04_Guillaume_Travers.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Le Couvent des Religieuses Bénédictines de Sens",
+      "titre": "Couvent",
+      "lieu": "Sens",
+      "blason": "D'azur à quatre poissons d'argent posés en sautoir, au cœur d'or en abîme.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.49",
+      "image": "blason_049_05_Le_Couvent_des_Religieuses_Bénédictines.jpg",
+      "type": "institution"
+    },
+    {
+      "nom": "La Communauté des Procureurs du Bailliage de Sens",
+      "titre": "",
+      "lieu": "Sens",
+      "blason": "D'azur à saint Nicolas d'or bénissant trois enfants.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.50",
+      "image": "blason_050_01_La_Comtesse_des_Prez_du_Bailliage_de_Sen.jpg",
+      "type": "institution"
+    },
+    {
+      "nom": "Claude Legrix",
+      "titre": "Chanoine",
+      "lieu": "",
+      "blason": "D'argent à la cloche d'azur croisée d'or, en chef deux roses de gueules, en pointe une étoile de gueules.",
+      "couleurs": [
+        "argent",
+        "azur",
+        "or",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.50",
+      "image": "blason_050_02_Claude_Sgyriez,_Chanoine.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Catherine Fauvelot",
+      "titre": "Veuve",
+      "lieu": "",
+      "blason": "D'argent à l'arbre de sinople terrassé du même, au chef bandé d'azur et d'or.",
+      "couleurs": [
+        "argent",
+        "sinople",
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.50",
+      "image": "blason_050_03_Catherine_Pinuel.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Le Couvent des Religieuses Bénédictines de Villeneuve le Roy",
+      "titre": "",
+      "lieu": "Villeneuve le Roy",
+      "blason": "D'azur à une Vierge d'or tenant un sceptre.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.50",
+      "image": "blason_050_04_Le_Couvent_des_Religieuses_Bénédictines_.jpg",
+      "type": "institution"
+    },
+    {
+      "nom": "Jaques Musnier",
+      "titre": "Chanoine",
+      "lieu": "",
+      "blason": "D'azur à quatre poissons d'argent en sautoir, au cœur d'or en abîme.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.50",
+      "image": "blason_050_05_Jugues,_Musnier,_Chanoine.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Thomas Leclerc",
+      "titre": "inconnu",
+      "lieu": "inconnu",
+      "blason": "D'azur à trois étoiles d'or, au chef du même chargé d'une guirlande de sinople.",
+      "couleurs": [
+        "azur",
+        "or",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.51",
+      "image": "blason_051_01_Thomas_Leclec.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jaques Benault",
+      "titre": "Seigneur de Montcorbon",
+      "lieu": "inconnu",
+      "blason": "De sinople au chevron d'or accompagné de trois croissants d'argent.",
+      "couleurs": [
+        "sinople",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.51",
+      "image": "blason_051_02_Jaques_Benault.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Le Corps des officiers du bailliage",
+      "titre": "des senés",
+      "lieu": "Sens",
+      "blason": "D'azur, à trois fleurs de lys d'or.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.51",
+      "image": "blason_051_03_Le_Corps_des_officiers_du_bailliage.jpg",
+      "type": "institution"
+    },
+    {
+      "nom": "Jaques de Cacie",
+      "titre": "Chanoine",
+      "lieu": "inconnu",
+      "blason": "D'argent à deux trèfles de sinople en chef et une rose de gueules en pointe.",
+      "couleurs": [
+        "argent",
+        "sinople",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.51",
+      "image": "blason_051_04_Jaques_de_Cacie.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Etienne Brouin",
+      "titre": "Conseiller",
+      "lieu": "inconnu",
+      "blason": "D'argent à la grappe de raisin de gueules tigée et feuillée de sinople, accompagnée d'un perroquet du même.",
+      "couleurs": [
+        "argent",
+        "gueules",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.51",
+      "image": "blason_051_05_Etienne_Brouin.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Guillaume Viart",
+      "titre": "Écuyer, Gentilhomme",
+      "lieu": "Gentilhomme",
+      "blason": "Parti, au 1 coupé d'azur à trois coquilles d'argent et d'or au phénix de sable dans ses flammes de gueules ; au 2 d'argent au lion de gueules, à l'arbre de sinople.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or",
+        "sable",
+        "gueules",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.52",
+      "image": "blason_052_01_Guillaume_Viart.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Louise Alix de Lucat de Malvoisine",
+      "titre": "Femme de Guillaume Viart",
+      "lieu": "",
+      "blason": "Parti, au 1 coupé d'azur à trois coquilles d'argent et d'or au phénix de sable dans ses flammes de gueules ; au 2 d'argent au lion de gueules, à l'arbre de sinople.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or",
+        "sable",
+        "gueules",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.52",
+      "image": "blason_052_02_Louise_Alix_de_Lucat_de_Malvoisine.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jacques Viart",
+      "titre": "Écuyer, Gentilhomme",
+      "lieu": "Gentilhomme",
+      "blason": "Coupé, au 1 d'azur à trois coquilles d'argent, au 2 d'or au phénix de sable dans ses flammes de gueules.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or",
+        "sable",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.52",
+      "image": "blason_052_03_Jacques_Viart.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Nicolas Hurault de Vignay",
+      "titre": "",
+      "lieu": "Vignay",
+      "blason": "D'or à la croix d'azur cantonnée de quatre ombres de soleil de gueules.",
+      "couleurs": [
+        "or",
+        "azur",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.52 — Réf. Rietstap, Armorial Général (Blésois)",
+      "image": "blason_052_04_Nicolas_Hurault.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Louis Hurault de l'Hospital",
+      "titre": "Fils",
+      "lieu": "Lhospital",
+      "blason": "D'or à la croix d'azur cantonnée de quatre ombres de soleil de gueules.",
+      "couleurs": [
+        "or",
+        "azur",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.52 — Réf. Rietstap, Armorial Général (Blésois)",
+      "image": "blason_052_05_Louis_Hurault.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Pierre de la Tranche",
+      "titre": "Gentilhomme",
+      "lieu": "Gentilhomme",
+      "blason": "D'azur au chevron d'argent accompagné de trois trèfles du même.",
+      "couleurs": [
+        "azur",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.52",
+      "image": "blason_052_06_Pierre_de_la_Tranche.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Fleurant Peschard",
+      "titre": "Seigneur de l'Espinay, Gentilhomme",
+      "lieu": "",
+      "blason": "Écartelé d'azur et de gueules, à la bande d'or brochant sur le tout.",
+      "couleurs": [
+        "azur",
+        "gueules",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.53",
+      "image": "blason_053_01_Florent_Pechard.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Mathieu-Michel Bouton",
+      "titre": "Écuyer",
+      "lieu": "",
+      "blason": "D'argent à deux fasces de sable accompagnées de six cuves d'azur.",
+      "couleurs": [
+        "argent",
+        "sable",
+        "azur"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.53",
+      "image": "blason_053_02_Mathieu-Michel_Boulon.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "François l'Hermitte",
+      "titre": "Conseiller",
+      "lieu": "",
+      "blason": "D'azur à deux châteaux d'argent, accompagnés d'une étoile d'or.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.53",
+      "image": "blason_053_03_François_Chermiette.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Etienne Fauvelot",
+      "titre": "Conseiller",
+      "lieu": "",
+      "blason": "D'or à la croix de gueules, au cœur du même couronné, à la terrasse de sinople.",
+      "couleurs": [
+        "or",
+        "gueules",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.53",
+      "image": "blason_053_04_Etienne_Fauvelue.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean Bouveret",
+      "titre": "Chanoine",
+      "lieu": "",
+      "blason": "D'or à trois fasces de sinople chargées de six tourteaux de gueules.",
+      "couleurs": [
+        "or",
+        "sinople",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.53",
+      "image": "blason_053_05_Jean_Bouvetet.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Cantien Sallot",
+      "titre": "Écuyer",
+      "lieu": "Sens",
+      "blason": "Écartelé d'azur, de gueules et de sinople, à la bande d'or brochant.",
+      "couleurs": [
+        "azur",
+        "gueules",
+        "sinople",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.54",
+      "image": "blason_054_01_Antoine_Sallaz.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Antoine Marcetot",
+      "titre": "Conseiller",
+      "lieu": "Sens",
+      "blason": "D'argent à deux fasces de sable accompagnées de six cuves d'azur.",
+      "couleurs": [
+        "argent",
+        "sable",
+        "azur"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.54",
+      "image": "blason_054_02_Antoine_Marcelin.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Deschastelliers",
+      "titre": "Fille (demoiselle)",
+      "lieu": "Olle",
+      "blason": "D'azur à trois châteaux d'argent, accompagnés d'une étoile d'or en abîme.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.54",
+      "image": "blason_054_03_Deschasteliers.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean-Baptiste Channet",
+      "titre": "Prêtre",
+      "lieu": "Chanuay",
+      "blason": "D'or à la croix de gueules, au cœur du même couronné, accompagnée d'un bouquet de fleurs.",
+      "couleurs": [
+        "or",
+        "gueules",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.54",
+      "image": "blason_054_04_Jean_Bast.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Etienne Boulard",
+      "titre": "Chanoine bourgeois",
+      "lieu": "Sens",
+      "blason": "D'or à trois fasces de sinople chargées de six tourteaux de gueules.",
+      "couleurs": [
+        "or",
+        "sinople",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.54",
+      "image": "blason_054_05_Grenne_Roulat.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean Cordy",
+      "titre": "Chanoine",
+      "lieu": "Sens",
+      "blason": "D'azur au chevron d'or accompagné en chef d'une étoile d'or et en pointe d'un croissant d'argent.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.55",
+      "image": "blason_055_01_Jean_Cordy_Jan.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Laurens",
+      "titre": "Chanson, prêtre",
+      "lieu": "Sens",
+      "blason": "D'azur à la croix d'or, à l'orle de chaîne d'or.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.55",
+      "image": "blason_055_02_Laurain.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean Clément",
+      "titre": "Chanoine",
+      "lieu": "Sens",
+      "blason": "D'azur à une sainte d'or tenant une croix patriarcale du même.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.55",
+      "image": "blason_055_03_Jean_Clément.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Le Couvent des chanoines réguliers de Saint-Jean-lès-Sens",
+      "titre": "",
+      "lieu": "Sens",
+      "blason": "D'azur au coq d'or accompagné d'une épée d'argent posée en pal.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.55",
+      "image": "blason_055_04_Le_Couvreur.jpg",
+      "type": "institution"
+    },
+    {
+      "nom": "L'Abbaye de Saint-Remy-lès-Sens",
+      "titre": "",
+      "lieu": "Sens",
+      "blason": "D'argent à la fasce de carnation (main dextre appaumée), accompagnée de quatre pommes de sinople.",
+      "couleurs": [
+        "argent",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.55",
+      "image": "blason_055_05_Le_Maye.jpg",
+      "type": "institution"
+    },
+    {
+      "nom": "Antoine Nicolas de Xaintonge",
+      "titre": "Écuyer, Seigneur de Plaisance, Hébert et Cerisot, demeurant en la Paroisse de Thorigny",
+      "lieu": "Paroisse de Thoriguy",
+      "blason": "D'azur au chevron d'or accompagné en chef de deux étoiles d'or et en pointe d'un croissant d'argent.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.56",
+      "image": "blason_056_01_Antoine_Nicolas_de_Vaintange.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Pierre Nepveu",
+      "titre": "Prêtre",
+      "lieu": "",
+      "blason": "D'azur à la croix d'or, à l'orle de chaîne d'or chargé de larmes d'argent.",
+      "couleurs": [
+        "azur",
+        "or",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.56",
+      "image": "blason_056_02_Pierre_Sépave.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Le Prieuré des Sœurs",
+      "titre": "",
+      "lieu": "",
+      "blason": "D'azur à un saint évêque d'or mitré et crossé, tenant une croix patriarcale.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.56",
+      "image": "blason_056_03_Le_Prieuré_de_Sainte.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Étienne Tassey",
+      "titre": "Conseiller du Roy",
+      "lieu": "",
+      "blason": "D'azur à l'épée d'or posée en pal, accostée de deux coqs d'or.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.56",
+      "image": "blason_056_04_Étienne_Tassey.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Drouin le Macé",
+      "titre": "Conseiller du Roy",
+      "lieu": "",
+      "blason": "D'argent à la fasce de carnation (main dextre appaumée), accompagnée de quatre pommes de sinople.",
+      "couleurs": [
+        "argent",
+        "sinople"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.56",
+      "image": "blason_056_05_Dunain_de_Macé.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Gaspard de Malpené",
+      "titre": "Prêtre",
+      "lieu": "Sens",
+      "blason": "De sinople à quatre croix pattées d'argent, à la tête de mort d'or en abîme.",
+      "couleurs": [
+        "sinople",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.57",
+      "image": "blason_057_01_Gaspard_de_Nalpène.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Corps des officiers de la prévôté",
+      "titre": "Corps d'officiers",
+      "lieu": "Sens",
+      "blason": "D'azur à trois fleurs de lys d'or.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.57",
+      "image": "blason_057_02_Corps_des_officiers_de_la_prévôté.jpg",
+      "type": "institution"
+    },
+    {
+      "nom": "Charles Benoist",
+      "titre": "Conseiller",
+      "lieu": "Sens",
+      "blason": "D'argent à trois sautoirs alésés de gueules, à la divise vivrée de sinople et d'or.",
+      "couleurs": [
+        "argent",
+        "gueules",
+        "sinople",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.57",
+      "image": "blason_057_03_Charles_Benoist.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Claude Fauvelet",
+      "titre": "Conseiller",
+      "lieu": "Sens",
+      "blason": "D'argent à l'arbre de sinople terrassé du même, au chef bandé d'azur et d'or.",
+      "couleurs": [
+        "argent",
+        "sinople",
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.57",
+      "image": "blason_057_04_Claude_Lauvelles.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Louis Godrillat",
+      "titre": "non spécifié",
+      "lieu": "non spécifié",
+      "blason": "D'azur au coq d'or posé sur un mont du même, accompagné de deux épis de blé d'or.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.57",
+      "image": "blason_057_05_Louis_Godrillat.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Philippes de Vormont",
+      "titre": "Écuyer, Seigneur de Villiers l'Onglon, Paroisse de Saint-Mars, Élection de Provins",
+      "lieu": "Provins",
+      "blason": "De gueules au lion d'argent.",
+      "couleurs": [
+        "rouge",
+        "argent"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.58",
+      "image": "blason_058_01_Philippes_de_Vormont.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Antoine Dastis",
+      "titre": "Écuyer, Seigneur de Maisonselles, Élection de Provins",
+      "lieu": "Provins",
+      "blason": "D'azur à deux épées d'argent passées en sautoir, gardes d'or.",
+      "couleurs": [
+        "azur",
+        "argent",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.58",
+      "image": "blason_058_02_Antoine_Dastis.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Anne Ambroise le Camus",
+      "titre": "Seigneur de Macé",
+      "lieu": "",
+      "blason": "D'or à la tête de Maure de sable tortillée d'argent, accompagnée de quatre coquilles de gueules.",
+      "couleurs": [
+        "or",
+        "sable",
+        "argent",
+        "gueules"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.58",
+      "image": "blason_058_03_Anne_Ambroise_le_Camus.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Herade de Chavigny",
+      "titre": "Écuyer, Seigneur de Vieuxmaisons, Sainte-Colombe",
+      "lieu": "Colombe",
+      "blason": "D'argent à la croix de gueules, au chef endenté de sable.",
+      "couleurs": [
+        "argent",
+        "gueules",
+        "sable"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.58",
+      "image": "blason_058_04_Herade_de_Chavigny.jpg",
+      "type": "personne"
+    },
+    {
+      "nom": "Jean Neuvert",
+      "titre": "Écuyer, Seigneur de Rochefort et du Plessis au Chat",
+      "lieu": "",
+      "blason": "D'azur à trois chevrons d'or, accompagnés de trois besants du même.",
+      "couleurs": [
+        "azur",
+        "or"
+      ],
+      "source": "Armorial d'Hozier, 1696, ms. Fr. 32252, p.58",
+      "image": "blason_058_05_Jean_Nuvert.jpg",
+      "type": "personne"
+    }
+  ]
+}

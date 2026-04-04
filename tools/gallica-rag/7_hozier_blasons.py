@@ -138,37 +138,51 @@ Réponds UNIQUEMENT en JSON valide.""",
     return result.get("blasons", [])
 
 
-def crop_blason_iiif(blason: dict, output_dir: Path) -> Path | None:
-    """Croppe un blason individuel via l'API IIIF de Gallica."""
+def crop_blason_local(blason: dict, pages_dir: Path, output_dir: Path) -> Path | None:
+    """Croppe un blason depuis les pages locales avec Pillow."""
+    from PIL import Image
+
     bbox = blason.get("bbox_pct")
     if not bbox:
         return None
 
     page_num = blason["page"]
-
-    # Dimensions de la page originale (typiquement 4961 × 3508 pour ce manuscrit)
-    # On utilise les pourcentages pour calculer la zone IIIF
-    # Format IIIF : {x},{y},{w},{h} en pixels
-    orig_w, orig_h = 3508, 4961  # paysage -> portrait
-    x = int(bbox["x"] * orig_w)
-    y = int(bbox["y"] * orig_h)
-    w = int(bbox["w"] * orig_w)
-    h = int(bbox["h"] * orig_h)
-
-    # URL IIIF avec crop
-    url = f"{IIIF_BASE}/f{page_num}/{x},{y},{w},{h}/{CROP_WIDTH},/0/native.jpg"
-
     safe_name = blason["nom"].replace(" ", "_").replace("'", "")[:40]
     output_path = output_dir / f"blason_{page_num:03d}_{blason['position']:02d}_{safe_name}.jpg"
 
     if output_path.exists():
         return output_path
 
+    # Trouver la page locale (format: hozier_sens_p36.jpg ou hozier_sens_p036.jpg)
+    page_path = pages_dir / f"hozier_sens_p{page_num:03d}.jpg"
+    if not page_path.exists():
+        page_path = pages_dir / f"hozier_sens_p{page_num}.jpg"
+    if not page_path.exists():
+        print(f"  Page {page_num} introuvable")
+        return None
+
     try:
-        response = httpx.get(url, follow_redirects=True, timeout=30)
-        response.raise_for_status()
-        output_path.write_bytes(response.content)
+        img = Image.open(page_path)
+        img_w, img_h = img.size
+
+        # bbox_pct en pourcentages -> pixels sur l'image locale
+        x = int(bbox["x"] * img_w)
+        y = int(bbox["y"] * img_h)
+        w = int(bbox["w"] * img_w)
+        h = int(bbox["h"] * img_h)
+
+        # Ajouter une marge de 10% pour ne pas rogner trop serré
+        margin_x = int(w * 0.1)
+        margin_y = int(h * 0.1)
+        x1 = max(0, x - margin_x)
+        y1 = max(0, y - margin_y)
+        x2 = min(img_w, x + w + margin_x)
+        y2 = min(img_h, y + h + margin_y)
+
+        cropped = img.crop((x1, y1, x2, y2))
+        cropped.save(output_path, "JPEG", quality=90)
         return output_path
+
     except Exception as e:
         print(f"  Erreur crop {blason['nom']}: {e}")
         return None
@@ -315,13 +329,17 @@ def main():
         with open(detections_path, encoding="utf-8") as f:
             all_blasons = json.load(f)
 
-    # 3. Crop
+    # 3. Crop (local avec Pillow, Gallica bloque le crop IIIF)
     if args.all or args.crop:
-        print(f"\nCrop de {len(all_blasons)} blasons...")
+        pages_dir = output_dir / "pages"
+        print(f"\nCrop local de {len(all_blasons)} blasons...")
+        ok_count = 0
         for blason in all_blasons:
-            result = crop_blason_iiif(blason, blasons_dir)
+            result = crop_blason_local(blason, pages_dir, blasons_dir)
             if result:
+                ok_count += 1
                 print(f"  OK {blason['nom']}")
+        print(f"\n{ok_count}/{len(all_blasons)} blasons croppés")
 
     # 4. Annuaire
     if args.all or args.annuaire:

@@ -11,6 +11,7 @@ import {
   User,
   LogOut,
   Settings,
+  Shield,
 } from "lucide-react"
 import { useAuth } from "@/hooks/use-auth"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
@@ -136,9 +137,28 @@ export default function MainLayout({
             )
           })}
 
-          {/* Séparateur + lien signalements (desktop uniquement) */}
+          {/* Séparateur + liens secondaires (desktop uniquement) */}
           <div className="pt-1">
             <div className="my-1 h-px bg-stone-100" />
+            {(() => {
+              const isActive = pathname.startsWith("/armorial")
+              return (
+                <Link
+                  href="/armorial"
+                  className={cn(
+                    "flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-medium transition-all duration-200",
+                    isActive
+                      ? "bg-emerald-50 text-emerald-800"
+                      : "text-stone-600 hover:bg-stone-50 hover:text-stone-900"
+                  )}
+                >
+                  <Shield
+                    className={cn("size-4", isActive ? "text-emerald-700" : "text-stone-400")}
+                  />
+                  Armorial d&apos;Hozier
+                </Link>
+              )
+            })()}
             {(() => {
               const isActive = pathname.startsWith("/reports")
               return (
