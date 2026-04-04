@@ -1,0 +1,176 @@
+# =============================================================================
+# Pipeline scraping patrimoine Sens — toutes sources
+# =============================================================================
+
+output_dir: ./output
+images_dir: ./output/images
+
+# =============================================================================
+# 1. POP / Mérimée — API officielle Ministère Culture (pas de clé requise)
+# =============================================================================
+pop:
+  base_url: "https://api.pop.culture.gouv.fr/search"
+  bases:
+    merimee:  # Monuments historiques (immeubles)
+      index: "merimee"
+      query_commune: "Sens"
+      query_departement: "89"
+    palissy:  # Objets mobiliers classés
+      index: "palissy"
+      query_commune: "Sens"
+      query_departement: "89"
+    memoire:  # Photos patrimoine
+      index: "memoire"
+      query_commune: "Sens"
+      query_departement: "89"
+  # Communes alentour à inclure
+  communes_extra:
+    - Paron
+    - Saint-Clément
+    - Malay-le-Grand
+    - Villeneuve-sur-Yonne
+    - Pont-sur-Yonne
+    - Joigny
+    - Saint-Julien-du-Sault
+    - Vézelay
+
+# =============================================================================
+# 2. Persée — publications académiques (Denis Cailleaux ++)
+# =============================================================================
+persee:
+  base_url: "https://www.persee.fr"
+  authors:
+    - name: "Denis Cailleaux"
+      search: "cailleaux+sens+cathédrale"
+      priority: high
+    - name: "Lydwine Saulnier-Pernuit"  # conservatrice musées Sens
+      search: "saulnier-pernuit+sens"
+      priority: medium
+  # Revues ciblées
+  journals:
+    - "Bulletin Monumental"
+    - "Bulletin de la Société nationale des Antiquaires de France"
+    - "Cahiers de civilisation médiévale"
+    - "Revue de l'Art"
+  search_terms:
+    - "cathédrale Sens"
+    - "patrimoine Sens Yonne"
+    - "archevêché Sens"
+    - "Agedincum"
+
+# =============================================================================
+# 3. Facebook — groupe "Histoire de Sens"
+# =============================================================================
+facebook:
+  # Groupe principal
+  group:
+    url: "https://www.facebook.com/groups/710567067019396/"
+    id: "710567067019396"
+    apify_actor: "apify/facebook-groups-scraper"
+    max_posts: 5000
+  # Pages Facebook patrimoine Sens
+  pages:
+    - url: "https://www.facebook.com/HistoireSens"
+      name: "Histoire de Sens"
+      apify_actor: "apify/facebook-pages-scraper"
+      max_posts: 2000
+    - url: "https://www.facebook.com/histoire.sens.senonais.yonne"
+      name: "Histoire Sens Sénonais Yonne"
+      apify_actor: "apify/facebook-pages-scraper"
+      max_posts: 2000
+  # Mots-clés pour filtrer le contenu pertinent
+  keywords_patrimoine:
+    - cathédrale
+    - patrimoine
+    - histoire
+    - médiéval
+    - église
+    - monument
+    - classé
+    - ancien
+    - historique
+    - archéologie
+    - rempart
+    - abbaye
+    - couvent
+    - château
+    - lavoir
+    - calvaire
+    - croix
+    - porte
+    - tour
+    - muraille
+    - hôtel particulier
+    - maison ancienne
+    - Cailleaux
+    - Brousse
+  # Auteurs prioritaires (commentaires à extraire en priorité)
+  priority_authors:
+    - "Denis Cailleaux"
+    - "Bernard Brousse"
+
+# =============================================================================
+# 4. Sites web patrimoine (Firecrawl + requests)
+# =============================================================================
+websites:
+  - name: "tourisme-sens"
+    url: "https://www.tourisme-sens.com"
+    crawl_paths:
+      - "/decouvrir/patrimoine"
+      - "/decouvrir/histoire"
+    method: firecrawl
+
+  - name: "monumentum-sens"
+    url: "https://monumentum.fr/commune/sens-89387"
+    method: requests  # pages statiques simples
+
+  - name: "petit-patrimoine-sens"
+    url: "https://www.petit-patrimoine.com/recherche.php"
+    params:
+      departement: "89"
+      commune: "Sens"
+    method: requests
+
+  - name: "wikipedia-sens"
+    urls:
+      - "https://fr.wikipedia.org/wiki/Sens_(Yonne)"
+      - "https://fr.wikipedia.org/wiki/Cathédrale_Saint-Étienne_de_Sens"
+      - "https://fr.wikipedia.org/wiki/Palais_synodal_de_Sens"
+      - "https://fr.wikipedia.org/wiki/Maison_d%27Abraham_(Sens)"
+      - "https://fr.wikipedia.org/wiki/Abbaye_Sainte-Colombe_de_Sens"
+      - "https://fr.wikipedia.org/wiki/Basilique_Saint-Savinien_de_Sens"
+      - "https://fr.wikipedia.org/wiki/Agedincum"
+      - "https://fr.wikipedia.org/wiki/Liste_des_monuments_historiques_de_Sens"
+    method: api  # API MediaWiki = structurée, images incluses
+
+  - name: "agendicum-blog"
+    url: "https://agendicum.over-blog.com"
+    method: firecrawl  # blog OverBlog, crawl toutes les pages
+    note: "Blog spécialisé histoire de Sens — contenu riche"
+
+  - name: "openedition-sens"
+    base_url: "https://journals.openedition.org"
+    search: "Sens cathédrale patrimoine"
+    method: firecrawl
+
+# =============================================================================
+# 5. Wikimedia Commons — images libres
+# =============================================================================
+commons:
+  api_url: "https://commons.wikimedia.org/w/api.php"
+  categories:
+    - "Cathédrale Saint-Étienne de Sens"
+    - "Palais synodal de Sens"
+    - "Monuments historiques de Sens"
+    - "Sens (Yonne)"
+    - "Abbaye Sainte-Colombe de Sens"
+
+# =============================================================================
+# Image processing
+# =============================================================================
+images:
+  max_width: 1920
+  max_height: 1080
+  thumbnail_size: 400
+  formats: ["jpg", "webp"]
+  quality: 85

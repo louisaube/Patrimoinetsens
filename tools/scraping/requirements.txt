@@ -1,0 +1,23 @@
+# Pipeline scraping patrimoine Sens
+# python -m pip install -r requirements.txt
+
+# HTTP
+httpx>=0.27
+aiohttp>=3.9
+
+# Apify (Facebook, sites complexes)
+apify-client>=1.6
+
+# HTML parsing
+beautifulsoup4>=4.12
+lxml>=5.0
+
+# Images
+Pillow>=10.0
+httpx[http2]>=0.27
+
+# Utilitaires
+python-dotenv>=1.0
+pyyaml>=6
+tqdm>=4.66
+rich>=13.0
