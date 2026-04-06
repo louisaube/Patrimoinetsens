@@ -51,7 +51,7 @@ export default function LoginPage() {
     <div className="flex min-h-screen flex-col items-center justify-center bg-stone-50 px-4 py-12">
       {/* Logo & titre */}
       <div className="mb-8 flex flex-col items-center gap-3">
-        <div className="flex size-14 items-center justify-center rounded-xl bg-emerald-700 shadow-md">
+        <div className="flex size-14 items-center justify-center rounded-xl bg-blue-800 shadow-md">
           <Landmark className="size-7 text-white" />
         </div>
         <div className="text-center">
@@ -77,8 +77,8 @@ export default function LoginPage() {
         <CardContent>
           {state === "success" ? (
             <div className="flex flex-col items-center gap-4 py-4 text-center">
-              <div className="flex size-12 items-center justify-center rounded-full bg-emerald-100">
-                <Mail className="size-6 text-emerald-700" />
+              <div className="flex size-12 items-center justify-center rounded-full bg-blue-100">
+                <Mail className="size-6 text-blue-800" />
               </div>
               <div>
                 <p className="font-medium text-stone-800">Lien envoyé !</p>
@@ -94,7 +94,7 @@ export default function LoginPage() {
                   setState("idle")
                   setEmail("")
                 }}
-                className="text-sm text-emerald-700 hover:underline"
+                className="text-sm text-blue-800 hover:underline"
               >
                 Utiliser une autre adresse
               </button>
@@ -132,7 +132,7 @@ export default function LoginPage() {
 
                 <Button
                   type="submit"
-                  className="w-full bg-emerald-700 hover:bg-emerald-800 text-white"
+                  className="w-full bg-blue-800 hover:bg-blue-900 text-white"
                   disabled={isLoading || !email.trim()}
                 >
                   {state === "loading-email" ? (

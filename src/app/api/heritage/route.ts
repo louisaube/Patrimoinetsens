@@ -10,7 +10,7 @@ import { eq, sql, desc, and, gte, lte } from 'drizzle-orm'
 import type { SQL } from 'drizzle-orm'
 import { db } from '@/lib/db'
 import { heritageItems, contributions } from '@/lib/db/schema'
-import { requireAuth, isAuthError } from '@/lib/api-utils'
+import { requireAuth, isAuthError, requireDb } from '@/lib/api-utils'
 import type { NewHeritageItem } from '@/lib/db/schema'
 
 // -----------------------------------------------------------------------------
@@ -20,6 +20,8 @@ import type { NewHeritageItem } from '@/lib/db/schema'
 // -----------------------------------------------------------------------------
 
 export async function GET(request: NextRequest): Promise<NextResponse> {
+  const dbErr = requireDb()
+  if (dbErr) return dbErr
   try {
     const { searchParams } = request.nextUrl
     const category = searchParams.get('category')
@@ -40,7 +42,7 @@ export async function GET(request: NextRequest): Promise<NextResponse> {
       conditions.push(lte(heritageItems.periodStart, parseInt(periodEnd, 10)))
     }
 
-    const items = await db
+    const items = await db!
       .select({
         id: heritageItems.id,
         createdBy: heritageItems.createdBy,
@@ -90,7 +92,7 @@ export async function POST(request: NextRequest): Promise<NextResponse> {
       return NextResponse.json({ error: 'Les coordonnées GPS sont requises' }, { status: 400 })
     }
 
-    const [created] = await db
+    const [created] = await db!
       .insert(heritageItems)
       .values({
         ...body,

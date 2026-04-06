@@ -185,8 +185,8 @@ export default function ReportPage() {
   if (submitted) {
     return (
       <div className="flex min-h-[70vh] flex-col items-center justify-center gap-4 px-4 text-center">
-        <div className="flex size-16 items-center justify-center rounded-full bg-emerald-100">
-          <CheckCircle2 className="size-8 text-emerald-700" />
+        <div className="flex size-16 items-center justify-center rounded-full bg-blue-100">
+          <CheckCircle2 className="size-8 text-blue-800" />
         </div>
         <div>
           <h2 className="font-serif text-xl font-semibold text-stone-800">
@@ -360,7 +360,7 @@ export default function ReportPage() {
             onPinSet={(lat, lng) => setForm((prev) => ({ ...prev, pin: { lat, lng } }))}
           />
           {form.pin && (
-            <p className="flex items-center gap-1.5 text-xs text-emerald-700">
+            <p className="flex items-center gap-1.5 text-xs text-blue-800">
               <MapPin className="size-3.5" />
               Position : {form.pin.lat.toFixed(5)}, {form.pin.lng.toFixed(5)}
               <button

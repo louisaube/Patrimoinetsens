@@ -8,7 +8,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { eq } from 'drizzle-orm'
 import { db } from '@/lib/db'
 import { heritageItems } from '@/lib/db/schema'
-import { requireAuth, requireOwner, isAuthError } from '@/lib/api-utils'
+import { requireAuth, requireOwner, isAuthError, requireDb } from '@/lib/api-utils'
 import type { NewHeritageItem } from '@/lib/db/schema'
 
 // -----------------------------------------------------------------------------
@@ -20,14 +20,15 @@ export async function GET(
   _request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const { id } = await params
 
   try {
-    const item = await db.query.heritageItems.findFirst({
+    const item = await db!.query.heritageItems.findFirst({
       where: eq(heritageItems.id, id),
       with: {
         contributions: {
-          orderBy: (c, { desc }) => [desc(c.createdAt)],
+          orderBy: (c: Record<string, unknown>, { desc }: { desc: (col: unknown) => unknown }) => [desc(c.createdAt)],
         },
       },
     })
@@ -37,14 +38,12 @@ export async function GET(
     }
 
     // Groupement des contributions par type pour faciliter l'affichage
-    const contributionsByType = item.contributions.reduce<
-      Record<string, typeof item.contributions>
-    >((acc, contribution) => {
+    const contributionsByType: Record<string, unknown[]> = {}
+    for (const contribution of item.contributions) {
       const type = contribution.contributionType
-      if (!acc[type]) acc[type] = []
-      acc[type].push(contribution)
-      return acc
-    }, {})
+      if (!contributionsByType[type]) contributionsByType[type] = []
+      contributionsByType[type].push(contribution)
+    }
 
     return NextResponse.json({ ...item, contributionsByType })
   } catch {
@@ -64,13 +63,14 @@ export async function PATCH(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const { id } = await params
 
   const userOrError = await requireAuth()
   if (isAuthError(userOrError)) return userOrError
 
   try {
-    const existing = await db.query.heritageItems.findFirst({
+    const existing = await db!.query.heritageItems.findFirst({
       where: eq(heritageItems.id, id),
     })
 
@@ -83,7 +83,7 @@ export async function PATCH(
 
     const body = await request.json() as Partial<Omit<NewHeritageItem, 'id' | 'createdBy' | 'createdAt'>>
 
-    const [updated] = await db
+    const [updated] = await db!
       .update(heritageItems)
       .set({ ...body, updatedAt: new Date() })
       .where(eq(heritageItems.id, id))
@@ -107,13 +107,14 @@ export async function DELETE(
   _request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const { id } = await params
 
   const userOrError = await requireAuth()
   if (isAuthError(userOrError)) return userOrError
 
   try {
-    const existing = await db.query.heritageItems.findFirst({
+    const existing = await db!.query.heritageItems.findFirst({
       where: eq(heritageItems.id, id),
     })
 
@@ -125,7 +126,7 @@ export async function DELETE(
     if (ownerError) return ownerError
 
     // Les contributions sont supprimées en cascade (ON DELETE CASCADE en schéma)
-    await db.delete(heritageItems).where(eq(heritageItems.id, id))
+    await db!.delete(heritageItems).where(eq(heritageItems.id, id))
 
     return new NextResponse(null, { status: 204 })
   } catch {

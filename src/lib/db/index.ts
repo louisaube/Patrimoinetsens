@@ -1,20 +1,21 @@
 // =============================================================================
 // Client Drizzle ORM — Patrimoine & Sens
-// Intent : Connexion à Neon PostgreSQL via le driver serverless HTTP.
-//          Le mode HTTP est requis pour les Edge Functions et App Router Next.js.
-//          Exporte le client db utilisé par toutes les API routes.
+// Intent : Connexion à Neon PostgreSQL quand DATABASE_URL est défini.
+//          En dev local sans DATABASE_URL, exporte null — les hooks utilisent
+//          les données JSON statiques (public/data/) directement.
 // =============================================================================
 
-import { neon } from '@neondatabase/serverless'
-import { drizzle } from 'drizzle-orm/neon-http'
 import * as schema from './schema'
 
 const databaseUrl = process.env.DATABASE_URL
-if (!databaseUrl) {
-  throw new Error('DATABASE_URL est manquant dans les variables d\'environnement')
-}
 
-const sql = neon(databaseUrl)
-
-/** Instance Drizzle partagée avec le schéma complet. */
-export const db = drizzle(sql, { schema })
+/** Instance Drizzle — null si pas de DATABASE_URL (dev local JSON-only). */
+export const db = databaseUrl
+  ? (() => {
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const { neon } = require('@neondatabase/serverless')
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const { drizzle } = require('drizzle-orm/neon-http')
+      return drizzle(neon(databaseUrl), { schema })
+    })()
+  : null

@@ -8,7 +8,7 @@
 
 import { NextRequest, NextResponse } from 'next/server'
 import OpenAI from 'openai'
-import { requireAuth, isAuthError } from '@/lib/api-utils'
+import { requireAuth, isAuthError, requireDb } from '@/lib/api-utils'
 
 // Client OpenAI — initialisé à la demande (pas au module load pour éviter
 // les erreurs au build si OPENAI_API_KEY n'est pas encore définie)
@@ -27,6 +27,7 @@ function getOpenAI(): OpenAI {
 // -----------------------------------------------------------------------------
 
 export async function POST(request: NextRequest): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const userOrError = await requireAuth()
   if (isAuthError(userOrError)) return userOrError
 

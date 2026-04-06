@@ -1,9 +1,8 @@
 // =============================================================================
 // Configuration Auth.js v5 (next-auth@beta) — Patrimoine & Sens
 // Intent : Authentification via magic link email et OAuth Google.
-//          Le DrizzleAdapter persiste les sessions/comptes dans Neon PostgreSQL.
-//          Strategy JWT choisie pour simplicité MVP (pas de session DB lookup).
-//          Le callback session expose user.id côté client sans exposition d'infos sensibles.
+//          En dev local sans DATABASE_URL, l'adapter est désactivé (JWT-only).
+//          En prod, le DrizzleAdapter persiste dans Neon PostgreSQL.
 // =============================================================================
 
 import NextAuth from 'next-auth'
@@ -13,39 +12,51 @@ import Resend from 'next-auth/providers/resend'
 import { db } from '@/lib/db'
 import { users, accounts, sessions, verificationTokens } from '@/lib/db/schema'
 
-export const { handlers, auth, signIn, signOut } = NextAuth({
-  adapter: DrizzleAdapter(db, {
-    usersTable: users,
-    accountsTable: accounts,
-    sessionsTable: sessions,
-    verificationTokensTable: verificationTokens,
-  }),
+const adapter = db
+  ? DrizzleAdapter(db, {
+      usersTable: users,
+      accountsTable: accounts,
+      sessionsTable: sessions,
+      verificationTokensTable: verificationTokens,
+    })
+  : undefined
 
-  providers: [
+const providers = []
+
+// N'ajouter les providers que si les clés sont configurées
+if (process.env.AUTH_GOOGLE_ID && process.env.AUTH_GOOGLE_SECRET) {
+  providers.push(
     Google({
-      clientId: process.env.AUTH_GOOGLE_ID!,
-      clientSecret: process.env.AUTH_GOOGLE_SECRET!,
-    }),
+      clientId: process.env.AUTH_GOOGLE_ID,
+      clientSecret: process.env.AUTH_GOOGLE_SECRET,
+    })
+  )
+}
+
+if (process.env.AUTH_RESEND_KEY) {
+  providers.push(
     Resend({
       apiKey: process.env.AUTH_RESEND_KEY,
       from: process.env.EMAIL_FROM ?? 'noreply@patrimoine-sens.fr',
-    }),
-  ],
+    })
+  )
+}
+
+export const { handlers, auth, signIn, signOut } = NextAuth({
+  adapter,
+  providers,
 
   session: {
-    // JWT : pas de lookup DB à chaque requête — adapté au MVP
     strategy: 'jwt',
   },
 
   callbacks: {
-    // Injecte l'id utilisateur dans le token JWT
     jwt({ token, user }) {
       if (user?.id) {
         token.id = user.id
       }
       return token
     },
-    // Expose user.id dans la session côté client
     session({ session, token }) {
       if (token.id && typeof token.id === 'string') {
         session.user.id = token.id
@@ -54,5 +65,5 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
     },
   },
 
-  secret: process.env.AUTH_SECRET,
+  secret: process.env.AUTH_SECRET ?? 'dev-secret-patrimoine-sens-local',
 })

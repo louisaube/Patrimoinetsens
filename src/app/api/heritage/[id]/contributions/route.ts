@@ -9,7 +9,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { eq, desc } from 'drizzle-orm'
 import { db } from '@/lib/db'
 import { heritageItems, contributions } from '@/lib/db/schema'
-import { requireAuth, isAuthError } from '@/lib/api-utils'
+import { requireAuth, isAuthError, requireDb } from '@/lib/api-utils'
 import type { NewContribution } from '@/lib/db/schema'
 
 // -----------------------------------------------------------------------------
@@ -20,10 +20,11 @@ export async function GET(
   _request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const { id } = await params
 
   try {
-    const itemContributions = await db
+    const itemContributions = await db!
       .select()
       .from(contributions)
       .where(eq(contributions.heritageItemId, id))
@@ -47,6 +48,7 @@ export async function POST(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const { id } = await params
 
   const userOrError = await requireAuth()
@@ -54,7 +56,7 @@ export async function POST(
 
   try {
     // Vérification que l'item parent existe
-    const item = await db.query.heritageItems.findFirst({
+    const item = await db!.query.heritageItems.findFirst({
       where: eq(heritageItems.id, id),
     })
 
@@ -68,7 +70,7 @@ export async function POST(
       return NextResponse.json({ error: 'Le corps de la contribution est requis' }, { status: 400 })
     }
 
-    const [created] = await db
+    const [created] = await db!
       .insert(contributions)
       .values({
         ...body,

@@ -66,14 +66,14 @@ function NavItem({
       className={cn(
         "flex flex-col items-center gap-1 px-3 py-2 rounded-lg text-xs font-medium transition-all duration-200",
         active
-          ? "text-emerald-700"
-          : "text-stone-500 hover:text-stone-800"
+          ? "text-blue-800"
+          : "text-slate-500 hover:text-slate-800"
       )}
     >
       <Icon
         className={cn(
           "size-5 transition-colors",
-          active ? "text-emerald-700" : "text-stone-400"
+          active ? "text-blue-800" : "text-slate-400"
         )}
       />
       <span>{label}</span>
@@ -94,17 +94,17 @@ export default function MainLayout({
     : user?.email?.slice(0, 2).toUpperCase() ?? "U"
 
   return (
-    <div className="flex h-screen overflow-hidden bg-stone-50">
+    <div className="flex h-screen overflow-hidden bg-slate-50">
       <OfflineBanner />
       {/* Sidebar desktop */}
-      <aside className="hidden md:flex md:w-56 md:flex-col md:border-r md:border-stone-200 md:bg-white md:shadow-sm">
+      <aside className="hidden md:flex md:w-56 md:flex-col md:border-r md:border-slate-200 md:bg-white md:shadow-sm">
         {/* Logo */}
-        <div className="border-b border-stone-100 px-4 py-5">
+        <div className="border-b border-slate-100 px-4 py-5">
           <Link href="/" className="block">
-            <h1 className="font-serif text-lg font-bold text-stone-800 leading-tight">
+            <h1 className="font-serif text-lg font-bold text-slate-800 leading-tight">
               Patrimoine
             </h1>
-            <p className="font-serif text-lg font-bold text-emerald-700 leading-tight">
+            <p className="font-serif text-lg font-bold text-blue-800 leading-tight">
               &amp; Sens
             </p>
           </Link>
@@ -122,14 +122,14 @@ export default function MainLayout({
                 className={cn(
                   "flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-medium transition-all duration-200",
                   isActive
-                    ? "bg-emerald-50 text-emerald-800"
-                    : "text-stone-600 hover:bg-stone-50 hover:text-stone-900"
+                    ? "bg-blue-50 text-blue-900"
+                    : "text-slate-600 hover:bg-slate-50 hover:text-slate-900"
                 )}
               >
                 <item.icon
                   className={cn(
                     "size-4",
-                    isActive ? "text-emerald-700" : "text-stone-400"
+                    isActive ? "text-blue-800" : "text-slate-400"
                   )}
                 />
                 {item.label}
@@ -139,7 +139,7 @@ export default function MainLayout({
 
           {/* Séparateur + liens secondaires (desktop uniquement) */}
           <div className="pt-1">
-            <div className="my-1 h-px bg-stone-100" />
+            <div className="my-1 h-px bg-slate-100" />
             {(() => {
               const isActive = pathname.startsWith("/armorial")
               return (
@@ -148,12 +148,12 @@ export default function MainLayout({
                   className={cn(
                     "flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-medium transition-all duration-200",
                     isActive
-                      ? "bg-emerald-50 text-emerald-800"
-                      : "text-stone-600 hover:bg-stone-50 hover:text-stone-900"
+                      ? "bg-blue-50 text-blue-900"
+                      : "text-slate-600 hover:bg-slate-50 hover:text-slate-900"
                   )}
                 >
                   <Shield
-                    className={cn("size-4", isActive ? "text-emerald-700" : "text-stone-400")}
+                    className={cn("size-4", isActive ? "text-blue-800" : "text-slate-400")}
                   />
                   Armorial d&apos;Hozier
                 </Link>
@@ -168,11 +168,11 @@ export default function MainLayout({
                     "flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-medium transition-all duration-200",
                     isActive
                       ? "bg-red-50 text-red-800"
-                      : "text-stone-600 hover:bg-stone-50 hover:text-stone-900"
+                      : "text-slate-600 hover:bg-slate-50 hover:text-slate-900"
                   )}
                 >
                   <ClipboardList
-                    className={cn("size-4", isActive ? "text-red-600" : "text-stone-400")}
+                    className={cn("size-4", isActive ? "text-red-600" : "text-slate-400")}
                   />
                   Tous les signalements
                 </Link>
@@ -182,13 +182,13 @@ export default function MainLayout({
         </nav>
 
         {/* User section */}
-        <div className="border-t border-stone-100 p-3">
+        <div className="border-t border-slate-100 p-3">
           <DropdownMenu>
             <DropdownMenuTrigger asChild>
-              <button className="flex w-full items-center gap-3 rounded-lg px-3 py-2 text-sm text-stone-700 hover:bg-stone-50 transition-all">
+              <button className="flex w-full items-center gap-3 rounded-lg px-3 py-2 text-sm text-slate-700 hover:bg-slate-50 transition-all">
                 <Avatar className="size-7">
                   <AvatarImage src={user?.avatarUrl} alt={user?.name ?? ""} />
-                  <AvatarFallback className="bg-emerald-100 text-emerald-800 text-xs">
+                  <AvatarFallback className="bg-amber-100 text-amber-800 text-xs">
                     {userInitials}
                   </AvatarFallback>
                 </Avatar>
@@ -221,10 +221,10 @@ export default function MainLayout({
       {/* Zone principale */}
       <div className="flex flex-1 flex-col overflow-hidden">
         {/* Header mobile */}
-        <header className="flex items-center justify-between border-b border-stone-200 bg-white px-4 py-3 shadow-sm md:hidden">
+        <header className="flex items-center justify-between border-b border-slate-200 bg-white px-4 py-3 shadow-sm md:hidden">
           <Link href="/">
-            <h1 className="font-serif text-base font-bold text-stone-800">
-              Patrimoine <span className="text-emerald-700">&amp; Sens</span>
+            <h1 className="font-serif text-base font-bold text-slate-800">
+              Patrimoine <span className="text-blue-800">&amp; Sens</span>
             </h1>
           </Link>
 
@@ -233,7 +233,7 @@ export default function MainLayout({
               <button className="rounded-full focus:outline-none focus:ring-2 focus:ring-ring">
                 <Avatar className="size-8">
                   <AvatarImage src={user?.avatarUrl} alt={user?.name ?? ""} />
-                  <AvatarFallback className="bg-emerald-100 text-emerald-800 text-xs">
+                  <AvatarFallback className="bg-amber-100 text-amber-800 text-xs">
                     {userInitials}
                   </AvatarFallback>
                 </Avatar>
@@ -263,7 +263,7 @@ export default function MainLayout({
         <main className="flex-1 overflow-y-auto pb-20 md:pb-0">{children}</main>
 
         {/* Bottom nav mobile */}
-        <nav className="fixed bottom-0 inset-x-0 z-40 flex border-t border-stone-200 bg-white md:hidden">
+        <nav className="fixed bottom-0 inset-x-0 z-40 flex border-t border-slate-200 bg-white md:hidden">
           {NAV_ITEMS.map((item) => {
             const isActive =
               item.href === "/" ? pathname === "/" : pathname.startsWith(item.href)

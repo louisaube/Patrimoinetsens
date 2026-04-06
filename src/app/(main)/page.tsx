@@ -2,94 +2,74 @@
 
 import * as React from "react"
 import Link from "next/link"
-import { MapPin, PlusCircle, AlertTriangle, BookOpen, Mic, Heart, Eye } from "lucide-react"
+import Image from "next/image"
+import {
+  MapPin,
+  BookOpen,
+  Mic,
+  Shield,
+  Church,
+  Landmark,
+  ArrowRight,
+} from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
-import { Separator } from "@/components/ui/separator"
-import { categoryLabel, contributionTypeLabel, formatDate } from "@/lib/utils"
-import type { ContributionType, HeritageCategory } from "@/types"
+import annuaireData from "../../../public/armorial/annuaire.json"
 
-// ─── Données mock ────────────────────────────────────────────────────────────
+// ─── Vraies données ─────────────────────────────────────────────────────────
 
-const STATS = [
-  { label: "Éléments documentés", value: 47 },
-  { label: "Contributions", value: 213 },
-  { label: "Signalements", value: 12 },
-]
-
-const CTA_CARDS = [
-  {
-    href: "/map",
-    icon: MapPin,
-    title: "Explorer la carte",
-    description: "Découvrez le patrimoine géolocalisé de Sens et ses environs.",
-    color: "bg-emerald-50 text-emerald-700",
-    iconBg: "bg-emerald-100",
-  },
-  {
-    href: "/heritage/new",
-    icon: PlusCircle,
-    title: "Documenter un élément",
-    description: "Créez une fiche pour un édifice, monument ou élément naturel.",
-    color: "bg-amber-50 text-amber-800",
-    iconBg: "bg-amber-100",
-  },
-  {
-    href: "/report",
-    icon: AlertTriangle,
-    title: "Signaler un problème",
-    description: "Dégradation, danger, disparition — signalez en deux clics.",
-    color: "bg-red-50 text-red-700",
-    iconBg: "bg-red-100",
-  },
-]
-
-const RECENT_CONTRIBUTIONS: Array<{
-  id: string
-  type: ContributionType
-  body: string
-  authorName: string
-  heritageTitle: string
-  heritageCategory: HeritageCategory
-  createdAt: string
-}> = [
-  {
-    id: "1",
-    type: "historique",
-    body: "La cathédrale Saint-Étienne de Sens est l'une des premières cathédrales gothiques de France, dont la construction débuta vers 1135 sous l'archevêque Henri le Sanglier.",
-    authorName: "Denis Moreau",
-    heritageTitle: "Cathédrale Saint-Étienne",
-    heritageCategory: "edifice_religieux",
-    createdAt: "2026-03-28T10:30:00Z",
-  },
-  {
-    id: "2",
-    type: "temoignage",
-    body: "J'ai photographié les vitraux de la nef centrale lors de la restauration de 2019. Les couleurs sont saisissantes au soleil couchant.",
-    authorName: "Marie Dupont",
-    heritageTitle: "Cathédrale Saint-Étienne",
-    heritageCategory: "edifice_religieux",
-    createdAt: "2026-03-26T14:00:00Z",
-  },
-  {
-    id: "3",
-    type: "recit",
-    body: "On raconte que Thomas Becket, archevêque de Canterbury, trouva refuge à Sens après son exil en 1164. La ville lui ouvrit ses portes et ses caves !",
-    authorName: "Bernard Leclerc",
-    heritageTitle: "Palais synodal",
-    heritageCategory: "batiment_historique",
-    createdAt: "2026-03-25T09:15:00Z",
-  },
-]
-
-const CONTRIBUTION_ICONS: Record<ContributionType, React.FC<{ className?: string }>> = {
-  historique: BookOpen,
-  recit: Mic,
-  temoignage: Heart,
-  observation: Eye,
+const STATS = {
+  heritageItems: 71,
+  contributions: 56,
+  blasons: annuaireData.entries.length,
 }
 
-// ─── Composant AnimatedCounter ───────────────────────────────────────────────
+/** Contributions réelles tirées du seed (Denis, Bernard) */
+const HIGHLIGHTS = [
+  {
+    id: "cathedrale",
+    title: "Cathédrale Saint-Étienne",
+    category: "Édifice religieux",
+    period: "1135 — 1534",
+    icon: Church,
+    excerpt:
+      "On dit souvent que Sens est « la première cathédrale gothique ». La réalité est plus intéressante : les travaux ont démarré vers 1135, le chœur a été consacré en 1164 en présence du pape Alexandre III.",
+    author: "Denis Cailleaux",
+    type: "historique" as const,
+  },
+  {
+    id: "becket",
+    title: "Thomas Becket à Sens",
+    category: "Récit",
+    period: "1164 — 1170",
+    icon: Mic,
+    excerpt:
+      "En 1164, Thomas Becket, archevêque de Canterbury, s'enfuit d'Angleterre. Il se réfugie à Sens, protégé par le pape. Pendant six ans, il prie chaque matin dans la cathédrale avant le lever du jour.",
+    author: "Bernard Brousse",
+    type: "recit" as const,
+  },
+  {
+    id: "palais",
+    title: "Palais synodal",
+    category: "Bâtiment historique",
+    period: "XIIIe siècle",
+    icon: Landmark,
+    excerpt:
+      "Au XIIIe siècle, l'archevêque de Sens — primat des Gaules — commande un palais digne de son rang. La salle synodale, où se réunissaient les évêques des sept diocèses, est l'une des plus belles salles civiles du Moyen Âge.",
+    author: "Denis Cailleaux",
+    type: "historique" as const,
+  },
+]
+
+/** 4 blasons aléatoires pour la vitrine armorial */
+const FEATURED_BLASONS = [0, 6, 33, 52].map((i) => annuaireData.entries[i])
+
+const TYPE_COLORS = {
+  historique: "bg-blue-100 text-blue-800",
+  recit: "bg-amber-100 text-amber-800",
+}
+
+// ─── Composant AnimatedCounter ──────────────────────────────────────────────
 
 function AnimatedCounter({ target }: { target: number }) {
   const [count, setCount] = React.useState(0)
@@ -120,33 +100,46 @@ function AnimatedCounter({ target }: { target: number }) {
   return <span ref={ref}>{count.toLocaleString("fr-FR")}</span>
 }
 
-// ─── Page ────────────────────────────────────────────────────────────────────
+// ─── Page ───────────────────────────────────────────────────────────────────
 
 export default function HomePage() {
   return (
-    <div className="mx-auto max-w-3xl px-4 py-8 space-y-10">
-      {/* Hero */}
-      <section className="text-center space-y-3 pt-4">
-        <h1 className="font-serif text-3xl font-bold text-stone-800 leading-tight sm:text-4xl">
-          Patrimoine <span className="text-emerald-700">&amp; Sens</span>
+    <div className="mx-auto max-w-4xl px-4 py-8 space-y-12">
+      {/* ── Hero ── */}
+      <section className="text-center space-y-4 pt-6">
+        <div className="inline-flex items-center gap-2 text-xs text-slate-500 bg-white border border-slate-200 rounded-full px-3 py-1">
+          <span className="size-2 rounded-full bg-amber-400" />
+          Sens, Yonne · Primat des Gaules
+        </div>
+        <h1 className="font-serif text-4xl font-bold text-slate-900 leading-tight sm:text-5xl tracking-tight">
+          Patrimoine{" "}
+          <span className="text-blue-800">&amp;&nbsp;Sens</span>
         </h1>
-        <p className="text-stone-500 text-base sm:text-lg max-w-xl mx-auto">
-          Documentez et protégez le patrimoine local — bâtiments historiques,
-          édifices religieux, mobilier urbain, patrimoine naturel.
+        <p className="text-slate-500 text-base sm:text-lg max-w-2xl mx-auto leading-relaxed">
+          L&apos;encyclopédie vivante du patrimoine sénonais.
+          Cathédrale gothique, maisons à colombages, remparts gallo-romains,
+          101&nbsp;blasons de 1696 — documentés, géolocalisés, racontés.
         </p>
       </section>
 
-      {/* Compteurs */}
+      {/* ── Compteurs ── */}
       <section>
         <div className="grid grid-cols-3 gap-4">
-          {STATS.map((stat) => (
-            <Card key={stat.label} className="bg-white border-stone-100 shadow-sm text-center">
+          {[
+            { label: "Éléments patrimoniaux", value: STATS.heritageItems, sub: "documentés" },
+            { label: "Contributions", value: STATS.contributions, sub: "d'historiens et passionnés" },
+            { label: "Blasons d'Hozier", value: STATS.blasons, sub: "Élection de Sens, 1696" },
+          ].map((stat) => (
+            <Card key={stat.label} className="bg-white border-slate-200 shadow-sm text-center">
               <CardContent className="py-5 px-3">
-                <p className="font-serif text-3xl font-bold text-emerald-700">
+                <p className="font-serif text-3xl font-bold text-blue-800">
                   <AnimatedCounter target={stat.value} />
                 </p>
-                <p className="mt-1 text-xs text-stone-500 leading-tight">
+                <p className="mt-1 text-xs text-slate-600 leading-tight font-medium">
                   {stat.label}
+                </p>
+                <p className="mt-0.5 text-[10px] text-slate-400">
+                  {stat.sub}
                 </p>
               </CardContent>
             </Card>
@@ -154,101 +147,198 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* CTA */}
+      {/* ── Navigation rapide ── */}
+      <section className="grid grid-cols-1 gap-3 sm:grid-cols-3">
+        <Link href="/map">
+          <Card className="bg-blue-50 border-blue-200 hover:border-blue-300 hover:shadow-md transition-all h-full cursor-pointer group">
+            <CardContent className="flex items-center gap-4 p-5">
+              <div className="flex size-10 items-center justify-center rounded-lg bg-blue-100">
+                <MapPin className="size-5 text-blue-800" />
+              </div>
+              <div>
+                <h3 className="font-semibold text-blue-900 text-sm group-hover:underline">
+                  Explorer la carte
+                </h3>
+                <p className="text-xs text-blue-700/70">
+                  71 éléments géolocalisés
+                </p>
+              </div>
+            </CardContent>
+          </Card>
+        </Link>
+        <Link href="/armorial">
+          <Card className="bg-amber-50 border-amber-200 hover:border-amber-300 hover:shadow-md transition-all h-full cursor-pointer group">
+            <CardContent className="flex items-center gap-4 p-5">
+              <div className="flex size-10 items-center justify-center rounded-lg bg-amber-100">
+                <Shield className="size-5 text-amber-700" />
+              </div>
+              <div>
+                <h3 className="font-semibold text-amber-900 text-sm group-hover:underline">
+                  Armorial d&apos;Hozier
+                </h3>
+                <p className="text-xs text-amber-700/70">
+                  101 blasons de 1696
+                </p>
+              </div>
+            </CardContent>
+          </Card>
+        </Link>
+        <Link href="/report">
+          <Card className="bg-white border-slate-200 hover:border-slate-300 hover:shadow-md transition-all h-full cursor-pointer group">
+            <CardContent className="flex items-center gap-4 p-5">
+              <div className="flex size-10 items-center justify-center rounded-lg bg-slate-100">
+                <BookOpen className="size-5 text-slate-600" />
+              </div>
+              <div>
+                <h3 className="font-semibold text-slate-800 text-sm group-hover:underline">
+                  Contribuer
+                </h3>
+                <p className="text-xs text-slate-500">
+                  Signaler, documenter, raconter
+                </p>
+              </div>
+            </CardContent>
+          </Card>
+        </Link>
+      </section>
+
+      {/* ── Vitrine : contributions réelles ── */}
       <section>
-        <h2 className="font-serif text-xl font-semibold text-stone-700 mb-4">
-          Que souhaitez-vous faire ?
-        </h2>
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
-          {CTA_CARDS.map((card) => (
-            <Link key={card.href} href={card.href}>
-              <Card className="bg-white border-stone-100 shadow-sm hover:shadow-md transition-all duration-200 h-full cursor-pointer group">
-                <CardContent className="flex flex-col gap-3 p-5 h-full">
-                  <div className={`flex size-10 items-center justify-center rounded-lg ${card.iconBg}`}>
-                    <card.icon className={`size-5 ${card.color.split(" ")[1]}`} />
+        <div className="flex items-center justify-between mb-5">
+          <h2 className="font-serif text-2xl font-bold text-slate-800">
+            À la une
+          </h2>
+          <Link
+            href="/map"
+            className="text-sm text-blue-800 hover:underline font-medium flex items-center gap-1"
+          >
+            Tout explorer <ArrowRight className="size-3.5" />
+          </Link>
+        </div>
+
+        <div className="space-y-4">
+          {HIGHLIGHTS.map((item) => (
+            <Card
+              key={item.id}
+              className="bg-white border-slate-200 shadow-sm hover:shadow-md transition-all"
+            >
+              <CardContent className="p-5">
+                <div className="flex items-start gap-4">
+                  <div className="flex size-10 shrink-0 items-center justify-center rounded-lg bg-slate-100 mt-0.5">
+                    <item.icon className="size-5 text-slate-600" />
                   </div>
-                  <div>
-                    <h3 className="font-semibold text-stone-800 text-sm group-hover:text-emerald-800 transition-colors">
-                      {card.title}
-                    </h3>
-                    <p className="mt-1 text-xs text-stone-500 leading-relaxed">
-                      {card.description}
+                  <div className="flex-1 min-w-0">
+                    <div className="flex flex-wrap items-center gap-2 mb-2">
+                      <h3 className="text-base font-semibold text-slate-800">
+                        {item.title}
+                      </h3>
+                      <Badge variant="outline" className="text-xs">
+                        {item.category}
+                      </Badge>
+                      <Badge className={`text-xs ${TYPE_COLORS[item.type]}`}>
+                        {item.type === "historique" ? "Historique" : "Récit"}
+                      </Badge>
+                      <span className="text-xs text-slate-400 ml-auto">
+                        {item.period}
+                      </span>
+                    </div>
+                    <p className="text-sm text-slate-600 leading-relaxed">
+                      {item.excerpt}
+                    </p>
+                    <p className="mt-2 text-xs text-slate-400">
+                      Par{" "}
+                      <span className="font-medium text-slate-500">
+                        {item.author}
+                      </span>
                     </p>
                   </div>
-                </CardContent>
-              </Card>
+                </div>
+              </CardContent>
+            </Card>
+          ))}
+        </div>
+      </section>
+
+      {/* ── Vitrine Armorial ── */}
+      <section className="rounded-xl bg-gradient-to-br from-slate-800 to-blue-900 p-6 sm:p-8">
+        <div className="flex items-center justify-between mb-5">
+          <div>
+            <h2 className="font-serif text-2xl font-bold text-white">
+              Armorial d&apos;Hozier
+            </h2>
+            <p className="text-sm text-blue-200 mt-1">
+              Élection de Sens · 101 blasons · 1696
+            </p>
+          </div>
+          <Link
+            href="/armorial"
+            className="text-sm text-amber-300 hover:text-amber-200 font-medium flex items-center gap-1"
+          >
+            Voir tout <ArrowRight className="size-3.5" />
+          </Link>
+        </div>
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
+          {FEATURED_BLASONS.map((blason) => (
+            <Link
+              key={blason.image}
+              href="/armorial"
+              className="group"
+            >
+              <div className="rounded-lg overflow-hidden bg-white/10 border border-white/20 hover:border-amber-400/50 transition-all">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
+                  src={`/armorial/blasons/${encodeURIComponent(blason.image)}`}
+                  alt={`Blason de ${blason.nom}`}
+                  className="w-full aspect-square object-contain p-3 bg-stone-50/90"
+                  loading="lazy"
+                />
+                <div className="p-2.5 bg-slate-900/50">
+                  <p className="text-xs text-white font-medium truncate">
+                    {blason.nom}
+                  </p>
+                  <p className="text-[10px] text-blue-300 truncate">
+                    {blason.titre}
+                  </p>
+                </div>
+              </div>
             </Link>
           ))}
         </div>
       </section>
 
-      <Separator />
-
-      {/* Dernières contributions */}
-      <section>
-        <div className="flex items-center justify-between mb-4">
-          <h2 className="font-serif text-xl font-semibold text-stone-700">
-            Dernières contributions
-          </h2>
-          <Link
-            href="/map"
-            className="text-sm text-emerald-700 hover:underline font-medium"
-          >
-            Tout explorer →
-          </Link>
-        </div>
-
-        <div className="space-y-3">
-          {RECENT_CONTRIBUTIONS.map((contribution) => {
-            const Icon = CONTRIBUTION_ICONS[contribution.type]
-            return (
-              <Card
-                key={contribution.id}
-                className="bg-white border-stone-100 shadow-sm hover:shadow-md transition-all duration-200"
-              >
-                <CardContent className="p-4">
-                  <div className="flex items-start gap-3">
-                    <div className="flex size-8 shrink-0 items-center justify-center rounded-full bg-stone-100 mt-0.5">
-                      <Icon className="size-4 text-stone-500" />
-                    </div>
-                    <div className="flex-1 min-w-0">
-                      <div className="flex flex-wrap items-center gap-2 mb-1">
-                        <Link
-                          href={`/heritage/1`}
-                          className="text-sm font-medium text-stone-800 hover:text-emerald-700 truncate"
-                        >
-                          {contribution.heritageTitle}
-                        </Link>
-                        <Badge variant="outline" className="text-xs shrink-0">
-                          {categoryLabel(contribution.heritageCategory)}
-                        </Badge>
-                        <Badge variant="secondary" className="text-xs shrink-0">
-                          {contributionTypeLabel(contribution.type)}
-                        </Badge>
-                      </div>
-                      <p className="text-sm text-stone-600 line-clamp-2">
-                        {contribution.body}
-                      </p>
-                      <p className="mt-1.5 text-xs text-stone-400">
-                        Par{" "}
-                        <span className="font-medium text-stone-500">
-                          {contribution.authorName}
-                        </span>{" "}
-                        · {formatDate(contribution.createdAt)}
-                      </p>
-                    </div>
-                  </div>
-                </CardContent>
-              </Card>
-            )
-          })}
+      {/* ── Contexte historique ── */}
+      <section className="rounded-xl bg-amber-50 border border-amber-200 p-6">
+        <h2 className="font-serif text-xl font-bold text-amber-900 mb-3">
+          Pourquoi Sens ?
+        </h2>
+        <div className="text-sm text-amber-800 leading-relaxed space-y-3">
+          <p>
+            Sens est une ville qu&apos;on sous-estime. Au Moyen Âge, son archevêque
+            était le <strong>Primat des Gaules</strong> — il avait autorité
+            sur Paris, Chartres, Meaux, Orléans, Auxerre, Nevers et Troyes.
+          </p>
+          <p>
+            Sa cathédrale (1135) est l&apos;un des tout premiers édifices gothiques.
+            Un pape y a vécu. Thomas Becket y a trouvé refuge.
+            71&nbsp;monuments sont classés ou inscrits.
+          </p>
+          <p>
+            <strong>Patrimoine &amp; Sens</strong> réunit historiens, passionnés
+            et habitants pour documenter ce patrimoine — avec rigueur, mais
+            accessible à tous.
+          </p>
         </div>
       </section>
 
-      {/* Pied de page léger */}
-      <div className="pb-4 text-center text-xs text-stone-400">
-        Patrimoine &amp; Sens — Sens, Yonne · Association patrimoniale locale
-      </div>
+      {/* ── Footer ── */}
+      <footer className="pb-4 text-center space-y-1">
+        <p className="text-xs text-slate-400">
+          Patrimoine &amp; Sens — Sens, Yonne
+        </p>
+        <p className="text-[10px] text-slate-300">
+          Sources : Gallica/BnF · Mérimée · Rietstap · Sigilla IRHT/CNRS · Brousse 2024
+        </p>
+      </footer>
     </div>
   )
 }

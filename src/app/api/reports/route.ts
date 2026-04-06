@@ -9,7 +9,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { desc, eq, and } from 'drizzle-orm'
 import { db } from '@/lib/db'
 import { reports } from '@/lib/db/schema'
-import { requireAuth, isAuthError } from '@/lib/api-utils'
+import { requireAuth, isAuthError, requireDb } from '@/lib/api-utils'
 import type { NewReport, Report } from '@/lib/db/schema'
 import type { SQL } from 'drizzle-orm'
 
@@ -20,6 +20,7 @@ import type { SQL } from 'drizzle-orm'
 // -----------------------------------------------------------------------------
 
 export async function GET(request: NextRequest): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   try {
     const { searchParams } = request.nextUrl
     const status = searchParams.get('status')
@@ -30,7 +31,7 @@ export async function GET(request: NextRequest): Promise<NextResponse> {
     if (status) conditions.push(eq(reports.status, status as Report['status']))
     if (severity) conditions.push(eq(reports.severity, severity as Report['severity']))
 
-    const allReports = await db
+    const allReports = await db!
       .select()
       .from(reports)
       .where(conditions.length > 0 ? and(...conditions) : undefined)
@@ -51,6 +52,7 @@ export async function GET(request: NextRequest): Promise<NextResponse> {
 // -----------------------------------------------------------------------------
 
 export async function POST(request: NextRequest): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const userOrError = await requireAuth()
   if (isAuthError(userOrError)) return userOrError
 
@@ -64,7 +66,7 @@ export async function POST(request: NextRequest): Promise<NextResponse> {
       return NextResponse.json({ error: 'Les coordonnées GPS sont requises' }, { status: 400 })
     }
 
-    const [created] = await db
+    const [created] = await db!
       .insert(reports)
       .values({
         ...body,

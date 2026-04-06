@@ -956,4 +956,21 @@ export const seedHeritageItems = [
     periodStart: 1754,
     periodEnd: 1824,
   },
+  // =========================================================================
+  // Item 73 — Numismatique gauloise : les potins des Sénons
+  // =========================================================================
+
+  // 73. Potins des Sénons — monnaies gauloises d'Agedincum (IIe-Ier s. av. J.-C.)
+  {
+    id: 'e5555555-0073-0073-0073-000000000073',
+    createdBy: DENIS,
+    title: 'Potins des Sénons — monnaies gauloises de Sens',
+    category: 'autre' as const,
+    status: 'publie' as const,
+    latitude: 48.1977,
+    longitude: 3.2837,
+    coverPhotoUrl: '/images/potins/tete-indien-avers.jpg',
+    periodStart: -200,
+    periodEnd: -52,
+  },
 ] as const

@@ -96,7 +96,7 @@ export default function ReportDetailPage({
     return (
       <div className="mx-auto max-w-xl px-4 py-10 text-center">
         <p className="text-stone-500">Signalement introuvable.</p>
-        <Link href="/reports" className="mt-4 inline-block text-sm text-emerald-700 hover:underline">
+        <Link href="/reports" className="mt-4 inline-block text-sm text-blue-800 hover:underline">
           ← Retour aux signalements
         </Link>
       </div>
@@ -176,7 +176,7 @@ export default function ReportDetailPage({
           <p className="text-xs text-stone-400 mb-1">Élément concerné</p>
           <Link
             href={`/heritage/${report.heritageItemId}`}
-            className="text-sm text-emerald-700 hover:underline font-medium"
+            className="text-sm text-blue-800 hover:underline font-medium"
           >
             Voir la fiche patrimoniale →
           </Link>
@@ -201,7 +201,7 @@ export default function ReportDetailPage({
                       ["en_cours", "resolu"].includes(report.status) && i === 1
                         ? "bg-amber-300"
                         : report.status === "resolu" && i === 2
-                        ? "bg-emerald-300"
+                        ? "bg-blue-300"
                         : "bg-stone-200"
                     )}
                   />
@@ -210,7 +210,7 @@ export default function ReportDetailPage({
                   className={cn(
                     "px-2 py-0.5 rounded-full font-medium transition-colors",
                     report.status === step
-                      ? "bg-emerald-100 text-emerald-800"
+                      ? "bg-blue-100 text-blue-900"
                       : ["en_cours", "resolu"].includes(report.status) &&
                         step === "soumis"
                       ? "text-stone-400 line-through"
@@ -234,14 +234,14 @@ export default function ReportDetailPage({
               {updating ? (
                 <Loader2 className="size-4 animate-spin" />
               ) : (
-                <CheckCircle2 className="size-4 text-emerald-600" />
+                <CheckCircle2 className="size-4 text-blue-700" />
               )}
               {TRANSITION_LABELS[nextStatus]}
             </Button>
           )}
 
           {report.status === "resolu" && (
-            <p className="text-sm text-emerald-700 flex items-center gap-2">
+            <p className="text-sm text-blue-800 flex items-center gap-2">
               <CheckCircle2 className="size-4" />
               Ce signalement est marqué comme résolu. Merci !
             </p>

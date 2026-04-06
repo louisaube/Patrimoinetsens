@@ -24,7 +24,7 @@ export default function OfflinePage() {
       <div className="flex flex-col gap-3 sm:flex-row">
         <Link
           href="/map"
-          className="inline-flex items-center gap-2 rounded-xl bg-emerald-700 px-5 py-3 text-sm font-medium text-white hover:bg-emerald-800 transition-colors"
+          className="inline-flex items-center gap-2 rounded-xl bg-blue-800 px-5 py-3 text-sm font-medium text-white hover:bg-blue-900 transition-colors"
         >
           <MapPin className="size-4" />
           Carte (hors-ligne)

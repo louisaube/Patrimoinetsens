@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Agedincum — plan romain (Ier-IVe s. ap. J.-C.)",
+    "sources": [
+      "Wikipedia — Agedincum (ville romaine)",
+      "Gallia — Sens/Agedincum, cité des Sénons (OpenEdition)",
+      "agendicum.over-blog.com — Le Forum de Sens",
+      "Bourgogne médiévale — Sens"
+    ],
+    "note": "Tracés approximatifs basés sur les données archéologiques publiées. Les coordonnées sont indicatives."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Decumanus maximus",
+        "type": "axe",
+        "description": "Axe est-ouest principal — correspond à la Grande Rue actuelle",
+        "period": "Ier s. ap. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [3.2750, 48.1977],
+          [3.2837, 48.1977],
+          [3.2920, 48.1977]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cardo maximus",
+        "type": "axe",
+        "description": "Axe nord-sud principal — correspond à la rue Beaurepaire / rue de la République",
+        "period": "Ier s. ap. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [3.2837, 48.2020],
+          [3.2837, 48.1977],
+          [3.2837, 48.1935]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Forum",
+        "type": "monument",
+        "description": "Ensemble monumental 210 m × 120 m — entre Grande Rue (decumanus) et rue Charles-Leclerc, rue Beaurepaire (cardo) et quai Jean Moulin. Temple, place à portiques, basilique-curie.",
+        "period": "Ier-IIe s. ap. J.-C."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [3.2815, 48.1970],
+          [3.2860, 48.1970],
+          [3.2860, 48.1985],
+          [3.2815, 48.1985],
+          [3.2815, 48.1970]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amphithéâtre",
+        "type": "monument",
+        "description": "Amphithéâtre romain — secteur sud-est de la ville antique",
+        "period": "IIe s. ap. J.-C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2880, 48.1955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thermes",
+        "type": "monument",
+        "description": "Bains publics romains avec hypocaustes — sculptures variées retrouvées",
+        "period": "Ier-IIIe s. ap. J.-C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2850, 48.1965]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aqueduc de la Vanne",
+        "type": "infrastructure",
+        "description": "Aqueduc de 16 km amenant l'eau de la vallée de la Vanne — IIe s.",
+        "period": "IIe s. ap. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [3.3300, 48.1800],
+          [3.3150, 48.1850],
+          [3.3000, 48.1900],
+          [3.2900, 48.1940],
+          [3.2850, 48.1960]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Castrum (enceinte du Bas-Empire)",
+        "type": "enceinte",
+        "description": "Enceinte fortifiée de ~25 ha, périmètre de 3 km. Opus mixtum avec arases de briques. Correspond à l'enceinte médiévale (forme ovoïde dite 'l'Amande'). Tour de la Brèche encore visible.",
+        "period": "IIIe-IVe s. ap. J.-C."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [3.2780, 48.1960],
+          [3.2800, 48.1945],
+          [3.2830, 48.1938],
+          [3.2870, 48.1940],
+          [3.2900, 48.1950],
+          [3.2910, 48.1965],
+          [3.2905, 48.1985],
+          [3.2890, 48.2000],
+          [3.2860, 48.2010],
+          [3.2830, 48.2015],
+          [3.2800, 48.2010],
+          [3.2785, 48.1995],
+          [3.2775, 48.1980],
+          [3.2780, 48.1960]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Motte du Ciar / Champ de César",
+        "type": "monument",
+        "description": "Complexe religieux suburbain au sud de la Vanne. Rectangle 386 m × 198 m + demi-cercle 221 m × 170 m.",
+        "period": "Ier-IIIe s. ap. J.-C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2850, 48.1890]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porte Saint-Didier (cardo nord)",
+        "type": "porte",
+        "description": "Porte nord sur le cardo maximus",
+        "period": "IIIe s. ap. J.-C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2837, 48.2015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porte d'Yonne (decumanus ouest)",
+        "type": "porte",
+        "description": "Porte ouest sur le decumanus — avec la Grosse Tour",
+        "period": "IIIe s. ap. J.-C."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2770, 48.1977]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Voie de l'Océan (Strabon)",
+        "type": "voie",
+        "description": "Voie commerciale majeure mentionnée par Strabon — axe nord-est structurant le nouveau plan urbain",
+        "period": "Ier s. av. J.-C."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [3.2700, 48.1950],
+          [3.2837, 48.1977],
+          [3.3000, 48.2020]
+        ]
+      }
+    }
+  ]
+}

@@ -266,7 +266,7 @@ export function AudioRecorder({ onTranscription, className }: AudioRecorderProps
             )}
 
             {transcribed && (
-              <span className="flex items-center gap-1.5 text-xs text-emerald-700 font-medium">
+              <span className="flex items-center gap-1.5 text-xs text-blue-800 font-medium">
                 <CheckCircle2 className="size-4" />
                 Transcrit — texte inséré ci-dessous
               </span>

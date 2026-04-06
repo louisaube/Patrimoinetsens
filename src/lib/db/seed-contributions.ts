@@ -916,4 +916,60 @@ export const seedContributions = [
     audioUrl: null,
   },
 
+  // =========================================================================
+  // POTINS DES SÉNONS (item 73) — monnaies gauloises, 3 contributions
+  // =========================================================================
+
+  // Denis / Potins — historique (catalogue numismatique)
+  {
+    id: 'f6666666-0073-0073-0073-000000000001',
+    heritageItemId: 'e5555555-0073-0073-0073-000000000073',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: 'Les potins des Sénons : catalogue et classification',
+    body: "Les Sénons, peuple gaulois dont la capitale était Agedincum (Sens), ont produit des monnaies coulées en alliage de bronze riche en étain entre le IIe et le Ier siècle avant notre ère. Ces « potins » étaient fabriqués par coulée en chapelet : le métal fondu était versé dans des moules en grappe, ce qui produisait plusieurs monnaies d'un coup. Le « penon de coulée » visible sur le flan est la cicatrice de ce procédé.\n\nDix types principaux sont identifiés. Le plus courant est le potin « à la tête d'indien » (DT 2640-2641 / LT 7417), dont 347 exemplaires ont été étudiés pour la seule classe I. Il pèse en moyenne 4,04 g pour 18 mm de diamètre. L'avers montre une tête stylisée à droite avec six mèches globulées ; le revers un cheval passant à gauche.\n\nLes autres types incluent : la variante au torque (LT 7417 var., exemplaire unique connu), la variante au sanglier-enseigne (DT 2645 / LT 7445), le potin à la grosse tête casquée (DT 2646 / LT 7396), le potin à la tête casquée et à la rosace (DT 150 / LT 7388), le potin à la tête casquée et au taureau à queue ondulée (DT.S 3209 A / PC 26), et le potin à la tête casquée et à l'annelet pointé (DT 2651 / LT 7447).\n\nDeux bronzes frappés (et non coulés) complètent la série : le bronze YLLYCCI à l'oiseau (LT 7493), très abondant en 11 classes stylistiques, et le rare bronze SIINV à l'oiseau (DT 2633 / LT 7552). YLLYCCI et SIINV sont probablement des noms de magistrats ou de chefs — les seules inscriptions monétaires gauloises connues pour les Sénons.\n\nL'analyse métallique de la classe I « tête d'indien » donne : cuivre 78-82 %, étain 12-21 % (variable), plomb 0,1-4,7 %. Cette composition est caractéristique des potins gaulois de l'est de la Gaule.",
+    sources: [
+      'Delestrée, L.-P. et Tache, M. Nouvel Atlas des monnaies gauloises (DT), Paris, 2002-2007.',
+      'La Tour, H. de. Atlas de monnaies gauloises (LT), Paris, 1892 (réédition Poncet 2020).',
+      'Catalogue en ligne CGBfr — archives gauloises : cgb.fr/archive,gauloises.html.',
+      'Numista — catalogue Sénons : numista.com/catalogue/senons_gaule-1.html.',
+    ],
+    furtherReading: "L'attribution tribale des potins reste débattue : le même type (« au taureau et au lys ») circule chez les Sénons, les Tricasses (Troyes) et les Lingons. La numismatique gauloise raisonne en zones de circulation plutôt qu'en émetteurs uniques. Le type « à la tête casquée et au taureau » (dit « au casque cimmérien ») est attribué tantôt aux Sénons, tantôt aux Tricasses par H. Patat. Pour une cartographie des trouvailles, consulter les Bulletins de la Société Archéologique de Sens et le Gallia (OpenEdition). Les ~200 nécropoles protohistoriques du Sénonais (Âge du Bronze final → La Tène finale) ont été complétées par les fouilles de l'autoroute A5. Le numismate professionnel « Aux Potins Senons » (51 rue Émile Zola, Sens) conserve une expertise locale précieuse.",
+    period: 'IIe–Ier s. av. J.-C.',
+    audioUrl: null,
+  },
+  // Denis / Potins — historique (territoire et circulation)
+  {
+    id: 'f6666666-0073-0073-0073-000000000002',
+    heritageItemId: 'e5555555-0073-0073-0073-000000000073',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: 'Agedincum et le territoire monétaire des Sénons',
+    body: "Le territoire des Sénons au Ier siècle avant notre ère couvrait les actuels départements de l'Yonne et du sud de la Seine-et-Marne, avec des extensions dans le Loiret, l'Essonne, la Marne et l'Aube. Leur capitale, Agedincum (Sens), occupait une position stratégique au carrefour des vallées de l'Yonne et de la Seine, facilitant le commerce entre les zones nord-alpines et atlantiques.\n\nCésar mentionne trois oppida sénons dans la Guerre des Gaules : Agedincum (Sens), Metlosedum (Melun ?) et Vellaunodunum (Montargis ou Château-Landon ?). En 53 av. J.-C., il a hiverné six légions à Agedincum. Le grand sanctuaire de Villeneuve-aux-Châtelots (Aube) et les fouilles de Saint-Valérien (Yonne) complètent le tableau d'un peuple organisé.\n\nLa circulation des potins ne respecte pas les frontières politiques. Certains types circulent à la frontière entre Sénons et Tricasses, avec la Seine et la Bassée comme axe principal. Le potin « au taureau et au lys » en est l'exemple : B. Foucray a suggéré qu'il provient « du cœur d'un territoire chevauchant les marges des Sénons et des Tricasses ». Cette fluidité monétaire reflète la réalité des échanges commerciaux gaulois.",
+    sources: [
+      'César. La Guerre des Gaules, VII, 10-11 (Agedincum, Vellaunodunum).',
+      'Gallia — "Sens/Agedincum, cité des Sénons" : journals.openedition.org/gallia/1546.',
+      'Cairn.info — "Les limites de la cité gallo-romaine des Sénons", Hypothèses 2005/1.',
+      'OpenEdition Books — Nécropoles protohistoriques du Sénonais.',
+    ],
+    furtherReading: "Des fouilles récentes de l'Inrap à Saint-Valérien ont révélé un ensemble religieux inédit de la cité des Sénons. L'urbanisation romaine d'Agedincum couvrait environ 110 ha avec un quadrillage régulier. L'Arbre Celtique (arbre-celtique.com) et le site agendicum.over-blog.com documentent l'archéologie sénonaise de manière accessible.",
+    period: 'IIe–Ier s. av. J.-C.',
+    audioUrl: null,
+  },
+  // Bernard / Potins — récit (les Sénons et leurs monnaies)
+  {
+    id: 'f6666666-0073-0073-0073-000000000003',
+    heritageItemId: 'e5555555-0073-0073-0073-000000000073',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Quand Sens frappait — pardon, coulait — sa propre monnaie",
+    body: "Avant que les Romains n'arrivent, les Sénonais avaient leur propre monnaie. Pas des pièces frappées au marteau comme les Romains — non, les Gaulois coulaient les leurs. Ils versaient du bronze fondu dans des moules en grappe, comme on fait des gaufres. Ça donnait des petites pièces un peu rugueuses, avec des traces de coulée sur le bord. On les appelle des « potins ».\n\nLa plus connue, c'est celle qu'on a surnommée « la tête d'indien ». Elle ne représente pas un Indien d'Amérique, évidemment — on est trois cents ans avant Jésus-Christ. Mais la coiffure stylisée, avec ses mèches tirées en arrière et terminées par des petites boules, ça fait penser à une coiffe. D'un côté la tête, de l'autre un petit cheval. Il en existe des centaines.\n\nD'autres montrent un taureau qui charge, un sanglier — l'emblème guerrier gaulois —, ou un oiseau mystérieux avec un pentagramme. Et sur certaines, on peut lire des noms : YLLYCCI, SIINV. Ce sont peut-être des chefs, peut-être des magistrats. Personne ne sait exactement.\n\nCe qui est fascinant, c'est que ces monnaies circulaient bien au-delà de Sens. On en retrouve jusqu'à Troyes, dans toute la vallée de la Seine. Les frontières entre peuples gaulois étaient plus floues qu'on ne le croit. Aujourd'hui encore, le numismate « Aux Potins Senons » — 51 rue Émile Zola à Sens — perpétue cette passion.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+      'Catalogue Numista — Sénons : numista.com/catalogue/senons_gaule-1.html.',
+    ],
+    period: 'IIe–Ier s. av. J.-C.',
+    audioUrl: null,
+  },
+
 ] as const

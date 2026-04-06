@@ -9,7 +9,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { eq } from 'drizzle-orm'
 import { db } from '@/lib/db'
 import { reports } from '@/lib/db/schema'
-import { requireAuth, requireOwner, isAuthError } from '@/lib/api-utils'
+import { requireAuth, requireOwner, isAuthError, requireDb } from '@/lib/api-utils'
 import type { NewReport } from '@/lib/db/schema'
 
 // -----------------------------------------------------------------------------
@@ -21,10 +21,11 @@ export async function GET(
   _request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const { id } = await params
 
   try {
-    const report = await db.query.reports.findFirst({
+    const report = await db!.query.reports.findFirst({
       where: eq(reports.id, id),
     })
 
@@ -50,13 +51,14 @@ export async function PATCH(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const { id } = await params
 
   const userOrError = await requireAuth()
   if (isAuthError(userOrError)) return userOrError
 
   try {
-    const existing = await db.query.reports.findFirst({
+    const existing = await db!.query.reports.findFirst({
       where: eq(reports.id, id),
     })
 
@@ -69,7 +71,7 @@ export async function PATCH(
 
     const body = await request.json() as Partial<Omit<NewReport, 'id' | 'reporterId' | 'createdAt'>>
 
-    const [updated] = await db
+    const [updated] = await db!
       .update(reports)
       .set({ ...body, updatedAt: new Date() })
       .where(eq(reports.id, id))

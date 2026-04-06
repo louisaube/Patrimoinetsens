@@ -29,7 +29,7 @@ export default function ProfilePage() {
         <CardContent className="flex items-center gap-4 p-5">
           <Avatar className="size-14">
             <AvatarImage src={user?.avatarUrl} alt={user?.name ?? ""} />
-            <AvatarFallback className="bg-emerald-100 text-emerald-800 text-lg font-semibold">
+            <AvatarFallback className="bg-amber-100 text-amber-800 text-lg font-semibold">
               {initials}
             </AvatarFallback>
           </Avatar>

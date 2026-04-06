@@ -22,8 +22,8 @@ export function OfflineBanner() {
     : syncError
     ? "bg-amber-600"
     : isSyncing
-    ? "bg-emerald-700"
-    : "bg-emerald-600"
+    ? "bg-blue-800"
+    : "bg-blue-700"
 
   return (
     <div

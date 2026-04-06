@@ -36,7 +36,7 @@ export function ReportCard({ report, currentUserId }: ReportCardProps) {
             <div className="flex-1 min-w-0">
               {/* Ligne badges */}
               <div className="flex flex-wrap items-center gap-2 mb-1.5">
-                <span className="text-sm font-medium text-stone-800 group-hover:text-emerald-800 transition-colors">
+                <span className="text-sm font-medium text-stone-800 group-hover:text-blue-900 transition-colors">
                   {reportTypeLabel(report.reportType)}
                 </span>
                 <Badge

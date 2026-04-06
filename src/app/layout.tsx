@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next"
-import { Geist, Geist_Mono } from "next/font/google"
+import { Geist, Geist_Mono, Playfair_Display } from "next/font/google"
 import { AuthProvider } from "@/components/auth/auth-provider"
 import { ToastProvider } from "@/components/ui/toast"
 import { ServiceWorkerRegister } from "@/components/service-worker-register"
@@ -16,6 +16,12 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 })
 
+const playfair = Playfair_Display({
+  variable: "--font-playfair",
+  subsets: ["latin"],
+  weight: ["400", "600", "700"],
+})
+
 export const metadata: Metadata = {
   title: "Patrimoine & Sens",
   description: "Documentez et protégez le patrimoine local de Sens",
@@ -28,7 +34,7 @@ export const metadata: Metadata = {
 }
 
 export const viewport: Viewport = {
-  themeColor: "#065f46",
+  themeColor: "#1e3a5f",  /* azur — blason de Sens */
   width: "device-width",
   initialScale: 1,
   maximumScale: 1,
@@ -42,9 +48,9 @@ export default function RootLayout({
   return (
     <html
       lang="fr"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
+      className={`${geistSans.variable} ${geistMono.variable} ${playfair.variable} h-full antialiased`}
     >
-      <body className="min-h-full bg-stone-50">
+      <body className="min-h-full bg-background">
         <AuthProvider>
           <OfflineSyncProvider>
             <ToastProvider>

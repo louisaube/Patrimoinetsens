@@ -129,7 +129,7 @@ export default function HeritageDetailPage() {
             href={`https://www.openstreetmap.org/?mlat=${heritage.latitude}&mlon=${heritage.longitude}&zoom=17`}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-2 text-xs text-emerald-700 hover:underline"
+            className="flex items-center gap-2 text-xs text-blue-800 hover:underline"
           >
             <MapPin className="size-3.5" />
             {heritage.latitude.toFixed(4)}, {heritage.longitude.toFixed(4)} — Voir sur OpenStreetMap
@@ -151,7 +151,7 @@ export default function HeritageDetailPage() {
                     <Icon className="size-4" />
                     <span className="hidden sm:inline">{label}</span>
                     {count > 0 && (
-                      <span className="inline-flex size-4 items-center justify-center rounded-full bg-emerald-100 text-emerald-700 text-[10px] font-bold">
+                      <span className="inline-flex size-4 items-center justify-center rounded-full bg-blue-100 text-blue-800 text-[10px] font-bold">
                         {count}
                       </span>
                     )}
@@ -179,7 +179,7 @@ export default function HeritageDetailPage() {
         <div className="fixed bottom-20 right-4 z-30 md:bottom-6">
           <Link
             href={`/heritage/${id}/contribute`}
-            className="inline-flex items-center gap-2 rounded-full shadow-lg bg-emerald-700 hover:bg-emerald-800 text-white px-5 h-12 font-medium text-sm transition-colors"
+            className="inline-flex items-center gap-2 rounded-full shadow-lg bg-blue-800 hover:bg-blue-900 text-white px-5 h-12 font-medium text-sm transition-colors"
           >
             <Plus className="size-5" />
             <span>Contribuer</span>

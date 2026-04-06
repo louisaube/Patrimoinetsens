@@ -10,7 +10,7 @@ import { NextRequest, NextResponse } from 'next/server'
 import { eq } from 'drizzle-orm'
 import { db } from '@/lib/db'
 import { contributions } from '@/lib/db/schema'
-import { requireAuth, requireOwner, isAuthError } from '@/lib/api-utils'
+import { requireAuth, requireOwner, isAuthError, requireDb } from '@/lib/api-utils'
 import type { NewContribution } from '@/lib/db/schema'
 
 // -----------------------------------------------------------------------------
@@ -22,13 +22,14 @@ export async function PATCH(
   request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const { id } = await params
 
   const userOrError = await requireAuth()
   if (isAuthError(userOrError)) return userOrError
 
   try {
-    const existing = await db.query.contributions.findFirst({
+    const existing = await db!.query.contributions.findFirst({
       where: eq(contributions.id, id),
     })
 
@@ -42,7 +43,7 @@ export async function PATCH(
 
     const body = await request.json() as Partial<Omit<NewContribution, 'id' | 'authorId' | 'heritageItemId' | 'createdAt'>>
 
-    const [updated] = await db
+    const [updated] = await db!
       .update(contributions)
       .set({ ...body, updatedAt: new Date() })
       .where(eq(contributions.id, id))
@@ -66,13 +67,14 @@ export async function DELETE(
   _request: NextRequest,
   { params }: { params: Promise<{ id: string }> }
 ): Promise<NextResponse> {
+  const dbErr = requireDb(); if (dbErr) return dbErr;
   const { id } = await params
 
   const userOrError = await requireAuth()
   if (isAuthError(userOrError)) return userOrError
 
   try {
-    const existing = await db.query.contributions.findFirst({
+    const existing = await db!.query.contributions.findFirst({
       where: eq(contributions.id, id),
     })
 
@@ -84,7 +86,7 @@ export async function DELETE(
     const ownerError = requireOwner(existing.authorId, userOrError.id)
     if (ownerError) return ownerError
 
-    await db.delete(contributions).where(eq(contributions.id, id))
+    await db!.delete(contributions).where(eq(contributions.id, id))
 
     return new NextResponse(null, { status: 204 })
   } catch {

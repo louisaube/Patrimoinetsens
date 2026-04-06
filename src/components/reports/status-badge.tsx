@@ -7,7 +7,7 @@ import type { ReportStatus } from "@/types"
 const STATUS_CLASSES: Record<ReportStatus, string> = {
   soumis:   "bg-stone-100  text-stone-700  border-stone-200",
   en_cours: "bg-amber-100  text-amber-800  border-amber-200",
-  resolu:   "bg-emerald-100 text-emerald-800 border-emerald-200",
+  resolu:   "bg-blue-100 text-blue-900 border-blue-200",
   rejete:   "bg-red-100    text-red-700    border-red-200",
 }
 

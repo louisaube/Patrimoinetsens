@@ -9,6 +9,8 @@ import type {
   ReportType,
   ReportSeverity,
 } from "@/types"
+import heritageItemsData from "../../public/data/heritage-items.json"
+import contributionsData from "../../public/data/contributions.json"
 
 // ─── Types ────────────────────────────────────────────────────────────────────
 
@@ -19,7 +21,6 @@ interface AsyncState<T> {
 }
 
 export interface CreateContributionInput {
-  /** Correspond à la colonne Drizzle contributionType. */
   type: ContributionType
   body: string
   period?: string
@@ -27,7 +28,6 @@ export interface CreateContributionInput {
 }
 
 export interface CreateReportInput {
-  /** Doit correspondre au nom de colonne Drizzle : reportType. */
   reportType: ReportType
   description: string
   severity: ReportSeverity
@@ -36,45 +36,61 @@ export interface CreateReportInput {
   heritageItemId?: string
 }
 
+// ─── Data layer (JSON statique → Supabase quand prêt) ───────────────────────
+
+type RawItem = (typeof heritageItemsData)[number]
+type RawContrib = (typeof contributionsData)[number]
+
+function toSummary(item: RawItem): HeritageSummary {
+  return {
+    id: item.id,
+    title: item.title,
+    category: item.category as HeritageSummary["category"],
+    latitude: item.latitude,
+    longitude: item.longitude,
+    coverPhotoUrl: item.coverPhotoUrl,
+    periodStart: item.periodStart,
+    periodEnd: item.periodEnd,
+    contributionCount: item.contributionCount,
+  }
+}
+
+function toContribution(c: RawContrib): Contribution {
+  return {
+    id: c.id,
+    type: c.type as ContributionType,
+    body: c.body,
+    author: { id: c.author.id, name: c.author.name },
+    createdAt: new Date().toISOString(),
+    updatedAt: new Date().toISOString(),
+    period: c.period,
+    sources: c.sources,
+  }
+}
+
+function toDetail(item: RawItem): HeritageDetail {
+  const contribs = contributionsData
+    .filter((c) => c.heritageItemId === item.id)
+    .map(toContribution)
+
+  return {
+    ...toSummary(item),
+    contributions: contribs,
+  }
+}
+
 // ─── useHeritage ─────────────────────────────────────────────────────────────
 
 export function useHeritage(id: string): AsyncState<HeritageDetail> & { mutate: () => void } {
-  const [state, setState] = React.useState<AsyncState<HeritageDetail>>({
-    data: null,
-    error: null,
-    loading: true,
-  })
-  const [tick, setTick] = React.useState(0)
+  const item = heritageItemsData.find((i) => i.id === id)
+  const data = item ? toDetail(item) : null
 
-  React.useEffect(() => {
-    let cancelled = false
-    setState({ data: null, error: null, loading: true })
-
-    fetch(`/api/heritage/${id}`)
-      .then((res) => {
-        if (!res.ok) throw new Error(`Erreur ${res.status}`)
-        return res.json() as Promise<HeritageDetail>
-      })
-      .then((data) => {
-        if (!cancelled) setState({ data, error: null, loading: false })
-      })
-      .catch((err: unknown) => {
-        if (!cancelled)
-          setState({
-            data: null,
-            error: err instanceof Error ? err.message : "Erreur inconnue",
-            loading: false,
-          })
-      })
-
-    return () => {
-      cancelled = true
-    }
-  }, [id, tick])
-
-  const mutate = React.useCallback(() => setTick((t) => t + 1), [])
-
-  return { ...state, mutate }
+  return {
+    data,
+    error: item ? null : "Élément introuvable",
+    loading: false,
+    mutate: () => {},
+  }
 }
 
 // ─── useHeritageList ─────────────────────────────────────────────────────────
@@ -88,115 +104,60 @@ export interface HeritageListFilters {
 export function useHeritageList(
   filters?: HeritageListFilters
 ): AsyncState<HeritageSummary[]> & { mutate: () => void } {
-  const [state, setState] = React.useState<AsyncState<HeritageSummary[]>>({
-    data: null,
-    error: null,
-    loading: true,
-  })
-  const [tick, setTick] = React.useState(0)
+  const data = React.useMemo(() => {
+    let items = heritageItemsData.filter((i) => i.status === "publie")
 
-  const filtersKey = JSON.stringify(filters ?? {})
-
-  React.useEffect(() => {
-    let cancelled = false
-    setState((prev) => ({ ...prev, loading: true, error: null }))
-
-    const params = new URLSearchParams()
-    if (filters?.category) params.set("category", filters.category)
-    if (filters?.periodStart != null) params.set("periodStart", String(filters.periodStart))
-    if (filters?.periodEnd != null) params.set("periodEnd", String(filters.periodEnd))
-
-    const qs = params.toString()
-    fetch(qs ? `/api/heritage?${qs}` : "/api/heritage")
-      .then((res) => {
-        if (!res.ok) throw new Error(`Erreur ${res.status}`)
-        return res.json() as Promise<HeritageSummary[]>
-      })
-      .then((data) => {
-        if (!cancelled) setState({ data, error: null, loading: false })
-      })
-      .catch((err: unknown) => {
-        if (!cancelled)
-          setState({
-            data: null,
-            error: err instanceof Error ? err.message : "Erreur inconnue",
-            loading: false,
-          })
-      })
-
-    return () => {
-      cancelled = true
+    if (filters?.category) {
+      items = items.filter((i) => i.category === filters.category)
     }
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [tick, filtersKey])
+    if (filters?.periodStart != null) {
+      items = items.filter(
+        (i) => i.periodEnd != null && i.periodEnd >= filters.periodStart!
+      )
+    }
+    if (filters?.periodEnd != null) {
+      items = items.filter(
+        (i) => i.periodStart != null && i.periodStart <= filters.periodEnd!
+      )
+    }
 
-  const mutate = React.useCallback(() => setTick((t) => t + 1), [])
+    return items.map(toSummary)
+  }, [filters?.category, filters?.periodStart, filters?.periodEnd])
 
-  return { ...state, mutate }
+  return {
+    data,
+    error: null,
+    loading: false,
+    mutate: () => {},
+  }
 }
 
-// ─── useCreateContribution ───────────────────────────────────────────────────
+// ─── useCreateContribution (stub — écriture désactivée sans backend) ────────
 
 export function useCreateContribution(heritageId: string) {
-  const [loading, setLoading] = React.useState(false)
-  const [error, setError] = React.useState<string | null>(null)
+  const [loading] = React.useState(false)
+  const [error] = React.useState<string | null>(null)
 
   const mutate = React.useCallback(
-    async (input: CreateContributionInput): Promise<Contribution | null> => {
-      setLoading(true)
-      setError(null)
-
-      try {
-        // Renommage type → contributionType pour correspondre au schéma Drizzle
-        const { type, ...rest } = input
-        const res = await fetch(`/api/heritage/${heritageId}/contributions`, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ ...rest, contributionType: type }),
-        })
-
-        if (!res.ok) throw new Error(`Erreur ${res.status}`)
-        return (await res.json()) as Contribution
-      } catch (err: unknown) {
-        const message = err instanceof Error ? err.message : "Erreur inconnue"
-        setError(message)
-        return null
-      } finally {
-        setLoading(false)
-      }
+    async (_input: CreateContributionInput): Promise<Contribution | null> => {
+      console.warn("[P&S] Écriture désactivée — backend non connecté")
+      return null
     },
-    [heritageId]
+    []
   )
 
   return { loading, error, mutate }
 }
 
-// ─── useCreateReport ─────────────────────────────────────────────────────────
+// ─── useCreateReport (stub) ─────────────────────────────────────────────────
 
 export function useCreateReport() {
-  const [loading, setLoading] = React.useState(false)
-  const [error, setError] = React.useState<string | null>(null)
+  const [loading] = React.useState(false)
+  const [error] = React.useState<string | null>(null)
 
-  const mutate = React.useCallback(async (input: CreateReportInput): Promise<boolean> => {
-    setLoading(true)
-    setError(null)
-
-    try {
-      const res = await fetch("/api/reports", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(input),
-      })
-
-      if (!res.ok) throw new Error(`Erreur ${res.status}`)
-      return true
-    } catch (err: unknown) {
-      const message = err instanceof Error ? err.message : "Erreur inconnue"
-      setError(message)
-      return false
-    } finally {
-      setLoading(false)
-    }
+  const mutate = React.useCallback(async (_input: CreateReportInput): Promise<boolean> => {
+    console.warn("[P&S] Écriture désactivée — backend non connecté")
+    return false
   }, [])
 
   return { loading, error, mutate }

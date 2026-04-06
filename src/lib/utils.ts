@@ -37,7 +37,7 @@ export function contributionTypeLabel(type: ContributionType | string): string {
 
 export function severityColor(severity: ReportSeverity | string): string {
   const colors: Record<string, string> = {
-    faible: "bg-emerald-100 text-emerald-800 border-emerald-200",
+    faible: "bg-blue-100 text-blue-800 border-blue-200",
     moyen: "bg-amber-100 text-amber-800 border-amber-200",
     urgent: "bg-orange-100 text-orange-800 border-orange-200",
     critique: "bg-red-100 text-red-800 border-red-200",
@@ -68,7 +68,7 @@ export function categoryColor(category: HeritageCategory | string): string {
   const colors: Record<string, string> = {
     batiment_historique: "#92400e",
     edifice_religieux: "#1e40af",
-    mobilier_urbain: "#065f46",
+    mobilier_urbain: "#1e3a5f",
     patrimoine_naturel: "#14532d",
     autre: "#78716c",
   }

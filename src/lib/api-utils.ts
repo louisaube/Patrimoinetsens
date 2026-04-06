@@ -8,6 +8,7 @@
 
 import { auth } from '@/lib/auth'
 import { NextResponse } from 'next/server'
+import { db } from '@/lib/db'
 
 // -----------------------------------------------------------------------------
 // Types
@@ -56,6 +57,20 @@ export function requireOwner(
     return NextResponse.json(
       { error: 'Accès interdit : vous n\'êtes pas le propriétaire de cette ressource' },
       { status: 403 }
+    )
+  }
+  return null
+}
+
+/**
+ * Vérifie que la base de données est disponible.
+ * Retourne une réponse 503 si db est null (dev local sans DATABASE_URL).
+ */
+export function requireDb(): NextResponse | null {
+  if (!db) {
+    return NextResponse.json(
+      { error: 'Base de données non configurée (DATABASE_URL manquant). En dev local, les données sont servies en JSON statique.' },
+      { status: 503 }
     )
   }
   return null

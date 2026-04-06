@@ -1,0 +1,119 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "title": "Sens médiéval (XIIe-XVe s.)",
+    "sources": [
+      "Bourgogne médiévale — Sens",
+      "Monumentum — PA00113859 (enceinte)",
+      "histoire-sens-senonais-yonne.com — Daguin"
+    ]
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Enceinte médiévale (l'Amande)",
+        "type": "enceinte",
+        "description": "Héritée du castrum romain, renforcée au XIIIe s. Forme ovoïde caractéristique. Posterne des Quatre-Mares (XIIIe s.) et tour gallo-romaine encore visibles.",
+        "period": "IVe-XVe s."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [3.2780, 48.1960],
+          [3.2800, 48.1945],
+          [3.2830, 48.1938],
+          [3.2870, 48.1940],
+          [3.2900, 48.1950],
+          [3.2910, 48.1965],
+          [3.2905, 48.1985],
+          [3.2890, 48.2000],
+          [3.2860, 48.2010],
+          [3.2830, 48.2015],
+          [3.2800, 48.2010],
+          [3.2785, 48.1995],
+          [3.2775, 48.1980],
+          [3.2780, 48.1960]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cathédrale Saint-Étienne",
+        "type": "monument",
+        "description": "Première cathédrale gothique (1135-1534). Siège de l'archevêché primatial.",
+        "period": "1135-1534"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2837, 48.1979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palais archiépiscopal & synodal",
+        "type": "monument",
+        "description": "Résidence de l'archevêque et salle synodale (1222). Restauré par Viollet-le-Duc au XIXe s.",
+        "period": "XIIIe s."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2840, 48.1970]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Porte Saint-Antoine (Porte du Cloître)",
+        "type": "porte",
+        "description": "Deux tours carrées à pans courbes, tourelle ronde à chemin de ronde crénelé. Détruite XVe s., reconstruite XVIe s., démolie 1832.",
+        "period": "XIIIe-XVIe s."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2870, 48.2005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Posterne des Quatre-Mares",
+        "type": "porte",
+        "description": "Posterne du XIIIe s. avec pans de muraille contigus. Classée MH.",
+        "period": "XIIIe s."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2905, 48.1975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tour de la Brèche",
+        "type": "porte",
+        "description": "Vestige visible de l'enceinte gallo-romaine / médiévale — cours Chambonas.",
+        "period": "IIIe-XIIIe s."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2785, 48.1975]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maison d'Abraham",
+        "type": "monument",
+        "description": "Maison à colombages XVIe s. avec poteau cornier sculpté (Arbre de Jessé). MH classé 1923.",
+        "period": "~1500-1550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.2831, 48.1958]
+      }
+    }
+  ]
+}

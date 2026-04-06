@@ -139,8 +139,8 @@ export function ContributionForm({
   if (submitted) {
     return (
       <div className="flex flex-col items-center gap-4 py-12 text-center">
-        <div className="flex size-14 items-center justify-center rounded-full bg-emerald-100">
-          <BookOpen className="size-7 text-emerald-700" />
+        <div className="flex size-14 items-center justify-center rounded-full bg-blue-100">
+          <BookOpen className="size-7 text-blue-800" />
         </div>
         <div>
           <p className="font-semibold text-stone-800">Contribution publiée !</p>
@@ -168,7 +168,7 @@ export function ContributionForm({
               className={cn(
                 "flex flex-col items-center gap-2 rounded-xl border-2 p-3 text-center text-xs transition-all duration-200",
                 form.type === value
-                  ? "border-emerald-600 bg-emerald-50 text-emerald-800"
+                  ? "border-blue-700 bg-blue-50 text-blue-900"
                   : "border-stone-200 bg-white text-stone-600 hover:border-stone-300 hover:bg-stone-50"
               )}
             >
@@ -356,7 +356,7 @@ export function ContributionForm({
         </Button>
         <Button
           type="submit"
-          className="bg-emerald-700 hover:bg-emerald-800 text-white"
+          className="bg-blue-800 hover:bg-blue-900 text-white"
           disabled={submitting}
         >
           {submitting ? (

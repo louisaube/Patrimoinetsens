@@ -12,7 +12,7 @@ import type { MapMarker, HeritageCategory } from "@/types"
 const CATEGORY_COLORS: Record<HeritageCategory, string> = {
   batiment_historique: "bg-amber-100 text-amber-800",
   edifice_religieux: "bg-blue-100 text-blue-800",
-  mobilier_urbain: "bg-emerald-100 text-emerald-800",
+  mobilier_urbain: "bg-blue-100 text-blue-800",
   patrimoine_naturel: "bg-green-100 text-green-800",
   autre: "bg-stone-100 text-stone-800",
 }
@@ -73,6 +73,7 @@ export default function MapPage() {
         zoom={14}
         onMarkerClick={setSelectedMarker}
         className="h-full w-full"
+        enableTimeLayers
       />
 
       {/* Panneau de filtres — top right */}
@@ -129,7 +130,7 @@ export default function MapPage() {
                       : cat === "edifice_religieux"
                       ? "#1e40af"
                       : cat === "mobilier_urbain"
-                      ? "#065f46"
+                      ? "#1e3a5f"
                       : "#14532d",
                 }}
               />
@@ -160,7 +161,7 @@ export default function MapPage() {
             </div>
             <a
               href={`/heritage/${selectedMarker.id}`}
-              className="shrink-0 rounded-lg bg-emerald-700 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-800 transition-colors"
+              className="shrink-0 rounded-lg bg-blue-800 px-4 py-2 text-sm font-medium text-white hover:bg-blue-900 transition-colors"
             >
               Voir
             </a>

@@ -90,8 +90,8 @@ describe('contributionTypeLabel', () => {
 })
 
 describe('severityColor', () => {
-  it('returns emerald classes for faible', () => {
-    expect(severityColor('faible')).toContain('emerald')
+  it('returns blue classes for faible', () => {
+    expect(severityColor('faible')).toContain('blue')
   })
 
   it('returns amber classes for moyen', () => {
@@ -143,7 +143,7 @@ describe('categoryColor', () => {
   })
 
   it('returns hex color for mobilier_urbain', () => {
-    expect(categoryColor('mobilier_urbain')).toBe('#065f46')
+    expect(categoryColor('mobilier_urbain')).toBe('#1e3a5f')
   })
 
   it('returns hex color for patrimoine_naturel', () => {
