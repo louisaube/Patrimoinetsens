@@ -53,8 +53,8 @@ def firecrawl_crawl(url: str, max_pages: int = 100) -> list[dict]:
                 "url": url,
                 "limit": max_pages,
                 "scrapeOptions": {
-                    "formats": ["markdown", "html"],
-                    "includeTags": ["article", "main", "section", ".content", ".post"],
+                    "formats": ["markdown"],
+                    "onlyMainContent": True,  # supprime nav, footer, sidebar, ads
                 },
             },
             timeout=30,

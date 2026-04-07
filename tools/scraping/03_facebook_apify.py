@@ -30,46 +30,69 @@ def get_client() -> ApifyClient:
     return ApifyClient(api_key)
 
 
+def get_fb_cookie() -> str:
+    """Construit le cookie Facebook depuis les variables d'env."""
+    c_user = os.getenv("FB_C_USER", "")
+    xs = os.getenv("FB_XS", "")
+    if not c_user or not xs:
+        print("  !! FB_C_USER et FB_XS requis dans .env pour scraper Facebook")
+        return ""
+    return f"c_user={c_user}; xs={xs}"
+
+
 def scrape_facebook_group(client: ApifyClient, group_url: str, max_posts: int) -> list[dict]:
-    """Scrape un groupe Facebook via Apify."""
-    print(f"  Lancement actor facebook-groups-scraper...")
+    """Scrape un groupe Facebook via Apify avec cookie auth.
+
+    Utilise easyapi/facebook-group-posts-scraper qui supporte le login
+    pour les groupes privés.
+    """
+    cookie = get_fb_cookie()
+    if not cookie:
+        return []
+
+    print(f"  Lancement actor easyapi/facebook-group-posts-scraper...")
     print(f"  URL: {group_url}")
     print(f"  Max posts: {max_posts}")
 
+    # Actor easyapi: groupUrls (pluriel, liste) + maxItems
     run_input = {
-        "startUrls": [{"url": group_url}],
-        "maxPosts": max_posts,
-        "maxComments": 50,  # commentaires par post
-        "maxCommentsPerPost": 50,
-        "resultsType": "posts",
+        "groupUrls": [group_url],
+        "maxItems": max_posts,
+        "cookie": cookie,
     }
 
     try:
-        run = client.actor("apify/facebook-groups-scraper").call(run_input=run_input)
+        run = client.actor("easyapi/facebook-group-posts-scraper").call(
+            run_input=run_input,
+            timeout_secs=600,
+        )
         items = list(client.dataset(run["defaultDatasetId"]).iterate_items())
-        print(f"  ✓ {len(items)} posts récupérés")
+        print(f"  OK {len(items)} posts recuperes")
         return items
     except Exception as e:
-        print(f"  ⚠ Erreur groupe: {e}")
-        # Essayer avec l'actor alternatif
-        print(f"  Tentative avec facebook-posts-scraper...")
+        print(f"  !! Erreur easyapi: {e}")
+        # Fallback: actor officiel (groupes publics seulement)
+        print(f"  Fallback: apify/facebook-groups-scraper...")
         try:
             run_input2 = {
                 "startUrls": [{"url": group_url}],
-                "maxPosts": max_posts,
                 "resultsLimit": max_posts,
             }
-            run = client.actor("apify/facebook-posts-scraper").call(run_input=run_input2)
+            run = client.actor("apify/facebook-groups-scraper").call(run_input=run_input2)
             items = list(client.dataset(run["defaultDatasetId"]).iterate_items())
-            print(f"  ✓ {len(items)} posts (actor alternatif)")
+            print(f"  OK {len(items)} posts (fallback)")
             return items
         except Exception as e2:
-            print(f"  ✗ Échec total: {e2}")
+            print(f"  !! Echec total: {e2}")
             return []
 
 
 def scrape_facebook_page(client: ApifyClient, page_url: str, max_posts: int) -> list[dict]:
-    """Scrape une page Facebook via Apify."""
+    """Scrape une page Facebook via Apify avec cookie auth."""
+    cookie = get_fb_cookie()
+    if not cookie:
+        return []
+
     print(f"  Lancement actor facebook-pages-scraper...")
     print(f"  URL: {page_url}")
 
@@ -78,15 +101,16 @@ def scrape_facebook_page(client: ApifyClient, page_url: str, max_posts: int) -> 
         "maxPosts": max_posts,
         "maxComments": 30,
         "maxCommentsPerPost": 30,
+        "cookie": cookie,
     }
 
     try:
         run = client.actor("apify/facebook-pages-scraper").call(run_input=run_input)
         items = list(client.dataset(run["defaultDatasetId"]).iterate_items())
-        print(f"  ✓ {len(items)} posts récupérés")
+        print(f"  OK {len(items)} posts recuperes")
         return items
     except Exception as e:
-        print(f"  ⚠ Erreur page: {e}")
+        print(f"  !! Erreur page: {e}")
         return []
 
 

@@ -17,50 +17,7 @@ import { Badge } from "@/components/ui/badge"
 import { ContributionList } from "@/components/heritage/contribution-list"
 import { categoryLabel } from "@/lib/utils"
 import { useAuth } from "@/hooks/use-auth"
-import type { HeritageDetail } from "@/types"
-
-// ─── Données mock Cathédrale de Sens ─────────────────────────────────────────
-
-const MOCK_HERITAGE: HeritageDetail = {
-  id: "1",
-  title: "Cathédrale Saint-Étienne de Sens",
-  category: "edifice_religieux",
-  latitude: 48.1968,
-  longitude: 3.2839,
-  coverPhotoUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Sens_Cathedrale_Saint-Etienne.jpg/640px-Sens_Cathedrale_Saint-Etienne.jpg",
-  contributionCount: 3,
-  contributions: [
-    {
-      id: "c1",
-      type: "historique",
-      body: "La cathédrale Saint-Étienne de Sens est l'une des premières cathédrales gothiques de France, dont la construction débuta vers 1135 sous l'archevêque Henri le Sanglier. Elle fut consacrée en 1164 par le pape Alexandre III, en présence du roi Louis VII. Son architecture constitue un modèle qui influença notamment la cathédrale de Canterbury.",
-      author: { id: "u1", name: "Denis Moreau" },
-      createdAt: "2026-03-20T09:00:00Z",
-      updatedAt: "2026-03-20T09:00:00Z",
-      period: "XIIe siècle — 1135-1164",
-      sources: [
-        "Prache, Anne. \"Sens\". Encyclopédie Universalis, 2002.",
-        "Kimpel, Dieter & Suckale, Robert. Die gotische Architektur in Frankreich, 1988.",
-      ],
-    },
-    {
-      id: "c2",
-      type: "recit",
-      body: "On raconte que Thomas Becket, archevêque de Canterbury exilé par Henri II d'Angleterre, vécut à Sens de 1164 à 1170. Il aurait prêché depuis cette même cathédrale et y aurait trouvé refuge et réconfort. Des liens étroits unirent ainsi les deux cathédrales, celle de Sens ayant servi de modèle à celle de Canterbury.",
-      author: { id: "u2", name: "Bernard Leclerc" },
-      createdAt: "2026-03-22T14:30:00Z",
-      updatedAt: "2026-03-22T14:30:00Z",
-    },
-    {
-      id: "c3",
-      type: "temoignage",
-      body: "J'ai photographié les vitraux de la nef centrale lors de la campagne de restauration de 2019. Les couleurs sont absolument saisissantes au soleil couchant — le rouge et le bleu du XIIe siècle n'ont rien perdu de leur éclat. Une expérience inoubliable.",
-      author: { id: "u3", name: "Marie Dupont" },
-      createdAt: "2026-03-26T16:00:00Z",
-      updatedAt: "2026-03-26T16:00:00Z",
-    },
-  ],
-}
+import { useHeritage } from "@/hooks/use-heritage"
 
 // ─── Page ────────────────────────────────────────────────────────────────────
 
@@ -75,9 +32,26 @@ export default function HeritageDetailPage() {
   const params = useParams()
   const id = params.id as string
   const { user } = useAuth()
+  const { data: heritage, loading, error } = useHeritage(id)
 
-  // TODO: Remplacer MOCK_HERITAGE par useHeritage(id) quand l'API sera connectée
-  const heritage = MOCK_HERITAGE
+  if (loading) {
+    return (
+      <div className="flex min-h-screen items-center justify-center">
+        <p className="text-stone-500">Chargement...</p>
+      </div>
+    )
+  }
+
+  if (error || !heritage) {
+    return (
+      <div className="flex min-h-screen flex-col items-center justify-center gap-4">
+        <p className="text-stone-500">Fiche introuvable</p>
+        <Link href="/" className="text-blue-800 underline text-sm">
+          Retour
+        </Link>
+      </div>
+    )
+  }
 
   const countByType = (type: string) =>
     heritage.contributions.filter((c) => c.type === type).length

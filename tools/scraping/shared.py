@@ -5,6 +5,7 @@ Utilitaires partagés pour le pipeline de scraping patrimoine Sens.
 import json
 import os
 import re
+import sys
 import hashlib
 from pathlib import Path
 from datetime import datetime, timezone
@@ -12,6 +13,11 @@ from typing import Any
 
 import yaml
 from dotenv import load_dotenv
+
+# Fix Windows console encoding (CP1252 -> UTF-8)
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 # Charger .env depuis le dossier gallica-rag (même projet)
 ENV_PATH = Path(__file__).parent.parent / "gallica-rag" / ".env"

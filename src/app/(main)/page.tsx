@@ -19,8 +19,8 @@ import annuaireData from "../../../public/armorial/annuaire.json"
 // ─── Vraies données ─────────────────────────────────────────────────────────
 
 const STATS = {
-  heritageItems: 71,
-  contributions: 56,
+  heritageItems: 136,
+  contributions: 881,
   blasons: annuaireData.entries.length,
 }
 
@@ -160,7 +160,7 @@ export default function HomePage() {
                   Explorer la carte
                 </h3>
                 <p className="text-xs text-blue-700/70">
-                  71 éléments géolocalisés
+                  136 éléments géolocalisés
                 </p>
               </div>
             </CardContent>
@@ -320,7 +320,7 @@ export default function HomePage() {
           <p>
             Sa cathédrale (1135) est l&apos;un des tout premiers édifices gothiques.
             Un pape y a vécu. Thomas Becket y a trouvé refuge.
-            71&nbsp;monuments sont classés ou inscrits.
+            136&nbsp;monuments sont classés ou inscrits.
           </p>
           <p>
             <strong>Patrimoine &amp; Sens</strong> réunit historiens, passionnés

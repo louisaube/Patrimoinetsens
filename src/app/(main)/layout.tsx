@@ -12,6 +12,7 @@ import {
   LogOut,
   Settings,
   Shield,
+  BookOpen,
 } from "lucide-react"
 import { useAuth } from "@/hooks/use-auth"
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar"
@@ -140,6 +141,25 @@ export default function MainLayout({
           {/* Séparateur + liens secondaires (desktop uniquement) */}
           <div className="pt-1">
             <div className="my-1 h-px bg-slate-100" />
+            {(() => {
+              const isActive = pathname.startsWith("/histoire")
+              return (
+                <Link
+                  href="/histoire"
+                  className={cn(
+                    "flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm font-medium transition-all duration-200",
+                    isActive
+                      ? "bg-stone-100 text-stone-900"
+                      : "text-slate-600 hover:bg-slate-50 hover:text-slate-900"
+                  )}
+                >
+                  <BookOpen
+                    className={cn("size-4", isActive ? "text-stone-800" : "text-slate-400")}
+                  />
+                  Le grand récit
+                </Link>
+              )
+            })()}
             {(() => {
               const isActive = pathname.startsWith("/armorial")
               return (

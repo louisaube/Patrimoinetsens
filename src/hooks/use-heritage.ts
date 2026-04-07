@@ -60,7 +60,7 @@ function toContribution(c: RawContrib): Contribution {
     id: c.id,
     type: c.type as ContributionType,
     body: c.body,
-    author: { id: c.author.id, name: c.author.name },
+    author: { id: c.author?.id ?? "unknown", name: c.author?.name ?? "Source documentaire" },
     createdAt: new Date().toISOString(),
     updatedAt: new Date().toISOString(),
     period: c.period,

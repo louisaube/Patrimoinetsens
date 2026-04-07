@@ -18,6 +18,7 @@ from shared import (
 
 WIKI_API = "https://fr.wikipedia.org/w/api.php"
 COMMONS_API = "https://commons.wikimedia.org/w/api.php"
+HEADERS = {"User-Agent": "PatrimoineSens/1.0 (heritage research; contact@patrimoine-sens.fr)"}
 
 
 def get_wiki_article(title: str) -> dict:
@@ -32,7 +33,7 @@ def get_wiki_article(title: str) -> dict:
         "format": "json",
     }
 
-    resp = httpx.get(WIKI_API, params=params, timeout=15)
+    resp = httpx.get(WIKI_API, params=params, timeout=15, headers=HEADERS)
     resp.raise_for_status()
     pages = resp.json().get("query", {}).get("pages", {})
 
@@ -54,7 +55,7 @@ def get_wiki_images(title: str) -> list[dict]:
         "format": "json",
     }
 
-    resp = httpx.get(WIKI_API, params=params, timeout=15)
+    resp = httpx.get(WIKI_API, params=params, timeout=15, headers=HEADERS)
     pages = resp.json().get("query", {}).get("pages", {})
 
     image_titles = []
@@ -92,7 +93,7 @@ def get_commons_image_url(file_title: str) -> str:
     }
 
     try:
-        resp = httpx.get(COMMONS_API, params=params, timeout=10)
+        resp = httpx.get(COMMONS_API, params=params, timeout=10, headers=HEADERS)
         pages = resp.json().get("query", {}).get("pages", {})
         for page in pages.values():
             info = page.get("imageinfo", [{}])[0]
@@ -117,7 +118,7 @@ def search_commons_category(category: str) -> list[dict]:
     }
 
     try:
-        resp = httpx.get(COMMONS_API, params=params, timeout=15)
+        resp = httpx.get(COMMONS_API, params=params, timeout=15, headers=HEADERS)
         members = resp.json().get("query", {}).get("categorymembers", [])
 
         images = []

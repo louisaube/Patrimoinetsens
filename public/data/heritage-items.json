@@ -1,5 +1,21 @@
 [
   {
+    "id": "411a578c-675c-5d04-8a81-6b80684e2e05",
+    "title": "Hôtel du 18e siècle (ancien)",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 47.9826645433783,
+    "longitude": 3.39710726421333,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1799,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 171
+  },
+  {
     "id": "e5555555-0001-0001-0001-000000000001",
     "title": "Cathédrale Saint-Étienne de Sens",
     "category": "edifice_religieux",
@@ -13,151 +29,7 @@
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 9
-  },
-  {
-    "id": "e5555555-0002-0002-0002-000000000002",
-    "title": "Palais synodal (Salle synodale)",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.197,
-    "longitude": 3.284,
-    "coverPhotoUrl": null,
-    "periodStart": 1222,
-    "periodEnd": 1866,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0003-0003-0003-000000000003",
-    "title": "Maison dite d'Abraham",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1958,
-    "longitude": 3.2831,
-    "coverPhotoUrl": null,
-    "periodStart": 1500,
-    "periodEnd": 1550,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0004-0004-0004-000000000004",
-    "title": "Marché couvert de Sens",
-    "category": "mobilier_urbain",
-    "status": "publie",
-    "latitude": 48.1979,
-    "longitude": 3.2819,
-    "coverPhotoUrl": null,
-    "periodStart": 1882,
-    "periodEnd": 1882,
-    "createdBy": {
-      "id": "c3333333-3333-3333-3333-333333333333",
-      "name": "Marie Dupont"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0005-0005-0005-000000000005",
-    "title": "Église Saint-Maurice",
-    "category": "edifice_religieux",
-    "status": "publie",
-    "latitude": 48.1978,
-    "longitude": 3.2755,
-    "coverPhotoUrl": null,
-    "periodStart": 1200,
-    "periodEnd": 1300,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0006-0006-0006-000000000006",
-    "title": "Hôpital Saint-Jean — ancienne abbaye augustinienne",
-    "category": "edifice_religieux",
-    "status": "publie",
-    "latitude": 48.1981,
-    "longitude": 3.2931,
-    "coverPhotoUrl": null,
-    "periodStart": 500,
-    "periodEnd": 1800,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 3
-  },
-  {
-    "id": "e5555555-0007-0007-0007-000000000007",
-    "title": "Fontaine de la Samaritaine",
-    "category": "mobilier_urbain",
-    "status": "publie",
-    "latitude": 48.1965,
-    "longitude": 3.2855,
-    "coverPhotoUrl": null,
-    "periodStart": 1700,
-    "periodEnd": 1800,
-    "createdBy": {
-      "id": "c3333333-3333-3333-3333-333333333333",
-      "name": "Marie Dupont"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0008-0008-0008-000000000008",
-    "title": "Parc du Moulin à Tan",
-    "category": "patrimoine_naturel",
-    "status": "publie",
-    "latitude": 48.1955,
-    "longitude": 3.2798,
-    "coverPhotoUrl": null,
-    "periodStart": 1800,
-    "periodEnd": 1900,
-    "createdBy": {
-      "id": "c3333333-3333-3333-3333-333333333333",
-      "name": "Marie Dupont"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0009-0009-0009-000000000009",
-    "title": "Poterne des Quatre-Mares",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1958,
-    "longitude": 3.2853,
-    "coverPhotoUrl": null,
-    "periodStart": 1250,
-    "periodEnd": 1300,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0010-0010-0010-000000000010",
-    "title": "Basilique Saint-Savinien",
-    "category": "edifice_religieux",
-    "status": "publie",
-    "latitude": 48.1967,
-    "longitude": 3.3003,
-    "coverPhotoUrl": null,
-    "periodStart": 1068,
-    "periodEnd": 1068,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 2
+    "contributionCount": 90
   },
   {
     "id": "e5555555-0011-0011-0011-000000000011",
@@ -173,7 +45,87 @@
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 1
+    "contributionCount": 63
+  },
+  {
+    "id": "e5555555-0005-0005-0005-000000000005",
+    "title": "Église Saint-Maurice",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.1978,
+    "longitude": 3.2755,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1300,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 52
+  },
+  {
+    "id": "e5555555-0061-0061-0061-000000000061",
+    "title": "Presse sénonaise — du Sénonais Libéré à l'Indépendant",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.197,
+    "longitude": 3.2832,
+    "coverPhotoUrl": null,
+    "periodStart": 1845,
+    "periodEnd": 2024,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 48
+  },
+  {
+    "id": "e5555555-0006-0006-0006-000000000006",
+    "title": "Hôpital Saint-Jean — ancienne abbaye augustinienne",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.1981,
+    "longitude": 3.2931,
+    "coverPhotoUrl": null,
+    "periodStart": 500,
+    "periodEnd": 1800,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 39
+  },
+  {
+    "id": "057c0c81-6890-5e70-b82a-401149799091",
+    "title": "Ancienne église Saint-Martin",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 47.89637618038549,
+    "longitude": 2.765486916928134,
+    "coverPhotoUrl": null,
+    "periodStart": 1000,
+    "periodEnd": 1099,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 25
+  },
+  {
+    "id": "e5555555-0066-0066-0066-000000000066",
+    "title": "Porte de Sens — Villeneuve-sur-Yonne",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.0814,
+    "longitude": 3.3006,
+    "coverPhotoUrl": null,
+    "periodStart": 1163,
+    "periodEnd": 1200,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 23
   },
   {
     "id": "e5555555-0012-0012-0012-000000000012",
@@ -189,55 +141,7 @@
       "id": "b2222222-2222-2222-2222-222222222222",
       "name": "Bernard Moreau"
     },
-    "contributionCount": 5
-  },
-  {
-    "id": "e5555555-0013-0013-0013-000000000013",
-    "title": "Palais archiépiscopal — musées de Sens",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1975,
-    "longitude": 3.2842,
-    "coverPhotoUrl": null,
-    "periodStart": 1122,
-    "periodEnd": 1862,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0014-0014-0014-000000000014",
-    "title": "Enceinte gallo-romaine — vestiges des remparts",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1953,
-    "longitude": 3.2794,
-    "coverPhotoUrl": null,
-    "periodStart": 270,
-    "periodEnd": 1850,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 3
-  },
-  {
-    "id": "e5555555-0015-0015-0015-000000000015",
-    "title": "Théâtre municipal de Sens",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.2,
-    "longitude": 3.2819,
-    "coverPhotoUrl": null,
-    "periodStart": 1882,
-    "periodEnd": 1882,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 2
+    "contributionCount": 22
   },
   {
     "id": "e5555555-0016-0016-0016-000000000016",
@@ -253,55 +157,7 @@
       "id": "c3333333-3333-3333-3333-333333333333",
       "name": "Marie Dupont"
     },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0017-0017-0017-000000000017",
-    "title": "Maison Jean Cousin — musée",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1958,
-    "longitude": 3.2808,
-    "coverPhotoUrl": null,
-    "periodStart": 1500,
-    "periodEnd": 1600,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0018-0018-0018-000000000018",
-    "title": "Maison du Portail",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1958,
-    "longitude": 3.2817,
-    "coverPhotoUrl": null,
-    "periodStart": 1500,
-    "periodEnd": 1600,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0019-0019-0019-000000000019",
-    "title": "Ancien Hôtel de Ville — Hôtel Vezou",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1967,
-    "longitude": 3.2814,
-    "coverPhotoUrl": null,
-    "periodStart": 1600,
-    "periodEnd": 1904,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
+    "contributionCount": 21
   },
   {
     "id": "e5555555-0020-0020-0020-000000000020",
@@ -317,23 +173,135 @@
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 0
+    "contributionCount": 19
   },
   {
-    "id": "e5555555-0021-0021-0021-000000000021",
-    "title": "Église Saint-Pregts (Saint-Prix)",
-    "category": "edifice_religieux",
+    "id": "e5555555-0040-0040-0040-000000000040",
+    "title": "Hôtel de Sens — Paris (résidence des archevêques)",
+    "category": "batiment_historique",
     "status": "publie",
-    "latitude": 48.1925,
-    "longitude": 3.2847,
+    "latitude": 48.8533,
+    "longitude": 2.356,
     "coverPhotoUrl": null,
-    "periodStart": 1200,
-    "periodEnd": 1500,
+    "periodStart": 1475,
+    "periodEnd": 1519,
     "createdBy": {
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 0
+    "contributionCount": 18
+  },
+  {
+    "id": "e5555555-0041-0041-0041-000000000041",
+    "title": "Centre commercial Sens-Maillot — architecture Claude Parent",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.187,
+    "longitude": 3.3033,
+    "coverPhotoUrl": null,
+    "periodStart": 1970,
+    "periodEnd": 1970,
+    "createdBy": {
+      "id": "c3333333-3333-3333-3333-333333333333",
+      "name": "Marie Dupont"
+    },
+    "contributionCount": 17
+  },
+  {
+    "id": "e5555555-0062-0062-0062-000000000062",
+    "title": "Square Jean Cousin — statue du peintre",
+    "category": "mobilier_urbain",
+    "status": "publie",
+    "latitude": 48.1938,
+    "longitude": 3.2835,
+    "coverPhotoUrl": null,
+    "periodStart": 1880,
+    "periodEnd": 1880,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 17
+  },
+  {
+    "id": "e5555555-0064-0064-0064-000000000064",
+    "title": "Temple maçonnique — Grand Orient de France",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1955,
+    "longitude": 3.277,
+    "coverPhotoUrl": null,
+    "periodStart": 1850,
+    "periodEnd": 2024,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 15
+  },
+  {
+    "id": "d93f166b-5071-54ba-a0e0-023976fa2fbc",
+    "title": "Maison du 16e siècle, dite Maison des Fontenottes, dite Maison de bois",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.0310434033352,
+    "longitude": 3.2941286389395104,
+    "coverPhotoUrl": null,
+    "periodStart": null,
+    "periodEnd": null,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 14
+  },
+  {
+    "id": "e5555555-0017-0017-0017-000000000017",
+    "title": "Maison Jean Cousin — musée",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1958,
+    "longitude": 3.2808,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1600,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 10
+  },
+  {
+    "id": "e5555555-0050-0050-0050-000000000050",
+    "title": "Église Notre-Dame-des-Neiges",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.199,
+    "longitude": 3.278,
+    "coverPhotoUrl": null,
+    "periodStart": 1900,
+    "periodEnd": 1950,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 10
+  },
+  {
+    "id": "e5555555-0008-0008-0008-000000000008",
+    "title": "Parc du Moulin à Tan",
+    "category": "patrimoine_naturel",
+    "status": "publie",
+    "latitude": 48.1955,
+    "longitude": 3.2798,
+    "coverPhotoUrl": null,
+    "periodStart": 1800,
+    "periodEnd": 1900,
+    "createdBy": {
+      "id": "c3333333-3333-3333-3333-333333333333",
+      "name": "Marie Dupont"
+    },
+    "contributionCount": 8
   },
   {
     "id": "e5555555-0022-0022-0022-000000000022",
@@ -349,23 +317,199 @@
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 0
+    "contributionCount": 8
   },
   {
-    "id": "e5555555-0023-0023-0023-000000000023",
-    "title": "Moulin de la Vierge",
+    "id": "05519a26-4017-503c-84e7-7e8f67ae81e3",
+    "title": "Chapelle Notre-Dame d'Orient",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 47.5370769698598,
+    "longitude": 3.79771816319216,
+    "coverPhotoUrl": null,
+    "periodStart": 1900,
+    "periodEnd": 1999,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 7
+  },
+  {
+    "id": "2f191526-0c79-57e5-8766-29250e8bd44a",
+    "title": "Eglise Saint-Jean",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 47.9827320063972,
+    "longitude": 3.3984347128028,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1299,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 7
+  },
+  {
+    "id": "bf8796e1-e023-5534-ac4a-e550c80b81f2",
+    "title": "Eglise Saint-Loup",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.0461932722635,
+    "longitude": 2.7381767457831,
+    "coverPhotoUrl": null,
+    "periodStart": 1000,
+    "periodEnd": 1099,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 7
+  },
+  {
+    "id": "e5555555-0014-0014-0014-000000000014",
+    "title": "Enceinte gallo-romaine — vestiges des remparts",
     "category": "batiment_historique",
     "status": "publie",
-    "latitude": 48.1947,
-    "longitude": 3.2867,
+    "latitude": 48.1953,
+    "longitude": 3.2794,
     "coverPhotoUrl": null,
-    "periodStart": 1400,
-    "periodEnd": 1800,
+    "periodStart": 270,
+    "periodEnd": 1850,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 7
+  },
+  {
+    "id": "e5555555-0003-0003-0003-000000000003",
+    "title": "Maison dite d'Abraham",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1958,
+    "longitude": 3.2831,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1550,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 7
+  },
+  {
+    "id": "e5555555-0004-0004-0004-000000000004",
+    "title": "Marché couvert de Sens",
+    "category": "mobilier_urbain",
+    "status": "publie",
+    "latitude": 48.1979,
+    "longitude": 3.2819,
+    "coverPhotoUrl": null,
+    "periodStart": 1882,
+    "periodEnd": 1882,
     "createdBy": {
       "id": "c3333333-3333-3333-3333-333333333333",
       "name": "Marie Dupont"
     },
-    "contributionCount": 0
+    "contributionCount": 7
+  },
+  {
+    "id": "e5555555-0010-0010-0010-000000000010",
+    "title": "Basilique Saint-Savinien",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.1967,
+    "longitude": 3.3003,
+    "coverPhotoUrl": null,
+    "periodStart": 1068,
+    "periodEnd": 1068,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 6
+  },
+  {
+    "id": "e5555555-0002-0002-0002-000000000002",
+    "title": "Palais synodal (Salle synodale)",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.197,
+    "longitude": 3.284,
+    "coverPhotoUrl": null,
+    "periodStart": 1222,
+    "periodEnd": 1866,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 6
+  },
+  {
+    "id": "3a469a41-108c-57d9-be16-b0908e64e1f4",
+    "title": "Ancien ensemble canonial",
+    "category": "autre",
+    "status": "publie",
+    "latitude": 47.7975444369866,
+    "longitude": 3.57336450788367,
+    "coverPhotoUrl": null,
+    "periodStart": 1100,
+    "periodEnd": 1199,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 5
+  },
+  {
+    "id": "196d73cd-24d2-5bee-9338-79d49eab7583",
+    "title": "Immeubles dits Ancien Moulin de la Vierge",
+    "category": "autre",
+    "status": "publie",
+    "latitude": 48.1946442809589,
+    "longitude": 3.2867225579966006,
+    "coverPhotoUrl": null,
+    "periodStart": null,
+    "periodEnd": null,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 5
+  },
+  {
+    "id": "78f744b0-5d03-5803-b5de-efd8c0974b36",
+    "title": "Maison du 16e siècle sur la place, dite Maison de l'arbre de Jessé ou Maison du Poteau Cornier",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.03144050406,
+    "longitude": 3.29481801352065,
+    "coverPhotoUrl": null,
+    "periodStart": null,
+    "periodEnd": null,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 5
+  },
+  {
+    "id": "3fa7e313-b153-56b1-b24c-91d1665abc7e",
+    "title": "Maison à pans de bois dite Maison de l'Ave-Maria",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 47.9842035488868,
+    "longitude": 3.39447019442573,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 5
   },
   {
     "id": "e5555555-0024-0024-0024-000000000024",
@@ -381,50 +525,210 @@
       "id": "b2222222-2222-2222-2222-222222222222",
       "name": "Bernard Moreau"
     },
-    "contributionCount": 2
+    "contributionCount": 4
   },
   {
-    "id": "e5555555-0025-0025-0025-000000000025",
-    "title": "Carmel de Sens",
-    "category": "edifice_religieux",
-    "status": "publie",
-    "latitude": 48.1978,
-    "longitude": 3.2881,
-    "coverPhotoUrl": null,
-    "periodStart": 1520,
-    "periodEnd": 1995,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 2
-  },
-  {
-    "id": "e5555555-0026-0026-0026-000000000026",
-    "title": "Hôtel de Vaudricourt",
+    "id": "e5555555-0015-0015-0015-000000000015",
+    "title": "Théâtre municipal de Sens",
     "category": "batiment_historique",
     "status": "publie",
-    "latitude": 48.1964,
-    "longitude": 3.2847,
+    "latitude": 48.2,
+    "longitude": 3.2819,
     "coverPhotoUrl": null,
-    "periodStart": 1600,
-    "periodEnd": 1700,
+    "periodStart": 1882,
+    "periodEnd": 1882,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 4
+  },
+  {
+    "id": "e5555555-0068-0068-0068-000000000068",
+    "title": "Église Notre-Dame de l'Assomption — Villeneuve-sur-Yonne",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.0797,
+    "longitude": 3.3,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1550,
     "createdBy": {
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 0
+    "contributionCount": 4
   },
   {
-    "id": "e5555555-0027-0027-0027-000000000027",
-    "title": "Couvent des Jacobins — vestiges",
+    "id": "e5555555-0031-0031-0031-000000000031",
+    "title": "Église Saint-Savinien-le-Jeune",
     "category": "edifice_religieux",
     "status": "publie",
-    "latitude": 48.1975,
-    "longitude": 3.285,
+    "latitude": 48.1986,
+    "longitude": 3.2942,
     "coverPhotoUrl": null,
-    "periodStart": 1227,
-    "periodEnd": 1790,
+    "periodStart": 1600,
+    "periodEnd": 1826,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 4
+  },
+  {
+    "id": "e5555555-0047-0047-0047-000000000047",
+    "title": "Ancien Hôtel-Dieu — démoli (mémoire)",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1976,
+    "longitude": 3.283,
+    "coverPhotoUrl": null,
+    "periodStart": 1100,
+    "periodEnd": 1850,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 3
+  },
+  {
+    "id": "3709bc5b-95d3-57f7-9839-0d917729af42",
+    "title": "Croix de pierre",
+    "category": "mobilier_urbain",
+    "status": "publie",
+    "latitude": 48.0823381303782,
+    "longitude": 3.29225409320318,
+    "coverPhotoUrl": null,
+    "periodStart": null,
+    "periodEnd": null,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 3
+  },
+  {
+    "id": "7fb3225c-542f-59b0-87df-7a27fb0e5a5b",
+    "title": "Eglise Saint-Thibault",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 47.9830953569517,
+    "longitude": 3.3951613413846,
+    "coverPhotoUrl": null,
+    "periodStart": null,
+    "periodEnd": null,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 3
+  },
+  {
+    "id": "fdfcd5e4-1fe1-55e7-803a-e8e1054bba16",
+    "title": "Eglise de la Nativité de la Vierge",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.14261050274791,
+    "longitude": 3.80639118261803,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 3
+  },
+  {
+    "id": "e5555555-0070-0070-0070-000000000070",
+    "title": "Enceinte médiévale — cité royale de Villeneuve-sur-Yonne",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.0795,
+    "longitude": 3.2998,
+    "coverPhotoUrl": null,
+    "periodStart": 1163,
+    "periodEnd": 1350,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 3
+  },
+  {
+    "id": "caf7c308-a339-5207-8156-febbc7fa8df3",
+    "title": "Maison de bois ou maison du bailli",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 47.9826812617172,
+    "longitude": 3.39731268703268,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 3
+  },
+  {
+    "id": "e5555555-0030-0030-0030-000000000030",
+    "title": "Ostel de l'Escu — ancienne hôtellerie médiévale",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1961,
+    "longitude": 3.2839,
+    "coverPhotoUrl": null,
+    "periodStart": 1400,
+    "periodEnd": 1700,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 3
+  },
+  {
+    "id": "e5555555-0013-0013-0013-000000000013",
+    "title": "Palais archiépiscopal — musées de Sens",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1975,
+    "longitude": 3.2842,
+    "coverPhotoUrl": null,
+    "periodStart": 1122,
+    "periodEnd": 1862,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 3
+  },
+  {
+    "id": "9c9d785e-58ab-5182-9558-abb1e09027ec",
+    "title": "Porte du Bois",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 47.9846550600677,
+    "longitude": 3.3960147966267,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1299,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 3
+  },
+  {
+    "id": "e5555555-0019-0019-0019-000000000019",
+    "title": "Ancien Hôtel de Ville — Hôtel Vezou",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1967,
+    "longitude": 3.2814,
+    "coverPhotoUrl": null,
+    "periodStart": 1600,
+    "periodEnd": 1904,
     "createdBy": {
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
@@ -445,87 +749,7 @@
       "id": "b2222222-2222-2222-2222-222222222222",
       "name": "Bernard Moreau"
     },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0029-0029-0029-000000000029",
-    "title": "Ancien couvent des Dominicaines de Sens",
-    "category": "edifice_religieux",
-    "status": "publie",
-    "latitude": 48.1972,
-    "longitude": 3.2862,
-    "coverPhotoUrl": null,
-    "periodStart": 1248,
-    "periodEnd": 1790,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0030-0030-0030-000000000030",
-    "title": "Ostel de l'Escu — ancienne hôtellerie médiévale",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1961,
-    "longitude": 3.2839,
-    "coverPhotoUrl": null,
-    "periodStart": 1400,
-    "periodEnd": 1700,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0031-0031-0031-000000000031",
-    "title": "Église Saint-Savinien-le-Jeune",
-    "category": "edifice_religieux",
-    "status": "publie",
-    "latitude": 48.1986,
-    "longitude": 3.2942,
-    "coverPhotoUrl": null,
-    "periodStart": 1600,
-    "periodEnd": 1826,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0032-0032-0032-000000000032",
-    "title": "Ermitage Saint-Bond — Paron",
-    "category": "edifice_religieux",
-    "status": "publie",
-    "latitude": 48.189,
-    "longitude": 3.265,
-    "coverPhotoUrl": null,
-    "periodStart": 100,
-    "periodEnd": 1850,
-    "createdBy": {
-      "id": "c3333333-3333-3333-3333-333333333333",
-      "name": "Marie Dupont"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0033-0033-0033-000000000033",
-    "title": "Fontaine d'Azon — lieu du supplice de Sainte-Colombe",
-    "category": "patrimoine_naturel",
-    "status": "publie",
-    "latitude": 48.208,
-    "longitude": 3.27,
-    "coverPhotoUrl": null,
-    "periodStart": 274,
-    "periodEnd": 274,
-    "createdBy": {
-      "id": "c3333333-3333-3333-3333-333333333333",
-      "name": "Marie Dupont"
-    },
-    "contributionCount": 0
+    "contributionCount": 2
   },
   {
     "id": "e5555555-0034-0034-0034-000000000034",
@@ -541,263 +765,39 @@
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 1
+    "contributionCount": 2
   },
   {
-    "id": "e5555555-0035-0035-0035-000000000035",
-    "title": "Hôtel Le Fournier d'Yauville",
+    "id": "e5555555-0054-0054-0054-000000000054",
+    "title": "Ancienne usine à plomb — manufacture Lelièvre et Muleur",
     "category": "batiment_historique",
     "status": "publie",
-    "latitude": 48.1967,
-    "longitude": 3.2844,
+    "latitude": 48.195,
+    "longitude": 3.287,
     "coverPhotoUrl": null,
-    "periodStart": 1700,
-    "periodEnd": 1800,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0036-0036-0036-000000000036",
-    "title": "Palais de justice — ancien palais royal",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1969,
-    "longitude": 3.2825,
-    "coverPhotoUrl": null,
-    "periodStart": 300,
-    "periodEnd": 1900,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0037-0037-0037-000000000037",
-    "title": "Sous-préfecture de Sens",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1978,
-    "longitude": 3.281,
-    "coverPhotoUrl": null,
-    "periodStart": 1790,
-    "periodEnd": 1863,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0038-0038-0038-000000000038",
-    "title": "Maison de l'Aviler",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1945,
-    "longitude": 3.29,
-    "coverPhotoUrl": null,
-    "periodStart": 1573,
-    "periodEnd": 1800,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0039-0039-0039-000000000039",
-    "title": "Maison de l'Œuvre — ancienne bibliothèque du Chapitre",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1977,
-    "longitude": 3.284,
-    "coverPhotoUrl": null,
-    "periodStart": 1500,
-    "periodEnd": 2015,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0040-0040-0040-000000000040",
-    "title": "Hôtel de Sens — Paris (résidence des archevêques)",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.8533,
-    "longitude": 2.356,
-    "coverPhotoUrl": null,
-    "periodStart": 1475,
-    "periodEnd": 1519,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0041-0041-0041-000000000041",
-    "title": "Centre commercial Sens-Maillot — architecture Claude Parent",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.187,
-    "longitude": 3.3033,
-    "coverPhotoUrl": null,
-    "periodStart": 1970,
-    "periodEnd": 1970,
-    "createdBy": {
-      "id": "c3333333-3333-3333-3333-333333333333",
-      "name": "Marie Dupont"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0042-0042-0042-000000000042",
-    "title": "Gué Saint-Jean — lavoir du Mondereau",
-    "category": "patrimoine_naturel",
-    "status": "publie",
-    "latitude": 48.1985,
-    "longitude": 3.2875,
-    "coverPhotoUrl": null,
-    "periodStart": 1200,
-    "periodEnd": 1900,
-    "createdBy": {
-      "id": "c3333333-3333-3333-3333-333333333333",
-      "name": "Marie Dupont"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0043-0043-0043-000000000043",
-    "title": "Immeuble Art Nouveau — boulevard de Maupeou",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1983,
-    "longitude": 3.2775,
-    "coverPhotoUrl": null,
-    "periodStart": 1908,
-    "periodEnd": 1909,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0044-0044-0044-000000000044",
-    "title": "Place du Tau — ancien cimetière juif",
-    "category": "mobilier_urbain",
-    "status": "publie",
-    "latitude": 48.1972,
-    "longitude": 3.2835,
-    "coverPhotoUrl": null,
-    "periodStart": 1100,
-    "periodEnd": 1394,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0045-0045-0045-000000000045",
-    "title": "Hôtel de Bourrienne — maison de Marivaux",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.196,
-    "longitude": 3.285,
-    "coverPhotoUrl": null,
-    "periodStart": 1600,
-    "periodEnd": 1800,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0046-0046-0046-000000000046",
-    "title": "Abbaye Saint-Rémy — détruite (mémoire)",
-    "category": "edifice_religieux",
-    "status": "publie",
-    "latitude": 48.1955,
-    "longitude": 3.281,
-    "coverPhotoUrl": null,
-    "periodStart": 830,
-    "periodEnd": 886,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0047-0047-0047-000000000047",
-    "title": "Ancien Hôtel-Dieu — démoli (mémoire)",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1976,
-    "longitude": 3.283,
-    "coverPhotoUrl": null,
-    "periodStart": 1100,
-    "periodEnd": 1850,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0049-0049-0049-000000000049",
-    "title": "Caserne Gémeau — école nationale de police",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1995,
-    "longitude": 3.2865,
-    "coverPhotoUrl": null,
-    "periodStart": 1880,
-    "periodEnd": 1928,
-    "createdBy": {
-      "id": "c3333333-3333-3333-3333-333333333333",
-      "name": "Marie Dupont"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0050-0050-0050-000000000050",
-    "title": "Église Notre-Dame-des-Neiges",
-    "category": "edifice_religieux",
-    "status": "publie",
-    "latitude": 48.199,
-    "longitude": 3.278,
-    "coverPhotoUrl": null,
-    "periodStart": 1900,
+    "periodStart": 1850,
     "periodEnd": 1950,
     "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0051-0051-0051-000000000051",
-    "title": "Ferme de Champbertrand",
-    "category": "patrimoine_naturel",
-    "status": "publie",
-    "latitude": 48.192,
-    "longitude": 3.275,
-    "coverPhotoUrl": null,
-    "periodStart": 1800,
-    "periodEnd": 2024,
-    "createdBy": {
       "id": "c3333333-3333-3333-3333-333333333333",
       "name": "Marie Dupont"
     },
-    "contributionCount": 0
+    "contributionCount": 2
+  },
+  {
+    "id": "e5555555-0055-0055-0055-000000000055",
+    "title": "Anciennes tanneries du quartier sud",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.194,
+    "longitude": 3.28,
+    "coverPhotoUrl": null,
+    "periodStart": 1600,
+    "periodEnd": 1950,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 2
   },
   {
     "id": "e5555555-0052-0052-0052-000000000052",
@@ -816,6 +816,38 @@
     "contributionCount": 2
   },
   {
+    "id": "e5555555-0025-0025-0025-000000000025",
+    "title": "Carmel de Sens",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.1978,
+    "longitude": 3.2881,
+    "coverPhotoUrl": null,
+    "periodStart": 1520,
+    "periodEnd": 1995,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 2
+  },
+  {
+    "id": "d2deea90-b7b7-5d6e-85b0-a3b0add7c83a",
+    "title": "Chapelle de la Maladrerie (ancienne)",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.0501546567137,
+    "longitude": 3.29918912551132,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1299,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 2
+  },
+  {
     "id": "e5555555-0053-0053-0053-000000000053",
     "title": "Château de Noslon — maison de plaisance des archevêques",
     "category": "batiment_historique",
@@ -829,37 +861,245 @@
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 1
+    "contributionCount": 2
   },
   {
-    "id": "e5555555-0054-0054-0054-000000000054",
-    "title": "Ancienne usine à plomb — manufacture Lelièvre et Muleur",
-    "category": "batiment_historique",
+    "id": "e5555555-0027-0027-0027-000000000027",
+    "title": "Couvent des Jacobins — vestiges",
+    "category": "edifice_religieux",
     "status": "publie",
-    "latitude": 48.195,
-    "longitude": 3.287,
+    "latitude": 48.1975,
+    "longitude": 3.285,
     "coverPhotoUrl": null,
-    "periodStart": 1850,
-    "periodEnd": 1950,
+    "periodStart": 1227,
+    "periodEnd": 1790,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 2
+  },
+  {
+    "id": "e5555555-0032-0032-0032-000000000032",
+    "title": "Ermitage Saint-Bond — Paron",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.189,
+    "longitude": 3.265,
+    "coverPhotoUrl": null,
+    "periodStart": 100,
+    "periodEnd": 1850,
     "createdBy": {
       "id": "c3333333-3333-3333-3333-333333333333",
       "name": "Marie Dupont"
     },
-    "contributionCount": 1
+    "contributionCount": 2
   },
   {
-    "id": "e5555555-0055-0055-0055-000000000055",
-    "title": "Anciennes tanneries du quartier sud",
+    "id": "e5555555-0026-0026-0026-000000000026",
+    "title": "Hôtel de Vaudricourt",
     "category": "batiment_historique",
     "status": "publie",
-    "latitude": 48.194,
-    "longitude": 3.28,
+    "latitude": 48.1964,
+    "longitude": 3.2847,
     "coverPhotoUrl": null,
     "periodStart": 1600,
-    "periodEnd": 1950,
+    "periodEnd": 1700,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 2
+  },
+  {
+    "id": "e5555555-0072-0072-0072-000000000072",
+    "title": "Maison Joseph Joubert — philosophe et moraliste",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.0805,
+    "longitude": 3.3002,
+    "coverPhotoUrl": null,
+    "periodStart": 1754,
+    "periodEnd": 1824,
     "createdBy": {
       "id": "b2222222-2222-2222-2222-222222222222",
       "name": "Bernard Moreau"
+    },
+    "contributionCount": 2
+  },
+  {
+    "id": "e5555555-0039-0039-0039-000000000039",
+    "title": "Maison de l'Œuvre — ancienne bibliothèque du Chapitre",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1977,
+    "longitude": 3.284,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 2015,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 2
+  },
+  {
+    "id": "e5555555-0023-0023-0023-000000000023",
+    "title": "Moulin de la Vierge",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1947,
+    "longitude": 3.2867,
+    "coverPhotoUrl": null,
+    "periodStart": 1400,
+    "periodEnd": 1800,
+    "createdBy": {
+      "id": "c3333333-3333-3333-3333-333333333333",
+      "name": "Marie Dupont"
+    },
+    "contributionCount": 2
+  },
+  {
+    "id": "e5555555-0036-0036-0036-000000000036",
+    "title": "Palais de justice — ancien palais royal",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1969,
+    "longitude": 3.2825,
+    "coverPhotoUrl": null,
+    "periodStart": 300,
+    "periodEnd": 1900,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 2
+  },
+  {
+    "id": "e81ce465-636e-528d-b7b8-476250719ae1",
+    "title": "Vieux pont",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.2868621224401,
+    "longitude": 3.20567682950089,
+    "coverPhotoUrl": null,
+    "periodStart": 1600,
+    "periodEnd": 1699,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 2
+  },
+  {
+    "id": "e5555555-0046-0046-0046-000000000046",
+    "title": "Abbaye Saint-Rémy — détruite (mémoire)",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.1955,
+    "longitude": 3.281,
+    "coverPhotoUrl": null,
+    "periodStart": 830,
+    "periodEnd": 886,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "33b80e6e-1893-56a0-8339-183878a4227b",
+    "title": "Abbaye Sainte-Colombe (ancienne)",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.21618513524271,
+    "longitude": 3.27240799989781,
+    "coverPhotoUrl": null,
+    "periodStart": 1100,
+    "periodEnd": 1199,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "57131c64-5c7d-5618-80bb-a6d6d7477d51",
+    "title": "Ancien archevêché ou ancien palais archiépiscopal",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1979053120277,
+    "longitude": 3.28440112932275,
+    "coverPhotoUrl": null,
+    "periodStart": null,
+    "periodEnd": null,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "26876bb3-aa90-5c49-88a0-f642fb52a2b3",
+    "title": "Ancien château des Comtes de Gondi",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 47.9824540685746,
+    "longitude": 3.39849049359428,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0029-0029-0029-000000000029",
+    "title": "Ancien couvent des Dominicaines de Sens",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.1972,
+    "longitude": 3.2862,
+    "coverPhotoUrl": null,
+    "periodStart": 1248,
+    "periodEnd": 1790,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0063-0063-0063-000000000063",
+    "title": "Ancien hospice des orphelines — fondation Bellocier",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1978,
+    "longitude": 3.275,
+    "coverPhotoUrl": null,
+    "periodStart": 1650,
+    "periodEnd": 1900,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "017d30fa-53d2-5292-b6c0-a5ff5538c7aa",
+    "title": "Ancienne abbaye cistercienne de Vauluisant",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.2655726971368,
+    "longitude": 3.53732489221738,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
     },
     "contributionCount": 1
   },
@@ -877,7 +1117,343 @@
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 0
+    "contributionCount": 1
+  },
+  {
+    "id": "f9e7c966-d003-57fb-9241-23e41cb3905a",
+    "title": "Centre commercial dessiné par Claude Parent",
+    "category": "autre",
+    "status": "publie",
+    "latitude": 48.1870370842754,
+    "longitude": 3.30347589593828,
+    "coverPhotoUrl": null,
+    "periodStart": 1900,
+    "periodEnd": 1999,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "14017bf3-e89d-57da-87d9-f6ff70812932",
+    "title": "Château de Vauguillain (ancien)",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.02710831945561,
+    "longitude": 3.29478397563462,
+    "coverPhotoUrl": null,
+    "periodStart": 1100,
+    "periodEnd": 1199,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "b03921fb-b9b6-5cd2-b7cf-95a8711297f7",
+    "title": "Eglise Saint-André",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 47.9824205889758,
+    "longitude": 3.40109703783478,
+    "coverPhotoUrl": null,
+    "periodStart": 1300,
+    "periodEnd": 1399,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "3fdff856-64d2-54fe-9506-7263af377f29",
+    "title": "Eglise Saint-Preigts",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.19249501647361,
+    "longitude": 3.28440868129312,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1799,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "7220feb9-e96f-5bf6-b233-ff3d71b3a140",
+    "title": "Eglise abbatiale Saint-Pierre",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.0904458177789,
+    "longitude": 2.78937683595804,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "65c2dd6f-d73c-502f-9b24-45cded417a46",
+    "title": "Enceinte (ancienne)",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1962570337095,
+    "longitude": 3.28803522066171,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1299,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "1bb386e1-81f4-5fea-95a7-03f854855fcd",
+    "title": "Enceinte (restes)",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.0853922423714,
+    "longitude": 3.2943248860001,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1299,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0051-0051-0051-000000000051",
+    "title": "Ferme de Champbertrand",
+    "category": "patrimoine_naturel",
+    "status": "publie",
+    "latitude": 48.192,
+    "longitude": 3.275,
+    "coverPhotoUrl": null,
+    "periodStart": 1800,
+    "periodEnd": 2024,
+    "createdBy": {
+      "id": "c3333333-3333-3333-3333-333333333333",
+      "name": "Marie Dupont"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0033-0033-0033-000000000033",
+    "title": "Fontaine d'Azon — lieu du supplice de Sainte-Colombe",
+    "category": "patrimoine_naturel",
+    "status": "publie",
+    "latitude": 48.208,
+    "longitude": 3.27,
+    "coverPhotoUrl": null,
+    "periodStart": 274,
+    "periodEnd": 274,
+    "createdBy": {
+      "id": "c3333333-3333-3333-3333-333333333333",
+      "name": "Marie Dupont"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0007-0007-0007-000000000007",
+    "title": "Fontaine de la Samaritaine",
+    "category": "mobilier_urbain",
+    "status": "publie",
+    "latitude": 48.1965,
+    "longitude": 3.2855,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1800,
+    "createdBy": {
+      "id": "c3333333-3333-3333-3333-333333333333",
+      "name": "Marie Dupont"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "2d238231-9b26-59c1-adcb-69d189d626ad",
+    "title": "Grange dîmière de la ferme de Malesherbes",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.383666298086,
+    "longitude": 3.25535695555651,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0042-0042-0042-000000000042",
+    "title": "Gué Saint-Jean — lavoir du Mondereau",
+    "category": "patrimoine_naturel",
+    "status": "publie",
+    "latitude": 48.1985,
+    "longitude": 3.2875,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1900,
+    "createdBy": {
+      "id": "c3333333-3333-3333-3333-333333333333",
+      "name": "Marie Dupont"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "62be6b4f-dd0f-5566-ac2b-7c5940d9b3f8",
+    "title": "Immeuble de rapport Art Nouveau",
+    "category": "autre",
+    "status": "publie",
+    "latitude": 48.1983231916256,
+    "longitude": 3.27767936619047,
+    "coverPhotoUrl": null,
+    "periodStart": 1900,
+    "periodEnd": 1999,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "79e77245-e3cb-57d6-97f2-c627b9b4900a",
+    "title": "Maison Puynesge",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 47.9821912801238,
+    "longitude": 3.39978718178096,
+    "coverPhotoUrl": null,
+    "periodStart": 1600,
+    "periodEnd": 1699,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0069-0069-0069-000000000069",
+    "title": "Maison des Sept Têtes — Villeneuve-sur-Yonne",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.08,
+    "longitude": 3.2995,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1600,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "9b64f46e-6327-5b17-81bb-a6aeab0d7760",
+    "title": "Maison dite L'Arbre de Jessé",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 47.9831795096781,
+    "longitude": 3.3959938789320505,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "f822af06-b484-5c6d-84f6-00dff5a5dc5e",
+    "title": "Maison dite des Sept-Têtes",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.0825210251548,
+    "longitude": 3.2942504049839,
+    "coverPhotoUrl": null,
+    "periodStart": 1600,
+    "periodEnd": 1699,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "a3e4baf5-b13d-5aeb-b2d0-ca3ec1b7a15e",
+    "title": "Maison dite du Chapitre",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.0317842398253,
+    "longitude": 3.29617819365482,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1299,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "8532ac54-f8a3-59d9-892a-82e49c48efac",
+    "title": "Maison dite du Portail",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1958419015466,
+    "longitude": 3.28303872332944,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "f06ee12b-bab4-533e-b92c-7b119d959208",
+    "title": "Maisons",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1966499050506,
+    "longitude": 3.2845480525996,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1799,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "d051dfc7-73df-5e04-ad4c-cb138b6ae59a",
+    "title": "Maisons expérimentales construites par Jean Daladier",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.05433070376676,
+    "longitude": 3.265607933055583,
+    "coverPhotoUrl": null,
+    "periodStart": 1900,
+    "periodEnd": 1999,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
   },
   {
     "id": "e5555555-0057-0057-0057-000000000057",
@@ -893,23 +1469,167 @@
       "id": "d4444444-4444-4444-4444-444444444444",
       "name": "Claire Martin"
     },
-    "contributionCount": 0
+    "contributionCount": 1
   },
   {
-    "id": "e5555555-0058-0058-0058-000000000058",
-    "title": "Hôtel de la Pointe — ancien marché au poisson",
+    "id": "e5555555-0044-0044-0044-000000000044",
+    "title": "Place du Tau — ancien cimetière juif",
+    "category": "mobilier_urbain",
+    "status": "publie",
+    "latitude": 48.1972,
+    "longitude": 3.2835,
+    "coverPhotoUrl": null,
+    "periodStart": 1100,
+    "periodEnd": 1394,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "45863353-0a07-5ecd-834a-7f7406d76283",
+    "title": "Porte Saint-Jean",
     "category": "batiment_historique",
     "status": "publie",
-    "latitude": 48.1975,
-    "longitude": 3.282,
+    "latitude": 47.9827475678963,
+    "longitude": 3.39775277925872,
     "coverPhotoUrl": null,
-    "periodStart": 1537,
-    "periodEnd": 1537,
+    "periodStart": 1200,
+    "periodEnd": 1299,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0067-0067-0067-000000000067",
+    "title": "Porte de Joigny — Villeneuve-sur-Yonne",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.078,
+    "longitude": 3.299,
+    "coverPhotoUrl": null,
+    "periodStart": 1163,
+    "periodEnd": 1200,
     "createdBy": {
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 0
+    "contributionCount": 1
+  },
+  {
+    "id": "3e764774-a6dc-5f6d-b1e1-c5800200e114",
+    "title": "Portes de Sens et de Joigny",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.085150034072,
+    "longitude": 3.29511993963447,
+    "coverPhotoUrl": null,
+    "periodStart": 1300,
+    "periodEnd": 1399,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0009-0009-0009-000000000009",
+    "title": "Poterne des Quatre-Mares",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1958,
+    "longitude": 3.2853,
+    "coverPhotoUrl": null,
+    "periodStart": 1250,
+    "periodEnd": 1300,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "2427a5bc-7a6d-581f-ba46-d40358a85b61",
+    "title": "Prieuré de Notre-Dame (ancien)",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 47.9824125657096,
+    "longitude": 3.40082001918946,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1299,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "1193d3e3-de4a-5db2-afd5-530fd0969524",
+    "title": "Propriété dite Castel des Remparts contiguë à la Porte de Sens",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.0850537567764,
+    "longitude": 3.29501395082288,
+    "coverPhotoUrl": null,
+    "periodStart": 1800,
+    "periodEnd": 1899,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "9cad9559-1842-5226-b676-625a6d8d2fc8",
+    "title": "Quartier Dubois-Thainville",
+    "category": "autre",
+    "status": "publie",
+    "latitude": 47.9810029398294,
+    "longitude": 3.39947840264914,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1799,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0037-0037-0037-000000000037",
+    "title": "Sous-préfecture de Sens",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1978,
+    "longitude": 3.281,
+    "coverPhotoUrl": null,
+    "periodStart": 1790,
+    "periodEnd": 1863,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 1
+  },
+  {
+    "id": "e5555555-0021-0021-0021-000000000021",
+    "title": "Église Saint-Pregts (Saint-Prix)",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.1925,
+    "longitude": 3.2847,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1500,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 1
   },
   {
     "id": "e5555555-0059-0059-0059-000000000059",
@@ -921,86 +1641,6 @@
     "coverPhotoUrl": null,
     "periodStart": 1700,
     "periodEnd": 1850,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0060-0060-0060-000000000060",
-    "title": "Hôtel de Paris et de la Poste — démoli (mémoire)",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1975,
-    "longitude": 3.2815,
-    "coverPhotoUrl": null,
-    "periodStart": 1776,
-    "periodEnd": 2020,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0061-0061-0061-000000000061",
-    "title": "Presse sénonaise — du Sénonais Libéré à l'Indépendant",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.197,
-    "longitude": 3.2832,
-    "coverPhotoUrl": null,
-    "periodStart": 1845,
-    "periodEnd": 2024,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 1
-  },
-  {
-    "id": "e5555555-0062-0062-0062-000000000062",
-    "title": "Square Jean Cousin — statue du peintre",
-    "category": "mobilier_urbain",
-    "status": "publie",
-    "latitude": 48.1938,
-    "longitude": 3.2835,
-    "coverPhotoUrl": null,
-    "periodStart": 1880,
-    "periodEnd": 1880,
-    "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0063-0063-0063-000000000063",
-    "title": "Ancien hospice des orphelines — fondation Bellocier",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1978,
-    "longitude": 3.275,
-    "coverPhotoUrl": null,
-    "periodStart": 1650,
-    "periodEnd": 1900,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0064-0064-0064-000000000064",
-    "title": "Temple maçonnique — Grand Orient de France",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.1955,
-    "longitude": 3.277,
-    "coverPhotoUrl": null,
-    "periodStart": 1850,
-    "periodEnd": 2024,
     "createdBy": {
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
@@ -1024,47 +1664,159 @@
     "contributionCount": 0
   },
   {
-    "id": "e5555555-0066-0066-0066-000000000066",
-    "title": "Porte de Sens — Villeneuve-sur-Yonne",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.0814,
-    "longitude": 3.3006,
-    "coverPhotoUrl": null,
-    "periodStart": 1163,
-    "periodEnd": 1200,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0067-0067-0067-000000000067",
-    "title": "Porte de Joigny — Villeneuve-sur-Yonne",
-    "category": "batiment_historique",
-    "status": "publie",
-    "latitude": 48.078,
-    "longitude": 3.299,
-    "coverPhotoUrl": null,
-    "periodStart": 1163,
-    "periodEnd": 1200,
-    "createdBy": {
-      "id": "a1111111-1111-1111-1111-111111111111",
-      "name": "Denis Archambault"
-    },
-    "contributionCount": 0
-  },
-  {
-    "id": "e5555555-0068-0068-0068-000000000068",
-    "title": "Église Notre-Dame de l'Assomption — Villeneuve-sur-Yonne",
+    "id": "a738a594-9996-5271-99a3-4927d2cf7154",
+    "title": "Carmel",
     "category": "edifice_religieux",
     "status": "publie",
-    "latitude": 48.0797,
-    "longitude": 3.3,
+    "latitude": 48.1979598992209,
+    "longitude": 3.28777878249439,
+    "coverPhotoUrl": null,
+    "periodStart": 1600,
+    "periodEnd": 1699,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "e5555555-0049-0049-0049-000000000049",
+    "title": "Caserne Gémeau — école nationale de police",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1995,
+    "longitude": 3.2865,
+    "coverPhotoUrl": null,
+    "periodStart": 1880,
+    "periodEnd": 1928,
+    "createdBy": {
+      "id": "c3333333-3333-3333-3333-333333333333",
+      "name": "Marie Dupont"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+    "title": "Cathédrale Saint-Etienne",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.1980840313301,
+    "longitude": 3.28404061151642,
+    "coverPhotoUrl": null,
+    "periodStart": 1100,
+    "periodEnd": 1199,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "9015b0ed-65cf-5304-9e95-5c760555467d",
+    "title": "Eglise Notre-Dame",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.287459629952,
+    "longitude": 3.20456559790892,
     "coverPhotoUrl": null,
     "periodStart": 1200,
-    "periodEnd": 1550,
+    "periodEnd": 1299,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "1a19e7fb-c5d4-5787-a918-929b906066ea",
+    "title": "Eglise Notre-Dame de l'Assomption",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.2026931977706,
+    "longitude": 3.00003212235915,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1799,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "7df20f32-3673-5236-98d5-9d6b7b5f2e55",
+    "title": "Eglise Saint-Pierre",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.0315476285155,
+    "longitude": 3.29568810954301,
+    "coverPhotoUrl": null,
+    "periodStart": 1300,
+    "periodEnd": 1399,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "8a75a592-0268-5e6e-98c0-12fe47256773",
+    "title": "Eglise Saint-Savinien",
+    "category": "edifice_religieux",
+    "status": "publie",
+    "latitude": 48.1965984077921,
+    "longitude": 3.30035983005312,
+    "coverPhotoUrl": null,
+    "periodStart": null,
+    "periodEnd": null,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "207f3753-e1c8-527a-b2ca-4ae5a5d59db8",
+    "title": "Hôpital Saint-Jean",
+    "category": "autre",
+    "status": "publie",
+    "latitude": 48.1974128377364,
+    "longitude": 3.29297550948162,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1799,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "f0912302-65d8-5d50-8fd4-0a5a5b94ffa5",
+    "title": "Hôtel",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.196438946416,
+    "longitude": 3.28412036367621,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1799,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "e5555555-0035-0035-0035-000000000035",
+    "title": "Hôtel Le Fournier d'Yauville",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1967,
+    "longitude": 3.2844,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1800,
     "createdBy": {
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
@@ -1072,15 +1824,15 @@
     "contributionCount": 0
   },
   {
-    "id": "e5555555-0069-0069-0069-000000000069",
-    "title": "Maison des Sept Têtes — Villeneuve-sur-Yonne",
+    "id": "e5555555-0045-0045-0045-000000000045",
+    "title": "Hôtel de Bourrienne — maison de Marivaux",
     "category": "batiment_historique",
     "status": "publie",
-    "latitude": 48.08,
-    "longitude": 3.2995,
+    "latitude": 48.196,
+    "longitude": 3.285,
     "coverPhotoUrl": null,
-    "periodStart": 1500,
-    "periodEnd": 1600,
+    "periodStart": 1600,
+    "periodEnd": 1800,
     "createdBy": {
       "id": "b2222222-2222-2222-2222-222222222222",
       "name": "Bernard Moreau"
@@ -1088,20 +1840,244 @@
     "contributionCount": 0
   },
   {
-    "id": "e5555555-0070-0070-0070-000000000070",
-    "title": "Enceinte médiévale — cité royale de Villeneuve-sur-Yonne",
+    "id": "e5555555-0060-0060-0060-000000000060",
+    "title": "Hôtel de Paris et de la Poste — démoli (mémoire)",
     "category": "batiment_historique",
     "status": "publie",
-    "latitude": 48.0795,
-    "longitude": 3.2998,
+    "latitude": 48.1975,
+    "longitude": 3.2815,
     "coverPhotoUrl": null,
-    "periodStart": 1163,
-    "periodEnd": 1350,
+    "periodStart": 1776,
+    "periodEnd": 2020,
+    "createdBy": {
+      "id": "b2222222-2222-2222-2222-222222222222",
+      "name": "Bernard Moreau"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "e5555555-0058-0058-0058-000000000058",
+    "title": "Hôtel de la Pointe — ancien marché au poisson",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1975,
+    "longitude": 3.282,
+    "coverPhotoUrl": null,
+    "periodStart": 1537,
+    "periodEnd": 1537,
     "createdBy": {
       "id": "a1111111-1111-1111-1111-111111111111",
       "name": "Denis Archambault"
     },
-    "contributionCount": 1
+    "contributionCount": 0
+  },
+  {
+    "id": "b4227dec-8db7-528c-8e56-f57df4c49280",
+    "title": "Hôtel de ville",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.19891815432751,
+    "longitude": 3.28283667655935,
+    "coverPhotoUrl": null,
+    "periodStart": 1900,
+    "periodEnd": 1999,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "f7e88157-2ddc-59eb-bc9f-e1ec62438dcc",
+    "title": "Hôtel de ville (ancien)",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1967067906623,
+    "longitude": 3.28142411123444,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "09550c27-0ee2-507b-be5a-8d9b25899f25",
+    "title": "Immeuble",
+    "category": "autre",
+    "status": "publie",
+    "latitude": 48.1984962778278,
+    "longitude": 3.28746312162843,
+    "coverPhotoUrl": null,
+    "periodStart": 1200,
+    "periodEnd": 1299,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "e5555555-0043-0043-0043-000000000043",
+    "title": "Immeuble Art Nouveau — boulevard de Maupeou",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1983,
+    "longitude": 3.2775,
+    "coverPhotoUrl": null,
+    "periodStart": 1908,
+    "periodEnd": 1909,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "1eeef589-0a41-50e5-ab88-8743ea8d62f2",
+    "title": "Immeubles",
+    "category": "autre",
+    "status": "publie",
+    "latitude": 47.9823246179728,
+    "longitude": 3.39497480119529,
+    "coverPhotoUrl": null,
+    "periodStart": 1400,
+    "periodEnd": 1499,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "9010ddd8-5994-5464-bce8-cb335b417383",
+    "title": "Lycée",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1988139891957,
+    "longitude": 3.28806291130586,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1799,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "03844ddf-4d32-54e3-a0d9-31fff95c295e",
+    "title": "Maison",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.198240776024804,
+    "longitude": 3.28485340405288,
+    "coverPhotoUrl": null,
+    "periodStart": 1600,
+    "periodEnd": 1699,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "ec45c3ff-424d-5514-98c1-ec67538dfff3",
+    "title": "Maison Joseph-Joubert",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.0817585378108,
+    "longitude": 3.29355522277548,
+    "coverPhotoUrl": null,
+    "periodStart": 1700,
+    "periodEnd": 1799,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "e5555555-0038-0038-0038-000000000038",
+    "title": "Maison de l'Aviler",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1945,
+    "longitude": 3.29,
+    "coverPhotoUrl": null,
+    "periodStart": 1573,
+    "periodEnd": 1800,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "e5555555-0018-0018-0018-000000000018",
+    "title": "Maison du Portail",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1958,
+    "longitude": 3.2817,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1600,
+    "createdBy": {
+      "id": "a1111111-1111-1111-1111-111111111111",
+      "name": "Denis Archambault"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "722f60fa-4a41-5572-8a4d-f3d19756f7d4",
+    "title": "Maison à pans de bois",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.030590105942906,
+    "longitude": 3.29547158276782,
+    "coverPhotoUrl": null,
+    "periodStart": 1400,
+    "periodEnd": 1499,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "99a2519a-4ef0-509e-8617-474e98d9f0a2",
+    "title": "Marché couvert",
+    "category": "autre",
+    "status": "publie",
+    "latitude": 48.1978887433146,
+    "longitude": 3.28185138584518,
+    "coverPhotoUrl": null,
+    "periodStart": null,
+    "periodEnd": null,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "0b2d2262-ea1a-5363-9e9b-a25f3614b536",
+    "title": "Menhir",
+    "category": "patrimoine_naturel",
+    "status": "publie",
+    "latitude": 48.0649361165523,
+    "longitude": 3.28701916960713,
+    "coverPhotoUrl": null,
+    "periodStart": null,
+    "periodEnd": null,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
   },
   {
     "id": "e5555555-0071-0071-0071-000000000071",
@@ -1120,19 +2096,83 @@
     "contributionCount": 0
   },
   {
-    "id": "e5555555-0072-0072-0072-000000000072",
-    "title": "Maison Joseph Joubert — philosophe et moraliste",
+    "id": "d3b2ec73-03b7-58dc-81c8-7f702207e7f9",
+    "title": "Monument aux morts",
+    "category": "mobilier_urbain",
+    "status": "publie",
+    "latitude": 48.07988086472024,
+    "longitude": 3.2941988278910648,
+    "coverPhotoUrl": null,
+    "periodStart": 1900,
+    "periodEnd": 1999,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "2740be49-4893-5b78-aeb7-29c9cb5847f7",
+    "title": "Musée Jean-Cousin",
+    "category": "autre",
+    "status": "publie",
+    "latitude": 48.1956735388835,
+    "longitude": 3.28082288819789,
+    "coverPhotoUrl": null,
+    "periodStart": 1500,
+    "periodEnd": 1599,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "c7512ca5-9808-50d6-9f30-3c58232ebbaa",
+    "title": "Palais de Justice",
     "category": "batiment_historique",
     "status": "publie",
-    "latitude": 48.0805,
-    "longitude": 3.3002,
+    "latitude": 47.982928769115745,
+    "longitude": 3.4006577930023365,
     "coverPhotoUrl": null,
-    "periodStart": 1754,
-    "periodEnd": 1824,
+    "periodStart": 1500,
+    "periodEnd": 1599,
     "createdBy": {
-      "id": "b2222222-2222-2222-2222-222222222222",
-      "name": "Bernard Moreau"
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
     },
-    "contributionCount": 1
+    "contributionCount": 0
+  },
+  {
+    "id": "7b77e396-309a-518b-a346-5ed8fd58c4bd",
+    "title": "Rempart gallo-romain",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.1951791518201,
+    "longitude": 3.28265513395176,
+    "coverPhotoUrl": null,
+    "periodStart": null,
+    "periodEnd": null,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
+  },
+  {
+    "id": "e76ca3ff-d9d6-5455-85d2-ff1fee74ff1c",
+    "title": "Théâtre municipal",
+    "category": "batiment_historique",
+    "status": "publie",
+    "latitude": 48.2000332969606,
+    "longitude": 3.28174574251795,
+    "coverPhotoUrl": null,
+    "periodStart": 1800,
+    "periodEnd": 1899,
+    "createdBy": {
+      "id": "s0000000-0000-0000-0000-000000000000",
+      "name": "Import Merimee"
+    },
+    "contributionCount": 0
   }
 ]
