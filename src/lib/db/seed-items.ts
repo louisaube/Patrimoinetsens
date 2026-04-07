@@ -12,7 +12,7 @@ import { DENIS, BERNARD, MARIE, CLAIRE } from './seed-users'
 // -----------------------------------------------------------------------------
 
 export const seedHeritageItems = [
-  // 1. Cathédrale Saint-Étienne — MH classé 1840, PA00113853
+  // 1. Cathédrale Saint-Étienne — MH classé 1840, PA00113853. Chantier démarré ~1135-1140.
   {
     id: 'e5555555-0001-0001-0001-000000000001',
     createdBy: DENIS,
@@ -21,8 +21,8 @@ export const seedHeritageItems = [
     status: 'publie' as const,
     latitude: 48.1979,
     longitude: 3.2837,
-    coverPhotoUrl: null,
-    periodStart: 1130,
+    coverPhotoUrl: '/images/cathedrale-1848.jpg',
+    periodStart: 1135,
     periodEnd: 1534,
   },
   // 2. Palais synodal — MH classé 1862, PA00113883. XIIIe s., restauré Viollet-le-Duc
@@ -116,15 +116,15 @@ export const seedHeritageItems = [
     periodStart: 1800,
     periodEnd: 1900,
   },
-  // 9. Poterne des Quatre-Mares — MH classé 1905, PA00113859. XIIIe s. sur enceinte romaine
+  // 9. Poterne des Quatre-Mares — MH classé 1905, PA00113859. XIIIe s. sur enceinte romaine. 21 bd du 14 Juillet.
   {
     id: 'e5555555-0009-0009-0009-000000000009',
     createdBy: BERNARD,
     title: 'Poterne des Quatre-Mares',
     category: 'batiment_historique' as const,
     status: 'publie' as const,
-    latitude: 48.1958,
-    longitude: 3.2853,
+    latitude: 48.1953,
+    longitude: 3.2851,
     coverPhotoUrl: null,
     periodStart: 1250,
     periodEnd: 1300,
@@ -190,7 +190,7 @@ export const seedHeritageItems = [
     status: 'publie' as const,
     latitude: 48.1953,
     longitude: 3.2794,
-    coverPhotoUrl: null,
+    coverPhotoUrl: '/images/porte-notre-dame-vauzelle.jpg',
     periodStart: 270,
     periodEnd: 1850,
   },
@@ -220,7 +220,7 @@ export const seedHeritageItems = [
     periodStart: 1904,
     periodEnd: 1925,
   },
-  // 17. Maison Jean Cousin (musée) — MH inscrit 1970, PA00113882
+  // 17. Maison Jean Cousin (musée) — MH inscrit 1970, PA00113882. Jean Cousin le Père né ~1490 à Soucy.
   {
     id: 'e5555555-0017-0017-0017-000000000017',
     createdBy: BERNARD,
@@ -230,8 +230,8 @@ export const seedHeritageItems = [
     latitude: 48.1958,
     longitude: 3.2808,
     coverPhotoUrl: null,
-    periodStart: 1500,
-    periodEnd: 1600,
+    periodStart: 1490,
+    periodEnd: 1594,
   },
   // 18. Maison du Portail — MH classé 1923, PA00113877
   {
@@ -433,15 +433,15 @@ export const seedHeritageItems = [
     periodStart: 100,
     periodEnd: 1850,
   },
-  // 33. Fontaine d'Azon (Saint-Clément) — lieu du supplice de Sainte-Colombe
+  // 33. Fontaine d'Azon (Saint-Clément) — lieu du supplice de Sainte-Colombe. 12 rue Sainte-Colombe.
   {
     id: 'e5555555-0033-0033-0033-000000000033',
     createdBy: MARIE,
     title: "Fontaine d'Azon — lieu du supplice de Sainte-Colombe",
     category: 'patrimoine_naturel' as const,
     status: 'publie' as const,
-    latitude: 48.2080,
-    longitude: 3.2700,
+    latitude: 48.2239,
+    longitude: 3.2838,
     coverPhotoUrl: null,
     periodStart: 274,
     periodEnd: 274,
@@ -550,15 +550,15 @@ export const seedHeritageItems = [
     periodStart: 1970,
     periodEnd: 1970,
   },
-  // 42. Gué Saint-Jean / lavoir du Mondereau
+  // 42. Gué Saint-Jean / lavoir du Mondereau — rue du Gué Saint-Jean, près du ru de Mondereau
   {
     id: 'e5555555-0042-0042-0042-000000000042',
     createdBy: MARIE,
     title: 'Gué Saint-Jean — lavoir du Mondereau',
     category: 'patrimoine_naturel' as const,
     status: 'publie' as const,
-    latitude: 48.1985,
-    longitude: 3.2875,
+    latitude: 48.1983,
+    longitude: 3.2908,
     coverPhotoUrl: null,
     periodStart: 1200,
     periodEnd: 1900,
@@ -602,15 +602,15 @@ export const seedHeritageItems = [
     periodStart: 1600,
     periodEnd: 1800,
   },
-  // 46. Abbaye Saint-Rémy (détruite ~886) — fondée 830, détruite par les Normands
+  // 46. Abbaye Saint-Rémy (détruite ~886) — fondée 830, détruite par les Normands. Site : école maternelle Cours Tarbé.
   {
     id: 'e5555555-0046-0046-0046-000000000046',
     createdBy: DENIS,
     title: 'Abbaye Saint-Rémy — détruite (mémoire)',
     category: 'edifice_religieux' as const,
     status: 'publie' as const,
-    latitude: 48.1955,
-    longitude: 3.2810,
+    latitude: 48.1950,
+    longitude: 3.2780,
     coverPhotoUrl: null,
     periodStart: 830,
     periodEnd: 886,
@@ -972,5 +972,79 @@ export const seedHeritageItems = [
     coverPhotoUrl: '/images/potins/tete-indien-avers.jpg',
     periodStart: -200,
     periodEnd: -52,
+  },
+  // =========================================================================
+  // Items 74–78 — Personnalités sénonaises + patrimoine immatériel
+  // =========================================================================
+
+  // 75. Ali le Mamelouk (Louis-Étienne Saint-Denis) — compagnon de Napoléon à Sainte-Hélène
+  {
+    id: 'e5555555-0075-0075-0075-000000000075',
+    createdBy: BERNARD,
+    title: 'Ali le Mamelouk — le dernier fidèle de Napoléon',
+    category: 'autre' as const,
+    status: 'publie' as const,
+    latitude: 48.1960,
+    longitude: 3.2835,
+    coverPhotoUrl: null,
+    periodStart: 1788,
+    periodEnd: 1856,
+  },
+  // 76. Étienne Mimard — fondateur de Manufrance, né à Sens
+  {
+    id: 'e5555555-0076-0076-0076-000000000076',
+    createdBy: BERNARD,
+    title: 'Étienne Mimard — fondateur de Manufrance',
+    category: 'autre' as const,
+    status: 'publie' as const,
+    latitude: 48.1965,
+    longitude: 3.2830,
+    coverPhotoUrl: null,
+    periodStart: 1862,
+    periodEnd: 1944,
+  },
+  // 77. Jules Guichard — du Sénonais au Canal de Suez
+  {
+    id: 'e5555555-0077-0077-0077-000000000077',
+    createdBy: BERNARD,
+    title: 'Jules Guichard — du Sénonais au Canal de Suez',
+    category: 'autre' as const,
+    status: 'publie' as const,
+    latitude: 48.1970,
+    longitude: 3.2840,
+    coverPhotoUrl: null,
+    periodStart: 1827,
+    periodEnd: 1896,
+  },
+  // 78. Gaston Ramon — inventeur des anatoxines (vaccins tétanos/diphtérie)
+  {
+    id: 'e5555555-0078-0078-0078-000000000078',
+    createdBy: BERNARD,
+    title: 'Gaston Ramon — le Sénonais qui a sauvé des millions de vies',
+    category: 'autre' as const,
+    status: 'publie' as const,
+    latitude: 48.1977,
+    longitude: 3.2837,
+    coverPhotoUrl: null,
+    periodStart: 1886,
+    periodEnd: 1963,
+  },
+
+  // =========================================================================
+  // Item 74 — Gérard Daguin : mémoire numérique de Sens (patrimoine immatériel)
+  // =========================================================================
+
+  // 74. Gérard Daguin — journaliste, historien local, site histoire-sens-senonais-yonne.com
+  {
+    id: 'e5555555-0074-0074-0074-000000000074',
+    createdBy: BERNARD,
+    title: 'Gérard Daguin — mémoire numérique de Sens',
+    category: 'autre' as const,
+    status: 'publie' as const,
+    latitude: 48.1977,
+    longitude: 3.2837,
+    coverPhotoUrl: null,
+    periodStart: 1940,
+    periodEnd: 2018,
   },
 ] as const

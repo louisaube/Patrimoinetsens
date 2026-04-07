@@ -24,24 +24,19 @@ interface MarkerPopup {
   y: number
 }
 
-// ─── Couches historiques WMTS (IGN Géoplateforme — accès libre) ─────────────
-const IGN_WMTS_BASE = "https://data.geopf.fr/wmts"
-
-function ignWmtsTileUrl(layer: string, format: string, tileMatrixSet: string): string {
-  return (
-    `${IGN_WMTS_BASE}?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0` +
-    `&LAYER=${layer}&STYLE=normal&FORMAT=${encodeURIComponent(format)}` +
-    `&TILEMATRIXSET=${tileMatrixSet}&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}`
-  )
-}
-
-const HISTORICAL_TILE_SOURCES: Record<string, { url: string; maxzoom: number }> = {
+// ─── Couches historiques — tuiles locales ────────────────────────────────────
+// Tuiles historiques stockées localement (téléchargées depuis IGN Géoplateforme).
+// Cassini : zooms 6-14, 249 tuiles, 36 Mo. État-major : zooms 6-15, 298 tuiles, 5 Mo.
+// Fallback vers IGN si la tuile locale n'existe pas (hors zone pré-chargée).
+const HISTORICAL_TILE_SOURCES: Record<string, { url: string; maxzoom: number; minzoom?: number }> = {
   cassini: {
-    url: ignWmtsTileUrl("GEOGRAPHICALGRIDSYSTEMS.CASSINI", "image/jpeg", "PM"),
+    url: "/tiles/cassini/{z}/{x}/{y}.png",
+    minzoom: 6,
     maxzoom: 14,
   },
   etatmajor: {
-    url: ignWmtsTileUrl("GEOGRAPHICALGRIDSYSTEMS.ETATMAJOR40", "image/jpeg", "PM"),
+    url: "/tiles/etatmajor/{z}/{x}/{y}.jpg",
+    minzoom: 6,
     maxzoom: 15,
   },
 }
@@ -58,24 +53,75 @@ interface ImageOverlayConfig {
 }
 
 const ARCHAEOLOGICAL_PLANS: Record<string, ImageOverlayConfig> = {
+  lalande: {
+    url: "/data/plans/plan-sens-lalande-1880.jpg",
+    label: "Plan de Sens & de ses faubourgs, A. Lalande, 1880 — 22 édifices publics numérotés (Gallica/BnF)",
+    // Calage : Le plan montre NORD en haut, l'Yonne à gauche, les gares et faubourgs.
+    // La cathédrale (n°14) est au centre, la caserne en haut à droite.
+    // Emprise estimée : de Saint-Martin (NW) à Gare Saint-Savinien (SE)
+    coordinates: [
+      [3.2620, 48.2100],  // top-left (NW) — au-delà de l'île d'Yonne
+      [3.3080, 48.2100],  // top-right (NE) — au-delà de la gare Savinien
+      [3.3080, 48.1850],  // bottom-right (SE) — faubourg Saint-Pregts
+      [3.2620, 48.1850],  // bottom-left (SW) — route de Chéroy
+    ],
+  },
   roman: {
     url: "/data/plans/agedincum-restitution-trame-urbaine.jpg",
-    label: "Restitution de la trame urbaine antique (Gallia 72-1, fig. 4)",
+    label: "Restitution de la trame urbaine antique (Gallia 72-1, fig. 4, Nouvel et al. 2015)",
+    // Calage par triangulation : Forum (55%,52%) = 48.1975°N 3.2840°E,
+    // Motte du Ciar (45%,85%) = 48.1870°N, Sainte-Colombe (40%,12%) = 48.2060°N 3.2770°E
     coordinates: [
-      [3.2615, 48.2105],  // top-left (NW) — au-dessus de Sainte-Colombe
-      [3.3005, 48.2105],  // top-right (NE) — est de l'amphithéâtre
-      [3.3005, 48.1790],  // bottom-right (SE) — sud de la Motte du Ciar
-      [3.2615, 48.1790],  // bottom-left (SW) — ouest du temple
+      [3.2583, 48.2140],  // top-left (NW)
+      [3.3050, 48.2140],  // top-right (NE)
+      [3.3050, 48.1822],  // bottom-right (SE)
+      [3.2583, 48.1822],  // bottom-left (SW)
+    ],
+  },
+  highempire: {
+    url: "/data/plans/sens-haut-empire-iiie.jpg",
+    label: "Agedincum, extension max. ~160 ha, début IIIe s. — sur cadastre actuel (Gallia 78-1, Bourillon et al.)",
+    // Sur fond cadastral de Sens — emprise centrée sur le centre-ville
+    // L'Yonne est à gauche (~15% du plan), la barre d'échelle = 500m
+    coordinates: [
+      [3.2700, 48.2050],  // top-left (NW)
+      [3.3000, 48.2050],  // top-right (NE)
+      [3.3000, 48.1880],  // bottom-right (SE)
+      [3.2700, 48.1880],  // bottom-left (SW)
+    ],
+  },
+  lateantique: {
+    url: "/data/plans/sens-antiquite-tardive-iv-ve.jpg",
+    label: "Senones, Antiquité tardive IVe-Ve s. — enceinte fortifiée sur cadastre actuel (Gallia 78-1)",
+    // Même emprise que le plan Haut-Empire (même article, mêmes auteurs)
+    coordinates: [
+      [3.2700, 48.2050],
+      [3.3000, 48.2050],
+      [3.3000, 48.1880],
+      [3.2700, 48.1880],
     ],
   },
   medieval: {
     url: "/data/plans/agedincum-decouvertes-bas-empire.jpg",
-    label: "Découvertes du Bas-Empire et enceinte (Gallia 72-1, fig. 9)",
+    label: "Découvertes du Bas-Empire et enceinte (Gallia 72-1, fig. 9, Nouvel et al. 2015)",
+    // Même emprise que le plan romain (même article Gallia 72-1)
     coordinates: [
-      [3.2615, 48.2105],
-      [3.3005, 48.2105],
-      [3.3005, 48.1790],
-      [3.2615, 48.1790],
+      [3.2583, 48.2140],
+      [3.3050, 48.2140],
+      [3.3050, 48.1822],
+      [3.2583, 48.1822],
+    ],
+  },
+  diocese: {
+    url: "/data/plans/diocese-sens-outhier-1741.jpg",
+    label: "Carte topographique du diocèse de Sens, Outhier 1741 (Gallica/BnF)",
+    // Carte du diocèse — couvre toute la région sénonaise
+    // Calage approximatif sur l'emprise du diocèse (Sens au centre)
+    coordinates: [
+      [2.7000, 48.6500],  // top-left (NW)
+      [3.9000, 48.6500],  // top-right (NE)
+      [3.9000, 47.8000],  // bottom-right (SE)
+      [2.7000, 47.8000],  // bottom-left (SW)
     ],
   },
 }
@@ -153,6 +199,7 @@ export function HeritageMap({
               type: "raster",
               tiles: [src.url],
               tileSize: 256,
+              minzoom: src.minzoom ?? 0,
               maxzoom: src.maxzoom,
               attribution: "© IGN — Géoplateforme",
             })

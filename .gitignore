@@ -18,5 +18,21 @@ yarn-debug.log*
 tools/gallica-rag/output/
 tools/gallica-rag/.env
 
+# Tuiles cartographiques locales (trop lourdes pour git, générées par script)
+public/tiles/
+
+# Scraping output (données brutes, régénérables)
+tools/scraping/output/poree/pages/
+tools/scraping/output/daguin-archive/
+tools/scraping/output/gallica-books/
+tools/scraping/output/gallica-ocr/julliot_pages/
+
+# Plans Gallica haute résolution (PDFs originaux et extractions)
+public/data/plans/gallica/*.pdf
+
+# Cache Python
+__pycache__/
+*.pyc
+
 # Claude Code local settings
 .claude/settings.local.json

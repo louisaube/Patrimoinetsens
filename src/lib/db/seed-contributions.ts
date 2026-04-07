@@ -20,7 +20,7 @@ export const seedContributions = [
     authorId: DENIS,
     contributionType: 'historique' as const,
     title: 'Sens, berceau du gothique ? Le débat des historiens',
-    body: "On dit souvent que la cathédrale de Sens est « la première cathédrale gothique de France ». La réalité est plus compliquée — et plus intéressante. Les travaux ont démarré vers 1135-1140 sous l'archevêque Henri Sanglier. Mais quand parle-t-on de « première » ? À la pose de la première pierre ? Personne ne connaît la date exacte. À l'achèvement ? Les travaux ont duré quatre siècles. Et l'abbatiale de Saint-Denis, construite par l'abbé Suger dès 1135, utilise déjà la croisée d'ogives — mais ce n'est pas une cathédrale, c'est une abbatiale. Noyon, Laon, Paris ont suivi peu après. Ce qui est sûr : Sens est l'un des tout premiers grands édifices à utiliser ensemble les voûtes d'ogives, les grandes fenêtres et les arcs-boutants. Le chœur a été consacré en 1164 en présence du pape Alexandre III. Le trésor conserve la chape de Thomas Becket, réfugié à Sens entre 1164 et 1166.",
+    body: "On dit souvent que la cathédrale de Sens est « la première cathédrale gothique de France ». La réalité est plus compliquée — et plus intéressante. Les travaux ont démarré vers 1135-1140 sous l'archevêque Henri Sanglier. Mais quand parle-t-on de « première » ? À la pose de la première pierre ? Personne ne connaît la date exacte. À l'achèvement ? Les travaux ont duré quatre siècles. Et l'abbatiale de Saint-Denis, construite par l'abbé Suger dès 1135, utilise déjà la croisée d'ogives — mais ce n'est pas une cathédrale, c'est une abbatiale. Noyon, Laon, Paris ont suivi peu après. Ce qui est sûr : Sens est l'un des tout premiers grands édifices à utiliser ensemble les voûtes d'ogives, les grandes fenêtres et les arcs-boutants. Le chœur a été consacré en 1164 en présence du pape Alexandre III. Le trésor conserve la chape de Thomas Becket, réfugié en France de 1164 à 1170 — d'abord à l'abbaye de Pontigny (1164-1166), puis à l'abbaye Sainte-Colombe de Sens (1166-1170).",
     sources: [
       'Prache, Anne. "Sens. La cathédrale Saint-Étienne." Congrès Archéologique de France, 1986.',
       'Bulletin de la Société Archéologique de Sens, vol. XV, 1890 (étude du chœur).',
@@ -36,8 +36,8 @@ export const seedContributions = [
     heritageItemId: 'e5555555-0001-0001-0001-000000000001',
     authorId: BERNARD,
     contributionType: 'recit' as const,
-    title: "Thomas Becket à Sens : six ans d'exil",
-    body: "En 1164, Thomas Becket, archevêque de Canterbury, s'est enfui d'Angleterre. Le roi Henri II voulait sa peau. Becket a traversé la Manche et s'est réfugié à Sens, protégé par le pape Alexandre III qui vivait ici lui aussi. Pendant six ans, Becket a prié chaque matin dans la cathédrale avant le lever du jour. Les Sénonais le croisaient dans les rues — un homme grand, maigre, habillé simplement malgré son rang. En 1170, il est retourné en Angleterre. Quatre chevaliers du roi l'ont assassiné dans sa propre cathédrale de Canterbury. Sa chape brodée d'or est encore visible dans le trésor de Sens.",
+    title: "Thomas Becket : six ans d'exil en France, quatre à Sens",
+    body: "En novembre 1164, Thomas Becket, archevêque de Canterbury, s'est enfui d'Angleterre après le concile de Northampton. Le roi Henri II voulait sa peau. Becket a traversé la Manche et s'est présenté devant le pape Alexandre III, qui résidait alors à Sens. Le pape l'a envoyé à l'abbaye de Pontigny, où il a vécu deux ans (1164-1166). Mais quand Henri II a menacé l'ordre cistercien de représailles, les moines lui ont demandé de partir. Becket est alors revenu à Sens, à l'abbaye Sainte-Colombe, où il a vécu quatre ans sous la protection du roi de France Louis VII. Les Sénonais le croisaient dans les rues — un homme grand, maigre, habillé simplement malgré son rang. En décembre 1170, il est retourné en Angleterre. Le 29 décembre, quatre chevaliers du roi l'ont assassiné dans sa propre cathédrale de Canterbury. Sa chape brodée d'or est encore visible dans le trésor de Sens.",
     sources: [
       'Daguin, Gérard. "Thomas Becket et Sens." histoire-sens-senonais-yonne.com.',
       'Barlow, Frank. "Thomas Becket." University of California Press, 1990.',
@@ -132,7 +132,7 @@ export const seedContributions = [
     authorId: BERNARD,
     contributionType: 'recit' as const,
     title: "La Maison d'Abraham : le camion, Flaubert et l'Arbre de Jessé",
-    body: "La Maison d'Abraham, rue de la République, est célèbre pour son poteau d'angle sculpté. On y voit un Arbre de Jessé : la Vierge Marie entourée de huit rois d'Israël, ses ancêtres. En 1970, un camion a renversé ce poteau. On a frôlé la catastrophe — il a fallu le restaurer pierre par pierre. Ce que peu de gens savent : Gustave Flaubert s'est inspiré de cette maison pour « L'Éducation sentimentale ». La maison porte aussi le nom de « Maison des Quatre Vents ». C'est Nicolas Mégissier qui l'a fait construire au XVIe siècle.",
+    body: "La Maison d'Abraham, rue de la République, est célèbre pour son poteau d'angle sculpté. On y voit un Arbre de Jessé : la Vierge Marie entourée de huit rois d'Israël, ses ancêtres. En 1970, un camion a renversé ce poteau. On a frôlé la catastrophe — il a fallu le restaurer pierre par pierre. La maison porte aussi le nom de « Maison des Quatre Vents ». C'est Nicolas Mégissier qui l'a fait construire au XVIe siècle. Un détail littéraire : Gustave Flaubert a séjourné à Sens en 1864, à l'Hôtel de l'Écu, pour documenter « L'Éducation sentimentale ». La tradition locale associe la Maison d'Abraham à cette visite, bien qu'aucun passage du roman ne décrive explicitement l'édifice. Le roman mentionne le collège de Sens comme cadre des souvenirs de jeunesse des personnages.",
     sources: [
       'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
       'Bulletin de la Société Archéologique de Sens, vol. XXVI, 1911.',
@@ -171,8 +171,8 @@ export const seedContributions = [
     heritageItemId: 'e5555555-0006-0006-0006-000000000006',
     authorId: DENIS,
     contributionType: 'historique' as const,
-    title: "L'abbaye Saint-Jean : mille ans d'histoire",
-    body: "L'abbaye Saint-Jean a été fondée au VIe siècle. Pendant mille ans, des moines y ont vécu, prié et travaillé. L'église abbatiale mélange deux styles : une nef romane (murs épais, petites fenêtres) et un chœur gothique (murs fins, grandes fenêtres). Après la Révolution, l'abbaye est devenue un hôpital. Aujourd'hui, les bâtiments du XVIIIe siècle abritent le musée municipal de Sens, avec une incroyable collection de mosaïques romaines retrouvées dans le sous-sol de la ville.",
+    title: "L'abbaye Saint-Jean : quinze siècles d'histoire",
+    body: "L'abbaye Saint-Jean a été fondée vers 495 par l'évêque Héracle de Sens — c'est l'une des plus anciennes fondations monastiques de la région. Après des siècles de guerres et d'invasions (notamment les raids normands), le monastère était en ruines. En 1111, Étienne, prévôt du chapitre cathédral, l'a refondé comme abbaye de chanoines réguliers de Saint-Augustin. L'église actuelle date du XIIIe siècle : son chœur gothique (murs fins, grandes fenêtres) contraste avec les parties romanes plus anciennes. Les bâtiments conventuels ont été reconstruits aux XVIIe et XVIIIe siècles. En 1792, la Révolution a transformé l'abbaye en hôpital. Aujourd'hui, les bâtiments abritent les musées de Sens, avec une collection de mosaïques romaines retrouvées dans le sous-sol de la ville. L'église est classée Monument Historique depuis 1862.",
     sources: [
       'Bulletin de la Société Archéologique de Sens, vol. II, 1856.',
       'Ministère de la Culture, base Mérimée, notice PA00113860.',
@@ -180,10 +180,10 @@ export const seedContributions = [
     period: 'VIe siècle — présent',
     audioUrl: null,
   },
-  // Bernard / Hôpital Saint-Jean — Gaston Ramon
+  // Bernard / Gaston Ramon (item 78)
   {
     id: 'f6666666-0059-0059-0059-000000000059',
-    heritageItemId: 'e5555555-0006-0006-0006-000000000006',
+    heritageItemId: 'e5555555-0078-0078-0078-000000000078',
     authorId: BERNARD,
     contributionType: 'recit' as const,
     title: "Gaston Ramon : le Sénonais qui a sauvé des millions d'enfants",
@@ -339,10 +339,10 @@ export const seedContributions = [
     period: '1885–1922',
     audioUrl: null,
   },
-  // Bernard / Hôtel de Ville — Ali le Mamelouk
+  // Bernard / Ali le Mamelouk (item 75)
   {
     id: 'f6666666-0064-0064-0064-000000000064',
-    heritageItemId: 'e5555555-0012-0012-0012-000000000012',
+    heritageItemId: 'e5555555-0075-0075-0075-000000000075',
     authorId: BERNARD,
     contributionType: 'recit' as const,
     title: "Ali le Mamelouk : le dernier fidèle de Napoléon était de Sens",
@@ -477,13 +477,15 @@ export const seedContributions = [
     heritageItemId: 'e5555555-0017-0017-0017-000000000017',
     authorId: DENIS,
     contributionType: 'historique' as const,
-    title: "Jean Cousin : le plus grand peintre que personne ne connaît",
-    body: "Jean Cousin le Père est né vers 1490 près de Sens. Il a appris son métier ici, a peint des vitraux pour la cathédrale, puis il est parti à Paris. Il a réalisé « Eva Prima Pandora » — le premier grand nu de la peinture française. Son fils, Jean Cousin le Jeune, a suivi le même chemin. Leur maison, rue Jean-Cousin, est une bâtisse à colombages du XVIe siècle. Inscrite aux Monuments Historiques en 1970.",
+    title: "Jean Cousin père et fils : les peintres de Sens",
+    body: "Jean Cousin le Père est né vers 1490 à Soucy, près de Sens. Il a appris la peinture sur verre auprès des maîtres Hympe et Grassot, avant de réaliser les vitraux de la Légende de Saint-Eutrope pour la cathédrale vers 1530. Marié à Christine Rousseau en 1520, il a quitté Sens pour Paris vers 1538. C'est là qu'il a peint « Eva Prima Pandora » (après 1549) — considéré comme le premier grand nu de la peinture française, aujourd'hui au Louvre. Son fils, Jean Cousin le Jeune (~1522-1594), a repris l'atelier paternel et publié le « Livre de pourtraicture » (1571). Il est revenu à Sens en 1563 pour décorer la ville lors de l'entrée royale de Charles IX. Leur maison, rue Jean-Cousin, est une bâtisse à colombages. Inscrite aux Monuments Historiques en 1970. C'est l'historien d'art Maurice Roy qui a établi en 1909 que le père et le fils étaient bien deux artistes distincts — pendant des siècles, on les avait confondus.",
     sources: [
       'Daguin, Gérard. "Jean Cousin, au nom du père, du fils, du square." histoire-sens-senonais-yonne.com.',
+      'Roy, Maurice. "Les Cousin, peintres de Sens." CRAI, 1909 (Persée).',
+      'Scailliérez, Cécile. "Jean Cousin père et fils." Catalogue Louvre, 2013.',
       'Ministère de la Culture, base Mérimée, notice PA00113882.',
     ],
-    period: 'XVIe siècle',
+    period: '~1490–1594',
     audioUrl: null,
   },
   // Bernard / Jean Cousin — Pierre de Cugnières
@@ -849,10 +851,10 @@ export const seedContributions = [
     audioUrl: null,
   },
 
-  // Mimard / Manufrance (contribution sur Hôtel de Ville)
+  // Mimard / Manufrance (item 76)
   {
     id: 'f6666666-0068-0068-0068-000000000068',
-    heritageItemId: 'e5555555-0012-0012-0012-000000000012',
+    heritageItemId: 'e5555555-0076-0076-0076-000000000076',
     authorId: BERNARD,
     contributionType: 'recit' as const,
     title: "Étienne Mimard : le Sénonais qui a inventé la vente par correspondance",
@@ -865,10 +867,10 @@ export const seedContributions = [
     audioUrl: null,
   },
 
-  // Jules Guichard / Canal de Suez
+  // Jules Guichard / Canal de Suez (item 77)
   {
     id: 'f6666666-0069-0069-0069-000000000069',
-    heritageItemId: 'e5555555-0012-0012-0012-000000000012',
+    heritageItemId: 'e5555555-0077-0077-0077-000000000077',
     authorId: BERNARD,
     contributionType: 'recit' as const,
     title: "Jules Guichard : du Sénonais au Canal de Suez",
@@ -969,6 +971,616 @@ export const seedContributions = [
       'Catalogue Numista — Sénons : numista.com/catalogue/senons_gaule-1.html.',
     ],
     period: 'IIe–Ier s. av. J.-C.',
+    audioUrl: null,
+  },
+
+  // =========================================================================
+  // BATCH 3 — Items 58, 59, 60, 62, 63, 64, 65, 66, 67, 68, 69, 71
+  // =========================================================================
+
+  // Bernard / Hôtel de la Pointe (item 58)
+  {
+    id: 'f6666666-0100-0100-0100-000000000100',
+    heritageItemId: 'e5555555-0058-0058-0058-000000000058',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "L'Hôtel de la Pointe : quand on vendait le poisson au coin de la rue",
+    body: "À Sens, au croisement de la rue de la République et de la rue Jean-Cousin, il y a un bâtiment que tout le monde connaît sans vraiment le regarder. On l'appelle l'Hôtel de la Pointe, à cause de sa forme en angle aigu — il épouse la fourche entre les deux rues. Mais au XVIe siècle, vers 1537, ce n'était pas un hôtel au sens moderne. C'était le marché au poisson de la ville.\n\nIl faut imaginer l'endroit un jour de marché : des étals en bois, de l'eau qui coule, l'odeur du poisson de rivière — brochet, anguille, carpe de l'Yonne et de la Vanne. Sens était une ville d'archevêché, et pendant le Carême, le poisson remplaçait la viande sur toutes les tables. Le marché au poisson n'était pas un lieu secondaire, c'était un endroit stratégique.\n\nAujourd'hui, la façade a été remaniée, mais la forme en pointe est toujours là. C'est l'un de ces bâtiments qui racontent l'histoire sans plaque ni panneau — il suffit de lever les yeux.",
+    sources: [
+      'Daguin, Gérard. "Chroniques historiques du Sénonais." histoire-sens-senonais-yonne.com.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: 'XVIe siècle (v. 1537)',
+    audioUrl: null,
+  },
+  // Denis / Ancien relais de poste (item 59)
+  {
+    id: 'f6666666-0101-0101-0101-000000000101',
+    heritageItemId: 'e5555555-0059-0059-0059-000000000059',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Le relais de poste de Sens : un maillon de la route royale Paris–Lyon",
+    body: "Au XVIIIe siècle, Sens occupait une position clé sur la route royale de Paris à Lyon. La ville disposait d'un relais de poste, institution essentielle dans le système de transport de l'Ancien Régime. Les relais de poste étaient espacés d'environ quinze kilomètres et tenus par des maîtres de poste. Leur fonction : fournir des chevaux frais aux courriers royaux et aux diligences.\n\nLe relais sénonais comprenait le logement du maître de poste, des écuries, un grenier à foin et une remise pour les voitures. C'était à la fois un lieu technique — on y changeait les attelages en quelques minutes — et un lieu social, où les voyageurs pouvaient se restaurer ou passer la nuit.\n\nLe système des relais de poste a fonctionné de 1477, sous Louis XI, jusqu'à l'arrivée du chemin de fer dans les années 1840. En 1776, Turgot a réformé le service en créant les malles-postes. Sens, étape entre Paris et Auxerre, voyait passer les messageries royales, les diligences privées et les courriers diplomatiques.",
+    sources: [
+      'Vaillé, Eugène. "Histoire des postes françaises depuis la Révolution." PUF, 1947.',
+      'Daguin, Gérard. "Chroniques historiques du Sénonais." histoire-sens-senonais-yonne.com.',
+    ],
+    period: 'XVIIIe siècle',
+    audioUrl: null,
+  },
+  // Bernard / Hôtel de Paris et de la Poste (item 60)
+  {
+    id: 'f6666666-0102-0102-0102-000000000102',
+    heritageItemId: 'e5555555-0060-0060-0060-000000000060',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "L'Hôtel de Paris : deux siècles de voyageurs, une guerre, et puis plus rien",
+    body: "En 1796, en pleine Révolution, un certain Dominique Louge a ouvert une auberge au centre de Sens. Il l'a appelée « l'Auberge de la Ville de Paris ». L'affaire a prospéré. De génération en génération, l'auberge est devenue un vrai hôtel, puis un hôtel-restaurant réputé. En 1936, quand un bureau de poste s'est installé juste à côté, il a pris le nom d'Hôtel de Paris et de la Poste.\n\nPendant la Seconde Guerre mondiale, la Wehrmacht a réquisitionné l'établissement. La Feldgendarmerie — la police militaire allemande — y a installé ses quartiers de 1940 à 1944. Des Sénonais y ont été convoqués pour des interrogatoires. Après la Libération, l'hôtel a repris sa vocation première.\n\nÀ partir de 1980, la famille Godard, maîtres cuisiniers de père en fils, y a tenu table avec talent. Mais le 1er janvier 2020, l'hôtel a fermé définitivement. En 2021, les pelleteuses ont commencé la démolition. La façade, restée debout quelques semaines comme un décor de théâtre, a fini par tomber en juillet 2021. À sa place, un nouvel hôtel quatre étoiles a ouvert fin 2024 sous le nom d'Epona, du nom de la déesse gauloise des chevaux.",
+    sources: [
+      'Daguin, Gérard. "Des lieux et des hommes : l\'Hôtel de Paris et de la Poste." histoire-sens-senonais-yonne.com.',
+      'France Bleu Auxerre. "À Sens, la destruction de la façade de l\'hôtel de Paris a commencé." 23 juin 2021.',
+    ],
+    period: '1796–2021',
+    audioUrl: null,
+  },
+  // Denis / Square Jean Cousin (item 62)
+  {
+    id: 'f6666666-0103-0103-0103-000000000103',
+    heritageItemId: 'e5555555-0062-0062-0062-000000000062',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Le square Jean Cousin : un jardin de 1880 pour un peintre de la Renaissance",
+    body: "Le square Jean Cousin, seul jardin public de Sens à présenter un aménagement typiquement XIXe siècle, a été inauguré le samedi 2 octobre 1880. La conception en a été confiée à Joseph Heim, horticulteur sénonais, qui a dessiné un jardin à l'anglaise avec six corbeilles florales.\n\nAu centre du square trône la statue en bronze de Jean Cousin, œuvre du sculpteur Henri Chapu (1833-1891). Chapu, l'un des sculpteurs les plus en vue de la IIIe République, a été élu la même année à l'Académie des beaux-arts. La statue porte l'inscription « Jehan Covsin, érigé en 1880 ».\n\nJean Cousin le Père, né vers 1490 à Soucy, fils de vigneron, s'est d'abord formé comme peintre-verrier dans sa ville natale avant de s'installer à Paris vers 1538. On lui attribue le tableau Eva Prima Pandora, aujourd'hui au Louvre, considéré comme le premier grand nu de la peinture française. Son fils, Jean Cousin le Jeune, a poursuivi dans la même voie. La confusion entre père et fils a longtemps brouillé les attributions — c'est Maurice Roy qui les a distingués en 1909.",
+    sources: [
+      'Daguin, Gérard. "Jean Cousin, au nom du père, du fils, du square." histoire-sens-senonais-yonne.com.',
+      'Comité des Parcs et Jardins de France, fiche "Square Jean Cousin, Sens."',
+    ],
+    period: '1880 (statue) — Renaissance (Jean Cousin, v. 1490–1560)',
+    audioUrl: null,
+  },
+  // Bernard / Hospice des orphelines (item 63)
+  {
+    id: 'f6666666-0104-0104-0104-000000000104',
+    heritageItemId: 'e5555555-0063-0063-0063-000000000063',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Les orphelines de Sens : quand Mademoiselle de Marsangy ouvrit sa porte",
+    body: "Vers 1680, une femme de Sens, Cécile-Guillaume de Marsangy, a commencé à recueillir chez elle les petites filles orphelines de la ville et des faubourgs. Ces enfants n'avaient ni toit, ni famille, ni moyen de gagner leur vie. Mademoiselle de Marsangy les hébergeait, les nourrissait et leur apprenait un métier.\n\nLa nouvelle est arrivée aux oreilles de Nicolas Bellocier, un Sénonais installé à Paris qui avait fait fortune dans le commerce. Touché par cette initiative, il a proposé son aide. Ensemble, ils ont fondé un véritable hospice : la Maison des Orphelines de Sens. En juillet 1680, le roi Louis XIV a signé les lettres patentes autorisant l'établissement, depuis le château de Saint-Germain-en-Laye.\n\nMademoiselle de Marsangy ne s'est pas contentée de donner de l'argent : elle est devenue la première gouvernante de la maison et l'est restée pendant quarante-deux ans, jusqu'à sa mort. Les orphelines apprenaient la couture, le filage et les tâches ménagères qui leur permettraient de se placer comme domestiques ou de se marier.\n\nLe nom de Bellocier est resté attaché à la fondation — un exemple de charité privée sous l'Ancien Régime, à une époque où l'État ne prenait pas en charge l'enfance abandonnée.",
+    sources: [
+      'Daguin, Gérard. "De Marsangy — histoire liée aux rues." histoire-sens-senonais-yonne.com.',
+      'Archives départementales de l\'Yonne, fonds Hôpital de Sens.',
+    ],
+    period: 'XVIIe siècle (fondation 1680)',
+    audioUrl: null,
+  },
+  // Denis / Temple maçonnique (item 64)
+  {
+    id: 'f6666666-0105-0105-0105-000000000105',
+    heritageItemId: 'e5555555-0064-0064-0064-000000000064',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La loge « La Concorde » : la franc-maçonnerie sénonaise depuis le XVIIIe siècle",
+    body: "La franc-maçonnerie sénonaise est l'une des plus anciennes du département de l'Yonne. La première loge fondée dans le département s'appelait « La Concorde », à l'orient de Sens. Elle s'est constituée au XVIIIe siècle, dans le sillage des Lumières, sous l'obédience du Grand Orient de France.\n\nLe temple maçonnique situé quai de l'Yonne est le lieu de réunion de cette loge. Les temples maçonniques ne sont pas des lieux de culte au sens religieux : ce sont des espaces rituels où les membres se réunissent selon un cérémonial codifié. L'architecture intérieure suit des règles précises — un orient (l'est, où siège le vénérable maître), un occident (l'entrée), des colonnes symboliques.\n\nLe Grand Orient de France, fondé en 1773, est la plus ancienne obédience maçonnique française. Depuis 1877, il n'impose plus la croyance en Dieu comme condition d'admission. Le bâtiment du quai de l'Yonne est discret, conformément à la tradition maçonnique. Les temples ouvrent occasionnellement lors des Journées du Patrimoine.",
+    sources: [
+      'Grand Orient de France, site officiel (godf.org).',
+      'Daguin, Gérard. "Chroniques historiques du Sénonais." histoire-sens-senonais-yonne.com.',
+    ],
+    period: 'XVIIIe siècle — présent',
+    audioUrl: null,
+  },
+  // Bernard / Bibliothèque municipale (item 65)
+  {
+    id: 'f6666666-0106-0106-0106-000000000106',
+    heritageItemId: 'e5555555-0065-0065-0065-000000000065',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Le géant de la bibliothèque : un séquoia de 34 mètres au cœur de Sens",
+    body: "Dans le jardin de la médiathèque Jean-Christophe Rufin, rue René Binet à Sens, il y a un arbre qui dépasse tous les autres. Un séquoia géant — 34 mètres de haut, presque 7 mètres de tour. On le voit de loin, il domine les toits du quartier. Il a été planté vers 1863, à une époque où la France se passionnait pour les arbres exotiques ramenés de Californie.\n\nLe séquoia géant a été introduit en Europe dans les années 1850. Les premiers spécimens sont arrivés en France sous le Second Empire — époque de grands jardins, de serres monumentales et de curiosités botaniques. Partout, les propriétaires de parcs voulaient le leur. En planter un, c'était montrer qu'on était moderne, qu'on avait le goût du monde.\n\nCelui de Sens a donc plus de 160 ans. Il a vu passer deux guerres, la construction de la bibliothèque, la transformation du quartier. En 2011, il a été labellisé « arbre remarquable ». En Californie, les séquoias géants peuvent vivre plus de 3 000 ans et atteindre 80 mètres. Le nôtre est encore un adolescent, à l'échelle de son espèce. Si personne ne le coupe, il sera encore là dans plusieurs siècles.",
+    sources: [
+      'Tourisme Sens. "Jardin de la médiathèque Jean-Christophe Rufin."',
+      'Séquoias géants de France (sequoias.eu), fiche Sens (Yonne).',
+    ],
+    period: 'v. 1863 — présent',
+    audioUrl: null,
+  },
+  // Denis / Porte de Sens, Villeneuve-sur-Yonne (item 66)
+  {
+    id: 'f6666666-0107-0107-0107-000000000107',
+    heritageItemId: 'e5555555-0066-0066-0066-000000000066',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La Porte de Sens : verrou nord de la cité royale de Philippe Auguste",
+    body: "La Porte de Sens est la porte nord des fortifications médiévales de Villeneuve-sur-Yonne. Elle a été construite vers 1200 sur ordre du roi Philippe Auguste, dans le cadre de la fondation de la ville neuve — une bastide royale destinée à contrôler le passage sur l'Yonne.\n\nL'enceinte comprenait cinq portes fortifiées. La Porte de Sens, orientée vers le nord en direction de la métropole archiépiscopale, est la mieux conservée avec la Porte de Joigny. Elle se présente comme un donjon carré flanqué de quatre tourelles d'angle — circulaires côté ville, taillées en éperon côté campagne pour dévier les projectiles.\n\nLe système défensif est remarquable : sous la voûte, on distingue encore les rainures de deux herses, formant un sas entre lesquelles les défenseurs pouvaient piéger les assaillants. Des archères latérales complétaient le dispositif.\n\nLes portes de Sens et de Joigny ont été classées au titre des monuments historiques par le décret de 1862, dans la première liste Mérimée. Une restauration menée en 1995 a permis de remettre en état le soubassement.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113949.',
+      'Mairie de Villeneuve-sur-Yonne. "La Porte de Sens." villeneuve-yonne.fr.',
+    ],
+    period: 'v. 1200 — classement MH 1862',
+    audioUrl: null,
+  },
+  // Bernard / Porte de Joigny (item 67)
+  {
+    id: 'f6666666-0108-0108-0108-000000000108',
+    heritageItemId: 'e5555555-0067-0067-0067-000000000067',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "La Porte de Joigny : huit siècles de garde au sud de la ville",
+    body: "Quand on entre dans Villeneuve-sur-Yonne par le sud, on passe sous une grosse tour carrée coiffée d'un toit d'ardoise. C'est la Porte de Joigny, jumelle de la Porte de Sens au nord. Elle a été construite vers 1200, quand Philippe Auguste a fondé cette ville neuve au bord de l'Yonne.\n\nMais la Porte de Joigny a eu plusieurs vies. Au Moyen Âge, c'était une machine de guerre : deux herses, des archères, des mâchicoulis. Personne n'entrait sans y être invité. Puis la Renaissance est passée par là. On a percé des fenêtres à meneaux dans la façade, ajouté un grand toit d'ardoise et posé deux statues en plomb au sommet. La porte s'est transformée en bâtiment de prestige.\n\nAu XVIIIe siècle, on y a installé l'hôtel de ville et une cellule de détention — jusqu'en 1837. Imaginez : le maire délibérait à l'étage pendant qu'un prisonnier attendait au rez-de-chaussée.\n\nAujourd'hui, la Porte de Joigny abrite un petit musée consacré à l'histoire de la ville. Elle est classée monument historique depuis 1862, comme sa sœur du nord.",
+    sources: [
+      'Mairie de Villeneuve-sur-Yonne. "Porte de Joigny." villeneuve-yonne.fr.',
+      'Ministère de la Culture, base Mérimée, notice PA00113949.',
+    ],
+    period: 'v. 1200 — classement MH 1862',
+    audioUrl: null,
+  },
+  // Denis / Église Notre-Dame de l'Assomption (item 68)
+  {
+    id: 'f6666666-0109-0109-0109-000000000109',
+    heritageItemId: 'e5555555-0068-0068-0068-000000000068',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Notre-Dame de Villeneuve : le pape qui posa la première pierre de deux églises",
+    body: "L'église Notre-Dame de l'Assomption de Villeneuve-sur-Yonne possède un acte de naissance exceptionnel : sa première pierre aurait été posée en 1163 par le pape Alexandre III — le même pape qui posa celle de Notre-Dame de Paris la même année. Le pontife résidait alors à Sens, où il s'était réfugié après avoir été chassé de Rome par Frédéric Barberousse.\n\nToutefois, la construction effective de l'édifice n'a commencé qu'au premier quart du XIIIe siècle, vers 1215. Le chantier s'est étalé sur trois siècles, du XIIIe au XVIe, mais présente une unité remarquable : chaque maître d'œuvre a respecté le plan conçu par le premier architecte.\n\nL'église mesure 71 mètres de long, 19 mètres de large et 22 mètres sous voûte. La nef sans transept — un vaisseau unique — est un bel exemple de maturité de l'art gothique. L'influence du gothique champenois est sensible dans l'omniprésence des grandes verrières : 41 fenêtres, dont 23 dans la nef. Quatre grandes fenêtres du côté nord du chœur conservent encore leurs vitraux du XIIIe siècle.\n\nClassée monument historique en 1862.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113945.',
+      'Mairie de Villeneuve-sur-Yonne. "L\'église Notre-Dame de l\'Assomption." villeneuve-yonne.fr.',
+    ],
+    period: '1163 (première pierre) — XIIIe–XVIe s. (construction)',
+    audioUrl: null,
+  },
+  // Bernard / Maison des Sept Têtes (item 69)
+  {
+    id: 'f6666666-0110-0110-0110-000000000110',
+    heritageItemId: 'e5555555-0069-0069-0069-000000000069',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Les Sept Têtes : quand les dieux de l'Olympe surveillent la rue Carnot",
+    body: "Au numéro 41 de la rue Carnot, à Villeneuve-sur-Yonne, sept visages de pierre vous observent depuis la façade d'une belle maison du XVIIIe siècle. Ce sont les « Sept Têtes » qui donnent son nom à l'édifice : Pluton, Neptune, Flore, Mercure, Cérès, Bacchus et Jupiter. Sept divinités de la mythologie romaine, sculptées en relief au-dessus des fenêtres.\n\nPourquoi sept dieux païens sur une maison de province ? Parce que son propriétaire voulait afficher sa culture classique. La maison a été construite pour un bailli — un juge et administrateur royal. C'était un notable instruit, formé au droit romain, qui connaissait ses classiques latins. Faire sculpter les dieux de l'Olympe sur sa façade, c'était montrer son rang.\n\nLa rue Carnot relie la Porte de Sens à la Porte de Joigny — c'est la colonne vertébrale de la ville. Le bailli avait choisi l'emplacement le plus visible. La maison a été inscrite au titre des monuments historiques le 3 juin 1932. Elle a ensuite servi de relais de poste. Aujourd'hui restaurée, elle fait partie du domaine des Sept-Têtes.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113947.',
+      'Mairie de Villeneuve-sur-Yonne. "La Maison des Sept Têtes." villeneuve-yonne.fr.',
+    ],
+    period: 'XVIIIe siècle — inscrit MH 1932',
+    audioUrl: null,
+  },
+  // Denis / Menhir de Villeneuve-sur-Yonne (item 71)
+  {
+    id: 'f6666666-0111-0111-0111-000000000111',
+    heritageItemId: 'e5555555-0071-0071-0071-000000000071',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La Pierre Frite : un menhir néolithique aux portes de Villeneuve",
+    body: "Le menhir dit de la « Pierre Frite » (ou Pierre Fritte) se dresse dans la plaine des Égriselles, à proximité de Villeneuve-sur-Yonne. C'est un bloc de conglomérat rougeâtre mesurant 1,60 mètre de hauteur, 2 mètres de longueur et 70 centimètres d'épaisseur, orienté est/nord-est. Il date du Néolithique, période comprise entre 5000 et 2000 avant notre ère.\n\nLe terme « menhir » vient du breton men (pierre) et hir (longue). Les menhirs sont parmi les plus anciens monuments érigés par l'homme en Europe occidentale. Leur fonction exacte reste débattue : borne territoriale, marqueur astronomique, lieu de culte ?\n\nLe contexte archéologique renforce l'intérêt du site : en 1938, une nécropole protohistorique a été découverte à environ 200 mètres au nord du menhir. Elle comprenait quinze enclos circulaires, dont onze ont été fouillés en 1976, 1978 et 1982. Le mobilier funéraire — notamment des bracelets en bronze — est conservé au musée du Villeneuvien. Cette association menhir-nécropole suggère que le lieu était un espace sacré bien avant la fondation de la ville médiévale.\n\nClassé au titre des monuments historiques par arrêté du 7 septembre 1954.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113948.',
+      'Monumentum.fr, fiche "Menhir à Villeneuve-sur-Yonne — PA00113948."',
+    ],
+    period: 'Néolithique (v. 5000–2000 av. J.-C.) — classement MH 1954',
+    audioUrl: null,
+  },
+
+  // =========================================================================
+  // BATCH 2 — Items 18, 19, 23, 26, 29, 31, 35, 37, 38, 39, 43, 50, 56
+  // =========================================================================
+
+  // Bernard / Maison du Portail (item 18)
+  {
+    id: 'f6666666-0087-0087-0087-000000000087',
+    heritageItemId: 'e5555555-0018-0018-0018-000000000018',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: 'La Maison du Portail, gardienne de la rue Jean Cousin',
+    body: "Au numéro 50 de la rue Jean Cousin, il y a une maison qui ne paie pas de mine si on passe trop vite. Pourtant, sa façade est classée monument historique depuis 1923. On l'appelle la Maison du Portail, à cause de son entrée en pierre sculptée du XVIe siècle — un grand portail comme on n'en fait plus, avec des moulures et des décors typiques de la Renaissance. À l'époque où cette maison a été construite, Sens était une ville riche. Les marchands, les officiers de justice, les chanoines faisaient bâtir des demeures en pierre, avec des façades travaillées pour montrer leur réussite. La Maison du Portail est un témoin de cette époque. Sa façade et ses toitures ont été protégées par arrêté du 30 juin 1923. Aujourd'hui elle est privée, on ne la visite pas. Mais quand on passe devant, il suffit de lever les yeux pour voir ces pierres qui racontent cinq siècles d'histoire sénonaise.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113877.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: 'XVIe siècle',
+    audioUrl: null,
+  },
+  // Denis / Hôtel Vezou (item 19)
+  {
+    id: 'f6666666-0088-0088-0088-000000000088',
+    heritageItemId: 'e5555555-0019-0019-0019-000000000019',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "L'Hôtel Vezou : de la noblesse de robe à la mairie de Sens",
+    body: "L'Hôtel Vezou, situé au 5 rue Rigault, a connu plus de vies qu'un chat. Construit au milieu du XVIIe siècle par Palamèdes de Foudriat, lieutenant général du bailliage de Sens, il tire son nom de François Vezou, un riche marchand qui l'a racheté à la fin du même siècle. En 1737, le bâtiment passe aux mains d'un conseiller du roi, puis sert de bureau de perception des impôts. En 1822, la municipalité l'acquiert pour en faire son hôtel de ville. Il le restera pendant quatre-vingts ans, jusqu'à la construction de la mairie actuelle en 1904 par l'architecte Richardot. L'édifice a été inscrit aux monuments historiques le 12 mars 1971. Aujourd'hui, il abrite la conservation des Musées de Sens et le CEREP (Centre d'Études et de Recherches Préhistoriques). Les archives du CEREP contiennent des milliers de pièces archéologiques issues des fouilles du Sénonais. Le bâtiment lui-même, avec son escalier à balustres et ses salons, reste un exemple caractéristique de l'architecture civile du XVIIe siècle en Bourgogne.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113863.',
+      'Daguin, Gérard. "Les mairies successives de Sens." histoire-sens-senonais-yonne.com.',
+    ],
+    period: 'XVIIe siècle — 1904',
+    audioUrl: null,
+  },
+  // Bernard / Moulin de la Vierge (item 23)
+  {
+    id: 'f6666666-0089-0089-0089-000000000089',
+    heritageItemId: 'e5555555-0023-0023-0023-000000000023',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: 'Le Moulin de la Vierge : un classé en péril',
+    body: "Au 30 rue de Mondereau, il y a un ensemble de bâtiments qu'on appelle le Moulin de la Vierge. Le nom fait rêver, mais l'état du lieu fait plutôt pleurer. Classé monument historique depuis le 14 mai 1980, ce site cache un trésor : six colonnes sculptées récupérées pendant la Révolution dans le cloître de l'abbaye Saint-Pierre-le-Vif, l'une des plus anciennes abbayes de Sens. Ces colonnes sont aujourd'hui dans un musée, heureusement. Mais le bâtiment lui-même, avec ses serres, son jardin de 8 000 mètres carrés, menace de s'effondrer côté rue de Mondereau. Depuis 1999, la mairie essaie de racheter le site à ses multiples propriétaires, sans succès. Une procédure d'expropriation a même été lancée. C'est un cas typique du patrimoine français : un monument classé, donc protégé par la loi, mais que personne n'entretient.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113865.',
+      'France Bleu Auxerre, "Sens : la municipalité veut exproprier les propriétaires du Moulin de la Vierge", 2023.',
+    ],
+    period: 'Révolution — XXIe siècle',
+    audioUrl: null,
+  },
+  // Denis / Hôtel de Vaudricourt (item 26)
+  {
+    id: 'f6666666-0090-0090-0090-000000000090',
+    heritageItemId: 'e5555555-0026-0026-0026-000000000026',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "L'Hôtel de Vaudricourt : joyau Renaissance à deux pas de la cathédrale",
+    body: "L'Hôtel de Vaudricourt, situé rue Abélard, est sans doute l'un des plus beaux exemples d'architecture civile Renaissance en Bourgogne. Vers 1560, Jehan de Polangis, issu d'une importante famille de tanneurs sénonais, commande la construction d'un « pavillon » à la mode italienne. Le bâtiment s'organise autour d'une cour avec puits, selon le schéma classique de l'hôtel particulier entre cour et jardin. Au XVIIIe siècle, l'étage noble est modernisé et orné de boiseries. L'inscription aux monuments historiques, par arrêté du 21 mai 1947, protège le portail d'entrée, la cour avec son puits, les façades et toitures, ainsi que deux salons avec leurs boiseries du XVIIIe siècle. Son intérêt réside dans la cohabitation de trois époques — XVIe, XVIIe et XVIIIe siècles — qui illustre la continuité de l'élite sénonaise sur deux siècles et demi.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113861.',
+      'Bulletin de la Société Archéologique de Sens, passim.',
+    ],
+    period: '~1560 — XVIIIe siècle',
+    audioUrl: null,
+  },
+  // Bernard / Couvent des Dominicaines (item 29)
+  {
+    id: 'f6666666-0091-0091-0091-000000000091',
+    heritageItemId: 'e5555555-0029-0029-0029-000000000029',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: 'Les Dominicaines de Sens : sept siècles de prière et de silence',
+    body: "En 1248, un groupe de religieuses dominicaines s'est installé à Sens. On est au siècle de Saint Louis, les ordres mendiants se multiplient dans les villes. Les Dominicaines — des femmes vouées à la contemplation — fondent leur couvent dans le quartier qui deviendra plus tard la rue d'Alsace-Lorraine. Pendant cinq siècles, elles ont vécu là, dans le silence et la prière, à l'ombre de la cathédrale. La Révolution les a chassées comme toutes les communautés religieuses. Le couvent a été vendu comme bien national, découpé, transformé. Il ne reste presque rien des bâtiments médiévaux d'origine. Mais le souvenir persiste. Les Sénonais du XIIIe siècle voyaient ces religieuses en robe blanche et voile noir traverser la ville pour se rendre à la cathédrale les jours de fête. Sens comptait alors une dizaine de communautés religieuses qui occupaient des quartiers entiers. Le couvent des Dominicaines rappelle cette époque où la ville vivait au rythme des cloches.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+      'Quantin, Maximilien. "Dictionnaire topographique du département de l\'Yonne." Paris, 1862.',
+    ],
+    period: '1248 — 1790',
+    audioUrl: null,
+  },
+  // Denis / Église Saint-Savinien-le-Jeune (item 31)
+  {
+    id: 'f6666666-0092-0092-0092-000000000092',
+    heritageItemId: 'e5555555-0031-0031-0031-000000000031',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Saint-Savinien-le-Jeune : une église discrète, quatre siècles d'histoire",
+    body: "L'église Saint-Savinien-le-Jeune, inscrite aux monuments historiques par arrêté du 7 avril 2014 (notice PA89000057), est un édifice méconnu dont la construction remonte à 1618. Elle ne doit pas être confondue avec la basilique Saint-Savinien, bien plus ancienne. L'appellation « le Jeune » la distingue précisément de son aînée. Au XVIIe siècle, des pénitents s'y installent. En 1682, un procès les oppose aux Bénédictins voisins qui refusent leur extension. La Révolution transforme l'église en grange à foin. Rendue au culte en 1822, elle redevient église paroissiale et fait l'objet d'une restauration en 1893. L'intérieur abrite un grand retable en maçonnerie formé d'un arc monumental décoré de quatre colonnes, couronné d'un bas-relief représentant Dieu le Père et deux anges. Fermée entre 2010 et 2017 pour restauration, elle a rouvert dans un état remarquable.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA89000057.',
+      'Daguin, Gérard. "Les églises de Sens." histoire-sens-senonais-yonne.com.',
+    ],
+    period: '1618 — 2017',
+    audioUrl: null,
+  },
+  // Bernard / Hôtel Le Fournier d'Yauville (item 35)
+  {
+    id: 'f6666666-0093-0093-0093-000000000093',
+    heritageItemId: 'e5555555-0035-0035-0035-000000000035',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "L'Hôtel Le Fournier d'Yauville : un nom, une façade, un mystère",
+    body: "Sur la rue de la République, il y a un hôtel particulier dont le nom à rallonge intrigue les passants : l'Hôtel Le Fournier d'Yauville. Inscrit aux monuments historiques le 3 janvier 1972, c'est un bâtiment du XVIIIe siècle dont la façade sur rue montre encore la belle ordonnance classique de l'époque Louis XV : fenêtres régulières, bandeaux de pierre, toiture en ardoise. Les Le Fournier d'Yauville étaient une famille de la noblesse de robe — ces bourgeois devenus nobles par la magistrature, pas par l'épée. À Sens, comme dans toutes les villes de bailliage, ces familles ont marqué le paysage urbain avec leurs hôtels particuliers. Sens compte une dizaine d'hôtels particuliers de ce type, témoins d'une époque où la ville était un important centre judiciaire et administratif.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113868.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: 'XVIIIe siècle',
+    audioUrl: null,
+  },
+  // Denis / Sous-préfecture (item 37)
+  {
+    id: 'f6666666-0094-0094-0094-000000000094',
+    heritageItemId: 'e5555555-0037-0037-0037-000000000037',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La sous-préfecture de Sens : l'État s'affiche sous Napoléon III",
+    body: "La sous-préfecture de Sens n'est ni classée ni inscrite aux monuments historiques, mais elle reste un témoin important de l'architecture administrative du Second Empire. L'arrondissement de Sens a été créé en 1800, dans la foulée de la réforme napoléonienne. Sous Napoléon III (1852-1870), les préfets et sous-préfets sont devenus de véritables bâtisseurs. Partout en France, on a construit des sous-préfectures imposantes pour affirmer la présence de l'État. Celle de Sens reprend les codes de l'époque : façade symétrique en pierre de taille, fenêtres à encadrements moulurés, perron d'honneur. Le bâtiment a été agrandi au XXe siècle mais la partie ancienne conserve son allure Second Empire. Ce type de bâtiment, ni assez ancien ni assez spectaculaire pour être classé, est pourtant le marqueur d'une époque : celle où l'État républicain s'est ancré dans chaque ville de France.",
+    sources: [
+      'Préfecture de l\'Yonne, "Historique de la sous-préfecture de Sens." yonne.gouv.fr.',
+    ],
+    period: 'Second Empire (~1860) — XXe siècle',
+    audioUrl: null,
+  },
+  // Bernard / Maison de l'Aviler (item 38)
+  {
+    id: 'f6666666-0095-0095-0095-000000000095',
+    heritageItemId: 'e5555555-0038-0038-0038-000000000038',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "La Maison de l'Aviler : cinq siècles et autant de vies",
+    body: "La Maison de l'Aviler, construite en 1573, est l'une de ces demeures sénonaises qui ont traversé les siècles en changeant de peau à chaque époque. Son nom vient de la famille d'Aviler — la même qui a donné naissance à Augustin-Charles d'Aviler (1653-1701), architecte du roi en Languedoc et auteur d'un célèbre Cours d'architecture. Au XVIIIe siècle, le bâtiment a servi d'hôpital général. Au XIXe siècle, on y a installé un institut orthopédique, puis une manufacture de bonnets et de velours. Depuis 2001, c'est une maison d'hôtes. Cette succession d'usages — habitation noble, hôpital, manufacture, hébergement touristique — raconte à elle seule l'histoire économique de Sens.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+      'SenoN.org, "Monuments de Sens."',
+    ],
+    period: '1573 — XXIe siècle',
+    audioUrl: null,
+  },
+  // Denis / Maison de l'Œuvre (item 39)
+  {
+    id: 'f6666666-0096-0096-0096-000000000096',
+    heritageItemId: 'e5555555-0039-0039-0039-000000000039',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La Maison de l'Œuvre : quand brûle la mémoire du chapitre",
+    body: "La Maison de l'Œuvre, adossée à la cathédrale Saint-Étienne, était le siège de « l'Œuvre de la cathédrale » — l'organisme chargé depuis le Moyen Âge de l'entretien et de la construction du monument. Elle abritait aussi l'ancienne bibliothèque du chapitre cathédral, un fonds constitué au fil des siècles par les chanoines de Sens. En 2015, un incendie a gravement endommagé le bâtiment. La perte a été d'autant plus douloureuse que la bibliothèque capitulaire était l'un des derniers témoins matériels de l'activité intellectuelle du chapitre de Sens, jadis l'un des plus importants de France — l'archevêque de Sens était le primat des Gaules. Le bâtiment est en cours de restauration. L'incendie de 2015 rappelle cruellement que le patrimoine est fragile, et que sa conservation exige une vigilance permanente.",
+    sources: [
+      'Daguin, Gérard. "La cathédrale et ses dépendances." histoire-sens-senonais-yonne.com.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: 'Moyen Âge — 2015',
+    audioUrl: null,
+  },
+  // Bernard / Immeuble Art Nouveau (item 43)
+  {
+    id: 'f6666666-0097-0097-0097-000000000097',
+    heritageItemId: 'e5555555-0043-0043-0043-000000000043',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "L'immeuble Art Nouveau du boulevard de Maupeou : Sens à la Belle Époque",
+    body: "Au numéro 2 du boulevard de Maupeou, il y a un immeuble qui détonne. Pas de pierre médiévale ici, pas de façade Renaissance : on est en pleine Belle Époque. Cet immeuble de rapport a été bâti entre 1907 et 1909 par l'architecte Richardot, avec l'entrepreneur Coydon et le sculpteur Delassasseigne. La façade est un festival de décors : des bas-reliefs floraux, des balustrades en métal ouvragé, des grandes baies vitrées. C'est du pur Art Nouveau, ce mouvement qui voulait mettre de la nature et de la courbe partout. Le bâtiment utilise une technique moderne pour l'époque : la pierre armée, c'est-à-dire de la pierre renforcée par du métal. Inscrit aux monuments historiques le 30 septembre 2013. C'est le seul immeuble Art Nouveau protégé à Sens. Il nous rappelle qu'à la Belle Époque, Sens n'était pas une ville endormie : on y construisait à la mode de Paris.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA89000056.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: '1907–1909',
+    audioUrl: null,
+  },
+  // Denis / Notre-Dame-des-Neiges (item 50)
+  {
+    id: 'f6666666-0098-0098-0098-000000000098',
+    heritageItemId: 'e5555555-0050-0050-0050-000000000050',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Notre-Dame-des-Neiges : chapelle d'un couvent disparu",
+    body: "L'église Notre-Dame-des-Neiges est l'ancienne chapelle d'un couvent fondé à Sens à l'époque moderne. Son vocable — Notre-Dame des Neiges — fait référence à la basilique Sainte-Marie-Majeure de Rome, dont la légende attribue la fondation à une chute de neige miraculeuse sur le mont Esquilin au mois d'août 358. Le couvent a été supprimé à la Révolution et vendu comme bien national. La chapelle, seul vestige subsistant, a connu des usages variés au XIXe et au XXe siècle. La ville comptait au XVIIe siècle plus d'une dizaine de communautés religieuses — dominicains, cordeliers, ursulines, visitandines, carmélites — qui occupaient des îlots entiers dans le tissu urbain. Notre-Dame-des-Neiges est un de ces fragments qui rappellent cette densité monastique aujourd'hui disparue.",
+    sources: [
+      'Daguin, Gérard. "Les couvents de Sens." histoire-sens-senonais-yonne.com.',
+      'Quantin, Maximilien. "Dictionnaire topographique du département de l\'Yonne." Paris, 1862.',
+    ],
+    period: 'XVIIe siècle — Révolution',
+    audioUrl: null,
+  },
+  // Bernard / Caisse d'épargne (item 56)
+  {
+    id: 'f6666666-0099-0099-0099-000000000099',
+    heritageItemId: 'e5555555-0056-0056-0056-000000000056',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "La Caisse d'épargne de Sens : quand l'argent se faisait beau",
+    body: "Au croisement du boulevard du 14-Juillet, de la rue du Général-de-Gaulle et de la rue de Mondereau, il y a un bâtiment que tout le monde connaît mais que personne ne regarde vraiment. C'est l'ancienne Caisse d'épargne de Sens, inaugurée le 12 octobre 1902 en présence du maire Lucien Cornet. À l'époque, les Caisses d'épargne voulaient impressionner. On ne mettait pas son argent dans un hangar : on le confiait à un palais. Le bâtiment s'élève sur trois niveaux, avec un toit à la Mansart. Sur la façade principale, des pilastres corinthiens encadrent l'inscription « CAISSE D'ÉPARGNE » gravée dans la pierre. C'est un geste architectural qui dit : ici, votre argent est en sécurité. Ce style éclectique est typique de la Belle Époque, cette période insouciante entre 1890 et 1914 où la France se couvrait de bâtiments somptueux. Celui de Sens mérite un coup d'œil.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: '1901–1902',
+    audioUrl: null,
+  },
+
+  // =========================================================================
+  // BATCH 1 — Items 5, 8, 20, 21, 22, 32, 33, 42, 45, 49, 51, 57
+  // =========================================================================
+
+  // Bernard / Église Saint-Maurice (item 5)
+  {
+    id: 'f6666666-0075-0075-0075-000000000075',
+    heritageItemId: 'e5555555-0005-0005-0005-000000000005',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Saint-Maurice, l'église des mariniers de l'Yonne",
+    body: "Si vous passez le pont de l'Yonne à Sens et tournez la tête vers la droite, vous apercevez une petite église coincée entre la rivière et les maisons. C'est Saint-Maurice — et pendant des siècles, c'était l'église des gens de l'eau : pêcheurs, mariniers, lavandières.\n\nConstruite à la fin du XIIe siècle, dans cette période où le roman cède la place au gothique, elle garde dans ses piliers et ses arcatures murales la trace de cette transition. On y retrouve des colonnettes encore romanes, des baies qui hésitent entre deux mondes.\n\nSa vie n'a pas été tranquille. Au XVIe siècle, il a fallu couper son chevet — on l'a transformé en mur plat — pour élargir le lit de la rivière. La façade aussi date de cette époque. L'église a connu les crues, les guerres, l'oubli.\n\nClassée monument historique en 1915, elle reste pourtant l'une des moins connues de Sens. On passe devant sans la voir, happé par la cathédrale de l'autre côté du pont. Et c'est dommage, parce que Saint-Maurice raconte une histoire que la cathédrale ne raconte pas : celle du Sens populaire, celui des artisans et des bateliers qui vivaient du commerce fluvial.\n\nEn 2019, l'INRAP a mené des fouilles archéologiques qui ont livré de nouvelles données sur les fondations médiévales. La preuve que même les petites églises oubliées ont encore des choses à nous apprendre.",
+    sources: [
+      'Base Mérimée, notice PA00113855 — Église Saint-Maurice, Sens.',
+      'INRAP, « Un éclairage archéologique sur l\'église Saint-Maurice de Sens », 2019.',
+      'Brousse, Bernard. « Sens, cité d\'art et d\'histoire. » Le Charmoiset, 2024.',
+    ],
+    period: 'fin XIIe s. — XVIe s.',
+    audioUrl: null,
+  },
+  // Denis / Parc du Moulin à Tan (item 8)
+  {
+    id: 'f6666666-0076-0076-0076-000000000076',
+    heritageItemId: 'e5555555-0008-0008-0008-000000000008',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Du moulin industriel au jardin remarquable : histoire du Moulin à Tan",
+    body: "Le Parc du Moulin à Tan tire son nom d'une activité industrielle disparue. Le « tan », c'est de la poudre d'écorce de chêne broyée, utilisée pour transformer les peaux en cuir. Tout le sud de Sens vivait de la tannerie, et la forêt d'Othe, toute proche, fournissait la matière première.\n\nLe site a connu plusieurs vies. D'abord une fabrique de polissage de bijoux en acier, puis vers 1830 une scierie. En 1887, la famille Domange y installe un moulin qui utilise la force motrice de la Vanne pour broyer les écorces. L'activité dure jusqu'au déclin de la tannerie au XXe siècle.\n\nLa reconversion commence en 1984, quand la ville de Sens acquiert le terrain de 7 hectares et lance un défrichage. En 1986, le paysagiste Jean-Luc Boulard dessine le plan d'ensemble du parc. Le résultat : 16 hectares de verdure entre ville et campagne, avec une roseraie, un arboretum de hêtres remarquables et des serres tropicales.\n\nLe parc obtient le label « Jardin remarquable » en 2011 et accueille environ 200 000 visiteurs par an, ce qui en fait l'un des espaces verts les plus fréquentés de Bourgogne.\n\nCe qui est intéressant, c'est la continuité du lien avec l'eau. La Vanne faisait tourner le moulin ; elle alimente aujourd'hui les bassins et les serres. Le patrimoine industriel n'a pas été effacé, il a été transformé.",
+    sources: [
+      'Ville de Sens, « Parc du Moulin à Tan », ville-sens.fr.',
+      'Jardins de France, « Hêtres en majesté au parc du Moulin-à-Tan de Sens ».',
+      'Label Jardin remarquable, Ministère de la Culture, 2011.',
+    ],
+    period: '1830 — 2011',
+    audioUrl: null,
+  },
+  // Bernard / Église Saint-Pierre-le-Rond (item 20)
+  {
+    id: 'f6666666-0077-0077-0077-000000000077',
+    heritageItemId: 'e5555555-0020-0020-0020-000000000020',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Saint-Pierre-le-Rond : cinquante ans de sommeil au cœur de Sens",
+    body: "On l'appelle « le Rond » à cause de la forme de son clocher — une tour cylindrique élevée en 1728, bien visible depuis la rue Émile-Peynot. Ce surnom permettait de la distinguer de l'ancienne église Saint-Pierre-le-Donjon, qui a disparu depuis longtemps.\n\nSaint-Pierre-le-Rond est une église du XIIIe siècle au cœur de Sens. Sa grande nef date du XIVe, son bas-côté nord est Renaissance, fin du XVe. Elle renferme des trésors : un retable du XVIe siècle, des grilles en fer forgé, des vitraux Renaissance, des statues en bois de saint Romain et de saint Bernard, un bas-relief en pierre de saint Hubert.\n\nEn 1965, quand un nouveau lieu de culte ouvre dans les quartiers nord, la petite paroisse de Saint-Pierre-le-Rond est supprimée. L'église ferme ses portes. Et là commence un long abandon : une tornade endommage la voûte en bois de la nef en 1971, des voleurs emportent des œuvres et du mobilier, les pigeons s'installent, des squatteurs aussi.\n\nPendant cinquante ans, Sens a tourné le dos à cette église. Puis en 2016, l'association « Sauvons notre patrimoine » et ses quatre-vingts bénévoles ont commencé à la remettre debout, pierre après pierre.\n\nSaint-Pierre-le-Rond, c'est l'histoire d'un patrimoine qu'on a failli perdre par négligence. Et la preuve qu'il n'est jamais trop tard — à condition que des gens s'en mêlent.",
+    sources: [
+      'Base Mérimée, notice PA00113856 — Église Saint-Pierre-le-Rond, Sens.',
+      'France Bleu Auxerre, « Une église sur le point de rouvrir après cinquante ans de fermeture », 2016.',
+    ],
+    period: 'XIIIe s. — 2016',
+    audioUrl: null,
+  },
+  // Denis / Église Saint-Pregts (item 21)
+  {
+    id: 'f6666666-0078-0078-0078-000000000078',
+    heritageItemId: 'e5555555-0021-0021-0021-000000000021',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Saint-Pregts : du moine normand à la façade baroque restaurée",
+    body: "L'église Saint-Pregts porte le nom de saint Priest (en latin Projectus), évêque de Clermont assassiné en 676. Ses reliques arrivent à Sens lors des invasions normandes du IXe siècle, apportées par un moine de l'abbaye de Saint-Riquier fuyant les pillages.\n\nUne première église est fondée près de la Vanne, à l'extrémité du faubourg, près de l'ancien Pont-Bruant. Mais un incendie la détruit. En 1736, le curé A. Jolly fait construire l'édifice actuel au milieu du faubourg : une nef en berceau terminée par un chœur en rotonde, dans le goût baroque du XVIIIe siècle.\n\nSaint-Pregts a survécu à la Révolution. En 1790, quand il faut supprimer la plupart des dix-huit paroisses de Sens et de ses faubourgs, Saint-Pregts est l'une des quatre retenues. Les autres disparaissent.\n\nLa façade et le clocher sont classés monuments historiques en 1965, le reste de l'édifice est inscrit la même année. En 2019, des travaux de restauration ont restitué la façade baroque dans son état d'origine.\n\nCe qui est remarquable, c'est la continuité du lieu : un faubourg qui garde son église paroissiale depuis le IXe siècle, malgré les incendies, les guerres de Religion et la Révolution.",
+    sources: [
+      'Base Mérimée, notice PA00113857 — Église Saint-Preigts, Sens.',
+      'Diocèse de Sens-Auxerre, « Visite de nos églises : Saint-Pregts ».',
+      'Bulletin de la Société Archéologique de Sens (historique des paroisses).',
+    ],
+    period: 'IXe s. — 2019',
+    audioUrl: null,
+  },
+  // Bernard / Église Sainte-Mathie (item 22)
+  {
+    id: 'f6666666-0079-0079-0079-000000000079',
+    heritageItemId: 'e5555555-0022-0022-0022-000000000022',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Sainte-Mathie : l'église que les Sénonais ont détruite eux-mêmes",
+    body: "L'histoire de Sainte-Mathie, boulevard Maupeou, est une succession de destructions et de renaissances. Son premier nom, c'est Saint-Didier — le culte remonte au IXe siècle.\n\nElle est d'abord bâtie hors des remparts. En 1015, elle brûle. On la reconstruit. Pendant la guerre de Cent Ans, on l'abandonne et on la démantèle pour récupérer les pierres. À la fin du XVe siècle, on la rebâtit une fois de plus.\n\nEt puis arrive 1567. Les guerres de Religion font rage, Sens est menacée par les protestants. Et là, ce ne sont pas les huguenots qui détruisent l'église — ce sont les paroissiens eux-mêmes. Ils la rasent pour dégager les abords de la ville et empêcher l'ennemi de s'y cacher pendant un siège.\n\nL'église est reconstruite une quatrième fois. Pendant la Révolution, la Société populaire l'utilise comme salle de réunion, ce qui la sauve de la démolition. Le mobilier disparaît, mais le clocher garde sa croix.\n\nAu XIXe siècle, un prêtre installe une chapelle dédiée à sainte Mathie et place sa statue sur le maître-autel. Le nom reste. Chaque 7 mai, les autres paroisses de Sens venaient en procession pour la fête de sainte Mathie.\n\nInscrite aux monuments historiques en 1966, Sainte-Mathie a survécu à cinq destructions. C'est peut-être l'église la plus tenace du Sénonais.",
+    sources: [
+      'Base Mérimée, notice PA00113854 — Église Sainte-Mathie, Sens.',
+      'Daguin, Gérard. « Église Saint-Didier ou Sainte-Mathie », histoire-sens-senonais-yonne.com.',
+    ],
+    period: 'IXe s. — 1966',
+    audioUrl: null,
+  },
+  // Denis / Ermitage Saint-Bond (item 32)
+  {
+    id: 'f6666666-0080-0080-0080-000000000080',
+    heritageItemId: 'e5555555-0032-0032-0032-000000000032',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "L'ermitage Saint-Bond : du miracle mérovingien au prieuré détruit",
+    body: "Saint Bond est un ermite de la fin du VIe siècle qui s'installe sur la colline de Paron, dans l'archidiocèse de Sens, à l'époque mérovingienne. La légende raconte que l'évêque saint Arthème lui confie un bâton sec en lui disant que sa pénitence sera achevée quand le bois refleurira.\n\nBond passe des années à monter de l'eau depuis l'Yonne avec une cruche. Quand le Diable brise la cruche, il continue avec un panier d'osier. La tradition lui attribue deux miracles : la transformation de cendres en farine pour un paysan affamé, et la résurrection d'un enfant mort-né afin qu'il reçoive le baptême.\n\nLes villageois lui construisent un ermitage. En 1080, l'évêque Richer II transforme le lieu en prieuré rattaché à une communauté religieuse. Les bâtiments sont saccagés par les huguenots en 1567 — la même année que l'église Sainte-Mathie, dans le même contexte de guerres de Religion.\n\nLe prieuré est supprimé en 1735 et les reliques de saint Bond sont transférées dans l'église Sainte-Florence-Saint-Bond de Paron, où elles se trouvent encore.\n\nCe qui est intéressant pour l'historien, c'est la superposition des couches : un ermite mérovingien, un prieuré roman, une destruction protestante, un transfert de reliques au XVIIIe siècle.",
+    sources: [
+      'Glaizal, Pierre et Dodet, Étienne. « L\'ermitage Saint-Bond à Paron. » Archives départementales de l\'Yonne.',
+      'Sanctuaires.aibl.fr — fiche n°191, sanctuaire Saint-Bon.',
+    ],
+    period: 'fin VIe s. — 1735',
+    audioUrl: null,
+  },
+  // Bernard / Fontaine d'Azon (item 33)
+  {
+    id: 'f6666666-0081-0081-0081-000000000081',
+    heritageItemId: 'e5555555-0033-0033-0033-000000000033',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "La fontaine d'Azon : là où Sainte-Colombe a perdu la tête",
+    body: "En l'an 274 après Jésus-Christ, l'empereur romain Aurélien arrive à Sens. Il est en guerre contre tout ce qui menace l'unité de l'Empire — et les chrétiens en font partie.\n\nDans la ville, une jeune femme venue de Saragosse refuse de renier sa foi. Elle s'appelle Colombe. Elle a reçu le baptême à Vienne, dans le Dauphiné, puis elle est venue s'installer dans le pays sénonais.\n\nAurélien la fait jeter en prison, enchaînée dans un cachot obscur. La légende raconte qu'un ours entre dans sa cellule et la protège au lieu de la dévorer. Quand l'empereur ordonne de mettre le feu au bûcher, une pluie soudaine éteint les flammes.\n\nFinalement, Colombe est conduite hors de la ville, jusqu'à un lieu-dit appelé la fontaine d'Azon. C'est là qu'elle est décapitée, le 31 décembre 274.\n\nTrois siècles plus tard, le roi Clotaire II fait construire une abbaye à l'endroit présumé du supplice : l'abbaye Sainte-Colombe de Saint-Denis-lès-Sens. C'est dans cette même abbaye que Thomas Becket, archevêque de Canterbury, trouvera refuge entre 1166 et 1170 — près de neuf cents ans après le martyre de Colombe.\n\nLa fontaine d'Azon n'existe plus en tant que telle. Mais le lieu reste gravé dans la mémoire sénonaise. Sainte Colombe est la patronne du diocèse de Sens.",
+    sources: [
+      'Diocèse de Sens-Auxerre, « Sainte Colombe — personnages historiques ».',
+      'Daguin, Gérard. « Sainte Colombe et l\'empereur Aurélien », histoire-sens-senonais-yonne.com.',
+      'Brousse, Bernard. « Sens, cité d\'art et d\'histoire. » Le Charmoiset, 2024.',
+    ],
+    period: '274 ap. J.-C.',
+    audioUrl: null,
+  },
+  // Denis / Gué Saint-Jean (item 42)
+  {
+    id: 'f6666666-0082-0082-0082-000000000082',
+    heritageItemId: 'e5555555-0042-0042-0042-000000000042',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Le gué Saint-Jean et le ru de Mondereau : quand l'eau défendait la ville",
+    body: "Le lavoir du Gué Saint-Jean, dans le quartier de l'Amande à Sens, est alimenté par le ru de Mondereau, un petit cours d'eau dont l'histoire est indissociable de celle de la ville.\n\nEn 1358, le régent Charles — futur Charles V — ordonne de détourner la Vanne au niveau de Maslai-le-Vicomte (aujourd'hui Malay-le-Grand) pour créer un nouveau cours d'eau. Ce ru de Mondereau n'est pas un caprice : nous sommes en pleine guerre de Cent Ans, les Anglais menacent, et Sens a besoin d'eau pour remplir ses fossés défensifs.\n\nAu Gué Saint-Jean, le ruisseau se divise en deux bras pour alimenter les douves de la ville. Cette fonction militaire est la raison d'être du ru.\n\nMais l'eau qui défend la ville la fait aussi vivre. Le Mondereau alimente des moulins, arrose des jardins privés, et fait tourner des activités artisanales. Le lavoir du Gué Saint-Jean est un témoignage de cette vie quotidienne liée à l'eau : les lavandières y travaillaient encore au XIXe siècle.\n\nAujourd'hui, le lavoir est l'un des derniers vestiges visibles du réseau hydraulique médiéval de Sens. Le ru de Mondereau coule toujours, en partie canalisé, mais on ne le voit presque plus.",
+    sources: [
+      'Daguin, Gérard. « Rue et ru de Mondereau », histoire-sens-senonais-yonne.com.',
+      'petit-patrimoine.com — « Le gué Saint-Jean, Sens (89) ».',
+    ],
+    period: '1358 — XIXe s.',
+    audioUrl: null,
+  },
+  // Bernard / Hôtel de Bourrienne (item 45)
+  {
+    id: 'f6666666-0083-0083-0083-000000000083',
+    heritageItemId: 'e5555555-0045-0045-0045-000000000045',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "L'Hôtel de Bourrienne : Marivaux, Napoléon et un archevêché sous le même toit",
+    body: "Rue de l'Écrivain à Sens, il y a une maison devant laquelle on passe sans savoir que trois noms célèbres y sont liés.\n\nLe premier, c'est Marivaux. Le dramaturge, l'auteur du « Jeu de l'amour et du hasard », avait épousé une Sénonaise. La maison appartenait à la famille Fauvelet, comtes de Charbonnières de Bourienne.\n\nLe deuxième nom, c'est celui qui a donné son nom à l'hôtel : Louis Antoine Fauvelet de Bourrienne, né dans cette maison. Il deviendra diplomate, député, ministre d'État, et surtout secrétaire particulier de Napoléon Bonaparte.\n\nAu début du XXe siècle, entre 1905 et 1929, l'Hôtel de Bourrienne sert de siège à l'archevêché de Sens — chassé de ses locaux habituels par la loi de séparation de l'Église et de l'État.\n\nUne maison qui a vu passer un dramaturge du XVIIIe, un secrétaire de Napoléon et un archevêché en exil. La rue s'appelle « rue de l'Écrivain » — mais elle pourrait tout aussi bien s'appeler rue de l'Histoire.",
+    sources: [
+      'Daguin, Gérard. Chroniques historiques, histoire-sens-senonais-yonne.com.',
+      'Brousse, Bernard. « Sens, cité d\'art et d\'histoire. » Le Charmoiset, 2024.',
+    ],
+    period: 'XVIIIe s. — 1929',
+    audioUrl: null,
+  },
+  // Denis / Caserne Gémeau (item 49)
+  {
+    id: 'f6666666-0084-0084-0084-000000000084',
+    heritageItemId: 'e5555555-0049-0049-0049-000000000049',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La caserne Gémeau : du bonapartiste en exil à l'école de police",
+    body: "La caserne Gémeau, au 23 rue du 89e RI à Sens, porte le nom d'Auguste Pierre Walbourg Gémeau, né à Paris en 1790. Entré à Saint-Cyr à 18 ans, il reçoit le baptême du feu à Wagram en 1809. Toutes les campagnes de l'Empire.\n\nAprès la chute de Napoléon, Gémeau est interdit de séjour à Paris. Il vient s'installer à Sens, où il termine ses jours.\n\nLes bâtiments militaires actuels sont construits en 1874, après la défaite de 1870. Ils accueillent le 89e Régiment d'Infanterie, qui y tient garnison jusqu'en 1914.\n\nAprès la Seconde Guerre mondiale, la caserne change de vocation. En 1946, le ministère de l'Intérieur y installe le centre national de formation des motocyclistes de la police. En 1948, les premiers stages de gardiens de la paix débutent. C'est la naissance de l'École nationale de police de Sens, qui forme encore aujourd'hui des gardiens de la paix et des cadets de la République.\n\nDe la Grande Armée à la police nationale : le lieu a changé de mission, mais pas de fonction — former des hommes en uniforme.",
+    sources: [
+      'Daguin, Gérard. « Gémeau : une caserne constellée d\'étoiles », histoire-sens-senonais-yonne.com.',
+      'Police nationale, « École nationale de police de Sens ».',
+    ],
+    period: '1874 — aujourd\'hui',
+    audioUrl: null,
+  },
+  // Bernard / Ferme de Champbertrand (item 51)
+  {
+    id: 'f6666666-0085-0085-0085-000000000085',
+    heritageItemId: 'e5555555-0051-0051-0051-000000000051',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Champbertrand : la ferme qui nourrit Sens depuis des siècles",
+    body: "Champbertrand, c'est un nom qu'on lit sur les panneaux à la sortie de Sens sans trop y penser. Pourtant, ce lieu-dit raconte une histoire très ancienne — celle de la terre nourricière aux portes de la ville.\n\nLe toponyme « Champbertrand » est typique du Moyen Âge : « champ » plus un prénom germanique. C'est le champ de Bertrand, un domaine agricole attribué à un tenancier à une époque où Sens était entourée de terres cultivées qui alimentaient la ville et ses marchés.\n\nLa ferme actuelle est exploitée par la famille Aubé depuis plus de 35 ans. Antoine Aubé cultive 170 hectares de céréales et 2 hectares de maraîchage. De fin mai à octobre, les Sénonais viennent y acheter fraises, tomates, poivrons, aubergines en vente directe.\n\nCe qui est remarquable, c'est la continuité du lieu. Quand on mange une tomate de Champbertrand en 2026, on fait la même chose que les Sénonais du XIVe siècle qui achetaient leurs légumes aux maraîchers des faubourgs. La ville a grandi, les techniques ont changé, mais le lien entre Sens et sa ceinture maraîchère n'a pas été coupé.\n\nChampbertrand est un patrimoine vivant. Pas un monument classé — mais un lieu qui fait ce qu'il a toujours fait : nourrir les gens d'ici.",
+    sources: [
+      'Tourisme Yonne, « Ferme de Champbertrand ».',
+      'Brousse, Bernard. « Sens, cité d\'art et d\'histoire. » Le Charmoiset, 2024.',
+    ],
+    period: 'Moyen Âge — aujourd\'hui',
+    audioUrl: null,
+  },
+  // Denis / Piscine Tournesol (item 57)
+  {
+    id: 'f6666666-0086-0086-0086-000000000086',
+    heritageItemId: 'e5555555-0057-0057-0057-000000000057',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La piscine Tournesol de Sens : patrimoine industriel des Trente Glorieuses",
+    body: "En 1969, le secrétariat d'État à la Jeunesse et aux Sports lance le concours « 1000 piscines » pour équiper la France en bassins de natation. L'idée : construire vite, pas cher, en préfabriqué.\n\nL'architecte Bernard Schoeller et l'ingénieur Thémis Constantinidis remportent le concours avec un concept audacieux : une piscine sous un dôme de 35 mètres de diamètre, couvert de tuiles en polyester percées de hublots ovales. Sa particularité : un tiers du dôme est mobile, monté sur des roulettes, et s'ouvre électriquement pour transformer la piscine couverte en piscine de plein air.\n\nLe nom « Tournesol » vient de là : les hublots colorés qui s'ouvrent vers le soleil. Entre le milieu des années 1970 et le début des années 1980, 183 exemplaires sont construits dans toute la France. Celle de Sens date de 1977.\n\nAvec 85 % de pièces préfabriquées, le Tournesol est l'une des plus grandes constructions en série de France. C'est aussi un symbole de l'ambition des Trente Glorieuses : offrir à chaque ville moyenne un équipement sportif moderne.\n\nEn 2015, la piscine de Sens a été rénovée pour 4,5 millions d'euros. Le Tournesol est désormais reconnu comme un patrimoine architectural du XXe siècle.",
+    sources: [
+      'PSS-archi.eu — fiche Piscine Tournesol de Sens.',
+      'INA, « La piscine Tournesol : une histoire, un style, une mode ».',
+      'Inventaire général du patrimoine culturel, « Les piscines des Trente Glorieuses ».',
+    ],
+    period: '1977 — 2015',
+    audioUrl: null,
+  },
+
+  // =========================================================================
+  // GÉRARD DAGUIN (item 74) — mémoire numérique de Sens
+  // =========================================================================
+
+  // Bernard / Daguin — récit
+  {
+    id: 'f6666666-0074-0074-0074-000000000001',
+    heritageItemId: 'e5555555-0074-0074-0074-000000000074',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Gérard Daguin : le journaliste qui a raconté Sens",
+    body: "Gérard Daguin était journaliste à L'Indépendant de Bourgogne, le journal local. Mais sa vraie passion, c'était l'histoire de Sens. Pendant des années, il a écrit des chroniques historiques qu'il publiait sur son site internet : histoire-sens-senonais-yonne.com. Cinquante articles, au moins. Les Huguenots, les Templiers, Thomas Becket, la communauté juive, les rues de Sens, la guerre 39-45 — tout y passait. Il travaillait dans les bureaux de la Société Archéologique de Sens, à côté de Bernard Brousse. Ensemble, ils étaient les deux voix de l'histoire sénonaise : Daguin écrivait, Brousse racontait.\n\nGérard est mort le 29 novembre 2018. Son site est toujours en ligne — mais le certificat de sécurité est cassé, et personne ne le maintient. C'est une bibliothèque numérique de Sens qui pourrait disparaître du jour au lendemain. Il a aussi publié un livre, « Sens pour les curieux », avec les commentaires de Francis Sarlin. Son site a reçu plus de 432 000 visiteurs et près d'un million de pages lues.\n\nQuand on parcourt les fiches de Patrimoine & Sens, on tombe sur le nom de Daguin partout. Les Templiers ? Daguin. Le massacre de 1562 ? Daguin. Les remparts ? Daguin. Le Carmel ? Daguin. Le Mamelouk Ali ? Daguin. Ce n'était pas un universitaire — c'était un journaliste qui aimait sa ville et qui a pris le temps de la raconter. Et c'est irremplaçable.",
+    sources: [
+      'L\'Yonne Républicaine, hommage Facebook, 29 novembre 2018.',
+      'histoire-sens-senonais-yonne.com — Chroniques historiques (50 articles archivés).',
+      'Daguin, Gérard. "Sens pour les curieux." Sens.',
+    ],
+    period: '~1940–2018',
+    audioUrl: null,
+  },
+  // Denis / Daguin — historique (bibliographie)
+  {
+    id: 'f6666666-0074-0074-0074-000000000002',
+    heritageItemId: 'e5555555-0074-0074-0074-000000000074',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Le corpus Daguin : inventaire des chroniques historiques",
+    body: "Le site histoire-sens-senonais-yonne.com constitue le corpus le plus accessible sur l'histoire locale de Sens. Ses articles couvrent une période allant de l'Antiquité gallo-romaine (Agedincum) à la séparation de l'Église et de l'État (1905), avec des incursions dans la Seconde Guerre mondiale.\n\nThèmes principaux : la cathédrale et le procès des Templiers (1310), le massacre des Huguenots (12 avril 1562), les fortifications de Sens, la communauté juive médiévale, Thomas Becket, les couvents (Jacobins, Ursulines, Dominicaines, Célestins, Carmel), les personnalités (Jean Cousin, le Mamelouk Ali, Jacques Clément, Victor Guichard, le général Duchesne), les noms de rues, le théâtre, le marché couvert, les mairies successives, la gare (1849), Napoléon et Bourrienne.\n\nLimites du corpus : Daguin était journaliste, pas historien universitaire. Ses articles sont des vulgarisations sans appareil critique (pas de notes de bas de page, pas de renvois aux sources primaires). Certaines dates et attributions nécessitent vérification croisée avec les Bulletins de la SAS ou les travaux de Denis Cailleaux. Le site est techniquement fragile (certificat TLS expiré, hébergement OverBlog non maintenu depuis le décès de l'auteur en 2018). Un archivage systématique des 50 articles a été réalisé en avril 2026.",
+    sources: [
+      'histoire-sens-senonais-yonne.com — index complet des chroniques.',
+      'Bulletin de la Société Archéologique de Sens (comparaison des sources).',
+    ],
+    furtherReading: "Le corpus Daguin doit être croisé avec trois sources de référence : (1) les Bulletins de la SAS (Gallica, 1846-1938), (2) les travaux de Denis Cailleaux (Université de Bourgogne), et (3) Bernard Brousse, « Sens, cité d'art et d'histoire » (Le Charmoiset, 2024). Daguin et Brousse travaillaient ensemble dans les locaux de la SAS. L'abbé Leviste (président SAS, gardien du trésor) constitue une quatrième source de référence, plus ancienne mais de poids académique supérieur.",
+    period: '~2005–2018',
     audioUrl: null,
   },
 

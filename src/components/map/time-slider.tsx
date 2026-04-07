@@ -19,6 +19,13 @@ export const EPOCHS: HistoricalEpoch[] = [
     description: "Carte actuelle OpenStreetMap",
   },
   {
+    id: "lalande",
+    label: "Plan Lalande",
+    shortLabel: "1880",
+    period: "1880",
+    description: "Plan de Sens & de ses faubourgs par A. Lalande — édifices publics, chemins de fer, faubourgs (Gallica/BnF)",
+  },
+  {
     id: "etatmajor",
     label: "État-major",
     shortLabel: "1850",
@@ -33,18 +40,39 @@ export const EPOCHS: HistoricalEpoch[] = [
     description: "Carte de Cassini — première carte topographique du royaume de France (IGN/BnF)",
   },
   {
+    id: "diocese",
+    label: "Diocèse de Sens",
+    shortLabel: "1741",
+    period: "1741",
+    description: "Carte topographique du diocèse de Sens par Outhier — 5 archidiaconés, 12 doyennés (Gallica/BnF)",
+  },
+  {
     id: "medieval",
     label: "Sens médiéval",
     shortLabel: "1200",
-    period: "IVe–XVe s.",
-    description: "Plan archéologique Bas-Empire + enceinte de l'Amande (Gallia 72-1, Nouvel et al. 2015)",
+    period: "XIIe–XVe s.",
+    description: "Enceinte de l'Amande, cathédrale, portes — tracés archéologiques + plan Bas-Empire (Gallia 72-1)",
+  },
+  {
+    id: "lateantique",
+    label: "Senones",
+    shortLabel: "IVe s.",
+    period: "IVe–Ve s.",
+    description: "Antiquité tardive — enceinte fortifiée sur cadastre actuel (Gallia 78-1, Bourillon et al.)",
+  },
+  {
+    id: "highempire",
+    label: "Haut-Empire",
+    shortLabel: "IIe s.",
+    period: "Ier–IIIe s. ap. J.-C.",
+    description: "Extension maximale ~160 ha — découvertes sur cadastre actuel (Gallia 78-1, Bourillon et al.)",
   },
   {
     id: "roman",
     label: "Agedincum",
     shortLabel: "Ier s.",
-    period: "Ier s. av. J.-C. – IVe s.",
-    description: "Restitution de la trame urbaine romaine (Gallia 72-1, fig. 4 — Nouvel, Delor-Ahü et al. 2015)",
+    period: "Ier s. av. J.-C. – Ier s. ap. J.-C.",
+    description: "Restitution de la trame urbaine — cardo, decumanus, forum (Gallia 72-1, Nouvel, Delor-Ahü et al. 2015)",
   },
 ]
 

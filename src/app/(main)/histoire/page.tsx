@@ -12,6 +12,7 @@ interface StoryEvent {
   year: number
   title: string
   text: string
+  longText?: string
   location: { lat: number; lng: number; label: string }
   sources: string[]
   heritageItemId: string | null
@@ -50,6 +51,7 @@ function EventLocationBadge({ event }: { event: StoryEvent }) {
 
 function EventCard({ event, chapterColor }: { event: StoryEvent; chapterColor: string }) {
   const [expanded, setExpanded] = React.useState(false)
+  const [showLong, setShowLong] = React.useState(false)
 
   return (
     <article className="relative pl-8 pb-8 group">
@@ -83,6 +85,31 @@ function EventCard({ event, chapterColor }: { event: StoryEvent; chapterColor: s
       <p className="text-stone-700 leading-relaxed text-[15px]">
         {event.text}
       </p>
+
+      {/* Version longue */}
+      {event.longText && (
+        <div className="mt-2">
+          <button
+            onClick={() => setShowLong(!showLong)}
+            className="inline-flex items-center gap-1.5 text-xs font-medium text-amber-700 hover:text-amber-900 transition-colors"
+          >
+            <BookOpen className="size-3" />
+            {showLong ? "Version courte" : "Lire la version longue"}
+            <ChevronDown
+              className={`size-3 transition-transform ${showLong ? "rotate-180" : ""}`}
+            />
+          </button>
+          {showLong && (
+            <div className="mt-3 pl-3 border-l-2 border-amber-200 space-y-3">
+              {event.longText.split("\n\n").map((para, i) => (
+                <p key={i} className="text-stone-600 leading-relaxed text-[14px]">
+                  {para}
+                </p>
+              ))}
+            </div>
+          )}
+        </div>
+      )}
 
       {/* Heritage item link */}
       {event.heritageItemId && (
