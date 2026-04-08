@@ -2,6 +2,7 @@
 
 import * as React from "react"
 import Link from "next/link"
+import type maplibregl from "maplibre-gl"
 import { MapPin, BookOpen, ChevronDown, ExternalLink } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import chapitresData from "../../../../public/data/histoire-chapitres.json"
@@ -238,9 +239,14 @@ function ChapterSection({ chapter }: { chapter: Chapter }) {
 
       {/* Events timeline */}
       <div className="ml-2">
-        {chapter.events.map((event, i) => (
-          <EventCard key={i} event={event} chapterColor={chapter.color} />
-        ))}
+        {chapter.events.map((event, i) => {
+          const chapterIdx = chapters.indexOf(chapter)
+          return (
+            <div key={i} data-event-idx={`${chapterIdx}-${i}`}>
+              <EventCard event={event} chapterColor={chapter.color} />
+            </div>
+          )
+        })}
       </div>
     </section>
   )
@@ -272,14 +278,87 @@ function ChapterNav({ activeChapter }: { activeChapter: string }) {
   )
 }
 
+// ─── Mini-carte synchronisée (desktop only) ────────────────────────────────
+
+function SyncMap({ activeEvent }: { activeEvent: StoryEvent | null }) {
+  const mapRef = React.useRef<HTMLDivElement>(null)
+  const mapInstanceRef = React.useRef<maplibregl.Map | null>(null)
+  const markerRef = React.useRef<maplibregl.Marker | null>(null)
+
+  // Charger MapLibre dynamiquement (côté client uniquement)
+  React.useEffect(() => {
+    let cancelled = false
+
+    async function initMap() {
+      const maplibregl = (await import("maplibre-gl")).default
+      await import("maplibre-gl/dist/maplibre-gl.css")
+
+      if (cancelled || !mapRef.current) return
+
+      const map = new maplibregl.Map({
+        container: mapRef.current,
+        style: "https://basemaps.cartocdn.com/gl/positron-gl-style/style.json",
+        center: [3.2837, 48.1977],
+        zoom: 14,
+        attributionControl: false,
+        interactive: true,
+      })
+
+      map.addControl(new maplibregl.AttributionControl({ compact: true }), "bottom-right")
+
+      const marker = new maplibregl.Marker({ color: "#92400e" })
+        .setLngLat([3.2837, 48.1977])
+        .addTo(map)
+
+      mapInstanceRef.current = map
+      markerRef.current = marker
+    }
+
+    initMap()
+    return () => { cancelled = true }
+  }, [])
+
+  // Fly to active event location
+  React.useEffect(() => {
+    if (!activeEvent || !mapInstanceRef.current || !markerRef.current) return
+    const { lat, lng } = activeEvent.location
+    mapInstanceRef.current.flyTo({
+      center: [lng, lat],
+      zoom: 15,
+      duration: 1200,
+      essential: true,
+    })
+    markerRef.current.setLngLat([lng, lat])
+  }, [activeEvent])
+
+  return (
+    <div className="hidden lg:block">
+      <div className="sticky top-20 h-[calc(100vh-6rem)] rounded-xl overflow-hidden border border-stone-200 shadow-sm">
+        <div ref={mapRef} className="h-full w-full" />
+        {activeEvent && (
+          <div className="absolute bottom-4 left-4 right-4 bg-white/90 backdrop-blur-sm rounded-lg px-3 py-2 shadow-sm">
+            <p className="text-xs font-mono text-amber-700">
+              {activeEvent.year < 0 ? `${Math.abs(activeEvent.year)} av. J.-C.` : activeEvent.year}
+            </p>
+            <p className="text-sm font-medium text-stone-900 leading-tight truncate">
+              {activeEvent.location.label}
+            </p>
+          </div>
+        )}
+      </div>
+    </div>
+  )
+}
+
 // ─── Page principale ────────────────────────────────────────────────────────
 
 export default function HistoirePage() {
   const [activeChapter, setActiveChapter] = React.useState(chapters[0]?.id ?? "I")
+  const [activeEvent, setActiveEvent] = React.useState<StoryEvent | null>(null)
 
-  // Intersection Observer pour mettre à jour le chapitre actif au scroll
+  // Observer pour chapitres ET événements
   React.useEffect(() => {
-    const observer = new IntersectionObserver(
+    const chapterObserver = new IntersectionObserver(
       (entries) => {
         for (const entry of entries) {
           if (entry.isIntersecting) {
@@ -291,22 +370,44 @@ export default function HistoirePage() {
       { rootMargin: "-20% 0px -70% 0px" }
     )
 
+    const eventObserver = new IntersectionObserver(
+      (entries) => {
+        for (const entry of entries) {
+          if (entry.isIntersecting) {
+            const idx = entry.target.getAttribute("data-event-idx")
+            if (idx) {
+              const [chIdx, evIdx] = idx.split("-").map(Number)
+              const ev = chapters[chIdx]?.events[evIdx]
+              if (ev) setActiveEvent(ev)
+            }
+          }
+        }
+      },
+      { rootMargin: "-30% 0px -60% 0px" }
+    )
+
     for (const ch of chapters) {
       const el = document.getElementById(`chapitre-${ch.id}`)
-      if (el) observer.observe(el)
+      if (el) chapterObserver.observe(el)
     }
 
-    return () => observer.disconnect()
+    document.querySelectorAll("[data-event-idx]").forEach((el) => {
+      eventObserver.observe(el)
+    })
+
+    return () => {
+      chapterObserver.disconnect()
+      eventObserver.disconnect()
+    }
   }, [])
 
-  // Compter les événements
   const totalEvents = chapters.reduce((sum, ch) => sum + ch.events.length, 0)
 
   return (
     <div className="min-h-screen">
       {/* Hero */}
       <header className="relative bg-stone-900 text-white px-4 py-12 sm:py-16">
-        <div className="mx-auto max-w-2xl text-center">
+        <div className="mx-auto max-w-3xl text-center">
           <p className="text-xs uppercase tracking-widest text-stone-400 mb-3">
             {chapitresData.subtitle}
           </p>
@@ -327,26 +428,31 @@ export default function HistoirePage() {
         </div>
       </header>
 
-      {/* Content */}
-      <main className="mx-auto max-w-2xl px-4 pb-24">
-        <ChapterNav activeChapter={activeChapter} />
+      {/* Split-screen: récit (gauche) + carte (droite, desktop only) */}
+      <div className="lg:grid lg:grid-cols-[1fr,400px] lg:gap-6 lg:max-w-6xl lg:mx-auto lg:px-6">
+        {/* Content — récit */}
+        <main className="mx-auto max-w-2xl px-4 pb-24 lg:max-w-none lg:px-0">
+          <ChapterNav activeChapter={activeChapter} />
 
-        <div className="space-y-12">
-          {chapters.map((chapter) => (
-            <ChapterSection key={chapter.id} chapter={chapter} />
-          ))}
-        </div>
+          <div className="space-y-12">
+            {chapters.map((chapter) => (
+              <ChapterSection key={chapter.id} chapter={chapter} />
+            ))}
+          </div>
 
-        {/* Footer */}
-        <footer className="mt-16 pt-8 border-t border-stone-200 text-center">
-          <p className="text-sm text-stone-400">
-            Sources : Daguin, Brousse, Cailleaux, Bulletins SAS, Mérimée, Cahiers de doléances (1789).
-          </p>
-          <p className="text-xs text-stone-300 mt-2">
-            Niveau de lecture : collège / lycée. Chaque fait est sourcé.
-          </p>
-        </footer>
-      </main>
+          <footer className="mt-16 pt-8 border-t border-stone-200 text-center">
+            <p className="text-sm text-stone-400">
+              Sources : Daguin, Brousse, Cailleaux, Bulletins SAS, Mérimée, Cahiers de doléances (1789).
+            </p>
+            <p className="text-xs text-stone-300 mt-2">
+              Niveau de lecture : collège / lycée. Chaque fait est sourcé.
+            </p>
+          </footer>
+        </main>
+
+        {/* Carte synchronisée — desktop only */}
+        <SyncMap activeEvent={activeEvent} />
+      </div>
     </div>
   )
 }
