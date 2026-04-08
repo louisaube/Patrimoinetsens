@@ -1522,7 +1522,7 @@ export const seedContributions = [
     authorId: BERNARD,
     contributionType: 'recit' as const,
     title: "Champbertrand : la ferme qui nourrit Sens depuis des siècles",
-    body: "Champbertrand, c'est un nom qu'on lit sur les panneaux à la sortie de Sens sans trop y penser. Pourtant, ce lieu-dit raconte une histoire très ancienne — celle de la terre nourricière aux portes de la ville.\n\nLe toponyme « Champbertrand » est typique du Moyen Âge : « champ » plus un prénom germanique. C'est le champ de Bertrand, un domaine agricole attribué à un tenancier à une époque où Sens était entourée de terres cultivées qui alimentaient la ville et ses marchés.\n\nLa ferme actuelle est exploitée par la famille Aubé depuis plus de 35 ans. Antoine Aubé cultive 170 hectares de céréales et 2 hectares de maraîchage. De fin mai à octobre, les Sénonais viennent y acheter fraises, tomates, poivrons, aubergines en vente directe.\n\nCe qui est remarquable, c'est la continuité du lieu. Quand on mange une tomate de Champbertrand en 2026, on fait la même chose que les Sénonais du XIVe siècle qui achetaient leurs légumes aux maraîchers des faubourgs. La ville a grandi, les techniques ont changé, mais le lien entre Sens et sa ceinture maraîchère n'a pas été coupé.\n\nChampbertrand est un patrimoine vivant. Pas un monument classé — mais un lieu qui fait ce qu'il a toujours fait : nourrir les gens d'ici.",
+    body: "Champbertrand, c'est un nom qu'on lit sur les panneaux à la sortie de Sens sans trop y penser. Pourtant, ce lieu-dit raconte une histoire très ancienne — celle de la terre nourricière aux portes de la ville.\n\nLe toponyme « Champbertrand » est typique du Moyen Âge : « champ » plus un prénom germanique. C'est le champ de Bertrand, un domaine agricole attribué à un tenancier à une époque où Sens était entourée de terres cultivées qui alimentaient la ville et ses marchés.\n\nLa ferme actuelle est exploitée par la famille Aubé depuis plus de 35 ans. Antoine Aubé cultive 170 hectares de céréales et 2 hectares de maraîchage. De fin mai à octobre, les Sénonais viennent y acheter fraises, tomates, poivrons, aubergines en vente directe.\n\nCe qui est remarquable, c'est la continuité du lieu. Quand on mange une tomate de Champbertrand en 2026, on fait la même chose que les Sénonais du XIVe siècle qui achetaient leurs légumes aux maraîchers des faubourgs. La ville a grandi, les techniques ont changé, mais le lien entre Sens et sa ceinture maraîchère n'a pas été coupé.\n\nLe domaine de Champbertrand a une histoire plus ancienne que la ferme actuelle. Il a appartenu à la famille L'Hermitte de Champbertrand avant d'être racheté par la famille Leblanc-Duvernoy — les mêmes mécènes auxerrois qui ont légué leur hôtel particulier XVIIIe à la ville d'Auxerre (devenu le musée Leblanc-Duvernoy, avec ses tapisseries de Beauvais). Champbertrand est un patrimoine vivant. Pas un monument classé — mais un lieu qui fait ce qu'il a toujours fait : nourrir les gens d'ici.",
     sources: [
       'Tourisme Yonne, « Ferme de Champbertrand ».',
       'Brousse, Bernard. « Sens, cité d\'art et d\'histoire. » Le Charmoiset, 2024.',
@@ -1581,6 +1581,61 @@ export const seedContributions = [
     ],
     furtherReading: "Le corpus Daguin doit être croisé avec trois sources de référence : (1) les Bulletins de la SAS (Gallica, 1846-1938), (2) les travaux de Denis Cailleaux (Université de Bourgogne), et (3) Bernard Brousse, « Sens, cité d'art et d'histoire » (Le Charmoiset, 2024). Daguin et Brousse travaillaient ensemble dans les locaux de la SAS. L'abbé Leviste (président SAS, gardien du trésor) constitue une quatrième source de référence, plus ancienne mais de poids académique supérieur.",
     period: '~2005–2018',
+    audioUrl: null,
+  },
+
+
+  // =========================================================================
+  // MOULINS DUMEE (item 79)
+  // =========================================================================
+  {
+    id: 'f6666666-0112-0112-0112-000000000112',
+    heritageItemId: 'e5555555-0079-0079-0079-000000000079',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Les Dumée : sept générations de meuniers à Sens",
+    body: "En 1703, un certain Jacques Dumée s'installe comme meunier à Sens, dans la paroisse Saint-Cartault, quartier Saint-Paul. Trois siècles plus tard, ses descendants dirigent l'un des dix plus gros moulins de France. Sept générations de Dumée se sont succédé : Jacques (1703), Pierre (1743), Antoine (1782), Louis-Auguste (1861), Roger (1899), Gérald (1936), puis Hervé de Romémont, gendre de Gérald (1998). On trouve même trace d'un Dumée meunier à Véron dès 1641.\n\nLouis-Auguste rachète les Moulins de Saint-Père en 1890 — au coin de la rue d'Alsace-Lorraine et de la rue de la Planche-Barrault — 20 tonnes de farine par jour. En 1927, ses fils André et Roger reprennent l'entreprise. En 1935, un incendie détruit presque tout. Ils reconstruisent et doublent la capacité à 50 tonnes. En 1960, l'entreprise devient la SA « Moulins Dumée ». En 1963, Gérald prend les rênes. En 1975, il passe à 90 tonnes. En 1994, 200 tonnes.\n\nEn 2003, la famille achète un terrain à Gron, près de Sens. Le projet du nouveau moulin est lancé en 2009. En septembre 2015, la production démarre sur le nouveau site : 450 tonnes par jour, 11 500 tonnes de stockage de grain. C'est l'un des moulins les plus modernes de France. L'ancien site de Sens est démoli en 2018-2019.\n\nEn 2025, le capital passe à la SAS FHDR — Florence et Hervé de Romémont avec leurs enfants. Les Dumée, c'est l'histoire d'une famille qui fait la même chose depuis 1703 — moudre du blé — et qui le fait mieux à chaque génération. C'est rare. La plupart des entreprises familiales ne survivent pas trois générations. Les Dumée en sont à sept.",
+    sources: [
+      'Moulins Dumée, « Historique » : moulins-dumee.com/historique/.',
+      'Rose Diers, « Les anciennes usines de Sens — Les Moulins Dumée », reportagephotosrosediers.jimdofree.com.',
+    ],
+    period: '1703 — présent',
+    audioUrl: null,
+  },
+  // =========================================================================
+  // BARON THENARD (item 80)
+  // =========================================================================
+  {
+    id: 'f6666666-0113-0113-0113-000000000113',
+    heritageItemId: 'e5555555-0080-0080-0080-000000000080',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Le baron Thénard : du collège de Sens à l'eau oxygénée",
+    body: "Louis-Jacques Thénard est né le 4 mai 1777 à La Louptière, près de Nogent-sur-Seine. Fils de paysans, il est formé dès l'âge de 10 ans par le curé de Villeneuve-l'Archevêque, puis entre au collège de Sens. À 16 ans, il part pour Paris avec l'ambition de devenir pharmacien.\n\nIl devient bien plus. Protégé de Vauquelin, puis de Fourcroy, il est nommé professeur au Collège de France, à l'École polytechnique et à la faculté des sciences de Paris. Ses découvertes sont majeures : l'eau oxygénée (H₂O₂, 1818), le bleu de Thénard (pigment de cobalt utilisé en céramique), l'identification du bore avec Gay-Lussac (1808).\n\nDéputé de l'Yonne, pair de France, baron de Charles X (1825) — Thénard est au sommet. Mais il a un ennemi : Victor Hugo. En 1839, les deux hommes se disputent sur le travail des enfants. Thénard défend le patronat, Hugo les enfants. Vingt-trois ans plus tard, Hugo nomme ses méchants « Thénardier » dans Les Misérables (1862).\n\nStatue érigée place Thénard à Sens en 1861. Village natal rebaptisé La Louptière-Thénard en 1865. Un scientifique de premier plan, formé à Sens, dont le nom est devenu — par la plume de Hugo — synonyme de méchanceté.",
+    sources: [
+      'France Bleu Auxerre, « Thénardier : vengeance politique de Hugo contre un baron de Sens », 2023.',
+      'Chassant, Alphonse. « Dictionnaire des devises historiques et héraldiques. » Paris, 1878.',
+      'Brousse, Bernard. « Sens, cité d\'art et d\'histoire. » Le Charmoiset, 2024.',
+    ],
+    furtherReading: "Le lien Hugo-Thénard est documenté par plusieurs historiens. Hugo a visité Sens le 24 octobre 1839, lors d'un voyage en Bourgogne. La statue de Thénard, place du même nom à Sens, date de 1861 — un an avant la publication des Misérables. À la fin du roman, le personnage de Thénardier se présente à Marius sous le faux nom de « Thénard » — référence à peine voilée au baron sénonais.",
+    period: '1777–1857',
+    audioUrl: null,
+  },
+  // =========================================================================
+  // TANNERIES DOMANGE (item 81)
+  // =========================================================================
+  {
+    id: 'f6666666-0114-0114-0114-000000000114',
+    heritageItemId: 'e5555555-0081-0081-0081-000000000081',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Les Tanneries Domange : quand Sens fabriquait les courroies du monde",
+    body: "En 1877, Hippolyte Morel arrive de Metz pour reprendre une tannerie à Sens. C'est le début d'une aventure industrielle qui durera un siècle. La famille Domange prend la suite et bâtit un empire : la Maison Domange, alias Scellos, se spécialise dans les courroies de transmission en cuir — les courroies qui faisaient tourner les machines de toutes les usines de France.\n\nEn 1887, Albert Domange fait construire un moulin à tan rue des Tanneries, avec roue à aubes, atelier et galerie de bureaux à l'étage. En 1904, un hôtel particulier impressionnant sort de terre au 10 rue Auguste Morel, dessiné par l'architecte Schneider. C'est la vitrine de la réussite industrielle.\n\nÀ son apogée en 1927, l'entreprise emploie 600 ouvriers dans trois usines — Sens, Paris et Bagnolet. Six cents ouvriers. Dans une ville qui en comptait peut-être 20 000 habitants. Domange, c'était Sens.\n\nLa chute est brutale. Jean-Claude Domange, dernier PDG de la lignée, dépose le bilan en 1978. Le tribunal de commerce de Paris prononce le règlement judiciaire le 29 mai. L'usine de Sens ferme le 18 septembre. 200 licenciements. La grande cheminée est bientôt démolie, les bâtiments rasés pour faire place à un lotissement de 102 logements.\n\nAujourd'hui, il ne reste que l'hôtel particulier du 10 rue Auguste Morel et un bâtiment reconverti en bureaux au coin de la rue du Sachot. Et les serres tropicales municipales, installées en 2000 dans l'ancien bâtiment de l'usine. C'est tout ce qui reste d'un siècle d'industrie du cuir à Sens.",
+    sources: [
+      'Rose Diers, « Les anciennes usines de Sens — Les Tanneries Domange », reportagephotosrosediers.jimdofree.com.',
+      'Rose Diers, « Le Moulin à Tan et Moulin du Roy », reportagephotosrosediers.jimdofree.com.',
+    ],
+    period: '1877–1978',
     audioUrl: null,
   },
 

@@ -1047,4 +1047,44 @@ export const seedHeritageItems = [
     periodStart: 1940,
     periodEnd: 2018,
   },
+
+  // 79. Moulins Dumée — meuniers depuis 1703, parmi les 10 plus gros moulins de France
+  {
+    id: 'e5555555-0079-0079-0079-000000000079',
+    createdBy: BERNARD,
+    title: 'Moulins Dumée — meuniers de Sens depuis 1703',
+    category: 'batiment_historique' as const,
+    status: 'publie' as const,
+    latitude: 48.1935,
+    longitude: 3.2870,
+    coverPhotoUrl: null,
+    periodStart: 1703,
+    periodEnd: 2025,
+  },
+  // 80. Baron Thénard — chimiste, député, celui qui a inspiré les Thénardier
+  {
+    id: 'e5555555-0080-0080-0080-000000000080',
+    createdBy: DENIS,
+    title: 'Baron Thénard — le chimiste qui a inspiré les Thénardier',
+    category: 'autre' as const,
+    status: 'publie' as const,
+    latitude: 48.1970,
+    longitude: 3.2830,
+    coverPhotoUrl: null,
+    periodStart: 1777,
+    periodEnd: 1857,
+  },
+  // 81. Tanneries Domange — patrimoine industriel, courroies de transmission, 600 ouvriers
+  {
+    id: 'e5555555-0081-0081-0081-000000000081',
+    createdBy: BERNARD,
+    title: 'Tanneries Domange — 600 ouvriers et la fin d\'une époque',
+    category: 'batiment_historique' as const,
+    status: 'publie' as const,
+    latitude: 48.1920,
+    longitude: 3.2910,
+    coverPhotoUrl: null,
+    periodStart: 1877,
+    periodEnd: 1978,
+  },
 ] as const
