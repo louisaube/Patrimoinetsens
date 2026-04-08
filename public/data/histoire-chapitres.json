@@ -40,6 +40,20 @@
           "longText": "En 390 avant notre ère, les Sénons ne sont pas un petit peuple marginal. Ils occupent un territoire immense entre la Seine et la Loire, avec Sens (qui ne s'appelle pas encore ainsi) comme centre. Leur chef Brennus lance une expédition militaire vers le sud qui va marquer l'histoire pour toujours.\n\nL'armée gauloise écrase les légions romaines à la bataille de l'Allia, un affluent du Tibre, le 18 juillet 390. Rome est ouverte. Les Gaulois entrent dans la ville, qu'ils pillent pendant sept mois. Seul le Capitole résiste, défendu par une poignée de soldats.\n\nLa scène de l'épée sur la balance — « Vae victis ! » — est racontée par Tite-Live un siècle et demi plus tard. Est-elle vraie ? Impossible de le savoir. Mais elle résume parfaitement le rapport de force de l'époque : les Gaulois sont les plus forts, et les Romains doivent payer.\n\nCe traumatisme romain est fondateur. Pendant les quatre siècles suivants, Rome construira sa puissance militaire en partie pour que « plus jamais » un peuple barbare ne prenne la Ville. Le « metus Gallicus » — la peur du Gaulois — deviendra un thème politique récurrent au Sénat romain.\n\nPour Sens, cette histoire est une carte d'identité. Quand le maire Lucien Cornet fait construire l'Hôtel de Ville en 1904, il place une statue de Brennus au sommet du campanile — face à la cathédrale. Un geste politique : la République face à l'Église, mais aussi un rappel que Sens est la ville d'un peuple qui a pris Rome.\n\nLes Sénons italiens — ceux qui sont restés en Italie après Brennus — ont donné leur nom à la ville de Senigallia (Sena Gallica) sur la côte adriatique, jumelle italienne de Sens."
         },
         {
+          "year": -200,
+          "title": "L'emporium de Sainte-Colombe : 2 000 ans de foire au meme endroit",
+          "text": "Bien avant les Romains, un grand marche gaulois se tenait sur les bords de l'Yonne, dans la plaine de Sainte-Colombe pres de Sens. Cette foire, qui durait trois semaines, a survecu pendant tout le Moyen Age. Les foires des 1er et 21 septembre a Sens en seraient les descendantes directes --- 2 000 ans de commerce au meme endroit. Les Senons n'etaient pas que des guerriers : c'etaient aussi des commercants.",
+          "location": {
+            "lat": 48.206,
+            "lng": 3.275,
+            "label": "Plaine de Sainte-Colombe --- emporium gaulois"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XV, 1892, p. 48."
+          ],
+          "heritageItemId": "e5555555-0011-0011-0011-000000000011"
+        },
+        {
           "year": -52,
           "title": "César à Agedincum",
           "text": "Pendant la guerre des Gaules, Jules César installe son quartier général à Agedincum (Sens). La ville est un carrefour stratégique : six voies romaines s'y croisent. C'est de là que partent les légions pour combattre Vercingétorix. Après la conquête, Agedincum se couvre de monuments romains — thermes, amphithéâtre, forum.",
@@ -54,6 +68,20 @@
           ],
           "heritageItemId": "e5555555-0050-0050-0050-000000000050",
           "longText": "L'épisode de César à Agedincum est un tournant dans l'histoire de Sens. En 53 av. J.-C., pendant la guerre des Gaules, César choisit Agedincum comme base arrière pour ses six légions. Pourquoi ici ? Parce que la ville est un carrefour naturel : elle se trouve au confluent de l'Yonne et de la Vanne, à l'intersection de six routes majeures.\n\nLe chef sénon Acco s'est révolté contre Rome. César fait un exemple : Acco est battu de verges et décapité devant l'armée assemblée, « selon la coutume romaine » (more maiorum). Ce supplice est décrit dans le De Bello Gallico, VI, 44 — c'est la seule mention d'Agedincum par César.\n\nLe camp de César se trouvait probablement au sud de la ville, dans la zone appelée « Motte du Ciar » ou « Champ de César ». Les fouilles y ont révélé un vaste complexe rectangulaire (386 m × 198 m) prolongé par un demi-cercle — un plan qui ressemble à un camp romain, mais qui pourrait aussi être un sanctuaire gaulois réutilisé.\n\nAprès la conquête, Agedincum ne disparaît pas — elle se transforme. En une ou deux générations, la ville gauloise devient une ville romaine, avec un plan en damier, des thermes, un amphithéâtre et un forum. Le même processus se produit dans toute la Gaule, mais Agedincum a un avantage : sa position de carrefour. La Via Agrippa, le grand axe Lyon-Boulogne, passe par ici.\n\nC'est cette romanisation qui donnera à Sens son plan urbain « en amande » — visible encore aujourd'hui — et le réseau de rues qui structure la ville depuis deux mille ans."
+        },
+        {
+          "year": -50,
+          "title": "Le Carcer Caesaris : la legende urbaine preferee des Senonais",
+          "text": "Pendant des siecles, les Senonais croient que Jules Cesar a ete emprisonne dans leur ville. Leur preuve ? Une inscription 'Carcer Caesaris' sur un batiment au bout du pont d'Yonne. En 1735, l'abbe Lebeuf eclate de rire : 'Carcer Caesaris' signifie 'prison batie par Cesar', pas 'prison DE Cesar' ! Personne n'a emprisonne Jules Cesar a Sens. Le batiment est demoli, mais la legende survit --- les Senonais aiment tellement leur ville qu'ils veulent y avoir enferme le maitre du monde.",
+          "location": {
+            "lat": 48.1955,
+            "lng": 3.282,
+            "label": "Pont d'Yonne --- le 'Carcer Caesaris'"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XV, 1892, p. 133-134 (abbe Lebeuf, 1735)."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 50,
@@ -199,6 +227,20 @@
             "Bulletin SAS, vol. XII, 1880, p. 248-267 (catalogue Dubois, 352 pieces)."
           ],
           "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
+          "year": 250,
+          "title": "Paterninus, edile du vicus : Sens si grande qu'elle a des quartiers",
+          "text": "Une plaque de bronze du IIIe siecle nous revele l'existence de Paterninus, edile (magistrat municipal) du 'vicus Agiedicensis.' Autrement dit : a cette epoque, Sens est si vaste qu'elle est subdivisee en plusieurs quartiers autonomes, chacun avec son propre magistrat. Le vicus du Vif (a l'est, ou naitra le christianisme senonais) et le quartier d'Agiedic sont deux de ces subdivisions. C'est la preuve d'une organisation urbaine sophistiquee.",
+          "location": {
+            "lat": 48.1977,
+            "lng": 3.286,
+            "label": "Agedincum --- plaque de Paterninus"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XV, 1892, p. 118 (inscription bronze)."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 270,
@@ -364,6 +406,20 @@
           ],
           "heritageItemId": "e5555555-0013-0013-0013-000000000013",
           "longText": "L'acronyme STAMPIS résume la province ecclésiastique de Sens : Sens, Troyes, Auxerre, Meaux, Paris, (pas de I), Nevers, (pas de S). En réalité, les sept suffragants sont : Chartres, Auxerre, Meaux, Paris, Orléans, Nevers et Troyes. C'est un territoire gigantesque qui couvre une bonne partie du Bassin parisien.\n\nParis n'est qu'un petit évêché. Son évêque doit obéissance à l'archevêque de Sens, qui le consacre et peut le juger. Quand l'évêque de Paris veut réunir un synode, c'est l'archevêque de Sens qui préside. Quand il y a un conflit entre deux diocèses, c'est à Sens qu'on tranche.\n\nCette situation est difficile à imaginer aujourd'hui, mais elle a des conséquences directes et durables. Les conciles — ces assemblées d'évêques qui fixent la doctrine et tranchent les conflits — se tiennent à Sens, pas à Paris. C'est à Sens qu'on juge Abélard en 1141. C'est à Sens que réside le pape Alexandre III en 1163-1165. C'est à Sens que Saint Louis se marie en 1234.\n\nLes archevêques de Sens sont des personnages de premier plan du royaume. Certains deviennent régents de France (comme Guillaume aux Blanches Mains au XIIe siècle). D'autres couronnent des rois quand l'archevêque de Reims est empêché. Leur pouvoir est à la fois spirituel et temporel.\n\nCette subordination de Paris à Sens prend fin progressivement à partir du XIIIe siècle, quand la croissance de Paris rend la situation de plus en plus absurde. La rupture officielle intervient en 1622, quand le pape Grégoire XV érige Paris en archevêché. En un trait de plume, Sens perd quatre de ses sept suffragants — Paris, Chartres, Meaux et Orléans — et ne retrouvera jamais sa grandeur passée."
+        },
+        {
+          "year": 600,
+          "title": "Un cimetiere merovingien a Michery : scramasaxe et sarcophages",
+          "text": "Pres de Michery, a cote de Pont-sur-Yonne, des ouvriers d'une carriere tombent sur un cimetiere merovingien. Ils y trouvent une boucle de ceinture en bronze finement decoree, un long couteau de guerre (scramasaxe) de 50 cm, et trois sarcophages de pierre blanche, tous alignes pieds vers l'est selon la coutume chretienne. Les agrafes, ornees d'entrelacs, datent du VIe-VIIe siecle. Ces guerriers francs vivaient et mouraient dans le Senonais, entre Yonne et foret.",
+          "location": {
+            "lat": 48.17,
+            "lng": 3.23,
+            "label": "Michery --- cimetiere merovingien"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XV, 1892, p. 297-299."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 650,
@@ -667,6 +723,20 @@
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
           "longText": "Les 25-26 mai 1141, la cathédrale de Sens est le théâtre d'un événement intellectuel majeur : le procès de Pierre Abélard.\n\nTout le pouvoir de France est là. Le roi Louis VII (21 ans), Aliénor d'Aquitaine (19 ans, mariée au roi depuis quatre ans), le comte de Champagne, une brochette d'évêques et d'abbés. Et les deux protagonistes : Pierre Abélard, le philosophe le plus brillant et le plus controversé de son temps, et Bernard de Clairvaux, le moine le plus influent d'Europe.\n\nLe conflit est théologique, mais aussi personnel. Abélard applique la raison au dogme — il veut comprendre la foi par la logique. Bernard voit dans cette démarche une menace pour l'Église : la foi ne se démontre pas, elle se vit. Les deux hommes s'affrontent depuis des années par lettres interposées.\n\nAbélard a réclamé ce concile pour se défendre publiquement. Mais Bernard a manœuvré en coulisses : la veille de l'assemblée, il a réuni les évêques en privé et les a convaincus de condamner Abélard. Quand le concile s'ouvre, la cause est entendue.\n\nAbélard, comprenant que le procès est truqué, refuse de se défendre et fait appel au pape. Il quitte Sens. Le concile le condamne tout de même. Le pape confirmera la condamnation. Abélard, brisé, se retire à l'abbaye de Cluny où Pierre le Vénérable l'accueille avec bienveillance. Il meurt en 1142.\n\nPourquoi à Sens ? Parce que l'archevêque de Sens est le métropolitain de la province. Un concile provincial se tient dans la métropole. Et parce que Sens, avec son école cathédrale et sa tradition intellectuelle, est le lieu naturel de ce type de débat.\n\nLa Société archéologique de Sens (SAS) a consacré une conférence à cet épisode en février 2024, par Jérôme Rival."
+        },
+        {
+          "year": 1146,
+          "title": "Louis VII accorde la Commune avant de partir en croisade",
+          "text": "En 1146, le roi Louis VII, sur le point de partir pour la deuxieme croisade, offre aux bourgeois de Sens le droit de se gouverner eux-memes. Mais trois ans plus tard, l'abbe de Saint-Pierre-le-Vif obtient sa suppression. En 1189, une nouvelle commune nait, plus modeste. Son sceau montre 13 visages imberbes : le maire et ses 12 pairs. Elle durera jusqu'en 1318, quand les habitants eux-memes, excedes par leurs elus, la remettent au roi. Le dernier maire, Jean de Dicy, ne trouve que 22 voix pour le soutenir.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Hotel de ville --- sceau de la Commune"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XV, 1892, p. 93-97 (commune et sceau)."
+          ],
+          "heritageItemId": "e5555555-0012-0012-0012-000000000012"
         },
         {
           "year": 1150,
@@ -989,6 +1059,20 @@
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
           "longText": "L'histoire de Jean du Cognot est l'une des anecdotes les plus savoureuses de la cathédrale de Sens — et l'une des plus mal connues.\n\nLe 7 décembre 1329, le roi Philippe VI convoque une assemblée de prélats et de seigneurs dans la cathédrale. L'enjeu est sérieux : trancher le conflit entre le pouvoir royal et l'Église sur les droits respectifs de chacun. Le conseiller du roi, Pierre de Cugnières, formule 70 griefs contre les empiétements du clergé sur la justice royale.\n\nL'Église gagne le débat. Le clergé conserve ses privilèges. Pierre de Cugnières — que les chroniqueurs appellent par dérision « Jean du Cognot » (un jeu de mots grivois qui évoque le cocu) — est ridiculisé. Pour marquer leur victoire, les chanoines de Sens auraient fait sculpter, quelque part dans la cathédrale, une tête grimaçante qui représente le malheureux conseiller royal.\n\nCette « tête de Jean du Cognot » est devenue une curiosité locale. Gérard Daguin en a fait le sujet d'une de ses chroniques. Bernard Brousse, historien local, a documenté l'anecdote.\n\nAu-delà du folklore, l'épisode illustre un enjeu fondamental du XIVe siècle : la lutte entre le pouvoir royal et l'Église pour le contrôle de la justice. Philippe VI veut unifier la justice sous l'autorité royale. Le clergé défend ses tribunaux ecclésiastiques, qui jugent les affaires de mariage, d'héritage, de dîme.\n\nCe conflit ne sera tranché qu'à la Révolution, quand la Constitution civile du clergé (1790) supprimera les tribunaux ecclésiastiques.\n\nLa « tête du cocu » est toujours visible quelque part dans la cathédrale — mais son identification exacte fait débat. Cherchez parmi les sculptures des chapiteaux et des modillons : le Moyen Âge adore cacher des messages dans la pierre."
+        },
+        {
+          "year": 1336,
+          "title": "Rue de la Parcheminerie : un secretaire du roi fonde les Celestins",
+          "text": "En 1336, Jean de Mezieres, un Senonais devenu secretaire du roi, et son epouse Isabelle Bilouard fondent une chapelle dans la rue de la Parcheminerie --- aujourd'hui la rue Thenard. Le nom de l'ancienne rue rappelle qu'on y fabriquait du parchemin, un commerce lie a la cathedrale et a ses chanoines. Cette chapelle deviendra le couvent des Celestins, qui deviendra un college, ou Mallarme enseignera en 1871. Cinq siecles d'histoire dans un seul lieu.",
+          "location": {
+            "lat": 48.1985,
+            "lng": 3.287,
+            "label": "Rue Thenard --- ancienne Parcheminerie"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XV, 1892, p. 82 (fondation Celestins)."
+          ],
+          "heritageItemId": "e5555555-0024-0024-0024-000000000024"
         },
         {
           "year": 1345,
@@ -2276,6 +2360,20 @@
           ],
           "heritageItemId": "e5555555-0004-0004-0004-000000000004",
           "longText": "vieux édifices et de publier modestement leurs découvertes, dus- sent-ils laisser à de plus habiles, le soin d'en déduire les consé- quences. Telle est la pensée principale qui a présidé à la création de la Société archéologique de Sens. De tous les peuples réputés barbares, les Gaulois Sénonais ap- paraissent activement les premiers sur la scène du monde. Dans le siècle même oit tout l'Orient s'agite et recueille ses forces comme pour s'apprêter à répandre ses flots de lumière jusqu'aux confins de l'Occident, où Jérusalem renaît, où les Perses impor- tent sur les rives de l'Hellespont, la culture intellectuelle de la haute Asie, où Pisistrate ouvre aux Athéniens la carrière de la poésie et des beaux arts, dans laquelle ils doiventjeter un incom- parable éclat, où une colonie de Phocéens s'établit auxBouches- du-Rhône, où Rome, par l'exp"
+        },
+        {
+          "year": 1882,
+          "title": "17 m3 de pierres sauvees : la facade de l'Hotel-Dieu demontee",
+          "text": "Quand on demolit le vieil Hotel-Dieu en 1882 pour construire le marche couvert, l'architecte Roblot fait soigneusement deposer 17 m3 de pierres sculptees au jardin de la mairie. Le portail central, vieux de sept siecles (1170-1200), avait traverse la Revolution intacte. Sa facade racontait 500 ans d'architecture : portail roman, fenetres gothiques, ecussons Renaissance et baies du XVIIe siecle. On detruit pour moderniser, mais on sauve les pierres --- l'instinct patrimonial est deja la.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2819,
+            "label": "Marche couvert --- ancien Hotel-Dieu"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XV, 1892, p. 252-253 (rapport Roblot)."
+          ],
+          "heritageItemId": "e5555555-0004-0004-0004-000000000004"
         },
         {
           "year": 1886,
