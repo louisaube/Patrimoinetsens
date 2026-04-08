@@ -93,6 +93,20 @@
           "image": "/images/histoire/sas_1846_pl4_remparts_gallo.jpg"
         },
         {
+          "year": 100,
+          "title": "Sens gallo-romaine en trois poles : Ciar, Arenes, Bains",
+          "text": "Les fouilles du XIXe siecle revelent que la ville romaine s'organisait autour de trois grands monuments : la Motte du Ciar (un fort ou un temple) au confluent de la Vanne, les arenes (un amphitheatre) au milieu du faubourg Saint-Savinien, et les bains publics sur la promenade Saint-Didier. Ces trois points forment un triangle qui depasse largement les remparts medievaux. La ville romaine etait bien plus grande que la ville du Moyen Age --- preuve d'un declin demographique entre le IIIe et le Ve siecle.",
+          "location": {
+            "lat": 48.1943,
+            "lng": 3.286,
+            "label": "Triangle gallo-romain : Ciar / Arenes / Bains"
+          },
+          "sources": [
+            "Bulletin SAS, vol. II, 1851, p. 15 (memoires Lallier)."
+          ],
+          "heritageItemId": "e5555555-0050-0050-0050-000000000050"
+        },
+        {
           "year": 150,
           "title": "Un aqueduc de 16 km pour alimenter Agedincum",
           "text": "Au IIe siècle, les Romains construisent un aqueduc de 16 kilometres pour amener l'eau de source depuis la vallee de la Vanne jusqu'a Agedincum. La ville du Haut-Empire s'etend sur 125 hectares --- cinq fois la surface qu'elle occupera au Moyen Age. Elle possede des thermes publics (dont une facade est reconstituee au musee de Sens), un amphitheatre, un forum et au moins 40 steles funeraires sculptees. La Via Agrippa, l'axe majeur Lyon-Boulogne, traverse la ville du nord au sud.",
@@ -292,6 +306,20 @@
           ],
           "heritageItemId": "e5555555-0013-0013-0013-000000000013",
           "longText": "L'acronyme STAMPIS résume la province ecclésiastique de Sens : Sens, Troyes, Auxerre, Meaux, Paris, (pas de I), Nevers, (pas de S). En réalité, les sept suffragants sont : Chartres, Auxerre, Meaux, Paris, Orléans, Nevers et Troyes. C'est un territoire gigantesque qui couvre une bonne partie du Bassin parisien.\n\nParis n'est qu'un petit évêché. Son évêque doit obéissance à l'archevêque de Sens, qui le consacre et peut le juger. Quand l'évêque de Paris veut réunir un synode, c'est l'archevêque de Sens qui préside. Quand il y a un conflit entre deux diocèses, c'est à Sens qu'on tranche.\n\nCette situation est difficile à imaginer aujourd'hui, mais elle a des conséquences directes et durables. Les conciles — ces assemblées d'évêques qui fixent la doctrine et tranchent les conflits — se tiennent à Sens, pas à Paris. C'est à Sens qu'on juge Abélard en 1141. C'est à Sens que réside le pape Alexandre III en 1163-1165. C'est à Sens que Saint Louis se marie en 1234.\n\nLes archevêques de Sens sont des personnages de premier plan du royaume. Certains deviennent régents de France (comme Guillaume aux Blanches Mains au XIIe siècle). D'autres couronnent des rois quand l'archevêque de Reims est empêché. Leur pouvoir est à la fois spirituel et temporel.\n\nCette subordination de Paris à Sens prend fin progressivement à partir du XIIIe siècle, quand la croissance de Paris rend la situation de plus en plus absurde. La rupture officielle intervient en 1622, quand le pape Grégoire XV érige Paris en archevêché. En un trait de plume, Sens perd quatre de ses sept suffragants — Paris, Chartres, Meaux et Orléans — et ne retrouvera jamais sa grandeur passée."
+        },
+        {
+          "year": 650,
+          "title": "Le suaire de Sainte-Colombe : une etoffe de 1 400 ans dans le tresor",
+          "text": "Dans la chasse de sainte Colombe, on conserve un suaire dont la fabrication est attribuee a saint Eloi --- le grand orfevre du roi Dagobert. Le tissu remonterait au VIIe ou IXe siecle. C'est l'une des pieces les plus anciennes du tresor de la cathedrale de Sens. En 1851, M. Brullee presente les dessins de ce suaire a la Societe Archeologique. C'est un fragment textile qui a traverse treize siecles dans un coffre de bois --- un miracle de conservation.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Cathedrale --- tresor (suaire de Sainte-Colombe)"
+          },
+          "sources": [
+            "Bulletin SAS, vol. II, 1851, p. 57 (rapport Brullee)."
+          ],
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
         },
         {
           "year": 692,
@@ -789,6 +817,20 @@
           "longText": "Le Moulin à Tan, au sud-est de Sens, est un moulin à eau installé sur un bras de l'Yonne. Sa fonction : broyer l'écorce de chêne pour produire le tan — cette poudre riche en tanin qui est la base du tannage du cuir.\n\nLe tan est essentiel à l'industrie du cuir. Sans lui, impossible de transformer une peau animale putrescible en cuir durable. L'écorce de chêne est récoltée au printemps, quand la sève monte et que l'écorce se détache facilement. Elle est séchée, puis broyée au moulin. La poudre obtenue est mélangée à l'eau dans les fosses des tanneurs.\n\nLe Moulin à Tan est donc un maillon essentiel de la chaîne du cuir — cette industrie qui fait vivre tout un quartier de Sens au Moyen Âge. Sans moulin, pas de tan. Sans tan, pas de cuir. Sans cuir, pas de ceintures, de selles, de chaussures, de reliures.\n\nLe moulin fonctionne pendant des siècles, bien au-delà du Moyen Âge. Au XIXe siècle, quand l'industrie du cuir décline, il perd sa fonction première. Le terrain autour du moulin est progressivement aménagé.\n\nAu XXe siècle, la ville de Sens transforme le site en parc public — le parc du Moulin à Tan, qui est aujourd'hui le plus grand espace vert de la ville. Avec sa roseraie, son arboretum, ses serres tropicales et son petit train, c'est le lieu de promenade préféré des Sénonais.\n\nDu moulin médiéval qui broyait l'écorce au parc familial du dimanche, la transformation est complète. Mais le nom reste — et raconte sept siècles d'histoire industrielle."
         },
         {
+          "year": 1250,
+          "title": "Onze paroisses dans les murs : le patchwork religieux de Sens",
+          "text": "Au XIIIe siecle, Sens compte onze paroisses a l'interieur ou aux portes de ses remparts : Saint-Benoit, Saint-Etienne, Saint-Pere-du-Donjon (fortifie !), Notre-Dame, Saint-Jean, Saint-Savinien, Saint-Leon, Saint-Preer, Saint-Romain, Saint-Symphorien et Saint-Pol. Chaque paroisse est un micro-quartier avec son eglise, son cure, ses fideles, ses rivalites. Certaines disparaitront, d'autres survivront. Aujourd'hui, la plupart de ces noms ne subsistent que dans les rues.",
+          "location": {
+            "lat": 48.1977,
+            "lng": 3.2837,
+            "label": "Sens --- 11 paroisses intra-muros"
+          },
+          "sources": [
+            "Bulletin SAS, vol. II, 1851, p. 65 (document finances medievales)."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1252,
           "title": "Blanche de Castille, Saint Louis, Gautier Cornut archevêque de Sens.",
           "text": "27 novembre 1252, Blanche de Castille meurt... Saint Louis, Gautier Cornut archevêque de Sens. 4. Blanche de Castille, Saint Louis, Gautier Cornut archevêque de Sens. Blanche de Castille, est née le 4 mars 1188 à Palencia, au royaume de Castille. Mariée le 22 mai 1200 au futur Louis VIII (fils de Philippe Auguste), elle est la fille d'Alphonse VIII de Castille et d'Aliénor d’Angleterre.",
@@ -818,6 +860,20 @@
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
           "longText": "La construction de la cathédrale Saint-Étienne aurait pu être achevée en quelques décennies. Elle prendra plus d'un siècle. Pourquoi ? Parce qu'un chantier médiéval dépend de l'argent — et l'argent ne coule pas toujours.\n\nLe chantier commence vers 1135 sous l'archevêque Henri Sanglier. Les travaux avancent vite dans un premier temps : les fonds viennent de l'archevêché, des donations des fidèles, des revenus des foires. La consécration a lieu en 1164, en présence du pape.\n\nMais « consécration » ne veut pas dire « achèvement ». En 1164, la nef et le chœur sont terminés, mais le transept n'existe pas encore. Le clocher nord est inachevé. Les décors sont sommaires.\n\nLes problèmes se multiplient dans la seconde moitié du XIIe siècle. Les guerres entre le roi de France et le roi d'Angleterre drainent les ressources. Les conflits entre l'archevêque et la commune absorbent l'énergie. Les incendies — celui de 1184 notamment — obligent à des réparations coûteuses.\n\nEn 1268, c'est la catastrophe : la tour sud s'effondre. Il faut reconstruire une partie de la façade occidentale. Le chantier reprend, avec des moyens réduits. La tour est reconstruite, mais coiffée d'un simple toit en plomb au lieu de la flèche de pierre prévue initialement.\n\nLe chantier de la cathédrale de Sens, tel que l'a décrit Denis Cailleaux dans sa thèse de 1999, est un miroir de l'histoire économique et politique de la ville. Quand Sens prospère, le chantier avance. Quand la ville décline, il s'arrête. La tour nord, jamais terminée, en est le symbole le plus éloquent."
+        },
+        {
+          "year": 1280,
+          "title": "\"La ville n'a point de rente, ne elle ne doit riens a usure\"",
+          "text": "Un document comptable medieval conserve aux archives de Sens contient cette phrase remarquable : 'La vile n'a point de rente, ne eile ne doit riens a usure.' Autrement dit : la ville de Sens n'a aucune dette et ne paie aucun interet. C'est exceptionnel pour une ville medievale --- la plupart sont endettees aupres de banquiers lombards ou juifs. Sens est une commune prospere qui vit de ses revenus propres : marches, droits de peage, amendes.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Hotel de ville --- finances medievales"
+          },
+          "sources": [
+            "Bulletin SAS, vol. II, 1851, p. 64 (document comptable medieval)."
+          ],
+          "heritageItemId": "e5555555-0012-0012-0012-000000000012"
         },
         {
           "year": 1291,
@@ -1980,6 +2036,20 @@
           ],
           "heritageItemId": "e5555555-0048-0048-0048-000000000048",
           "longText": "La caserne Gemeau raconte a elle seule deux siecles d'histoire militaire francaise. Son nom vient d'Auguste Pierre Walbourg Gemeau (1790-1868), un officier napoleonien qui a combattu a Wagram, en Espagne et en Russie. Apres Waterloo, interdit de sejour a Paris comme beaucoup d'anciens de la Grande Armee, il s'installe a Sens ou il finit ses jours.\n\nLes batiments actuels sont construits en 1874, dans la fievre de rearmement qui suit la defaite de 1870 contre la Prusse. Le 89e Regiment d'Infanterie y tient garnison. C'est un regiment de conscrits -- des jeunes hommes de l'Yonne qui font leur service militaire. En 1914, ils partent pour le front. La plupart ne reviendront pas.\n\nApres 1945, l'armee quitte les lieux. Le ministere de l'Interieur transforme la caserne en centre de formation de la police. En 1946, c'est d'abord un centre de formation des motocyclistes. En 1948, les premiers stages de gardiens de la paix debutent. L'Ecole nationale de police de Sens est nee -- elle forme encore aujourd'hui des gardiens de la paix et des cadets de la Republique.\n\nDe la Grande Armee a la police nationale, en passant par les tranchees de 14-18 : la caserne Gemeau a change de mission a chaque generation, mais sa fonction n'a jamais varie -- former des hommes en uniforme au service de l'Etat."
+        },
+        {
+          "year": 1850,
+          "title": "Un moulin remplace 72 personnes : la revolution energetique",
+          "text": "En 1851, un memoire de la SAS calcule qu'un moulin a eau de la force de deux chevaux, comme celui de la fontaine Saint-Gorgon, fait le travail de 72 personnes. Le meunier de Veron 'exerce une profession a laquelle il se complait, qui le fait vivre librement dans l'aisance.' C'est un instantane de la revolution energetique dans les campagnes senonaises : l'eau qui tourne la roue remplace les bras qui tournaient la meule. C'est le meme basculement que le train (1849) pour les transports.",
+          "location": {
+            "lat": 48.192,
+            "lng": 3.29,
+            "label": "Moulin de la fontaine Saint-Gorgon"
+          },
+          "sources": [
+            "Bulletin SAS, vol. II, 1851, p. 49 (memoire sur les moulins)."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1854,
