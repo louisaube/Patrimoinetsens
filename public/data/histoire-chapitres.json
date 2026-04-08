@@ -233,6 +233,20 @@
       "color": "#6B3FA0",
       "events": [
         {
+          "year": 486,
+          "title": "Sens passe sous domination franque",
+          "text": "En 486, Clovis bat le dernier gouverneur romain Syagrius. Sens, comme toute la Gaule du nord, passe sous le controle des Francs. La ville garde ses remparts gallo-romains, sa cathedrale, son archeveque. Le pouvoir change de mains, mais la structure de la ville survit. Apres la mort de Clovis (511), l'empire franc est partage entre ses fils : Sens se retrouve dans le royaume de Bourgogne.",
+          "location": {
+            "lat": 48.1977,
+            "lng": 3.2837,
+            "label": "Sens --- passage aux Francs"
+          },
+          "sources": [
+            "Bourgogne medievale, fiche Sens."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 550,
           "title": "L'école cathédrale de Sens : un foyer de savoir",
           "text": "Des le VIe siècle, l'école cathédrale de Sens forme les futurs clercs et administrateurs. C'est l'une des plus anciennes ecoles de France, anterieure aux universites. On y enseigne le latin, la theologie, la musique liturgique et les arts liberaux. Au XIIe siècle, quand Abelard et Bernard de Clairvaux debattront à Sens, c'est parce que la ville est deja un centre intellectuel reconnu.",
@@ -280,6 +294,35 @@
           "longText": "L'acronyme STAMPIS résume la province ecclésiastique de Sens : Sens, Troyes, Auxerre, Meaux, Paris, (pas de I), Nevers, (pas de S). En réalité, les sept suffragants sont : Chartres, Auxerre, Meaux, Paris, Orléans, Nevers et Troyes. C'est un territoire gigantesque qui couvre une bonne partie du Bassin parisien.\n\nParis n'est qu'un petit évêché. Son évêque doit obéissance à l'archevêque de Sens, qui le consacre et peut le juger. Quand l'évêque de Paris veut réunir un synode, c'est l'archevêque de Sens qui préside. Quand il y a un conflit entre deux diocèses, c'est à Sens qu'on tranche.\n\nCette situation est difficile à imaginer aujourd'hui, mais elle a des conséquences directes et durables. Les conciles — ces assemblées d'évêques qui fixent la doctrine et tranchent les conflits — se tiennent à Sens, pas à Paris. C'est à Sens qu'on juge Abélard en 1141. C'est à Sens que réside le pape Alexandre III en 1163-1165. C'est à Sens que Saint Louis se marie en 1234.\n\nLes archevêques de Sens sont des personnages de premier plan du royaume. Certains deviennent régents de France (comme Guillaume aux Blanches Mains au XIIe siècle). D'autres couronnent des rois quand l'archevêque de Reims est empêché. Leur pouvoir est à la fois spirituel et temporel.\n\nCette subordination de Paris à Sens prend fin progressivement à partir du XIIIe siècle, quand la croissance de Paris rend la situation de plus en plus absurde. La rupture officielle intervient en 1622, quand le pape Grégoire XV érige Paris en archevêché. En un trait de plume, Sens perd quatre de ses sept suffragants — Paris, Chartres, Meaux et Orléans — et ne retrouvera jamais sa grandeur passée."
         },
         {
+          "year": 692,
+          "title": "Saint Wulfran : l'archeveque de Sens part evangeliser les Vikings",
+          "text": "Vers 692, Wulfran, archeveque de Sens et fils d'un officier de Clovis II, abandonne son siege pour aller evangeliser les Frisons (actuels Pays-Bas). Il convertit le fils du roi Radbod et met fin a des pratiques de sacrifice humain. Puis il se retire a l'abbaye de Fontenelle en Normandie. C'est l'un des rares archeveques de Sens a quitter sa ville pour une aventure missionnaire --- et il y est devenu saint.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Palais archiepiscopal"
+          },
+          "sources": [
+            "Nominis, Saint Wulfran.",
+            "Bourgogne medievale, fiche Sens."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
+          "year": 696,
+          "title": "Sens prend le titre d'archeveche : le premier 'archeveque'",
+          "text": "Vers 696, l'eveque Gery de Sens est le premier a porter le titre d'archeveque (archiepiscopus) plutot que simplement eveque. Ce n'est pas qu'un mot : cela officialise la suprematie de Sens sur les sept dioceses de sa province, dont Paris. Le titre d'archeveque de Sens survivra 1 300 ans --- jusqu'en 2002.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Cathedrale --- siege de l'archeveche"
+          },
+          "sources": [
+            "Wikipedia, Liste des eveques et archeveques de Sens."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
           "year": 750,
           "title": "Saint-Pierre-le-Vif, abbaye royale",
           "text": "L'abbaye Saint-Pierre-le-Vif, au sud de la ville, devient l'une des plus riches de France. Ses moines rédigent des chroniques qui sont parmi les seules sources écrites sur Sens à cette époque. Le monastère possède des terres dans tout le Sénonais.",
@@ -293,6 +336,21 @@
           ],
           "heritageItemId": "e5555555-0034-0034-0034-000000000034",
           "longText": "L'abbaye Saint-Pierre-le-Vif est le centre nerveux de la mémoire sénonaise. Fondée au VIe siècle par Théodechilde, petite-fille de Clovis (selon le moine Odorannus), elle est l'une des plus anciennes abbayes bénédictines de France.\n\nSon surnom — « le Vif » — signifie « le Vivant ». Il distingue cette abbaye d'une autre fondation sénonaise, Saint-Pierre-le-Rond (aujourd'hui disparue). L'appellation vient peut-être du fait que l'abbaye abritait les reliques de saints « vivants » dans la mémoire des fidèles.\n\nCe qui rend Saint-Pierre-le-Vif unique, ce sont ses chroniques. Trois moines au moins y ont écrit l'histoire de Sens et du monde :\n\n- Odorannus de Sens (vers 985-1046), moine polymathe — à la fois chroniqueur, musicien et orfèvre — qui rédige une chronique couvrant la période 675-1032.\n- La chronique dite « de Clarius » (en fait une œuvre collective, commencée vers 1108), qui couvre de l'ère chrétienne à 1267.\n- Geoffroy de Courlon (fin XIIIe siècle), qui prolonge le récit jusqu'en 1295.\n\nCes chroniques sont les sources principales de l'histoire de Sens au haut Moyen Âge. Sans les moines de Saint-Pierre-le-Vif, on ne saurait presque rien de la ville entre le VIe et le XIIe siècle. Chaque incendie, chaque conflit, chaque évêque est consigné dans ces manuscrits.\n\nL'abbaye était aussi une puissance économique. Elle possédait des terres dans tout le Sénonais — des dizaines de villages dépendaient d'elle. Ses revenus rivalisaient avec ceux de l'archevêché.\n\nL'abbaye a été détruite à la Révolution. Il n'en reste que des fragments archéologiques et la mémoire de ses chroniques, éditées par Robert-Henri Bautier pour le CNRS en 1979."
+        },
+        {
+          "year": 848,
+          "title": "L'archeveque de Sens sacre un roi : Charles le Chauve",
+          "text": "Le 6 juin 848, l'archeveque Wenilon de Sens sacre Charles le Chauve roi de Francie occidentale dans la cathedrale d'Orleans. C'est le premier sacre royal du royaume franc de l'ouest. Wenilon, ancien chapelain personnel du roi, est l'homme le plus puissant de l'Eglise de France. Sens est au sommet de son influence politique.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Archevech de Sens --- Wenilon"
+          },
+          "sources": [
+            "Wikipedia, Wenilon (archeveque de Sens).",
+            "Brousse, B. 2024."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
         },
         {
           "year": 850,
@@ -311,6 +369,21 @@
           "longText": "Sens au haut Moyen Âge est une ville fortifiée — et elle le restera pendant plus de mille ans. L'enceinte gallo-romaine du IIIe siècle, renforcée et réparée au fil des siècles, dessine cette fameuse « amande » qui donne encore sa forme au centre-ville.\n\nLes chiffres sont impressionnants pour l'époque. L'enceinte fait 1 200 mètres de périmètre, avec des murs de 3 mètres d'épaisseur et 8 mètres de haut. Elle est flanquée de tours rondes tous les 30 mètres environ, et percée de quatre portes principales : la porte de Paris au nord, la porte de Bourgogne (ou Saint-Antoine) au sud, la porte de Saint-Didier à l'est et la porte Formau à l'ouest.\n\nLe plan de 1805 — le plus ancien plan détaillé de Sens — montre encore cette amande intacte, avec ses fossés remplis d'eau et ses portes fortifiées. L'ovale mesure 850 mètres d'est en ouest et 400 mètres du nord au sud. Tout le monde vit à l'intérieur : l'archevêque dans son palais, les chanoines dans le cloître, les artisans dans leurs ateliers, les marchands sur la place.\n\nVivre dans une ville fortifiée, cela veut dire des portes qu'on ferme la nuit, un couvre-feu, l'interdiction de circuler après la cloche du soir. Les faubourgs — Saint-Savinien, Saint-Pregts, Sainte-Colombe — sont hors les murs, exposés en cas d'attaque. Quand l'ennemi approche, les habitants des faubourgs se réfugient dans l'amande.\n\nLes fossés ne seront comblés qu'en 1758, sur ordre de l'intendant. Les remparts seront progressivement démolis au XIXe siècle pour « laisser respirer » la ville. Mais le tracé reste : les boulevards actuels (Garibaldi, du Mail, du 14-Juillet) suivent exactement le contour des anciens fossés. Des vestiges de remparts sont encore visibles cours Chambonas."
         },
         {
+          "year": 858,
+          "title": "La trahison de Wenilon : le vrai 'Ganelon' de la Chanson de Roland",
+          "text": "En 858, pendant une invasion normande, l'archeveque Wenilon trahit Charles le Chauve et se rallie a son frere ennemi, Louis le Germanique. Il celebre meme des messes publiques pour le traitre. Charles le Chauve le fait juger au concile de Savonnieres en 859. Wenilon se reconcilie in extremis et garde son siege. Mais deux siecles plus tard, sa trahison inspire le personnage de Ganelon dans la Chanson de Roland --- le traitre le plus celebre de la litterature francaise medievale.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Archevech --- trahison de Wenilon"
+          },
+          "sources": [
+            "Wikipedia, Wenilon (archeveque de Sens).",
+            "Chanson de Roland (~1090)."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 860,
           "title": "L'archevêque Wenilon reconstruit la cathédrale apres un incendie",
           "text": "En 968, la cathédrale de Sens brule. Ce n'est pas la premiere fois --- la ville médiévale, avec ses maisons en bois serrees, est regulierement ravagee par le feu. L'archevêque Wenilon avait deja reconstruit l'edifice au IXe siècle. Chaque incendie force une reconstruction --- qui modernise l'architecture. C'est apres un de ces sinistres que l'archevêque Henri Sanglier lancera, vers 1135, la construction de la cathédrale gothique qu'on connait aujourd'hui.",
@@ -325,6 +398,50 @@
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
           "longText": "L'archevêque Wenilon est l'un des personnages les plus ambigus de l'histoire de Sens. Nommé vers 840, ancien clerc de la chapelle de Charles le Chauve, il va trahir son protecteur — puis se réconcilier avec lui — dans un épisode digne d'un roman politique.\n\nEn 858, des comtes rebelles invitent Louis le Germanique à envahir le royaume de Charles le Chauve. Wenilon choisit le camp de l'envahisseur : il célèbre des messes publiques pour Louis, en violation de toutes les règles canoniques. Charles le Chauve, furieux, fait rédiger un acte d'accusation — le Libellus proclamationis — qui est lu devant le concile de Savonnières en 859. Wenilon est accusé de parjure et de trahison. Mais il s'en sort : il se réconcilie avec le roi avant la fin de l'année.\n\nCe qui nous intéresse ici, c'est la cathédrale. Au IXe siècle, Wenilon reconstruit l'édifice — probablement après un incendie, comme c'est souvent le cas. La ville médiévale, avec ses maisons en bois serrées les unes contre les autres, est une poudrière. Les incendies sont fréquents et dévastateurs.\n\nLa cathédrale de Wenilon est un édifice carolingien — probablement une grande basilique à trois nefs, avec une charpente en bois. On n'en connaît pas le plan exact. Ce qu'on sait, c'est qu'elle brûle à nouveau en 968. L'archevêque Archambaud la reconstruit. Puis elle brûle encore.\n\nChaque incendie est une catastrophe — mais aussi une occasion de moderniser. C'est après un de ces sinistres que l'archevêque Henri Sanglier lancera, vers 1135, la construction révolutionnaire de la cathédrale gothique qu'on connaît aujourd'hui. Sans les incendies, pas de cathédrale gothique."
+        },
+        {
+          "year": 876,
+          "title": "L'archeveque de Sens nomme Primat des Gaules ET de Germanie",
+          "text": "Le 21 juin 876, au concile de Ponthion, le pape Jean VIII nomme Ansegise, archeveque de Sens, vicaire apostolique et primat des Gaules et de Germanie. C'est le sommet absolu du pouvoir de Sens : l'archeveque a theoriquement autorite sur TOUTES les eglises de France et d'Allemagne. L'archeveque de Reims, Hincmar, proteste violemment. En pratique, Ansegise n'exercera jamais ce pouvoir --- mais le titre reste attache a Sens pendant des siecles.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Archevech --- sommet du pouvoir"
+          },
+          "sources": [
+            "Wikipedia, Ansegise de Sens.",
+            "Wikipedia, Primat des Gaules."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
+          "year": 886,
+          "title": "Les Vikings assiegent Sens : la ville resiste",
+          "text": "Le 30 novembre 886, apres avoir assiege Paris pendant un an, une grande armee viking remonte l'Yonne et attaque Sens. La ville resiste --- comme Paris, ses remparts gallo-romains tiennent bon. Les Normands ne peuvent pas prendre la cite. Mais ils ravagent la campagne senonaise pendant tout l'hiver. L'empereur Charles le Gros leur a verse 700 livres d'argent et les a autorises a piller la Bourgogne. Sens survit, le Senonais brule.",
+          "location": {
+            "lat": 48.1965,
+            "lng": 3.286,
+            "label": "Remparts de Sens --- siege viking"
+          },
+          "sources": [
+            "Wikipedia, Siege de Paris (885-887).",
+            "Wikipedia, Raids vikings en France."
+          ],
+          "heritageItemId": "e5555555-0014-0014-0014-000000000014"
+        },
+        {
+          "year": 895,
+          "title": "Sens passe sous le duche de Bourgogne",
+          "text": "Vers 895, le duc Richard le Justicier s'empare du comte de Sens et l'integre au duche de Bourgogne. Sens perd son autonomie politique. Desormais, la ville depend d'un duc --- meme si son archeveque reste l'un des plus puissants prelats de France. Ce rattachement a la Bourgogne durera des siecles et explique pourquoi le vin de Sens sera classe parmi les vignobles de Bourgogne.",
+          "location": {
+            "lat": 48.1977,
+            "lng": 3.2837,
+            "label": "Sens --- rattachement a la Bourgogne"
+          },
+          "sources": [
+            "Bourgogne medievale, fiche Sens."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 900,
@@ -2471,6 +2588,35 @@
           "longText": "La délibération est ouverte sur la proposition relative à l'érection d'une statue de Jean Cousin, sur l'une des places de la ville de Sens. La société décide qu'elle prendra l'ini- tiative et nomme une commission, composée de MM- Gaul- try, Prou, Deligand, Salleron et Prunier, auxquels M. Hesuie, auteur de la proposition, sera prié de s'adjoindre. BULLETIN Ht 1 1 SOCIÉTÉ ARCHÉOLOGIQUE DE SENS. BULLETIN SOCIÉTÉ ARCHÉOLOGIQUE IMPRIMERIE UE Cil. DUCllfïMLN ~N 1858. i. DE LA .DE SENS. TOME VI. I. SENS S SOCIÉTÉ ARCHÉOLOGIQUE DE SENS. SUR L'ALESIA DES COMMENTAIRES DE CÉSAR."
         },
         {
+          "year": 1944,
+          "title": "Liberation de Sens par les Americains de Patton",
+          "text": "Le 21 aout 1944 a 14h30, les premiers elements du 6e regiment de cavalerie americain entrent dans Sens, precedes par les resistants du groupe Kleber. La ville est pleinement liberee le 23 aout par les soldats de la IIIe armee du general Patton. Quatre ans d'occupation, de restrictions et de peur prennent fin.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Sens --- Liberation, 21 aout 1944"
+          },
+          "sources": [
+            "Maitron, Sens 21 aout 1944.",
+            "Daguin, G. 'La Liberation de Sens.'"
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1960,
+          "title": "Les Trente Glorieuses : Sens se modernise",
+          "text": "Dans les annees 1960, Sens vit la meme transformation que toutes les villes francaises. On construit les grands ensembles des Champs-Plaisants et des Arenes --- des barres d'immeubles pour loger les familles venues des campagnes et d'Algerie. On perce de nouvelles routes. On modernise l'hopital. Les vieilles maisons du centre sont parfois demolies au nom du progres. C'est l'epoque ou la France se reconstruit a grande vitesse --- parfois au prix de son patrimoine.",
+          "location": {
+            "lat": 48.2,
+            "lng": 3.29,
+            "label": "Quartier des Champs-Plaisants"
+          },
+          "sources": [
+            "Ville de Sens, grands projets."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1965,
           "title": "que reste-t-il de \"l'Ostel de l'Escu\"?",
           "text": "que reste-t-il de \"l'Ostel de l'Escu\"? dépose des cookies pour améliorer votre expérience de navigation, mesurer l'audience du site internet, afficher des publicités personnalisées, réaliser des campagnes ciblées et personnaliser l'interface du site. Google Analytics ? Permet d'analyser les statistiques de consultation de notre site ? Partage social",
@@ -2484,6 +2630,21 @@
           ],
           "heritageItemId": "e5555555-0030-0030-0030-000000000030",
           "longText": "même temps que c'est uniquement par ignorance des lieux et des peu- ples dont ils parlaient, qu'ils ont ainsi compris sous un même nom plusieurs nations différentes. Il n'y a donc à conclure de cette appellation rien, pas même 1 1° Qui ipsorum linguâ Celue, nostrà Galli appellantur. » (Csesar, de Bello Gallico. ) 2° «Aborigènes primos in his regionibus quidam visosesse fir- « marunt Celtas, nomine regis amabilis, et matris ejus vocabulo Galatas dictos, ità enim Gallos sermo Grcecus appellat. (Amm., p. 574). « Gallia est omnis divisa in partes tres, quarum unam incolant Bclgse, aliam Aquitani, tertiam qui ipsorum linguà Celte, nostrâ Galli appellantur. Hii « omnes linguà, institutis, legibus inter se differunt. Gallos ab Aquitanis Ga- « rumna flumen à Belgis Matrona et Sequana dividit."
+        },
+        {
+          "year": 1994,
+          "title": "L'autoroute A5 : Sens a une heure de Paris",
+          "text": "Le 24 novembre 1994, l'autoroute A5 relie Sens a Troyes. L'annee precedente, un echangeur connectait deja Sens a l'A5. En 2009, l'A19 completera la liaison vers Orleans. Sens est desormais a une heure de Paris en voiture. Mais l'autoroute a un effet pervers : les voyageurs passent a cote de Sens sans s'arreter. Le train de 1849 amenait les gens EN ville ; l'autoroute les fait PASSER a cote.",
+          "location": {
+            "lat": 48.192,
+            "lng": 3.278,
+            "label": "Echangeur A5 --- Sens"
+          },
+          "sources": [
+            "Wikipedia, Autoroute A5 (France).",
+            "Wikipedia, Autoroute A19 (France)."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 2017,
@@ -2517,6 +2678,20 @@
           ],
           "heritageItemId": "e5555555-0059-0059-0059-000000000059",
           "longText": ". Le premier, cité par Millin dans son Orestéide (Paris, 1817), est un bas-relief du palais Grimani à Florence. Oreste et Pylade y sont représentés nus, sans barbe, avec leur épée et leur bau- drier, les mains liées derrière le dos. Les Scythes qui les condui- sent portent la tunique courte et le caleçon qui, avec le bonnet phrygien, caractérisent les Barbares. M. Raeul Rochette donne le dessin d'un vase étrusque qui montre Oreste et Pylade nus, conduits devant Iphigénie qui est assise. Derrière eux est un Scythe armé d'une lance et porteur d'une barbe touffue. Il cite également un vase grec où Oreste nu est conduit, par un Scythe armé d'une lance mais vêtu à la grecque, devant Iphigénie assise et enveloppée de la tête aux pieds d'un ample peplus."
+        },
+        {
+          "year": 2024,
+          "title": "Transformation des Promenades : 8 millions pour reinventer le centre",
+          "text": "En 2024, Sens lance la plus grande renovation de ses promenades depuis 1936 : 8 millions d'euros pour transformer 2,5 km de boulevards, des quais de l'Yonne a la place Jean-Jaures. Pietonisation, pistes cyclables, parvis du theatre. C'est le signe d'une ville qui parie sur son patrimoine et sa qualite de vie plutot que sur l'industrie. Le Sens du XXIe siecle se reconstruit autour de ce que le Sens du XIXe a construit.",
+          "location": {
+            "lat": 48.1968,
+            "lng": 3.2825,
+            "label": "Promenades de Sens --- renovation 2024"
+          },
+          "sources": [
+            "Ville de Sens, 'Transformation des promenades.'"
+          ],
+          "heritageItemId": null
         }
       ]
     }
