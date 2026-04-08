@@ -89,7 +89,7 @@
             "CIL XIII (Corpus Inscriptionum Latinarum)."
           ],
           "heritageItemId": "e5555555-0014-0014-0014-000000000014",
-          "longText": "L'inscription de Marcus Aemilius Nobilis est l'une des découvertes les plus parlantes de l'archéologie sénonaise. Elle a été retrouvée dans les fondations des remparts du IIIe siècle — remployée comme simple bloc de construction.\n\nLe texte latin nous apprend que Marcus Aemilius Nobilis était « flamine d'Auguste » — c'est-à-dire prêtre du culte impérial — et qu'il avait exercé « toutes les charges municipales » (OMNIBUS HONORIBUS APUD SUOS FUNCTO). En clair : c'était le notable le plus important de la ville. Il avait été magistrat, juge, édile (responsable des bâtiments publics), questeur (trésorier), avant de couronner sa carrière en devenant prêtre du culte de l'empereur.\n\nCe cursus honorum provincial calque le modèle romain. Les élites gauloises romanisées reproduisent dans leurs villes le système de Rome : des magistrats élus, un sénat local (la curie), des fonctions religieuses. En échange, l'Empire leur accorde la citoyenneté romaine et une place dans le système.\n\nL'ironie, c'est que cette pierre honorifique — qui devait orner un monument public (peut-être le forum) — a été cassée et empilée avec d'autres blocs pour construire les remparts en urgence quand les « barbares » ont menacé la ville vers 270. Les constructeurs ont pris tout ce qui tombait sous la main : stèles funéraires, chapiteaux de temples, inscriptions honorifiques. C'est grâce à ce vandalisme utilitaire que ces textes nous sont parvenus.\n\nLa Société Archéologique de Sens (SAS), fondée en 1844, est née précisément de ces découvertes : ses premiers membres voulaient inventorier les inscriptions latines retrouvées dans les remparts.",
+          "longText": null,
           "image": "/images/histoire/sas_1846_pl4_remparts_gallo.jpg"
         },
         {
@@ -296,8 +296,8 @@
         },
         {
           "year": 850,
-          "title": "Des lieux et de hommes. Quand Sens était une ville fortifiée",
-          "text": "Des lieux et de hommes. Quand Sens était une ville fortifiée L’enceinte romaine formant les remparts de la ville avait la forme d’un ovale allongé, dont le plus grand axe, d’ouest à l’est mesurait environ 850 mètres. Du nord au sud, il mesurait environ 400 mètres. C’est l’amande d’aujourd’hui. ![plan-de-la-ville-de-sens-en-1805-bis.jpg](",
+          "title": ". Quand Sens était une ville fortifiée",
+          "text": ". Quand Sens était une ville fortifiée L’enceinte romaine formant les remparts de la ville avait la forme d’un ovale allongé, dont le plus grand axe, d’ouest à l’est mesurait environ 850 mètres. Du nord au sud, il mesurait environ 400 mètres. C’est l’amande d’aujourd’hui. ![plan-de-la-ville-de-sens-en-1805-bis.jpg](",
           "location": {
             "lat": 48.1965,
             "lng": 3.286,
@@ -372,7 +372,7 @@
         {
           "year": 1066,
           "title": "De la porte St-Pregt à la place Drapes",
-          "text": "Les Monuments, les Mairies successives, l'Hôtel de Ville actuel 4. De la porte St-Pregt à la place Drapes Au XI è  et XII è  siècle, les communes apparurent , se dotant de règles autonomes visant à faire face à l ’autorité seigneuriale. Sens n’y échappe pas. En 1066, quelques villes se dégagent des contraintes féodales, pour le bonheur du roi de France.",
+          "text": "De la porte St-Pregt à la place Drapes Au XI è  et XII è  siècle, les communes apparurent , se dotant de règles autonomes visant à faire face à l ’autorité seigneuriale. Sens n’y échappe pas. En 1066, quelques villes se dégagent des contraintes féodales, pour le bonheur du roi de France.",
           "location": {
             "lat": 48.1972,
             "lng": 3.2838,
@@ -547,7 +547,7 @@
         {
           "year": 1165,
           "title": "La cathédrale St-Etienne. Les modifications",
-          "text": "Les Monuments, Histoire de la Cathédrale 4. La cathédrale St-Etienne. Les modifications Bien qu’ayant conservé les lignes essentielles de son  architecture primitive, la cathédrale ne présente plus l’aspect qu’elle avait au XII ème  siècle, de nombreuses modifications sont intervenues au cours du temps. Dans la seconde moitié  du XII è siècle, la cathédrale n’est toujours pas entièrement terminée.",
+          "text": "La cathédrale St-Etienne. Les modifications Bien qu’ayant conservé les lignes essentielles de son  architecture primitive, la cathédrale ne présente plus l’aspect qu’elle avait au XII ème  siècle, de nombreuses modifications sont intervenues au cours du temps. Dans la seconde moitié  du XII è siècle, la cathédrale n’est toujours pas entièrement terminée.",
           "location": {
             "lat": 48.1979,
             "lng": 3.2837,
@@ -559,21 +559,6 @@
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
           "longText": "La cathédrale de Sens, consacrée en 1164, n'est pas un monument figé. Depuis sa construction, elle n'a cessé d'être modifiée, réparée, agrandie, reconstruite en partie.\n\nLa plus spectaculaire de ces modifications est l'ajout du transept. La cathédrale de 1135-1164 n'en avait pas : c'était un plan rectangulaire, sans les bras qui forment la croix. Le transept est ajouté au XIIIe siècle, avec de grandes roses vitrées qui comptent parmi les plus belles de France.\n\nEn 1268, la tour sud s'effondre. C'est un désastre qui oblige à reconstruire une partie de la façade. Le chantier de reconstruction dure des décennies. La tour actuelle, dite « tour de plomb » (parce qu'elle est coiffée d'un toit en plomb et non d'une flèche en pierre), date de cette reconstruction.\n\nLa tour nord, elle, n'a jamais été terminée. Elle s'arrête à la hauteur de la nef, tronquée. C'est l'un des signes visibles du déclin de Sens à partir du XIVe siècle : la ville n'a plus les moyens de financer un chantier aussi colossal.\n\nAu XVIe siècle, l'archevêque Tristan de Salazar fait reconstruire le portail du transept sud dans le style flamboyant — un contraste saisissant avec la sobriété du gothique primitif de la nef.\n\nChaque époque a laissé sa marque. La cathédrale de Sens est un palimpseste architectural : gothique primitif dans la nef (1135-1164), gothique rayonnant dans le transept et les roses (XIIIe siècle), flamboyant dans le portail sud (XVIe), restaurations du XIXe siècle (Viollet-le-Duc a failli s'en charger, mais c'est finalement l'architecte diocésain qui s'y colle).\n\nDenis Cailleaux, historien de l'art à l'université de Bourgogne, a consacré sa thèse à ce chantier (La cathédrale en chantier, CTHS, 1999)."
-        },
-        {
-          "year": 1170,
-          "title": "Un jour, une histoire, Thomas Becket  \"ex réfugié à  Sens\" , assassiné le 29 décembre 1170, à Canter",
-          "text": "Un jour, une histoire, Thomas Becket \"ex réfugié à Sens\" , assassiné le 29 décembre 1170, à Canterbury Thomas Becket , fut archevêque de Canterbury de 1162 à 1170. Il engagea un conflit avec le roi Henri II d’Angleterre et vint se réfugier à Sens. De retour en la perfide Albion, il  sera assassiné par les partisans du roi. ![meurter-de-thomas-becket-gravure-anglaise-bis.jpg](http://www.histoire-sens-senonais-yonne.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"Un jour, une histoire, Thomas Becket  \"ex réfugié à  Sens\" ,.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "Le 29 décembre 1170, quatre chevaliers entrent dans la cathédrale de Canterbury et assassinent l'archevêque Thomas Becket pendant les vêpres. Le meurtre a lieu dans un lieu saint, pendant un office — c'est un sacrilège absolu qui horrifie toute la chrétienté.\n\nBecket avait quitté Sens quelques semaines plus tôt, après six ans d'exil. Une réconciliation fragile avec le roi Henri II l'avait convaincu de rentrer en Angleterre. Mais à peine arrivé, le conflit reprend. Henri II, exaspéré, aurait lancé une phrase devenue célèbre — quelque chose comme « qui me débarrassera de ce prêtre insolent ? » — et quatre chevaliers prennent le roi au mot.\n\nLa nouvelle de l'assassinat atteint Sens en quelques jours. L'émotion est immense. Les moines de Sainte-Colombe, qui ont hébergé Becket pendant quatre ans, sont bouleversés. L'archevêque de Sens, qui a protégé l'exilé, est furieux.\n\nBecket est canonisé en 1173, seulement trois ans après sa mort — une rapidité record qui témoigne de la pression populaire. Canterbury devient l'un des plus grands lieux de pèlerinage d'Europe (Chaucer y consacrera ses Contes de Canterbury deux siècles plus tard).\n\nPour Sens, l'assassinat de Becket a un effet inattendu : il renforce le prestige de la ville. Avoir accueilli un futur saint pendant six ans, c'est un titre de gloire. Le trésor de la cathédrale conserve pieusement des ornements liturgiques attribués à Becket — ces reliques textiles sont parmi les plus précieuses de France.\n\nLa chasuble dite « de Thomas Becket », visible au trésor de la cathédrale de Sens, est l'un des textiles médiévaux les mieux conservés au monde."
         },
         {
           "year": 1170,
@@ -689,7 +674,7 @@
         {
           "year": 1252,
           "title": "Blanche de Castille, Saint Louis, Gautier Cornut archevêque de Sens.",
-          "text": "Un jour, une histoire: 27 novembre 1252, Blanche de Castille meurt... Saint Louis, Gautier Cornut archevêque de Sens. 4. Blanche de Castille, Saint Louis, Gautier Cornut archevêque de Sens. Blanche de Castille, est née le 4 mars 1188 à Palencia, au royaume de Castille. Mariée le 22 mai 1200 au futur Louis VIII (fils de Philippe Auguste), elle est la fille d'Alphonse VIII de Castille et d'Aliénor d’Angleterre.",
+          "text": "27 novembre 1252, Blanche de Castille meurt... Saint Louis, Gautier Cornut archevêque de Sens. 4. Blanche de Castille, Saint Louis, Gautier Cornut archevêque de Sens. Blanche de Castille, est née le 4 mars 1188 à Palencia, au royaume de Castille. Mariée le 22 mai 1200 au futur Louis VIII (fils de Philippe Auguste), elle est la fille d'Alphonse VIII de Castille et d'Aliénor d’Angleterre.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -704,7 +689,7 @@
         {
           "year": 1267,
           "title": "La cathédrale St-Etienne. Le chantier",
-          "text": "Les Monuments, Histoire de la Cathédrale 4. La cathédrale St-Etienne. Le chantier Le chantier aurait pu être mené rapidement si l’économie avait été prospère et si les partenaires, ecclésiastiques et laïques, s’étaient bien entendus. Mais il à été rallongé par les maladies et les croisades qui ont vidé la main d’œuvre ... et les caisses.",
+          "text": "La cathédrale St-Etienne. Le chantier Le chantier aurait pu être mené rapidement si l’économie avait été prospère et si les partenaires, ecclésiastiques et laïques, s’étaient bien entendus. Mais il à été rallongé par les maladies et les croisades qui ont vidé la main d’œuvre ... et les caisses.",
           "location": {
             "lat": 48.1979,
             "lng": 3.2837,
@@ -720,7 +705,7 @@
         {
           "year": 1291,
           "title": "Dans les prisons de Sens, des Chevaliers du Temple (1)",
-          "text": "Des Lieux et des Hommes, dans les prisons de Sens, des Chevaliers du Temple 4. Dans les prisons de Sens, des Chevaliers du Temple (1) Après la perte définitive de la Terre sainte en 1291, l'ordre du Temple fut victime de la lutte entre la papauté et le roi de France,Philippe IV le Bel. Il fut dissout par le pape Clément V en 1312 à la suite d'un procès en hérésie.",
+          "text": "dans les prisons de Sens, des Chevaliers du Temple 4. Dans les prisons de Sens, des Chevaliers du Temple (1) Après la perte définitive de la Terre sainte en 1291, l'ordre du Temple fut victime de la lutte entre la papauté et le roi de France,Philippe IV le Bel. Il fut dissout par le pape Clément V en 1312 à la suite d'un procès en hérésie.",
           "location": {
             "lat": 48.197,
             "lng": 3.285,
@@ -777,7 +762,7 @@
         {
           "year": 1345,
           "title": "L'ombre des Célestins rode sur Mallarmé",
-          "text": "Des Lieux et des Hommes, Collège Stéphane Mallarmé 4. L'ombre des Célestins rode sur Mallarmé Le couvent des Célestins, deviendra au cours du temps, un établissement scolaire. Il accueillera de nombreux élèves dont Stéphane Mallarmé qui lui donnera son nom. Nous sommes en l’an de grâce, si l’on peut dire, 1345.",
+          "text": "Collège Stéphane Mallarmé 4. L'ombre des Célestins rode sur Mallarmé Le couvent des Célestins, deviendra au cours du temps, un établissement scolaire. Il accueillera de nombreux élèves dont Stéphane Mallarmé qui lui donnera son nom. Nous sommes en l’an de grâce, si l’on peut dire, 1345.",
           "location": {
             "lat": 48.1985,
             "lng": 3.287,
@@ -834,7 +819,7 @@
             "Persée, \"Grèves de flotteurs sur l'Yonne aux XVIIIe et XIXe siècles.\"."
           ],
           "heritageItemId": null,
-          "longText": "M. le PrÃ©fet de l'Yonne ayant rÃ©solu de placer dans la salle des sÃ©ances du conseil gÃ©nÃ©ral, les armes des principales villes du dÃ©partement, la SociÃ©tÃ© a Ã©tÃ© consultÃ©e sur la maniÃ¨re exacte dont les armes de Sens devaient Ãªtre reprÃ©sentÃ©es. La section chargÃ©e de cette recherche a nommÃ© rapporteur M. Déligand, qui, après quelques considérations générales, s'est exprimé en ces termes. « La bibliothèque de Sens possède un manuscrit précieux sous le point de vue de l'art, précieux surtout par son objet. C'est le manuscrit original de la coutume du bailliage de Sens, portant la date du 3 novembre 1555, et revêtu des signatures, manu propriâ, de Christophe de Thou, président, Christophe de Harlay et Barthélemy Faye, conseillers du roi Henri II, en sa cour du parlement."
+          "longText": null
         },
         {
           "year": 1416,
@@ -867,7 +852,7 @@
             "Brousse, B. 2024."
           ],
           "heritageItemId": null,
-          "longText": "Les prÃ©occupations de sa position, les embarras des affaires, lui avaient fait nÃ©gliger l'af- faire unique et personnelle. Mais Dieu avait ses desseins. M. Leroux a vu comme nous ces terribles commotions so- ciales qui menacent de tout bouleverser; il a vu les principes de la morale humaine mis en question, sapÃ©s mÃªme dans leurs fondements il a vu les trÃ´nes brisÃ©s par la fureur po- pulaire, les ambitions s'entrechoquer, les institutions Ã©bran- lÃ©es, et il a compris que Dieu seul est grand ce qui fut pour une foi mal affermie et une vertu peu solide une sÃ©rieuse ten- tation et un funeste Ã©cueil, fut pour lui la lumiÃ¨re et le port du salut."
+          "longText": null
         },
         {
           "year": 1420,
@@ -887,23 +872,8 @@
         },
         {
           "year": 1429,
-          "title": "Jeanne d'Arc passe par Sens",
-          "text": "En 1429, après le sacre de Charles VII à Reims, Jeanne d'Arc et le roi traversent Sens en grande pompe. La ville ouvre ses portes sans combattre — elle avait été bourguignonne. C'est la « chevauchée du sacre », une marche triomphale à travers la Champagne et la Bourgogne.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens — entrée royale"
-          },
-          "sources": [
-            "Daguin, G. \"En 1429, la chevauchée de Jeanne d'Arc passe par Sens.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "Jeannest St-Hilaire maire de Brunoy, juin 1851. MEMBRES HONORAIRES. MM. Thénard, ancien pair de France. Séanccdu7oct. 18M. DE CAUMONT, Dir. de la Soc. franç. id. CHANOINE, Ingénieur en chef de la naviga- tion de la Seine, ancien Prési- dent de la Société, id. L'abbé Crosmeb, vicaire gén. de Nevers, id. Bayley, à Londres, id. Georges DE Soultrait, à Mâcon, id. LAMBRON DE Lignim, à Tours, id. DE Glanville, à Rouen, id. Jules DE Biiyer, à Besançon, id. DE FONTENAY, à Autun, id. L'abbé Devoucoux, chanoine à Autun, id. BULLIOT, à Autun, id. LE CHANOINE Du MANOIR, à Inaye (Calvados) id. Le marquis DE LA PORTE, à Vendôme, id. L'abbé Vée, curé d'Entrains, id. Gaugain, à Bayeux, id. THIOLLET, dessinateur au dépôt central d'artillerie, à Paris, id. PERNOT, peintre à Vassy. id."
-        },
-        {
-          "year": 1429,
-          "title": "Un jour, une histoire : En 1429, la chevauchée de Jeanne d’Arc passe par Sens",
-          "text": "Un jour, une histoire : En 1429, la chevauchée de Jeanne d’Arc passe par Sens Face à la défense acharnée des parisiens, le roi Charles VII ordonne la levée du siège de Paris en septembre 1429. Jeanne d’Arc qui est de la bataille est blessée. Mais elle doit bientôt rejoindre la Loire pour continuer sa mission. Son chemin passe par Sens. _Portrait de Jeanne d'Arc (1429 - 1431)_ _selon une miniature du XV° siècle, musée de Rouen_ www.",
+          "title": "En 1429, la chevauchée de Jeanne d’Arc passe par Sens",
+          "text": "En 1429, la chevauchée de Jeanne d’Arc passe par Sens Face à la défense acharnée des parisiens, le roi Charles VII ordonne la levée du siège de Paris en septembre 1429. Jeanne d’Arc qui est de la bataille est blessée. Mais elle doit bientôt rejoindre la Loire pour continuer sa mission. Son chemin passe par Sens. _Portrait de Jeanne d'Arc (1429 - 1431)_ _selon une miniature du XV° siècle, musée de Rouen_ www.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -913,7 +883,7 @@
             "Daguin, G. \"Un jour, une histoire : En 1429, la chevauchée de Jeanne d’A.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "En un mot on veut rÃ©duire l'histoire Ã des principes fixes sur lesquels se repose l'avenir. Jusqu'Ã ce que cette aspiration ait conduit au degrÃ© de cer- titude qu'il a Ã©tÃ© donnÃ© aux facultÃ©s humaines d'espÃ©rer et d'at- teindre, il n'est point de document qui n'ait sa portÃ©e; il n'est point de localitÃ©, ayant eu vie, qui ne soit Ã mÃªme d'offrir son 1 humble tribut à l'immense collection de faits dont la discussion peut amener à la connaissance de la vérité. C'est donc un devoir pour les hommes studieux, qui habitent une contrée historique, d'explorer leur sol, d'interroger leurs vieux édifices et de publier modestement leurs découvertes, dus- sent-ils laisser à de plus habiles, le soin d'en déduire les consé- quences."
+          "longText": null
         },
         {
           "year": 1436,
@@ -946,12 +916,12 @@
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
           "image": "/images/histoire/sas_1880_jean_cousin.jpg",
-          "longText": "Devais-je, craintive devant l'orgueil d'un homme, m'exposer, en les nÃ©gligeant, Ã lavengeance divine? Je savais bien qu'il me faudrait mourir qui est-ce qui l'ignore ? Je n'avais pas besoin de tes proclamations pour le savoir, et, s'il faut mourir avant le temps, ce n'est pour moi qu'un avantage de plus. Â» Ces idÃ©es supÃ©rieures de justice, de dÃ©vouement, d'expiation existaient donc avant le christianisme. Elles peuvent donc, elles doivent se retrouver sur les monuments antiques. La gloire du christianisme est de les avoir fÃ©condÃ©es et popularisÃ©es. I) a crÃ©Ã© par milliers de nouvelles Antigones; il a multipliÃ© sur le sol Eu- ropÃ©en le dÃ©vouement de ThÃ©sÃ©e, les expiations d'Oreste. On a pu plaisanter sans doute sur ces expÃ©ditions d'outre-mer entre- prises par des guerriers en repentir de leurs fautes."
+          "longText": null
         },
         {
           "year": 1493,
           "title": "A partir de 1493, on trouve des traces de cet établissement...",
-          "text": "Des Lieux et des Hommes, que reste-t-il de \"l'Ostel de l'Escu\"? 4. A partir de 1493, on trouve des traces de cet établissement... ... qui fut,pendant de longues années la demeure des administrateurs de l’Hôtel Dieu. ![l-hotel-de-l-ecu-tel-qu-il-existait-jusqu-en-1965-au-fond-la-rue-de-la-république-fond-pissot-bis.jpg](http://www.histoire-sens-senonais-yonne.",
+          "text": "que reste-t-il de \"l'Ostel de l'Escu\"? 4. A partir de 1493, on trouve des traces de cet établissement... ... qui fut,pendant de longues années la demeure des administrateurs de l’Hôtel Dieu. ![l-hotel-de-l-ecu-tel-qu-il-existait-jusqu-en-1965-au-fond-la-rue-de-la-république-fond-pissot-bis.jpg](http://www.histoire-sens-senonais-yonne.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -961,7 +931,7 @@
             "Daguin, G. \"A partir de 1493, on trouve des traces de cet établissement..\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0030-0030-0030-000000000030",
-          "longText": "comme probable qu'il n'en a plus Ã©tÃ© Ã©levÃ© Ã partir de l'Ã©dit de Claude qui abolit entiÃ¨rement le culte druidique jusqu'alors interdit seulement aux citoyens Romains'. 1 Voir la no!e 2 de la page 23. 2 MM. Lenoir et Vaudoyer (Magasin pitt., dS39, p. 4 ) attribuent cet Ã©dit Ã TibÃ¨re. .SuÃ©tone, cap. 25, p. 90, Ã©dit. de BÃ lc dit Â« nruidarum rcligioncm apud Ces circonstances générales de lieu et.de temps indiquées, nous allons entrer dans l'examen des différents genres de monu- ments celtiques, qui sont les Menhirs les Dolmens, les Demi- Dolmens, les Lichavens, les Alignements, les Crom-lechs, les Allées couvertes, les Pierres branlantes et certains Tumulus. § Iev MENHIRS. Le plus simple de tous les monuments celtiques est le Menhir, Peulvan', Haute-Borne ou Pierre droite."
+          "longText": null
         },
         {
           "year": 1500,
@@ -976,7 +946,7 @@
             "Ministère de la Culture, base Mérimée, PA00113876."
           ],
           "heritageItemId": "e5555555-0003-0003-0003-000000000003",
-          "longText": "e d'ornementation son pendant du nord, le portail d'Abraham; tous deux de la fin du xy' siÃ¨cle. MÃªmes effets, mÃªme succession de styles Ã l'intÃ©rieur. A gauche du chœur est la partie notoirement la plus ancienne de la construction. La chapelle Saint-Jean avec sa voÃ»te en cul de four, ses fenÃªtres Ã©troites Ã plein cintre, sa galerie de courtes co- lonnettes romanes supportant de massives arcatures aussi en La reconstruction Ã neuf de ces pinacles a Ã©tÃ© faite suivant le style primitif dont il restait suffisamment de traces. plein cintre, ne peut Ãªtre postÃ©rieure Ã la fin du Xf siÃ©cle. Les mÃªmes arcatures se reproduisent dans le collatÃ©ral du chœur Ã la suite et on les retrouve aussi dans le collatÃ©ral de droite, mais ici sans doute par imitation et par raison de symÃ©trie."
+          "longText": null
         },
         {
           "year": 1500,
@@ -993,7 +963,7 @@
           ],
           "heritageItemId": "e5555555-0017-0017-0017-000000000017",
           "image": "/images/histoire/sas_1880_jean_cousin.jpg",
-          "longText": "PETIT (Victor), peintre, Ã Paris. PUTEAU, propriÃ©taire, Ã Marsangis (Yonne). QUANTIN, archiviste de la prÃ©fecture de l'Yonne, Ã Auxerre. ROUX, chirurgien en chef de t'HÃ´tet-Dieu de Paris. TOUSSAINT, architecte, Ã Paris. VUITRY (Adolphe), maitre des requÃªtes, Ã Paris. MEMBRES HONORAIRES. MM. le baron THÃNARD, pairde France', Ã Paris. LEYS, numismate, Ã Sens. JEULAIN, colonel du gÃ©nie en retraite, Ã sens. CHANOINE ingÃ©nieur en chef, Ã Paris. M. PÃ©nard, avant de rÃ©sider Ã VÃ©zinnM, Ã©tait du nombre des membres titu- laires fondateurs. M. Chanoine Ã©tait du nombre des membres titulaires fondateurs. I) a prÃ©side durantt'annÃ©e 1845–4846, )a sociÃ©tÃ© archÃ©otogique, qui lui a dÃ©cernÃ© te titre de membre honoraire lorsqu'il a quittÃ© Sens pour aller rÃ©sider Ã Paris."
+          "longText": null
         },
         {
           "year": 1510,
@@ -1009,12 +979,12 @@
           ],
           "heritageItemId": "e5555555-0017-0017-0017-000000000017",
           "image": "/images/histoire/sas_1880_jean_cousin.jpg",
-          "longText": "ce de la ville de Sens, Ã la Â« mÃ©moire de Jean Cousin, le plus glorieux de ses en- Â« fants. Â» La SociÃ©tÃ© prend en considÃ©ration cette proposition. M. Dubois fils lit un compte-rendu de la sÃ©ance extraor- dinaire d'Auxerre. AprÃ¨s ces lectures, la SociÃ©tÃ© s'occupe sommairement de plusieurs travaux en cours d'exÃ©cution, savoir le de. pouillement des archives, la construction d'un abri pour les pierres du musÃ©e gallo-romain, les travaux Ã faire Ã la Crypte de Sognes et des fouilles Ã entreprendre au guÃ© de Salcy. M. Lallier rappelle, quant Ã ce dernier objet, que la So- ciÃ©tÃ© franÃ§aise a fait une allocation de cinquantefranespour qu'il fut procÃ©dÃ© Ã des fouilles. M. Deligand se charge d'ob- tenir le consentement du propriÃ©taire du terrain Ã explo- rer."
+          "longText": null
         },
         {
           "year": 1536,
-          "title": "Des Lieux et des Hommes, la longue marche de l’église réformée à Sens",
-          "text": "Des Lieux et des Hommes, la longue marche de l’église réformée à Sens En 1536, Jean Calvin publie en latin l’ _Institution de la Religion Chrétienne._ En 1545, le concile de Trente réaffirme les dogmes et la discipline de l’église catholique. Le fossé va s’agrandir entre les deux pensées et la France va basculer dans les  guerres de religions (1562-1598). A Sens, comme ailleurs, la Réforme avait fait de nombreux adeptes.",
+          "title": "la longue marche de l’église réformée à Sens",
+          "text": "la longue marche de l’église réformée à Sens En 1536, Jean Calvin publie en latin l’ _Institution de la Religion Chrétienne._ En 1545, le concile de Trente réaffirme les dogmes et la discipline de l’église catholique. Le fossé va s’agrandir entre les deux pensées et la France va basculer dans les  guerres de religions (1562-1598). A Sens, comme ailleurs, la Réforme avait fait de nombreux adeptes.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1044,7 +1014,7 @@
         {
           "year": 1542,
           "title": "Les Ursulines à Sens",
-          "text": "Un Lieu une Histoire, du couvent des Ursulines à l’école Jeanne d’Arc 4. Les Ursulines à Sens Le 22 mai 1542, en réponse aux demandes formulées par Martin Luther dans le cadre de la Réforme protestante, le pape Paul III convoque le concile de Trente qui va débuter le 13 décembre 1545. Il sera clos 18 ans plus tard, confirmant la doctrine du pêché originel, l’autorité de la Bible, les sept sacrements, le culte des saints et des reliques.",
+          "text": "du couvent des Ursulines à l’école Jeanne d’Arc 4. Les Ursulines à Sens Le 22 mai 1542, en réponse aux demandes formulées par Martin Luther dans le cadre de la Réforme protestante, le pape Paul III convoque le concile de Trente qui va débuter le 13 décembre 1545. Il sera clos 18 ans plus tard, confirmant la doctrine du pêché originel, l’autorité de la Bible, les sept sacrements, le culte des saints et des reliques.",
           "location": {
             "lat": 48.199,
             "lng": 3.285,
@@ -1054,12 +1024,12 @@
             "Daguin, G. \"Les Ursulines à Sens.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0028-0028-0028-000000000028",
-          "longText": ", Ã Sens; La chapelle et le monastÃ¨re des dames Ursulines, Ã Tonnerre; Le bÃ¢timent claustral des dames Ursulines, Ã Auxerre Et enfin, pour terminer cette liste, les deux chapelles des communautÃ©s de Sainte-Colombe et de Saint-An- toine, si riches de dÃ©tails, et qui sont autant apprÃ©ciÃ©es des hommes spÃ©ciaux que des gens du monde. Nous ne mentionnerons pas ici les maisons d'Ã©cole qu'il a agrandies, restaurÃ©es ou reconstruites nous fe- rons une exception pourtant en faveur de celles de Vil– liers-Saint-BenoÃ®t et de Courtenay, qui se distinguent plus spÃ©cialement par un beau caractÃ¨re et une entente parfaite de leur destination. M. Lefort a construit ou restaurÃ© un grand nombre de maisons particuliÃ¨res, savamment appropriÃ©es Ã leurs diffÃ©rents usages, oÃ¹ l'on trouve un parti franc et large dans la distribution."
+          "longText": null
         },
         {
           "year": 1547,
-          "title": "Des Lieux et des Hommes, 22 Janvier 1547, le Protestant Jean Langlois est condamné à mort",
-          "text": "Des Lieux et des Hommes, 22 Janvier 1547, le Protestant Jean Langlois est condamné à mort Tout près du marché aux balais, le marché aux fromages se tenait dans la partie de la rue Jossey, comprise entre la rue Maillard et la rue de Cugnières. C’est là que demeurait l’avocat Jean Langlois. Dès 1545, les doctrines de Jean Calvin avaient séduit nombre de Sénonais.",
+          "title": "22 Janvier 1547, le Protestant Jean Langlois est condamné à mort",
+          "text": "22 Janvier 1547, le Protestant Jean Langlois est condamné à mort Tout près du marché aux balais, le marché aux fromages se tenait dans la partie de la rue Jossey, comprise entre la rue Maillard et la rue de Cugnières. C’est là que demeurait l’avocat Jean Langlois. Dès 1545, les doctrines de Jean Calvin avaient séduit nombre de Sénonais.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1119,7 +1089,7 @@
           ],
           "heritageItemId": "e5555555-0017-0017-0017-000000000017",
           "image": "/images/histoire/sas_1880_jean_cousin.jpg",
-          "longText": "ce de la ville de Sens, Ã la Â« mÃ©moire de Jean Cousin, le plus glorieux de ses en- Â« fants. Â» La SociÃ©tÃ© prend en considÃ©ration cette proposition. M. Dubois fils lit un compte-rendu de la sÃ©ance extraor- dinaire d'Auxerre. AprÃ¨s ces lectures, la SociÃ©tÃ© s'occupe sommairement de plusieurs travaux en cours d'exÃ©cution, savoir le de. pouillement des archives, la construction d'un abri pour les pierres du musÃ©e gallo-romain, les travaux Ã faire Ã la Crypte de Sognes et des fouilles Ã entreprendre au guÃ© de Salcy. M. Lallier rappelle, quant Ã ce dernier objet, que la So- ciÃ©tÃ© franÃ§aise a fait une allocation de cinquantefranespour qu'il fut procÃ©dÃ© Ã des fouilles. M. Deligand se charge d'ob- tenir le consentement du propriÃ©taire du terrain Ã explo- rer."
+          "longText": null
         },
         {
           "year": 1552,
@@ -1151,12 +1121,12 @@
             "SAS."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "nons L'accueitiit comme un prince aux accords dos bourdons Kt,dans ce tempicangustc,honneur do nosaucejre.s, E[ttonrÃ©deprÃ«iat'ieci)r~!iens et dÃ» prÃªtres, Ai!H,iqu'anprcniifrsit'<'ie,f)nfrut~oitSa\\)nio)~' '1 ~escsycuxin~piresbenirPotenueu. ti fut béni de tous'Cosautets.ces ombrages. Tous tes oceurs t'ont suivi des plus heureux présagea; EtCoutancesfietoinutentendreasontour A son nouveau Pasteur des parûtes d'amour ~tfonUgny lui dit dans ses transports de joie: « Va, comblé de nos tceux,mon fiis,ontMeufon\\un'' «Ma~.eommeunfitschertttcfoye~paterne), «DePo[it!gnyqnirdi!!)H,aittietoujou!hi'jutci!ï' n II. Or,bientôt rem'(;!m!tt~mnua!ou de \\u~ge, tic toità transporte dans un nouveau parage. Laptaine~disparu;dejavefst'hori/(ju Se dressent devant moi les rochers d'Ava![on. Sur leurs crêtes )avino,atous les vent'! battue."
+          "longText": null
         },
         {
           "year": 1562,
-          "title": "Un jour, une histoire : le 12 avril 1562, le massacre des Huguenots à Sens",
-          "text": "Un jour, une histoire : le 12 avril 1562, le massacre des Huguenots à Sens Robert Hémard, bailli du cardinal Louis de Guise, Archevêque de Sens, vient d’être évincé de la mairie par le vote des Protestants. Enhardi par le massacre de Vassy,  il conçoit dès lors le projet de débarrasser la ville de ceux qui avaient épousé la Réforme. Un complot ourdi chez le Conseiller Tolleron, où se mêlent politique et religion.",
+          "title": "le 12 avril 1562, le massacre des Huguenots à Sens",
+          "text": "le 12 avril 1562, le massacre des Huguenots à Sens Robert Hémard, bailli du cardinal Louis de Guise, Archevêque de Sens, vient d’être évincé de la mairie par le vote des Protestants. Enhardi par le massacre de Vassy,  il conçoit dès lors le projet de débarrasser la ville de ceux qui avaient épousé la Réforme. Un complot ourdi chez le Conseiller Tolleron, où se mêlent politique et religion.",
           "location": {
             "lat": 48.1972,
             "lng": 3.2838,
@@ -1166,7 +1136,7 @@
             "Daguin, G. \"Un jour, une histoire : le 12 avril 1562, le massacre des Hu.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "En un mot on veut rÃ©duire l'histoire Ã des principes fixes sur lesquels se repose l'avenir. Jusqu'Ã ce que cette aspiration ait conduit au degrÃ© de cer- titude qu'il a Ã©tÃ© donnÃ© aux facultÃ©s humaines d'espÃ©rer et d'at- teindre, il n'est point de document qui n'ait sa portÃ©e; il n'est point de localitÃ©, ayant eu vie, qui ne soit Ã mÃªme d'offrir son 1 humble tribut à l'immense collection de faits dont la discussion peut amener à la connaissance de la vérité. C'est donc un devoir pour les hommes studieux, qui habitent une contrée historique, d'explorer leur sol, d'interroger leurs vieux édifices et de publier modestement leurs découvertes, dus- sent-ils laisser à de plus habiles, le soin d'en déduire les consé- quences."
+          "longText": null
         },
         {
           "year": 1562,
@@ -1199,7 +1169,7 @@
             "Musee Protestant."
           ],
           "heritageItemId": null,
-          "longText": "Rien de plus naturel que les con- spirations, les complots de rÃ©volte dans une ville, dans un pays nouvellement soumis et encore sous le joug des troupes ennemies. VoilÃ ce grand argument rÃ©duit, ce me semble Ã bien peu de chose. 2\" Chapitres 6, 9 et i0. CÃ©sar passe en Gaule, tombe sur l'Au- vergne, revient Ã Vienne, et de lÃ va rassembler ses lÃ©gions (les deux de Langres, les deux de TrÃ¨ves et les six d'Agendicum); il laisse ses bagages avec deux lÃ©gions Ã Agendicum, et part avec Ics huit autres pour le pays des BoÃ¯ens, le Bourbonnais. Nouvel Ã©tonnement de la part de M. Opoix Quoi 1 six lÃ©gions n'ont pas empÃªchÃ© les SÃ©nonais de secouer le joug, et mainte- nant CÃ©sar abandonne ses bagages au milieu d'eux sous la garde de deux lÃ©gions seulement! CÃ©sar fait ici ce qu'il devait faire."
+          "longText": null
         },
         {
           "year": 1563,
@@ -1318,7 +1288,7 @@
             "Daguin, G. \"Les Ursulines à Sens.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0028-0028-0028-000000000028",
-          "longText": ", Ã Sens; La chapelle et le monastÃ¨re des dames Ursulines, Ã Tonnerre; Le bÃ¢timent claustral des dames Ursulines, Ã Auxerre Et enfin, pour terminer cette liste, les deux chapelles des communautÃ©s de Sainte-Colombe et de Saint-An- toine, si riches de dÃ©tails, et qui sont autant apprÃ©ciÃ©es des hommes spÃ©ciaux que des gens du monde. Nous ne mentionnerons pas ici les maisons d'Ã©cole qu'il a agrandies, restaurÃ©es ou reconstruites nous fe- rons une exception pourtant en faveur de celles de Vil– liers-Saint-BenoÃ®t et de Courtenay, qui se distinguent plus spÃ©cialement par un beau caractÃ¨re et une entente parfaite de leur destination. M. Lefort a construit ou restaurÃ© un grand nombre de maisons particuliÃ¨res, savamment appropriÃ©es Ã leurs diffÃ©rents usages, oÃ¹ l'on trouve un parti franc et large dans la distribution."
+          "longText": null
         },
         {
           "year": 1630,
@@ -1348,7 +1318,7 @@
             "Daguin, G. \"Sens, la cité médiévale.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "itÃ©s laÃ¯ques se prononcent contre elle mais les corporations religieuses et, en particulier, la il. Compagnie de JÃ©sus revendiquent hautement i'honneur de continuer l'oeuvre des siÃ¨cles. De nos jours enfin, t'hÃ©ritage du passÃ© n'est pas entiÃ¨rement reniÃ© les rÃ©gents ne se font plus auteurs mais les Ã©coliers interprÃ¨tent encore avec suc- cÃ¨s les chefs-d'œuvre de l'art antique (i). Le drame scolaire n'est donc pas un fait isolÃ©, accidentel. li a ses racines et ses gloires dans le passÃ© il conserve quel- ques amis dans le prÃ©sent, et Dieu sait ce que lui rÃ©serve l'avenir. Plus d'une fois il a subi l'influence du monde extÃ©- rieur mais il est loin aussi d'avoir Ã©tÃ© sans action sur la marche de la scÃ¨ne protane."
+          "longText": null
         },
         {
           "year": 1658,
@@ -1414,12 +1384,12 @@
             "Brousse, B. 2024."
           ],
           "heritageItemId": "e5555555-0002-0002-0002-000000000002",
-          "longText": "rÃ©fet de l'Yonne ayant rÃ©solu de placer dans la salle des sÃ©ances du conseil gÃ©nÃ©ral, les armes des principales villes du dÃ©partement, la SociÃ©tÃ© a Ã©tÃ© consultÃ©e sur la maniÃ¨re exacte dont les armes de Sens devaient Ãªtre reprÃ©sentÃ©es. La section chargÃ©e de cette recherche a nommÃ© rapporteur M. Déligand, qui, après quelques considérations générales, s'est exprimé en ces termes. « La bibliothèque de Sens possède un manuscrit précieux sous le point de vue de l'art, précieux surtout par son objet. C'est le manuscrit original de la coutume du bailliage de Sens, portant la date du 3 novembre 1555, et revêtu des signatures, manu propriâ, de Christophe de Thou, président, Christophe de Harlay et Barthélemy Faye, conseillers du roi Henri II, en sa cour du parlement."
+          "longText": null
         },
         {
           "year": 1748,
-          "title": "Des Lieux et des Hommes, Jacques-Louis David",
-          "text": "Des Lieux et des Hommes, Jacques-Louis David Quand Jacques-Louis David résidait à Sens Tout le monde le sait, Jacques-Louis Davis est l’artiste qui à peint le sacre de Napoléon à Notre-Dame. Ce que l’on sait peut-être moins, c’est qu’il à résidé à Sens et que le musée peut s’enorgueillir de posséder une de ses toiles, Jupiter et Antiope. ![427px-david-self-portrait.jpg](http://www.histoire-sens-senonais-yonne.",
+          "title": "Jacques-Louis David",
+          "text": "Jacques-Louis David Quand Jacques-Louis David résidait à Sens Tout le monde le sait, Jacques-Louis Davis est l’artiste qui à peint le sacre de Napoléon à Notre-Dame. Ce que l’on sait peut-être moins, c’est qu’il à résidé à Sens et que le musée peut s’enorgueillir de posséder une de ses toiles, Jupiter et Antiope. ![427px-david-self-portrait.jpg](http://www.histoire-sens-senonais-yonne.",
           "location": {
             "lat": 48.199,
             "lng": 3.287,
@@ -1434,7 +1404,7 @@
         {
           "year": 1762,
           "title": "C’est une des rues les plus longues de la ville qui porte son nom.",
-          "text": "Des Lieux et des Hommes, Jacques-Charles Dubois Général d'Empire 4. C’est une des rues les plus longues de la ville qui porte son nom. Ancienne voie romaine, elle est le prolongement de l’ancien axe nord-sud de la cité. Jacques-Charles Dubois à vu le jour le 27 novembre 1762 à Reux, petit village du Calvados, non loin de Pont-l’Evêque.",
+          "text": "Jacques-Charles Dubois Général d'Empire 4. C’est une des rues les plus longues de la ville qui porte son nom. Ancienne voie romaine, elle est le prolongement de l’ancien axe nord-sud de la cité. Jacques-Charles Dubois à vu le jour le 27 novembre 1762 à Reux, petit village du Calvados, non loin de Pont-l’Evêque.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1449,7 +1419,7 @@
         {
           "year": 1769,
           "title": "Une Poste que l’on appelait « La boite à savon ! »",
-          "text": "Des Lieux et des Hommes, une Poste que l'on appelait « La boite à savon ! » 4. Une Poste que l’on appelait « La boite à savon ! » Si l’on pose la question à de nombreux Sénonais, «Qu’est-ce que la boite à savon ?», bien peu pourront vous répondre qu’il s’agit de la poste.",
+          "text": "une Poste que l'on appelait « La boite à savon ! » 4. Une Poste que l’on appelait « La boite à savon ! » Si l’on pose la question à de nombreux Sénonais, «Qu’est-ce que la boite à savon ?», bien peu pourront vous répondre qu’il s’agit de la poste.",
           "location": {
             "lat": 48.1975,
             "lng": 3.2835,
@@ -1459,7 +1429,7 @@
             "Daguin, G. \"Une Poste que l’on appelait « La boite à savon ! ».\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "des tÃ©moignages de Pline pour prouver que Sens s'appelait Senones au r* siÃ¨cte. J'en demande pardon Ã M. Barreau, qu'une mauvaise traduction aura peut-Ãªtre encore induit en erreur, mais qu'on lise attentivement le texte des cha- pitres 17 18 et 19 du livre iv, et l'on verra que Senones, ~MMt et autres, sont des noms de peuple et non des noms de ville. Quand cela serait, qu'y gagnerait-on? Les autres villes seraient Ã©galement dÃ©signÃ©es dans Pline par le nom du peuple et il n'en rÃ©sulterait rien sinon que le changement de noms dont nous allons parler se serait opÃ©rÃ© dÃ¨s le premier siÃ¨cle. 3\" On cite maintenant Ammien Marcellin, Eutrope, FrÃ©dÃ©gaire. comme ayant appelÃ© la ville de Sens Senones et non Agendicum. Ammien MarceHin."
+          "longText": null
         },
         {
           "year": 1770,
@@ -1491,7 +1461,7 @@
             "Leviste, J. La cathedrale de Sens. 1965."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "Lallier lui-même, qui a signalé entre la porte Dauphine et la première tour à l'ouest, quatre pierres enfouies et disséminées dans les fondations du mur de ville. Sur ces quatre pierres, dont l'une est même renversée, se trou- vent, 1» une inscription M. MMILIO NOBILI FLAJIINI AUG. MUNERAR. OMNIB. HONORIB. APUI) SUOS FVNCTO. 2° Une autre inscription en tout semblable à la première, sauf les nom et prénom qui manquent, et auxquels a été ajouté le cognomen: HONORATO. « Ces deux inscriptions, a dit M. Lallier, en demandant à la Société de voter les frais d'extraction des quatre pierres où elles se trouvent, ces deux inscriptions sont vraiment dignes de toute l'attention de la Société archéologique de Sens. Elles indi- quent la haute importance de cette ville dans les temps anciens."
+          "longText": null
         },
         {
           "year": 1780,
@@ -1506,7 +1476,7 @@
             "Daguin, G. \"Jacques-Louis David.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0013-0013-0013-000000000013",
-          "longText": "PETIT (Victor), peintre, Ã Paris. PUTEAU, propriÃ©taire, Ã Marsangis (Yonne). QUANTIN, archiviste de la prÃ©fecture de l'Yonne, Ã Auxerre. ROUX, chirurgien en chef de t'HÃ´tet-Dieu de Paris. TOUSSAINT, architecte, Ã Paris. VUITRY (Adolphe), maitre des requÃªtes, Ã Paris. MEMBRES HONORAIRES. MM. le baron THÃNARD, pairde France', Ã Paris. LEYS, numismate, Ã Sens. JEULAIN, colonel du gÃ©nie en retraite, Ã sens. CHANOINE ingÃ©nieur en chef, Ã Paris. M. PÃ©nard, avant de rÃ©sider Ã VÃ©zinnM, Ã©tait du nombre des membres titu- laires fondateurs. M. Chanoine Ã©tait du nombre des membres titulaires fondateurs. I) a prÃ©side durantt'annÃ©e 1845–4846, )a sociÃ©tÃ© archÃ©otogique, qui lui a dÃ©cernÃ© te titre de membre honoraire lorsqu'il a quittÃ© Sens pour aller rÃ©sider Ã Paris."
+          "longText": null
         },
         {
           "year": 1788,
@@ -1552,8 +1522,8 @@
         },
         {
           "year": 1789,
-          "title": "1789, le torchon brûle entre la Nation et le goupillon, Sens : \"Le Roi, l’archevêque intérimaire et ",
-          "text": "Vers la séparation de l'église et de l'Etat, les conséquences à Sens 4. 1789, le torchon brûle entre la Nation et le goupillon, Sens : \"Le Roi, l’archevêque intérimaire et le postulant\" Jusqu’ à la Révolution, divers ordres religieux se sont installés à Sens ou dans un proche périmètre. Les bouleversements politiques à l’échelle de l’Etat qui vont s’en suivre vont les voir disparaître.",
+          "title": "1789, le torchon brûle entre la Nation et le goupillon, Sens : \"Le Roi, l’archevêque intérimaire et",
+          "text": "1789, le torchon brûle entre la Nation et le goupillon, Sens : \"Le Roi, l’archevêque intérimaire et le postulant\" Jusqu’ à la Révolution, divers ordres religieux se sont installés à Sens ou dans un proche périmètre. Les bouleversements politiques à l’échelle de l’Etat qui vont s’en suivre vont les voir disparaître.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1563,7 +1533,7 @@
             "Daguin, G. \"1789, le torchon brûle entre la Nation et le goupillon, Sens.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "nnance, il fut procédé, les 14, 15 et 16 décembre 1789, aux levées du plan géométrique et mesure des terrains formant les fossés et remparts de ladite ville, et, le 17 du même mois, M. le maire, Armand Sallot de Varennes, en était mis en possession pour la cité, par M. de Mitry, conseiller du roi, trésorier au bureau des fi- nances de la généralité de Paris, commissaire de la cham- bre en cette partie. 3 NOTICE SUR VÃRON. Par M. GIGUET. Quelle peut Ãªtre l'histoire d'un village? Par quels liens se rattacherait-elle aux faits gÃ©nÃ©raux ? N'est-elle pas tout entiÃ¨re Ã©crite en ee passage d'HomÃ¨re ? Â« Les gÃ©nÃ©rations des hommes sont comme celles des Â« feuilles le vent jette Ã terre les dÃ©pouilles de la forÃªt."
+          "longText": null
         },
         {
           "year": 1790,
@@ -1578,12 +1548,12 @@
             "Daguin, G. \"1790, dissolution des ordres religieux.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0024-0024-0024-000000000024",
-          "longText": "du nord au sud et disposés de manière qu'ils sont fermés du côté de l'est par un talus de terrain naturel et que les ouvertures pour pénétrer sous les tables sont à l'ouest. La table du plus remarquable de ces monuments (Pl. 1, fig. 1 ) est inclinée d'environ 0 m. 20 cent. par mètre elle a 2 m. 70 de long sur 2 mètres 35 de largeur sur son milieu; aux deux extré- ̃mites cette largeur se rÃ©duit Ã 1 mÃ¨tre 85 et 1 mÃ©tre 90 l'Ã©paisseur est Ã peu prÃ¨s uniformÃ©ment de 0 m. 50, cependant l'extrÃ©mitÃ© mÃ©ridionale est moins forte que l'autre. Le support du cÃ´tÃ© du nord a 0 m. 85 de hauteur entre le sol et la table, 0 m. 40 d'Ã©paisseur, et 2 m. 60 de longueur; il a une inclinaison bien prononcÃ©e vers le sud. L'autre en a une inverse et ne s'Ã©lÃ¨ve au-dessus du sol que de 0 m. 75 son Ã©paisseur est Ã peu prÃ¨s 0 m. 60."
+          "longText": null
         },
         {
           "year": 1790,
           "title": "1790, pour les prêtres, \"se soumettre, se défroquer ou mourir\" / 1793 Monseigneur de Champbertrand e",
-          "text": "Vers la séparation de l'église et de l'Etat, les conséquences à Sens 4. 1790, pour les prêtres, \"se soumettre, se défroquer ou mourir\" / 1793 Monseigneur de Champbertrand est guillotiné Le 13 février 1790, l’Etat va décréter, par vote de l’Assemblée Nationale, la dissolution des ordres religieux. Une décision qui fait suite à celle qui avait été prise le 2 novembre 1789, déclarant mettre les biens ecclésiastiques à la disposition de l’Etat.",
+          "text": "1790, pour les prêtres, \"se soumettre, se défroquer ou mourir\" / 1793 Monseigneur de Champbertrand est guillotiné Le 13 février 1790, l’Etat va décréter, par vote de l’Assemblée Nationale, la dissolution des ordres religieux. Une décision qui fait suite à celle qui avait été prise le 2 novembre 1789, déclarant mettre les biens ecclésiastiques à la disposition de l’Etat.",
           "location": {
             "lat": 48.194,
             "lng": 3.283,
@@ -1614,7 +1584,7 @@
         {
           "year": 1793,
           "title": "De la terreur de 1793: « Je vous salue, Marat, Robespierre est avec vous… », vers le Concordat de 18",
-          "text": "Vers la séparation de l'église et de l'Etat, les conséquences à Sens 4. De la terreur de 1793: « Je vous salue, Marat, Robespierre est avec vous… », vers le Concordat de 1801 La constitution de 1791 considérait que le mariage était un contrat civil. Il fallait donc établir un mode par lequel les naissances, les mariages et les décès seront constatés. Désormais, ce seront les communes qui se chargeront de ce travail. Avec les divorces.",
+          "text": "De la terreur de 1793: « Je vous salue, Marat, Robespierre est avec vous… », vers le Concordat de 1801 La constitution de 1791 considérait que le mariage était un contrat civil. Il fallait donc établir un mode par lequel les naissances, les mariages et les décès seront constatés. Désormais, ce seront les communes qui se chargeront de ce travail. Avec les divorces.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1640,7 +1610,7 @@
             "Daguin, G. 'Le theatre, quand le cimetiere accueille les baladins.' histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0015-0015-0015-000000000015",
-          "longText": "les a rectifiÃ©es, complÃ©tÃ©es, souvent mÃªme reconstruites Ã l'aide de matÃ©riaux empruntÃ©s Ã la linguistique et Ã l'archÃ©ologie. Le but auquel tend ce mouvement des idÃ©es est bien propre Ã stimuler l'activitÃ© des plus nobles esprits. Lorsque l'on con- temple les temps Ã©coulÃ©s, on ne cherche pas seulement dans les Ã©crits qui nous en ont transmis les souvenirs, des rÃ©cits attrayants ou des enseignements vagues que les passions et la diversitÃ© de point de vue puissent modifier Ã l'infini; mais on veut concentrer les lueurs vacillantes que nous a laissÃ©es le passÃ© en un faisceau assez ferme, assez puissant pour Ã©clairer la marche des divers peuples qui nous ont prÃ©cÃ©dÃ©s, pour dÃ©voiler Ã nos regards la cause unique d'oÃ¹ dÃ©coulent la multitude des effets, pour nous initier aux secrets de cette pensÃ©e providentielle"
+          "longText": null
         },
         {
           "year": 1796,
@@ -1662,7 +1632,7 @@
         {
           "year": 1798,
           "title": "Louis-Etienne Saint-Denis, le Mamelouk Ali, de Napoléon",
-          "text": "Des Lieux et des Hommes, le mamelouk Ali, de Napoléon 4. Louis-Etienne Saint-Denis, le Mamelouk Ali, de Napoléon Napoléon en avait trois…. Chose peu commune direz-vous. Mais pas tant que cela. L’un s’appelait Ali. L’autre Roustam. Le dernier Ali. Ils furent les mamelouks de l’Empereur.Napoléon mourut à Ste-Hélène. Ali bis à Sens.",
+          "text": "le mamelouk Ali, de Napoléon 4. Louis-Etienne Saint-Denis, le Mamelouk Ali, de Napoléon Napoléon en avait trois…. Chose peu commune direz-vous. Mais pas tant que cela. L’un s’appelait Ali. L’autre Roustam. Le dernier Ali. Ils furent les mamelouks de l’Empereur.Napoléon mourut à Ste-Hélène. Ali bis à Sens.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1672,7 +1642,7 @@
             "Daguin, G. \"Louis-Etienne Saint-Denis, le Mamelouk Ali, de Napoléon.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "vaitdeu^de ce nomÃ¯, de Sorbonne, des Bernardins, Saint-Denis, des PrÃ©montrÃ©s, de Cluny, deCalvi, des Dix-huit, du TrÃ©sorier, d'Ilarcourt, des Chollets, du Cardmal Lenioine, de Navarre, de Dajeux, de Laon, de Montaigu, deINarbonne, du Plessis, de TrÃ©guier et de Leon, deCornou- nilles, de Marmoutier, d'Arras, de Bourgogne, des Lombards, des Ãcos- sais, de Tours, de Lisieux, d'Autun, de Ihibant, de Mignon, de Clianac, de Cambrai, d'Aubusson, de MaÃ®tre ClÃ©ment, de Boncouri, de Toumay, des Allemands, de Justice, de VendÃ´me, de Dormans-lieamais, de Pres- les, de MaÃ®tre Gervais, de Ddimville, de Fortet, de Reims, de Coquerel, de la Marche, de SÃ©ez, de la Merci, du Mans, Royal, de Samte-Rarbe, de Clermont, des Grassins, JÃ©suites de la rue Saint-Jacques et de la rue Samt-Antome."
+          "longText": null
         },
         {
           "year": 1799,
@@ -1724,8 +1694,8 @@
         },
         {
           "year": 1814,
-          "title": "Un jour, une histoire, 30 mars 1814 Napoléon  sacré Empereur...  Bourrienne l'ami de  Sens",
-          "text": "Un jour, une histoire, 30 mars 1814 Napoléon sacré Empereur... Bourrienne l'ami de Sens Le 30 mars 1814, Napoléon s’arrête une nouvelle fois à Sens et déjeune à l’hôtel de l’Ecu. Plus jeune, il venait souvent retrouver son ami Bourrienne, rue de l’Ecrivain, en pension comme lui à Brienne-le-Chateau www.histoire-sens-senonais-yonne.",
+          "title": "30 mars 1814 Napoléon sacré Empereur... Bourrienne l'ami de Sens",
+          "text": "30 mars 1814 Napoléon sacré Empereur... Bourrienne l'ami de Sens Le 30 mars 1814, Napoléon s’arrête une nouvelle fois à Sens et déjeune à l’hôtel de l’Ecu. Plus jeune, il venait souvent retrouver son ami Bourrienne, rue de l’Ecrivain, en pension comme lui à Brienne-le-Chateau www.histoire-sens-senonais-yonne.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1751,12 +1721,12 @@
             "Wikipedia, 'Bataille de Montereau.'"
           ],
           "heritageItemId": null,
-          "longText": "'il s'occupe de prÃ©- parer toutes choses pour la campagne prochaine, il se voitassailli Livre vyt, Â§ 4. légions Romaines lorsqu'il les mit en quartiers d'hiver à Agendi- cum, dans cet emplacement que nous signalait, à la dernière séance, M. de Lavernade, et que la Société archéologique de Sens ne tardera sans doute pas à explorer emplacement qui, pour le dire en passant, nous montrera un des plus vastes camps retran- chés qu'aient eu les Romains, défendu au nord par la Vanne an- cienne, au couchant par la rivière d'Yonne, au levant et proba- blement aussi au midi par un fossé et une enceinte dont les restes subsistent encore."
+          "longText": null
         },
         {
           "year": 1815,
           "title": "Le roi ne figure pas dans le bréviaire de l’archevêque…De la restauration à Jules Ferry (1815-1880)",
-          "text": "Vers la séparation de l'église et de l'Etat, les conséquences à Sens 4. Le roi ne figure pas dans le bréviaire de l’archevêque…De la restauration à Jules Ferry (1815-1880) Proclamée le 9 août 1830 après les émeutes des «Trois Glorieuses», la monarchie de Juillet (1830-1848) succède en France à la Restauration. Louis-Philippe n’est pas Roi de France, mais intronisé _Roi des Français_.",
+          "text": "Le roi ne figure pas dans le bréviaire de l’archevêque…De la restauration à Jules Ferry (1815-1880) Proclamée le 9 août 1830 après les émeutes des «Trois Glorieuses», la monarchie de Juillet (1830-1848) succède en France à la Restauration. Louis-Philippe n’est pas Roi de France, mais intronisé _Roi des Français_.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1784,7 +1754,7 @@
             "Brousse, Bernard. « Sens, cité d'art et d'histoire. » Le Charmoiset, 2024."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "franche, faisaient Ã Saint-Julien de frÃ©quentes visites qui Ã©taient aux frais de l'Ã©glise du tieu et qu'ils voulurent rÃ©com- penser ainsi l'hospitalitÃ© qu'ils recevaient ? Leurs successeurs auraient contribuÃ© Ã sa continuation. DE LA SUPPRESSION OU DE LA CONSERVATION DES JUBÃS DE LA 6ATHÃDRALE DE SENS. COMPTE RENDU PAR M VIGNON, Rapporteur de la CommiMum nommÃ©e par la SociM archÃ©ologique le 2 (i~cembre 1844 Ainsi qu'on a pu )e voir dans l'historique puNiÃ© en tÃªte de ce bulletin la SociÃ©tÃ© archÃ©ologique de Sens fut appetÃ©e, dÃ¨s les premiers moments de sa fondation, Ã porter son attention sur les monuments tant de t'antiquitÃ© paÃ¯enne que de l'antiquitÃ© catho- lique qui font la principale richesse de notre ville.\n\nMais Hugo ne fait pas que visiter la cathédrale. Il rencontre aussi le baron Louis-Jacques Thénard — député de l'Yonne, pair de France, chimiste célèbre (il a découvert l'eau oxygénée et le bleu de cobalt qui porte son nom). Les deux hommes siègent dans des camps opposés.\n\nLe sujet de discorde : le travail des enfants. Hugo veut réduire la journée de travail des enfants en usine de 16 heures à 10 heures. Thénard, conservateur, s'y oppose. Pour Hugo, c'est une question de dignité humaine. Pour Thénard, c'est une question d'économie.\n\nHugo n'oublie pas. En 1862, quand il publie Les Misérables depuis son exil à Guernesey, il choisit de nommer la famille la plus abjecte du roman « Thénardier ». Ce n'est pas un hasard : à la fin du roman, Thénardier se présente à Marius sous le faux nom de « Thénard » — référence à peine voilée au baron sénonais. C'est une vengeance littéraire, vingt-trois ans après la dispute.\n\nL'ironie, c'est que Thénard était un grand scientifique. Né à La Louptière près de Nogent-sur-Seine, formé au collège de Sens dès l'âge de 10 ans, il a découvert l'eau oxygénée (H₂O₂), synthétisé le bleu de Thénard (pigment de cobalt utilisé en céramique), et identifié le bore avec Gay-Lussac. Sa statue a été érigée place Thénard à Sens en 1861 — un an avant la publication des Misérables. Son village natal a été rebaptisé La Louptière-Thénard en 1865.\n\nAujourd'hui, quand les touristes voient la statue de Thénard à Sens, ils pensent rarement que cet homme respectable a inspiré le personnage le plus méprisable de la littérature française. C'est une histoire typiquement sénonaise : un lien invisible entre une petite ville de province et un chef-d'œuvre universel."
+          "longText": null
         },
         {
           "year": 1842,
@@ -1846,12 +1816,12 @@
             "Daguin, G. \"La longue marche du cheval de fer.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "er toutes les heures de nos rÃ©u- nions, et, s'il arrive que quelques-uns de vos instants restent libres, j'ai pensÃ© que vous pourriez les accorder Ã des travaux qui, sans mÃ©riter la mÃªme confiance ni offrir le mÃªme intÃ©rÃªt, ne me paraissent pas sans quelque utilitÃ©. Nous qui sommes Ã peu prÃ¨s Ã©trangers Ã l'archÃ©ologie, nous ne pourrons en acquÃ©rir la connaissance qu'Ã la condition de nous livrer, en dehors des sÃ©ances, Ã l'Ã©tude de ses principes Ã©lÃ©men- taires. Chacun de nous concentrant, pour un temps, son attention sur une matiÃ¨re dÃ©terminÃ©e, devra rechercher aux meilleures sources toutes les observations faites sur ce sujet, enregistrer les faits certains, recueillir les opinions, noter jusqu'aux hypothÃ¨ses et aux conjectures Ã©levÃ©es par des hommes de quelque autoritÃ©."
+          "longText": null
         },
         {
           "year": 1849,
           "title": "Un chemin de fer inauguré entre archevêque et choléra",
-          "text": "Un Lieu, une Histoire, la Gare de Sens 1849 4. Un chemin de fer inauguré entre archevêque et choléra Le 9 septembre 1849, le train inaugural de la ligne Paris-Tonnerre s’arrête à Sens. Un terminal prévu car à  Tonnerre, le choléra sévit. A Sens, l’archevêque bénit. En toute sagesse, le Prince-président opte pour le goupillon. ![inauguration-de-la-ligne-paris-tonnerre-par-le-prince-louis-napoleon-bonaparte-coll-sas.jpg](http://www.",
+          "text": "la Gare de Sens 1849 4. Un chemin de fer inauguré entre archevêque et choléra Le 9 septembre 1849, le train inaugural de la ligne Paris-Tonnerre s’arrête à Sens. Un terminal prévu car à  Tonnerre, le choléra sévit. A Sens, l’archevêque bénit. En toute sagesse, le Prince-président opte pour le goupillon. ![inauguration-de-la-ligne-paris-tonnerre-par-le-prince-louis-napoleon-bonaparte-coll-sas.jpg](http://www.",
           "location": {
             "lat": 48.192,
             "lng": 3.278,
@@ -1866,7 +1836,7 @@
         {
           "year": 1849,
           "title": "La longue marche du cheval de fer",
-          "text": "Un Lieu, une Histoire, la Gare de Sens 1849 4. La longue marche du cheval de fer Avant l'avènement du chemin de fer, le système de transport rapide est assuré par les diligences qui atteignent la vitesse moyenne d'un cheval au trot ! C'est au Royaume-Uni, au début du XIXe siècle, que commence l'histoire des chemins de fer avec la première traction à vapeur, inaugurée en 1812, dans le Yorkshire.",
+          "text": "la Gare de Sens 1849 4. La longue marche du cheval de fer Avant l'avènement du chemin de fer, le système de transport rapide est assuré par les diligences qui atteignent la vitesse moyenne d'un cheval au trot ! C'est au Royaume-Uni, au début du XIXe siècle, que commence l'histoire des chemins de fer avec la première traction à vapeur, inaugurée en 1812, dans le Yorkshire.",
           "location": {
             "lat": 48.192,
             "lng": 3.278,
@@ -1892,7 +1862,7 @@
             "Porée, C. Cahiers de doléances du bailliage de Sens, 1908 (description de Paron)."
           ],
           "heritageItemId": "e5555555-0054-0054-0054-000000000054",
-          "longText": "Le 12 aoÃ»t 1620, en fouillant dans un jardin des Tanneries au faubourg Saint-Pregtz au midy de la ville, on trouva 10 pieds avant dans la terre un pavÃ© de mosaÃ¯que composÃ© de compartiments de fleurs faites (1) Lu curÃ© J. Itousseau demeurait rue de l'ÃpÃ©o. (Mnss. Carlault, p. 5.) avec des petites pierres blanches, rouges et noires 'de la grosseur d'un dé. « Dans la suite, en 1645, on en trouva encore un pareil dans un enclos qui va à la Putemusse. » La rue de la Blanchisserie est au sud de la ville de Sens, en dehors du mur d'enceinte, ainsi que la rue des Tanneries et la Putemusse où d'autres chroniqueurs rapportent qu'on a encore trouvé de ces pavages, le 12 août 1620 et 1645."
+          "longText": null
         },
         {
           "year": 1850,
@@ -1912,7 +1882,7 @@
         {
           "year": 1854,
           "title": "Collège Stéphane Mallarmé, du Couvent au C.E.S.",
-          "text": "Des Lieux et des Hommes, Collège Stéphane Mallarmé 4. Collège Stéphane Mallarmé, du Couvent au C.E.S. Grâce aux efforts de Mgr Mellon Jolly et à l’influence d’anciens élèves dont le Baron Thénard ou le ministre Vuitry, l’ancien couvent des Célestins devient, par décret de Napoléon III en date du 4 avril 1854, Lycée Impérial. _Stéphane Mallarmé_ _![mal-6-sas-bis.jpg](",
+          "text": "Collège Stéphane Mallarmé 4. Collège Stéphane Mallarmé, du Couvent au C.E.S. Grâce aux efforts de Mgr Mellon Jolly et à l’influence d’anciens élèves dont le Baron Thénard ou le ministre Vuitry, l’ancien couvent des Célestins devient, par décret de Napoléon III en date du 4 avril 1854, Lycée Impérial. _Stéphane Mallarmé_ _![mal-6-sas-bis.jpg](",
           "location": {
             "lat": 48.1985,
             "lng": 3.287,
@@ -1939,7 +1909,7 @@
             "Merimee, PA00113883."
           ],
           "heritageItemId": "e5555555-0002-0002-0002-000000000002",
-          "longText": "igeant de grandes rÃ©parations, convient-il de la restaurer purement et simplement; vÃ¢ut-il mieux substituer au clocher de plomb une construction en pierres, symÃ©trique avec la tour mÃ©ridionale? 2 2Â° Est-il opportun de supprimer les jubÃ©s qui sÃ©parent la nef du chœur ? 1Â° Sur le rapport de M. Prou, un vote a Ã©tÃ© Ã©mis favorable au projet de surÃ©lever en pierres, jusqu'au niveau de l'autre tour, celle dite de Plomb. 2Â° La suppression des jubÃ©s a donnÃ© lieu Ã une longue dis- cussion que M. Vignon, rapporteur de la commission chargÃ©e d'examiner la question, a rÃ©sumÃ©e dans un travail insÃ©rÃ© ci-aprÃ¨s. Tels sont les travaux intÃ©rieurs de la SociÃ©tÃ© archÃ©ologique, maintenant achevÃ©s. ExtÃ©rieurement: pour rÃ©pondre Ã l'invitation de se faire re- prÃ©senter au congrÃ¨s scientifique de Reims, elle a dÃ©lÃ©guÃ© M."
+          "longText": null
         },
         {
           "year": 1860,
@@ -1971,12 +1941,12 @@
             "Wikipedia, eclairage public en France."
           ],
           "heritageItemId": null,
-          "longText": "er toutes les heures de nos rÃ©u- nions, et, s'il arrive que quelques-uns de vos instants restent libres, j'ai pensÃ© que vous pourriez les accorder Ã des travaux qui, sans mÃ©riter la mÃªme confiance ni offrir le mÃªme intÃ©rÃªt, ne me paraissent pas sans quelque utilitÃ©. Nous qui sommes Ã peu prÃ¨s Ã©trangers Ã l'archÃ©ologie, nous ne pourrons en acquÃ©rir la connaissance qu'Ã la condition de nous livrer, en dehors des sÃ©ances, Ã l'Ã©tude de ses principes Ã©lÃ©men- taires. Chacun de nous concentrant, pour un temps, son attention sur une matiÃ¨re dÃ©terminÃ©e, devra rechercher aux meilleures sources toutes les observations faites sur ce sujet, enregistrer les faits certains, recueillir les opinions, noter jusqu'aux hypothÃ¨ses et aux conjectures Ã©levÃ©es par des hommes de quelque autoritÃ©."
+          "longText": null
         },
         {
           "year": 1870,
-          "title": "Les Monuments, le  Monument aux morts",
-          "text": "Les Monuments, le Monument aux morts www.histoire-sens-senonais-yonne.com dépose des cookies pour améliorer votre expérience de navigation, mesurer l'audience du site internet, afficher des publicités personnalisées, réaliser des campagnes ciblées et personnaliser l'interface du site. Google Analytics ? Permet d'analyser les statistiques de consultation de notre site ? Partage social",
+          "title": "",
+          "text": "dépose des cookies pour améliorer votre expérience de navigation, mesurer l'audience du site internet, afficher des publicités personnalisées, réaliser des campagnes ciblées et personnaliser l'interface du site. Google Analytics ? Permet d'analyser les statistiques de consultation de notre site ? Partage social",
           "location": {
             "lat": 48.1975,
             "lng": 3.281,
@@ -1991,7 +1961,7 @@
         {
           "year": 1870,
           "title": "Ils sont morts pour la France... Campagne de 1870, de Tunisie, du Tonkin ...",
-          "text": "Les Monuments, le Monument aux morts 4. Ils sont morts pour la France... Campagne de 1870, de Tunisie, du Tonkin ... Les monuments aux morts n’existent quasiment pas avant le XIXe siècle. Ils ont été érigés pour honorer les soldats tués ou disparus par faits de guerre.",
+          "text": "Ils sont morts pour la France... Campagne de 1870, de Tunisie, du Tonkin ... Les monuments aux morts n’existent quasiment pas avant le XIXe siècle. Ils ont été érigés pour honorer les soldats tués ou disparus par faits de guerre.",
           "location": {
             "lat": 48.1975,
             "lng": 3.281,
@@ -2016,7 +1986,7 @@
             "Daguin, G. 'Victor Guichard, maire, depute mais avant tout paysan.' histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "] de Bruxelles, id. PI~1GHAR'f, J. -.1. J. MAIRE, ancien IngÃ©nieur des Ponts-et- Chaussées, à Dôle (Jura), 3 juillet 1848. Vuitby père, ancien député, 2 octob. 1818. Boulot, architecte, à Joigny, id. Bachot, Doct. en Médcc. à Chcroy, 4 cféc. 1848. Michaut, Clovis, juge d'instr., à Paris, id. RETIF, médecin, à Charbuy, 4 juin 1848. Fii.lemin, Athanase, conseill. del'réfect. id. Protat, avoué, à Paris, 7 janv. 1850. Boivin, Architecte de la cathédrale de Sens, à Auxerre, h févr, 1850. Chanonat, ancien Receveur des contri- butions indirectes, à Sognes, h mars 1 850. Pkotat, Membre du Conseil général, à Saint-Julien-du-Sault, 1\" avril 1850. Prunier, curé de Soucy, 5 août 1850. Frostieu, prop. à Merry-sur-Yonno, id. Robert, Louis, chef des ateliers de-peint. à la manufact. de Sèvres, 7 octob. 1850 MAISON, pharmacien, à Noyers, id."
+          "longText": null
         },
         {
           "year": 1871,
@@ -2031,7 +2001,7 @@
             "Daguin, G. \"L'ombre des Celestins rode sur Mallarme.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0024-0024-0024-000000000024",
-          "longText": "CoteHe, professeur de droit naturel Ã la FacultÃ© de Paris, et beau- coup d'autres) Yeuii!ent que ce soit Gien. J'accorde pareillement que Aquis Segestœ est Fontainebleau quoique d'autres le placent Ã FerriÃ¨res. Mais je n'admets pas que Riobe soit Orbais, piÃ¨ce imaginÃ©e pour la cause. Jamais auteur n'en avait parlÃ© et depuis long- tempsd'Anvitte avÃ it reconnu Riobe dansOrbi, hameau situÃ©- Â· prÃ¨s du chemin PerrÃ©, Ã 4 lieues nord-ouest de Provins. Si Riobe Ã©taitOrbais, les distances conviendraient Ã Provins et non Ã Sens: mais si l'on reconnait Riobe dans Orbi, il faut qu'A- gendicumsoit Sens. La position de Riobe est dÃ©terminÃ©e par la Table ThÃ©odosienne qui indique 14 lieues gauloises entre Condate et Riobe, ce qui convient parfaitement Ã Orbi et nullement Ã Orbais. M."
+          "longText": null
         },
         {
           "year": 1882,
@@ -2052,7 +2022,7 @@
         {
           "year": 1886,
           "title": "Vers la construction d’un hôtel de ville… neuf !",
-          "text": "Les Monuments, les Mairies successives, l'Hôtel de Ville actuel 4. Vers la construction d’un hôtel de ville… neuf ! Depuis 1886, il avait toujours été prévu, dans l’esprit des édiles sénonais, de transformer en hôtel de ville, la maison Lorne. Mais une commission spéciale crée en 1895, au sein du Conseil municipal, décida  du contraire.",
+          "text": "Vers la construction d’un hôtel de ville… neuf ! Depuis 1886, il avait toujours été prévu, dans l’esprit des édiles sénonais, de transformer en hôtel de ville, la maison Lorne. Mais une commission spéciale crée en 1895, au sein du Conseil municipal, décida  du contraire.",
           "location": {
             "lat": 48.1972,
             "lng": 3.2838,
@@ -2077,7 +2047,7 @@
             "Reportage photos Rose Diers. reportagephotosrosediers.jimdofree.com."
           ],
           "heritageItemId": "e5555555-0053-0053-0053-000000000053",
-          "longText": "mplement; vÃ¢ut-il mieux substituer au clocher de plomb une construction en pierres, symÃ©trique avec la tour mÃ©ridionale? 2 2Â° Est-il opportun de supprimer les jubÃ©s qui sÃ©parent la nef du chœur ? 1Â° Sur le rapport de M. Prou, un vote a Ã©tÃ© Ã©mis favorable au projet de surÃ©lever en pierres, jusqu'au niveau de l'autre tour, celle dite de Plomb. 2Â° La suppression des jubÃ©s a donnÃ© lieu Ã une longue dis- cussion que M. Vignon, rapporteur de la commission chargÃ©e d'examiner la question, a rÃ©sumÃ©e dans un travail insÃ©rÃ© ci-aprÃ¨s. Tels sont les travaux intÃ©rieurs de la SociÃ©tÃ© archÃ©ologique, maintenant achevÃ©s. ExtÃ©rieurement: pour rÃ©pondre Ã l'invitation de se faire re- prÃ©senter au congrÃ¨s scientifique de Reims, elle a dÃ©lÃ©guÃ© M. Bally, membre correspondant, qui a bien voulu accepter cette mission. M."
+          "longText": null
         },
         {
           "year": 1890,
@@ -2099,7 +2069,7 @@
         {
           "year": 1895,
           "title": "Le général Duchesne, 1895 un sénonais à Madagascar",
-          "text": "Des Lieux et des Hommes, le Général Duchesne 4. Le général Duchesne, 1895 un sénonais à Madagascar Le général Duchesne, un sénonais à Madagascar Pour amener la souveraine Ranavalo III à respecter un protectorat qui ne dit pas son nom, un corps expéditionnaire français, sous le commandement du général Duchesne, débarque sur l’île de Madagascar en 1895. ![duchesnesaa-bis-1.jpg](http://www.histoire-sens-senonais-yonne.",
+          "text": "le Général Duchesne 4. Le général Duchesne, 1895 un sénonais à Madagascar Le général Duchesne, un sénonais à Madagascar Pour amener la souveraine Ranavalo III à respecter un protectorat qui ne dit pas son nom, un corps expéditionnaire français, sous le commandement du général Duchesne, débarque sur l’île de Madagascar en 1895. ![duchesnesaa-bis-1.jpg](http://www.histoire-sens-senonais-yonne.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -2129,8 +2099,8 @@
         },
         {
           "year": 1900,
-          "title": "Des Lieux et des Hommes, l'Hôtel de Paris et de la Poste",
-          "text": "Des Lieux et des Hommes, l'Hôtel de Paris et de la Poste www.histoire-sens-senonais-yonne.com dépose des cookies pour améliorer votre expérience de navigation, mesurer l'audience du site internet, afficher des publicités personnalisées, réaliser des campagnes ciblées et personnaliser l'interface du site. Google Analytics ? Permet d'analyser les statistiques de consultation de notre site ? Partage social",
+          "title": "l'Hôtel de Paris et de la Poste",
+          "text": "l'Hôtel de Paris et de la Poste dépose des cookies pour améliorer votre expérience de navigation, mesurer l'audience du site internet, afficher des publicités personnalisées, réaliser des campagnes ciblées et personnaliser l'interface du site. Google Analytics ? Permet d'analyser les statistiques de consultation de notre site ? Partage social",
           "location": {
             "lat": 48.1975,
             "lng": 3.2835,
@@ -2145,7 +2115,7 @@
         {
           "year": 1901,
           "title": "Chimères, mascarons, stuc et staff…",
-          "text": "Les Monuments, les Mairies successives, l'Hôtel de Ville actuel 4. Chimères, mascarons, stuc et staff… Dès la pause de la première pierre, les architectes, Dupont et Poivert, s’inquiètent de l’ornementation sculptée des façades : « La beauté de l’œuvre en dépend ». De même qu’ils vont surveiller la décoration intérieure : « Elle doit être en harmonie avec le monument qui les encadre ». C’est bien connu, on ne change pas un principe gagnant.",
+          "text": "Chimères, mascarons, stuc et staff… Dès la pause de la première pierre, les architectes, Dupont et Poivert, s’inquiètent de l’ornementation sculptée des façades : « La beauté de l’œuvre en dépend ». De même qu’ils vont surveiller la décoration intérieure : « Elle doit être en harmonie avec le monument qui les encadre ». C’est bien connu, on ne change pas un principe gagnant.",
           "location": {
             "lat": 48.1972,
             "lng": 3.2838,
@@ -2160,7 +2130,7 @@
         {
           "year": 1902,
           "title": "Trahison, obscurantisme, vive la laïcité! Mais qui était donc Emile Combes?...Période de 1902 à 1905",
-          "text": "Vers la séparation de l'église et de l'Etat, les conséquences à Sens 4. Trahison, obscurantisme, vive la laïcité! Mais qui était donc Emile Combes?...Période de 1902 à 1905. Mais qui était donc Emile Combes, le « Petit père Combes », pourfendeur des dogmes religieux, ardent défenseur de la laïcité, qui mordait dans les Ecritures comme un vampire mordrait dans le cou d’une frêle vierge ? Libre penseur, anarchiste ? Non, un homme qui poursuivai...",
+          "text": "Trahison, obscurantisme, vive la laïcité! Mais qui était donc Emile Combes?...Période de 1902 à 1905. Mais qui était donc Emile Combes, le « Petit père Combes », pourfendeur des dogmes religieux, ardent défenseur de la laïcité, qui mordait dans les Ecritures comme un vampire mordrait dans le cou d’une frêle vierge ? Libre penseur, anarchiste ? Non, un homme qui poursuivai...",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -2174,23 +2144,8 @@
         },
         {
           "year": 1904,
-          "title": "Le monument aux morts",
-          "text": "Le 27 mars 1904, Sens inaugure son premier monument aux morts — dédié aux campagnes de 1870, de Tunisie et du Tonkin. Ce n'est pas encore la Grande Guerre, mais déjà Sens honore ses soldats tombés loin de l'Yonne.",
-          "location": {
-            "lat": 48.1975,
-            "lng": 3.281,
-            "label": "Monument aux morts"
-          },
-          "sources": [
-            "Daguin, G. \"Ils sont morts pour la France...\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": "e5555555-0016-0016-0016-000000000016",
-          "longText": "D'autrefois les squelettes ou les cendres des morts, ren- fermées dans des urnes funéraires, sont placés dans des cham- bres sépulcrales construites sur le plan des dolmens. Un tumulus recouvre ou une seule de ces chambres, dans laquelle un ou plu- sieurs corps sont assis, couchés ou même debout, la tête resserée entre deux pierres, ou bien plusieurs chambres communiquant entre elles par des corridors. On trouve souvent dans ces tumuli des torques, et tous les autres objets que renferment les sépultures de toute espèce. M. Mérimée a fait connaître un Gal-Gal situé dans une îlé du Morbihan, et dont la chambre sépulcrale est formée par une sorte de dolmen dont les parois sont couvertes de figures étranges en creux et en relief."
-        },
-        {
-          "year": 1904,
-          "title": "Ils sont morts pour la France... le premier  Monument inauguré le 27 mars 1904",
-          "text": "Les Monuments, le Monument aux morts 4. Ils sont morts pour la France... le premier Monument inauguré le 27 mars 1904 Seules les difficultés financières n’expliquent pas le retard que prend l’édification du monument aux morts. L’Affaire Dreyfus, l’antimilitarisme et les campagnes électorales à Sens vont encore séparer les opinions. Alfred Dreyfus est capitaine dans l’armée française.",
+          "title": "Ils sont morts pour la France... le premier Monument inauguré le 27 mars 1904",
+          "text": "Ils sont morts pour la France... le premier Monument inauguré le 27 mars 1904 Seules les difficultés financières n’expliquent pas le retard que prend l’édification du monument aux morts. L’Affaire Dreyfus, l’antimilitarisme et les campagnes électorales à Sens vont encore séparer les opinions. Alfred Dreyfus est capitaine dans l’armée française.",
           "location": {
             "lat": 48.1975,
             "lng": 3.281,
@@ -2204,8 +2159,8 @@
         },
         {
           "year": 1905,
-          "title": "Vers la séparation de l'église et de l'Etat, les conséquences à Sens",
-          "text": "Vers la séparation de l'église et de l'Etat, les conséquences à Sens Jusqu’ à la Révolution , divers ordres religieux se sont installés à Sens ou dans un proche périmètre. Les bouleversements politiques à l’échelle de l’Etat qui vont s’en suivre vont les voir disparaître. Des décisions qui porteront leurs fruits et qui mèneront à la loi portant sur la séparation des Eglises et de l’Etat,  promulguée le 9 décembre 1905.",
+          "title": "",
+          "text": "Jusqu’ à la Révolution , divers ordres religieux se sont installés à Sens ou dans un proche périmètre. Les bouleversements politiques à l’échelle de l’Etat qui vont s’en suivre vont les voir disparaître. Des décisions qui porteront leurs fruits et qui mèneront à la loi portant sur la séparation des Eglises et de l’Etat,  promulguée le 9 décembre 1905.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -2220,7 +2175,7 @@
         {
           "year": 1905,
           "title": "Et la flèche laïque s’éleva vers les cieux….",
-          "text": "Les Monuments, les Mairies successives, l'Hôtel de Ville actuel 4. Et la flèche laïque s’éleva vers les cieux…. Radical, proche des socialistes, Franc-maçon et foncièrement anticlérical, le maire, Lucien Cornet, était pleinement dans la ligne politique du moment. Il va faire ériger un monument à la gloire de la République laïque triomphante. En cette fin du XIXè siècle, la culture républicaine prend peu à peu le pas sur le clergé.",
+          "text": "Et la flèche laïque s’éleva vers les cieux…. Radical, proche des socialistes, Franc-maçon et foncièrement anticlérical, le maire, Lucien Cornet, était pleinement dans la ligne politique du moment. Il va faire ériger un monument à la gloire de la République laïque triomphante. En cette fin du XIXè siècle, la culture républicaine prend peu à peu le pas sur le clergé.",
           "location": {
             "lat": 48.1972,
             "lng": 3.2838,
@@ -2246,7 +2201,7 @@
             "Daguin, G. \"Vers la separation de l'Eglise et de l'Etat.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0013-0013-0013-000000000013",
-          "longText": "cessitÃ© de pourvoir aux charges accidentelles de l'Etat, laissa introduire la facultÃ© de les aliÃ©ner momentanÃ©- ment, sous la rÃ©serve de rachat perpÃ©tuel. Telle est l'origine de l'engagement du domaine, qui fut rÃ©glementÃ© d'une maniÃ¨re dÃ©finitive par une ordonnance de Charles IX, rendue an mois de fÃ©vrier 1566, et qu'on dit l'œuvre du chancelier Lhopital. (\"est sous l'empire de ce droit que le domaine delÃ ville, faubourg et banlieue de Sens, tant en fiefs que roture, et la grosse tour de Sens, furent engagÃ©es parl.ouisXIV, suivant acte du 8 juillet 1649, au profit du prince de Condé, premier prince du sang."
+          "longText": null
         },
         {
           "year": 1910,
@@ -2277,7 +2232,7 @@
             "Daguin, G. \"Le 18 mai 1913, il y a cent ans.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "En 1609, la façon d'un jeu de cornet à bouquin, par les sieurs Duval, père et fils, organistes 75 livres. Et l'augmentation d'une petite quinte de la cimballe d'une double. En 1616, les mêmes ouvriers font un tuyau neuf au rossi- gnol, ils raccommodant le « tremblant qui demeure par in- tervalle, » et accordent tous les jeux de l'orgue. En 1663, le chapitre paye 100 livres Ã Lesclavy, facteur d'orgues, qui a longtemps travaillÃ© Ã restaurer l'orgue. (G. 679, reg. capitulaire.) III Depuis leur premier Ã©tablissement, les orgues restÃ¨- rent dans le bas-cÃ´tÃ© de la nef, jusqu'en 1722. A cette Ã©poque, soit Ã cause de leur mauvais Ã©tat, soit Ã cause de leur insuffisante sonoritÃ©, affaiblie encore par la distance, on rÃ©solut de les restaurer et de les rappro- cher du chœur."
+          "longText": null
         }
       ]
     },
@@ -2303,12 +2258,12 @@
             "Patrimoine du Morvan."
           ],
           "heritageItemId": null,
-          "longText": "M. le PrÃ©fet de l'Yonne ayant rÃ©solu de placer dans la salle des sÃ©ances du conseil gÃ©nÃ©ral, les armes des principales villes du dÃ©partement, la SociÃ©tÃ© a Ã©tÃ© consultÃ©e sur la maniÃ¨re exacte dont les armes de Sens devaient Ãªtre reprÃ©sentÃ©es. La section chargÃ©e de cette recherche a nommÃ© rapporteur M. Déligand, qui, après quelques considérations générales, s'est exprimé en ces termes. « La bibliothèque de Sens possède un manuscrit précieux sous le point de vue de l'art, précieux surtout par son objet. C'est le manuscrit original de la coutume du bailliage de Sens, portant la date du 3 novembre 1555, et revêtu des signatures, manu propriâ, de Christophe de Thou, président, Christophe de Harlay et Barthélemy Faye, conseillers du roi Henri II, en sa cour du parlement."
+          "longText": null
         },
         {
           "year": 1925,
           "title": "Ils sont morts pour la France... La Grande Guerre, le second Monument inauguré le 28 juin 1925",
-          "text": "Les Monuments, le Monument aux morts 4. Ils sont morts pour la France... La Grande Guerre, le second Monument inauguré le 28 juin 1925 Le Conseil Municipal n’attendit pas la fin des hostilités pour vouloir honorer les héros de la Grande Guerre. Déjà, dans une séance d’avril 1915 il fut décidé qu’un monument serait dédié à la mémoire des soldats morts pour la France. ![315-001-bis.jpg](http://www.histoire-sens-senonais-yonne.",
+          "text": "Ils sont morts pour la France... La Grande Guerre, le second Monument inauguré le 28 juin 1925 Le Conseil Municipal n’attendit pas la fin des hostilités pour vouloir honorer les héros de la Grande Guerre. Déjà, dans une séance d’avril 1915 il fut décidé qu’un monument serait dédié à la mémoire des soldats morts pour la France. ![315-001-bis.jpg](http://www.histoire-sens-senonais-yonne.",
           "location": {
             "lat": 48.1975,
             "lng": 3.281,
@@ -2323,7 +2278,7 @@
         {
           "year": 1936,
           "title": "La vie politique à Sens de 1936 à 1940",
-          "text": "Sens, une ville en guerre, 1939-1945 4. La vie politique à Sens de 1936 à 1940 Radical-socialiste, Lucien Cornet fut élu maire de Sens en 1893 ; à sa mort en 1922, Gaston Gaudaire qui était premier adjoint lui succéda et fut réélu en 1925 puis en 1929. Il avait aussi été élu conseiller général puis sénateur avec les voix socialistes. Depuis 1929, il contrôlait _L'Avenir de l'Yonne_ (qui s'opposait à _La Tribune de l'Yonne_).",
+          "text": "La vie politique à Sens de 1936 à 1940 Radical-socialiste, Lucien Cornet fut élu maire de Sens en 1893 ; à sa mort en 1922, Gaston Gaudaire qui était premier adjoint lui succéda et fut réélu en 1925 puis en 1929. Il avait aussi été élu conseiller général puis sénateur avec les voix socialistes. Depuis 1929, il contrôlait _L'Avenir de l'Yonne_ (qui s'opposait à _La Tribune de l'Yonne_).",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -2337,98 +2292,23 @@
         },
         {
           "year": 1939,
-          "title": "Gérard Daguin Chroniques Historiques",
-          "text": "1. Accueil 2. Gérard Daguin Chroniques Historiques Messieurs Gérard Daguin (à droite) et Bernard Brousse, dans les bureaux de la Société Archéologique de Sens Avec la courtoisie de _Sens, ville en guerre (1939-1945)_ _Des lieux et des Hommes_ Cliquez ci-dessous sur la chronique choisie www.histoire-sens-senonais-yonne.",
+          "title": "Malheur aux vaincus !",
+          "text": "Malheur aux vaincus ! En cette fin juin 1940, l’armée allemande s’installe à Sens comme dans tout le département et impose son administration militaire. En juillet, la Troisième République disparait faisant place au gouvernement de Vichy. Désormais, les français vont devoir se soumettre à deux entités, l’autorité occupante et l’autorité vichyste. _A la Feldgendarmerie, l'ennemi fait bombance.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
             "label": "Sens"
           },
           "sources": [
-            "Daguin, G. \"Gérard Daguin Chroniques Historiques.\" histoire-sens-senonais-yonne.com."
+            "Daguin, G. \"Malheur aux vaincus !.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "Charte de Gérard de Rous- sillon, 863. Staticus, les Siéges, commune du canton de Villeneuve- t'Archevéque, arrondissement de Sens. Charte d'Aldric, art clieveque de Sens, 833, Sulpiiius DE Monte, Mont-Sainl-Sulpice, commune du canton de Seignelay, arrondissement d'Auxerre. Chronique de l'abbaye Saint-Germain d'Auxerre, vers 885. Tilius, Theil, commune du canton de Yilleneme-l'Arche- vêque, arrondissement de Sens. Charte de Carloman, 884. Vallicul,e, Vareilles, commune du canton de Villeneuve- l' Archevêque, arrondissement de Sens. Charte d'Aldric, ar- chevêque de Sens, 833. Yeron, Véron, commune du canton nord de Sens. Charte de Gérard de Roussillon, 803. Yicinle, Voisines, commune du canton de Villeneuve- l' Archevêque, arrondissement de Sens. Testament de Téode- childe, 519."
-        },
-        {
-          "year": 1939,
-          "title": "Sens, une ville en guerre, 1939-1945",
-          "text": "Sens, une ville en guerre, 1939-1945 En juin 1940 l’armée allemande, en un éclair, envahissait la France. Sens, comme toutes les autres villes n’allait pas échapper à la botte nazie. Il nous à semblé juste et intéressant de retracer ces sombres jours sénonais à l’aide de témoignages et de photos inédites prises du côté de l’ennemi.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"Sens, une ville en guerre, 1939-1945.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "c- l)~$ çv(':g f, $4 S.4 y q~' lf TfS ':>J %$ ^J SENS, N<sai^ IMPRIMERIE ET LITH. DE THOMAS-MALVIN, rue Royale, 42. DE LA FORMATION ̃̃ > ,.6 ~2::1 ET DES TRAVAUX DE LA SOÃIÃTÃ. jt. .PAIS m, GIGBET. Aucune Ã©poque n'a Ã©tÃ©, plus que la nÃ´tre, fÃ©conde en recher- ches historiques; jamais recherches n'ont Ã©tÃ© aussi riches en aperÃ§us lumineux. On ne s'est plus contentÃ© de recueillir, de coordonner, d'approfondir les annales, les chroniques, les archi- ves, les traditions poÃ©tiques et populaires: on les a confrontÃ©es encore avec les Ã©lÃ©ments des langues, avec les monuments, avec tout ce qui pouvait porter tÃ©moignage pour ou contre leur authenticitÃ© et de cette Ã©preuve, il est rÃ©sultÃ© qu'on les a rectifiÃ©es, complÃ©tÃ©es, souvent mÃªme reconstruites Ã l'aide de matÃ©riaux empruntÃ©s Ã la linguistique et Ã l'archÃ©ologie."
-        },
-        {
-          "year": 1939,
-          "title": "La Libération de Sens",
-          "text": "Sens, une ville en guerre, 1939-1945 4. La Libération de Sens Et vint le jour de la libération. C’est la liesse. Après quatre années d’occupation, de brimades, d’arrestations, de déportations, de restrictions, de répressions, le bruit se répand dans toute la ville : « Les Américains arrivent ! » En ce lundi 21 août 1944, il règne sur la ville une chaleur écrasante. Le temps est lourd et l’orage menace.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"La Libération de Sens.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "La délibération est ouverte sur la proposition relative à l'érection d'une statue de Jean Cousin, sur l'une des places de la ville de Sens. La société décide qu'elle prendra l'ini- tiative et nomme une commission, composée de MM- Gaul- try, Prou, Deligand, Salleron et Prunier, auxquels M. Hesuie, auteur de la proposition, sera prié de s'adjoindre. BULLETIN Ht 1 1 SOCIÉTÉ ARCHÉOLOGIQUE DE SENS. BULLETIN SOCIÉTÉ ARCHÉOLOGIQUE IMPRIMERIE UE Cil. DUCllfïMLN ~N 1858. i. DE LA .DE SENS. TOME VI. I. SENS S SOCIÉTÉ ARCHÉOLOGIQUE DE SENS. SUR L'ALESIA DES COMMENTAIRES DE CÉSAR."
-        },
-        {
-          "year": 1939,
-          "title": "Sens, l'Yonne sous Pétain",
-          "text": "Sens, une ville en guerre, 1939-1945 4. Sens, l'Yonne sous Pétain « Il faut mobiliser des éléments sains » _![loi-6.jpg]( \"loi-6.jpg\")_ Le 10 juillet, le  maréchal Pétain obtient les pleins pouvoirs. Dès lors, la droite extrême tient, pour la première fois, entre ses mains la responsabilité de la France.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"Sens, l'Yonne sous Pétain.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "c- l)~$ çv(':g f, $4 S.4 y q~' lf TfS ':>J %$ ^J SENS, N<sai^ IMPRIMERIE ET LITH. DE THOMAS-MALVIN, rue Royale, 42. DE LA FORMATION ̃̃ > ,.6 ~2::1 ET DES TRAVAUX DE LA SOÃIÃTÃ. jt. .PAIS m, GIGBET. Aucune Ã©poque n'a Ã©tÃ©, plus que la nÃ´tre, fÃ©conde en recher- ches historiques; jamais recherches n'ont Ã©tÃ© aussi riches en aperÃ§us lumineux. On ne s'est plus contentÃ© de recueillir, de coordonner, d'approfondir les annales, les chroniques, les archi- ves, les traditions poÃ©tiques et populaires: on les a confrontÃ©es encore avec les Ã©lÃ©ments des langues, avec les monuments, avec tout ce qui pouvait porter tÃ©moignage pour ou contre leur authenticitÃ© et de cette Ã©preuve, il est rÃ©sultÃ© qu'on les a rectifiÃ©es, complÃ©tÃ©es, souvent mÃªme reconstruites Ã l'aide de matÃ©riaux empruntÃ©s Ã la linguistique et Ã l'archÃ©ologie."
-        },
-        {
-          "year": 1939,
-          "title": "Pour tous, une seule solution : l’exode.",
-          "text": "Sens, une ville en guerre, 1939-1945 4. Pour tous, une seule solution : l’exode. L’armée ennemie avance inexorablement. La frontière française est fragile et de nombreux réfugiés sont sur les routes. À partir du 18 mai, des autobus chargés de femmes, d’enfants et de vieillards venant de la région parisienne et des départements du nord-est commencent à arriver dans l’Yonne.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"Pour tous, une seule solution : l’exode..\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "emble voir ici traduit sur la pierre, aux yeux de tous, par la reproduction d'un fait historique et popu- laire, le dogme, aussi ancien que le monde et qu'on retrouve chez tous les peuples et dans toutes les religions, de l'expiation des fautes par le dÃ©vouement et le sacrifice. Les Grecs n'Ã©taient point les seuls Ã croire que celui qu'its ap- pelaient Minos, assistÃ© des deux autres juges des enfers, pesant dans la balance les mÃ©rites des Ã¢mes, les envoyait dans les pro- fondeurs du Tartare ou dans les Champs Ã©lysÃ©ens, suivant que l'emportait le plateau des mauvaises ou celui des bonnes actions. Cette compensation entre les actes divers de l'homme ce ra- chat des crimes par l'hÃ©roÃ¯sme du rÃ©pentir et du dÃ©vouement, a tenu partout une grande place dans les croyances religieuses des peuples."
-        },
-        {
-          "year": 1939,
-          "title": "A Sens, militaires et civils se préparent…",
-          "text": "Sens, une ville en guerre, 1939-1945 4. A Sens, militaires et civils se préparent… Les forces militaires en place à Sens, en cette année d’attente, cette année de « drôle de guerre », ne seront pas de force, malgré tout leur courage et leur bonne volonté,  à stopper l’avancée Allemande à venir.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"A Sens, militaires et civils se préparent….\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "c- l)~$ çv(':g f, $4 S.4 y q~' lf TfS ':>J %$ ^J SENS, N<sai^ IMPRIMERIE ET LITH. DE THOMAS-MALVIN, rue Royale, 42. DE LA FORMATION ̃̃ > ,.6 ~2::1 ET DES TRAVAUX DE LA SOÃIÃTÃ. jt. .PAIS m, GIGBET. Aucune Ã©poque n'a Ã©tÃ©, plus que la nÃ´tre, fÃ©conde en recher- ches historiques; jamais recherches n'ont Ã©tÃ© aussi riches en aperÃ§us lumineux. On ne s'est plus contentÃ© de recueillir, de coordonner, d'approfondir les annales, les chroniques, les archi- ves, les traditions poÃ©tiques et populaires: on les a confrontÃ©es encore avec les Ã©lÃ©ments des langues, avec les monuments, avec tout ce qui pouvait porter tÃ©moignage pour ou contre leur authenticitÃ© et de cette Ã©preuve, il est rÃ©sultÃ© qu'on les a rectifiÃ©es, complÃ©tÃ©es, souvent mÃªme reconstruites Ã l'aide de matÃ©riaux empruntÃ©s Ã la linguistique et Ã l'archÃ©ologie."
+          "longText": null
         },
         {
           "year": 1939,
           "title": "La France en guerre",
-          "text": "Sens, une ville en guerre, 1939-1945 4. La France en guerre L’ entrée des grandes nations d’Europe occidentale dans une nouvelle guerre vingt ans seulement après la fin de la Grande Guerre à deux raisons fondamentales : l’agressivité de l’Allemagne nazie et son programme de conquête certes, mais aussi la passivité des démocraties, leur repli et leurs contradictions diplomatiques qui ont largement encouragé le dictateur.",
+          "text": "La France en guerre L’ entrée des grandes nations d’Europe occidentale dans une nouvelle guerre vingt ans seulement après la fin de la Grande Guerre à deux raisons fondamentales : l’agressivité de l’Allemagne nazie et son programme de conquête certes, mais aussi la passivité des démocraties, leur repli et leurs contradictions diplomatiques qui ont largement encouragé le dictateur.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -2438,12 +2318,12 @@
             "Daguin, G. \"La France en guerre.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "ils auraient Ã©tÃ© chassÃ©s par la frÃ©quence des guerres ou par les invasions de -la mer. Cette version, entiÃ¨rement dÃ©gagÃ©e de merveilleux, s^e concilie- rait parfaitement avec l'opinion Ã©mise par Strabon, que les Gau- lois sont parents des Germains, Ã qui les Romains auraient donnÃ© ce nom du mot latin Germanus, frÃ¨re, pour marquer leur con- sanguinitÃ© avec les Gaulois\". Or, les Germains sont gÃ©nÃ©ralement reconnus pour un peuple d'origine asiatique, et ainsi les Celtes seraient venus directement de l'Orient, oÃ¹ l'Ãcriture sacrÃ©e place le berceau du genre humain. Cette origine asiatique des Celtes compte beaucoup de par- tisans' rÃ©duite Ã des termes gÃ©nÃ©raux, elle peut en effet s'ap- puyer sur des prÃ©somptions assez graves pour contrebalancer l'opinion qui fait les Celtes aborigÃ¨nes des Gaules."
+          "longText": null
         },
         {
           "year": 1939,
           "title": "1939, 1940, la drôle de guerre à Sens, éphéméride",
-          "text": "Sens, une ville en guerre, 1939-1945 4. 1939, 1940, la drôle de guerre à Sens, éphéméride La France entière est angoissée. Partout, l’ombre de l’aigle nazi plane et déploie ses ailes. A Sens comme ailleurs, la population se prépare au pire. Août 39 : Les autorités appellent sous les drapeaux les réservistes dont les fascicules portent les chiffres 3 et 4, puis 2. A Paris, le gouvernement décrète la censure.",
+          "text": "1939, 1940, la drôle de guerre à Sens, éphéméride La France entière est angoissée. Partout, l’ombre de l’aigle nazi plane et déploie ses ailes. A Sens comme ailleurs, la population se prépare au pire. Août 39 : Les autorités appellent sous les drapeaux les réservistes dont les fascicules portent les chiffres 3 et 4, puis 2. A Paris, le gouvernement décrète la censure.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -2458,7 +2338,7 @@
         {
           "year": 1939,
           "title": "Des milliers de prisonniers de guerre",
-          "text": "Sens, une ville en guerre, 1939-1945 4. Des milliers de prisonniers de guerre Dans les instructions qu’il donne le 9 juillet aux maires des communes rurales, le préfet de l’Yonne précise que l’entretien des groupes de prisonniers ainsi mis à la disposition d’agriculteurs ou d’entrepreneurs de chantiers forestiers est à la charge de ceux-ci et que « _pour l’instant, la question des salaires ne se pose pas_.",
+          "text": "Des milliers de prisonniers de guerre Dans les instructions qu’il donne le 9 juillet aux maires des communes rurales, le préfet de l’Yonne précise que l’entretien des groupes de prisonniers ainsi mis à la disposition d’agriculteurs ou d’entrepreneurs de chantiers forestiers est à la charge de ceux-ci et que « _pour l’instant, la question des salaires ne se pose pas_.",
           "location": {
             "lat": 48.197,
             "lng": 3.285,
@@ -2468,52 +2348,67 @@
             "Daguin, G. \"Des milliers de prisonniers de guerre.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "ils auraient Ã©tÃ© chassÃ©s par la frÃ©quence des guerres ou par les invasions de -la mer. Cette version, entiÃ¨rement dÃ©gagÃ©e de merveilleux, s^e concilie- rait parfaitement avec l'opinion Ã©mise par Strabon, que les Gau- lois sont parents des Germains, Ã qui les Romains auraient donnÃ© ce nom du mot latin Germanus, frÃ¨re, pour marquer leur con- sanguinitÃ© avec les Gaulois\". Or, les Germains sont gÃ©nÃ©ralement reconnus pour un peuple d'origine asiatique, et ainsi les Celtes seraient venus directement de l'Orient, oÃ¹ l'Ãcriture sacrÃ©e place le berceau du genre humain. Cette origine asiatique des Celtes compte beaucoup de par- tisans' rÃ©duite Ã des termes gÃ©nÃ©raux, elle peut en effet s'ap- puyer sur des prÃ©somptions assez graves pour contrebalancer l'opinion qui fait les Celtes aborigÃ¨nes des Gaules."
+          "longText": null
         },
         {
           "year": 1939,
-          "title": "Malheur aux vaincus !",
-          "text": "Sens, une ville en guerre, 1939-1945 4. Malheur aux vaincus ! En cette fin juin 1940, l’armée allemande s’installe à Sens comme dans tout le département et impose son administration militaire. En juillet, la Troisième République disparait faisant place au gouvernement de Vichy. Désormais, les français vont devoir se soumettre à deux entités, l’autorité occupante et l’autorité vichyste. _A la Feldgendarmerie, l'ennemi fait bombance.",
+          "title": "La Libération de Sens",
+          "text": "La Libération de Sens Et vint le jour de la libération. C’est la liesse. Après quatre années d’occupation, de brimades, d’arrestations, de déportations, de restrictions, de répressions, le bruit se répand dans toute la ville : « Les Américains arrivent ! » En ce lundi 21 août 1944, il règne sur la ville une chaleur écrasante. Le temps est lourd et l’orage menace.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
             "label": "Sens"
           },
           "sources": [
-            "Daguin, G. \"Malheur aux vaincus !.\" histoire-sens-senonais-yonne.com."
+            "Daguin, G. \"La Libération de Sens.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "Malheureusement les ouvriers, voulant conci- lier l'amour de la science avec celui de l'Ã©conomie, ont cru devoir scier le devant de la pierre sur une Ã©paisseur de 5 Ã 6 centi- mÃ¨tres seulement, en sorte qu'il en rÃ©sulte deux inconvÃ©nients; d'abord, que le complÃ©ment naturel de cette inscription tumu- laire, complÃ©ment trÃ¨s-curieux en ce qu'il aurait pu jeter du jour sur un point d'Ã©pigraphie encore fort obscur, se trouve perdu. et ensuite qu'un fragment s'est dÃ©jÃ dÃ©tachÃ© de la partie conser- vÃ©e dont l'Ã©paisseur n'est pas suffisante. Emettons le vœu qu'Ã l'avenir une surveillance active, exer- cÃ©e sur les murs en dÃ©molition, en fasse distraire, sans les mu- tiler, tous les objets antiques de nature Ã intÃ©resser l'art ou l'his- toire. Â§ III DES BAS REUEFS~."
+          "longText": "La délibération est ouverte sur la proposition relative à l'érection d'une statue de Jean Cousin, sur l'une des places de la ville de Sens. La société décide qu'elle prendra l'ini- tiative et nomme une commission, composée de MM- Gaul- try, Prou, Deligand, Salleron et Prunier, auxquels M. Hesuie, auteur de la proposition, sera prié de s'adjoindre. BULLETIN Ht 1 1 SOCIÉTÉ ARCHÉOLOGIQUE DE SENS. BULLETIN SOCIÉTÉ ARCHÉOLOGIQUE IMPRIMERIE UE Cil. DUCllfïMLN ~N 1858. i. DE LA .DE SENS. TOME VI. I. SENS S SOCIÉTÉ ARCHÉOLOGIQUE DE SENS. SUR L'ALESIA DES COMMENTAIRES DE CÉSAR."
         },
         {
-          "year": 1939,
-          "title": "Pétain et de Gaulle entrent en scène",
-          "text": "Sens, une ville en guerre, 1939-1945 4. Pétain et de Gaulle entrent en scène Devant l’ampleur de la défaite et la rapidité de l’invasion, l’éventualité d’une demande d’armistice avait été évoquée pour la première fois le 26 mai 1940 ; cependant le débat au sein du gouvernement de Paul Reynaud ne commença vraiment qu’après le départ de Paris.",
+          "year": 1940,
+          "title": "Une dernière semaine de liberté du 8 au 15 Juin 1940",
+          "text": "Une dernière semaine de liberté du 8 au 15 Juin 1940 Ce fut, pour les Sénonais, leur dernière semaine de liberté. Elle fut néanmoins tragique. En ce 8 Juin 1940, il fait beau. A la gare, chacun vaque à ses occupations. En fin d’après midi, un vrombissement provenant d’une formation de trois avions venant du Sud attire le regard des agents de manœuvre. En fait, ils seront 14 appareils. Et puis, le chaos.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
             "label": "Sens"
           },
           "sources": [
-            "Daguin, G. \"Pétain et de Gaulle entrent en scène.\" histoire-sens-senonais-yonne.com."
+            "Daguin, G. \"Une dernière semaine de liberté du 8 au 15 Juin 1940.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "ournir toutes les pierres de grande dimension qui entrent dans les murailles de la ville de Sens. Seulement, on ne devra pas oublier, en faisant ce calcul qu'en beaucoup de partie des fondations, les pierres de taille ne forment que le parement extérieur, comme on peut le voir en ce moment dans le mur en démolition auprès du jeu de paume. Parmi les nombreux fragments d'architecture et de sculpture d'ornementation découverts dans les murs de la ville, il n'en a été conservé à la mairie que treize, ce sont: 1\" Une base de colonne à cannelures évidées. Le diamètre est de 0 m. 70 (P~.7~1). 2° La partie supérieure du fût d'une colonne canne)ée, adhé- rente au mur, et d'un diamètre de 0 m. 26. 3° Une base de colonne à moitié engagée dans le mur. Le tore est garni de feuillages ciselés."
+          "longText": "elier du sieurBallard existait, il y a quel- ques semaines encore, le débris le plus remarquable, à mon sens, de l'ancienne enceinte. La tour que fait démolir en ce mo- ment M. Vieille montrait, dans son extrémité inférieure, trois qu'il m'est d'autant plus impossible de deviner que je n'ai la con- naissance d'aucun document analogue. J'insiste cependant, Messieurs, pour que ces fragments soient conservés avec autant de soin que les autres. D'autres fouilles, d'autres découvertes, des connaissances plus approfondies, nous conduiront plus tard peut-être à l'explication qui nous fuit au- jourd'hui. Des cinq autres inscriptions, celle indiquée sous le n° 3, dans la planche V, a été trouvée dans les fondations du mur de M. Vernay, près de la porte Formeau. La pierre qui laporte a 1 m. 50c. de hauteur sur Om. 55 c. de largeur."
         },
         {
-          "year": 1939,
-          "title": "Les premiers jours de l’occupation",
-          "text": "Sens, une ville en guerre, 1939-1945 4. Les premiers jours de l’occupation ![sens-10-bis.jpg]( \"sens-10-bis.jpg\") _L'église  St Maurice au lendemain de la prise des ponts_ Dimanche 16 Juin. Après une nuit que l’on devine angoissante, sauf pour les vainqueurs qui boivent et qui chantent, le peu de sénonais restant s’éveille.",
+          "year": 1940,
+          "title": "Sens, la matinée du 15 Juin 1940",
+          "text": "Sens, la matinée du 15 Juin 1940 Depuis le début de la nuit, en ville, c’est un vacarme incessant : départ des civils, chassé croisé des militaires qui, pour certain, descendent plus au Sud, et d’autres qui arrivent pour défendre les voies de communications. En fin de nuit, s’installent les troupes destinées à « tenir » les ponts.  C’est à 5h15 que l’on entend les premières explosions.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
             "label": "Sens"
           },
           "sources": [
-            "Daguin, G. \"Les premiers jours de l’occupation.\" histoire-sens-senonais-yonne.com."
+            "Daguin, G. \"Sens, la matinée du 15 Juin  1940.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "cette pensÃ©e providentielle que l'on dÃ©mÃªle toujours au fond des agitations humaines. En un mot on veut rÃ©duire l'histoire Ã des principes fixes sur lesquels se repose l'avenir. Jusqu'Ã ce que cette aspiration ait conduit au degrÃ© de cer- titude qu'il a Ã©tÃ© donnÃ© aux facultÃ©s humaines d'espÃ©rer et d'at- teindre, il n'est point de document qui n'ait sa portÃ©e; il n'est point de localitÃ©, ayant eu vie, qui ne soit Ã mÃªme d'offrir son 1 humble tribut à l'immense collection de faits dont la discussion peut amener à la connaissance de la vérité. C'est donc un devoir pour les hommes studieux, qui habitent une contrée historique, d'explorer leur sol, d'interroger leurs vieux édifices et de publier modestement leurs découvertes, dus- sent-ils laisser à de plus habiles, le soin d'en déduire les consé- quences."
+          "longText": null
+        },
+        {
+          "year": 1940,
+          "title": "14 -15 juin 1940, l'invasion du Sénonais",
+          "text": "14 -15 juin 1940, l'invasion du Sénonais De violents combats autour de Sens Depuis deux semaines les convois de réfugiés en exode qui fuient l’offensive allemande ne cessent d’affluer. C’est le signe annonciateur d’une invasion devenue désormais inexorable. Le seul espoir demeure  la Loire où les états major espèrent contenir et repousser l’ennemi.",
+          "location": {
+            "lat": 48.1977,
+            "lng": 3.2837,
+            "label": "Sens"
+          },
+          "sources": [
+            "Daguin, G. \"14 -15 juin 1940, l'invasion du Sénonais.\" histoire-sens-senonais-yonne.com."
+          ],
+          "heritageItemId": null,
+          "longText": "De tous les peuples réputés barbares, les Gaulois Sénonais ap- paraissent activement les premiers sur la scène du monde. Dans le siècle même oit tout l'Orient s'agite et recueille ses forces comme pour s'apprêter à répandre ses flots de lumière jusqu'aux confins de l'Occident, où Jérusalem renaît, où les Perses impor- tent sur les rives de l'Hellespont, la culture intellectuelle de la haute Asie, où Pisistrate ouvre aux Athéniens la carrière de la poésie et des beaux arts, dans laquelle ils doiventjeter un incom- parable éclat, où une colonie de Phocéens s'établit auxBouches- du-Rhône, où Rome, par l'expulsion des Tarquins, fonde sa future grandeur, les Gaulois Sénonais refluent vers le berceau du genre humain et courent au-devant des foyers de civilisation dont les révélations sont destinées à se résumer, à se continuer sur leur propre t"
         },
         {
           "year": 1940,
@@ -2528,57 +2423,12 @@
             "Daguin, G. \"15 juin 1940, les combats pour les ponts de Sens.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "leurs Barrows, leurs Gals-gals et les cippes, les tombes des hÃ©ros Grecs ou Romains, a sans doute existÃ©, sauf l'Ã©clat, entre leurs chants populaires et ceux que les siÃ¨cles ont mieux respectÃ©s. Leur Ã©nergie se manifeste encore contre le conquÃ©rant romain; Horace, ode 9, liv. iv. s HÃ©siode Les travaux et les jours. ils succombent; mais leur nom s'impose à l'une des dix-sept provinces gallo-impériales. On les considère au sein de la métro- pole comme l'un des principaux centres d'activité: carc'est chez eux que commence la prédication chrétienne, et leur prélat peut revendiquer le titre de primat des Gaules et de Germanie."
-        },
-        {
-          "year": 1940,
-          "title": "14 -15 juin 1940, l'invasion du Sénonais",
-          "text": "Sens, une ville en guerre, 1939-1945 4. 14 -15 juin 1940, l'invasion du Sénonais De violents combats autour de Sens Depuis deux semaines les convois de réfugiés en exode qui fuient l’offensive allemande ne cessent d’affluer. C’est le signe annonciateur d’une invasion devenue désormais inexorable. Le seul espoir demeure  la Loire où les états major espèrent contenir et repousser l’ennemi.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"14 -15 juin 1940, l'invasion du Sénonais.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "De tous les peuples réputés barbares, les Gaulois Sénonais ap- paraissent activement les premiers sur la scène du monde. Dans le siècle même oit tout l'Orient s'agite et recueille ses forces comme pour s'apprêter à répandre ses flots de lumière jusqu'aux confins de l'Occident, où Jérusalem renaît, où les Perses impor- tent sur les rives de l'Hellespont, la culture intellectuelle de la haute Asie, où Pisistrate ouvre aux Athéniens la carrière de la poésie et des beaux arts, dans laquelle ils doiventjeter un incom- parable éclat, où une colonie de Phocéens s'établit auxBouches- du-Rhône, où Rome, par l'expulsion des Tarquins, fonde sa future grandeur, les Gaulois Sénonais refluent vers le berceau du genre humain et courent au-devant des foyers de civilisation dont les révélations sont destinées à se résumer, à se continuer sur leur propre t"
-        },
-        {
-          "year": 1940,
-          "title": "10 juillet 1940 : les parlementaires de l’Yonne se donnent au Maréchal !",
-          "text": "Sens, une ville en guerre, 1939-1945 4. 10 juillet 1940 : les parlementaires de l’Yonne se donnent au Maréchal ! _Laval face aux parlementaires au Casino de Vichy_ Signé le 22 juin 1940, l’armistice entre en vigueur trois jours plus tard. Le même jour, le maréchal Pétain annonce aux Français qu’ _« un ordre nouveau commence »_.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"10 juillet 1940 : les parlementaires de l’Yonne se donnent a.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "scrite des peines sévères empruntées aux rigueurs parlementaires furent édic- tées contre les récalcitrants. S'ils étaient maîtres ès-arts, on les privait pendant deux ans de la régence s'ils étaient éco- liers, ils devaient être frappés de verges, dans la cour dit col- lège, par quatre régents, en présence du recteur et de leurs camarades assemblés an son de la cloche (2). XIX. Ces anathèmes, on le prévoit, ne firent qu'exciter la vervp dramatique des écoles les eux scéniques eurent désormais l'attrait du fruit défendu."
-        },
-        {
-          "year": 1940,
-          "title": "Une dernière semaine de liberté du 8 au 15 Juin 1940",
-          "text": "Sens, une ville en guerre, 1939-1945 4. Une dernière semaine de liberté du 8 au 15 Juin 1940 Ce fut, pour les Sénonais, leur dernière semaine de liberté. Elle fut néanmoins tragique. En ce 8 Juin 1940, il fait beau. A la gare, chacun vaque à ses occupations. En fin d’après midi, un vrombissement provenant d’une formation de trois avions venant du Sud attire le regard des agents de manœuvre. En fait, ils seront 14 appareils. Et puis, le chaos.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"Une dernière semaine de liberté du 8 au 15 Juin 1940.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "elier du sieurBallard existait, il y a quel- ques semaines encore, le débris le plus remarquable, à mon sens, de l'ancienne enceinte. La tour que fait démolir en ce mo- ment M. Vieille montrait, dans son extrémité inférieure, trois qu'il m'est d'autant plus impossible de deviner que je n'ai la con- naissance d'aucun document analogue. J'insiste cependant, Messieurs, pour que ces fragments soient conservés avec autant de soin que les autres. D'autres fouilles, d'autres découvertes, des connaissances plus approfondies, nous conduiront plus tard peut-être à l'explication qui nous fuit au- jourd'hui. Des cinq autres inscriptions, celle indiquée sous le n° 3, dans la planche V, a été trouvée dans les fondations du mur de M. Vernay, près de la porte Formeau. La pierre qui laporte a 1 m. 50c. de hauteur sur Om. 55 c. de largeur."
+          "longText": null
         },
         {
           "year": 1940,
           "title": "15 juin 1940, les combats pour les ponts de Sens",
-          "text": "Sens, une ville en guerre, 1939-1945 4. 15 juin 1940, les combats pour les ponts de Sens Objectif : les ponts de la ville Pour prévenir l’invasion, le Commandement général avait demandé à ce que les moyens de communications soient entravés, même avec des moyens de fortune.",
+          "text": "15 juin 1940, les combats pour les ponts de Sens Objectif : les ponts de la ville Pour prévenir l’invasion, le Commandement général avait demandé à ce que les moyens de communications soient entravés, même avec des moyens de fortune.",
           "location": {
             "lat": 48.1955,
             "lng": 3.282,
@@ -2588,27 +2438,12 @@
             "Daguin, G. \"15 juin 1940, les combats pour les ponts de Sens.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "r leurs champs; ils n'ont d'au- tre souci que les combats, les outrages, les alarmes; et, domptÃ©s par leurs propres mains, ils descendent tous sans nom, sans gloire, aux demeures glacÃ©es des divinitÃ©s infernales N'est-ce point lÃ une image terrible de la vie sauvage, pendant laquelle la plus aveugle fureur semble conspirer avec toutes les forces de la nature, pour hÃ¢ter la destruction Ã laquelle l'espÃ¨ce humaine est soumise? Mais c'est Ã des temps moins barbares que remontent les hauts faits ignorÃ©s de nos ancÃªtres. En arrÃªtant les Belges, ils ont con- traint ceux-ci d'arrÃªter Ã leur tour les Germains, et l'Occident est restÃ© en Ã©quilibre jusque ce qu'il fut prÃ©parÃ© pour obÃ©ira l'im- pulsion mystÃ©rieuse qui devait lui faire faire un pas de gÃ©ant dans la carriÃ¨re de la civilisation."
-        },
-        {
-          "year": 1940,
-          "title": "Sens, la matinée du 15 Juin  1940",
-          "text": "Sens, une ville en guerre, 1939-1945 4. Sens, la matinée du 15 Juin 1940 Depuis le début de la nuit, en ville, c’est un vacarme incessant : départ des civils, chassé croisé des militaires qui, pour certain, descendent plus au Sud, et d’autres qui arrivent pour défendre les voies de communications. En fin de nuit, s’installent les troupes destinées à « tenir » les ponts.  C’est à 5h15 que l’on entend les premières explosions.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"Sens, la matinée du 15 Juin  1940.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "c- l)~$ çv(':g f, $4 S.4 y q~' lf TfS ':>J %$ ^J SENS, N<sai^ IMPRIMERIE ET LITH. DE THOMAS-MALVIN, rue Royale, 42. DE LA FORMATION ̃̃ > ,.6 ~2::1 ET DES TRAVAUX DE LA SOÃIÃTÃ. jt. .PAIS m, GIGBET. Aucune Ã©poque n'a Ã©tÃ©, plus que la nÃ´tre, fÃ©conde en recher- ches historiques; jamais recherches n'ont Ã©tÃ© aussi riches en aperÃ§us lumineux. On ne s'est plus contentÃ© de recueillir, de coordonner, d'approfondir les annales, les chroniques, les archi- ves, les traditions poÃ©tiques et populaires: on les a confrontÃ©es encore avec les Ã©lÃ©ments des langues, avec les monuments, avec tout ce qui pouvait porter tÃ©moignage pour ou contre leur authenticitÃ© et de cette Ã©preuve, il est rÃ©sultÃ© qu'on les a rectifiÃ©es, complÃ©tÃ©es, souvent mÃªme reconstruites Ã l'aide de matÃ©riaux empruntÃ©s Ã la linguistique et Ã l'archÃ©ologie."
+          "longText": null
         },
         {
           "year": 1943,
-          "title": "Un jour une Histoire, Octobre 1943: la Résistance assassinée",
-          "text": "Un jour une Histoire, Octobre 1943: la Résistance assassinée _Fin septembre 1943, de nombreux événements dramatiques vont se succéder dans la ville et conduire nombre de Résistants à la déportation ou à la mort._ _Alfred RONDEAU fusillé le 28 octobre 1943 à Egriselles.",
+          "title": "Octobre 1943: la Résistance assassinée",
+          "text": "Octobre 1943: la Résistance assassinée _Fin septembre 1943, de nombreux événements dramatiques vont se succéder dans la ville et conduire nombre de Résistants à la déportation ou à la mort._ _Alfred RONDEAU fusillé le 28 octobre 1943 à Egriselles.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -2637,8 +2472,8 @@
         },
         {
           "year": 1965,
-          "title": "Des Lieux et des Hommes, que reste-t-il de \"l'Ostel de l'Escu\"?",
-          "text": "Des Lieux et des Hommes, que reste-t-il de \"l'Ostel de l'Escu\"? www.histoire-sens-senonais-yonne.com dépose des cookies pour améliorer votre expérience de navigation, mesurer l'audience du site internet, afficher des publicités personnalisées, réaliser des campagnes ciblées et personnaliser l'interface du site. Google Analytics ? Permet d'analyser les statistiques de consultation de notre site ? Partage social",
+          "title": "que reste-t-il de \"l'Ostel de l'Escu\"?",
+          "text": "que reste-t-il de \"l'Ostel de l'Escu\"? dépose des cookies pour améliorer votre expérience de navigation, mesurer l'audience du site internet, afficher des publicités personnalisées, réaliser des campagnes ciblées et personnaliser l'interface du site. Google Analytics ? Permet d'analyser les statistiques de consultation de notre site ? Partage social",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
