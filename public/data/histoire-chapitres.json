@@ -332,7 +332,8 @@
           "sources": [
             "Bulletin SAS, vol. VIII, 1858, p. 9-11."
           ],
-          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Arcature.cathedrale.Sens.png"
         },
         {
           "year": 390,
@@ -372,7 +373,8 @@
           "sources": [
             "Bourgogne medievale, fiche Sens."
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bague.colonne.cathedrale.Sens.png"
         },
         {
           "year": 550,
@@ -388,7 +390,8 @@
             "Bulletin SAS, passim."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "Au VIe siècle, l'Empire romain d'Occident a disparu depuis trois générations. En Gaule, les rois mérovingiens se disputent le pouvoir. Les routes sont moins sûres, le commerce décline, les villes se rétractent. Dans ce monde instable, qui maintient le savoir ?\n\nL'Église. Et plus précisément les écoles cathédrales — ces petites communautés de clercs qui se forment auprès de l'évêque. L'école cathédrale de Sens est l'une des plus anciennes de France, fondée dans la lignée des recommandations du concile de Vaison (529), qui ordonne à chaque évêque de former ses futurs prêtres.\n\nOn y enseigne les sept arts libéraux, divisés en deux cycles. Le trivium d'abord : grammaire (lire et écrire le latin), rhétorique (l'art de convaincre), dialectique (la logique). Puis le quadrivium : arithmétique, géométrie, astronomie et musique. La musique n'est pas un loisir — c'est une science mathématique, et elle est indispensable pour la liturgie.\n\nL'école cathédrale de Sens forme des prêtres, mais aussi des administrateurs. Dans un monde où presque personne ne sait lire, un clerc formé aux arts libéraux est un atout précieux pour un roi ou un comte. Beaucoup de ces élèves finissent conseillers à la cour.\n\nCette tradition intellectuelle explique pourquoi Sens deviendra un lieu de débat théologique au XIIe siècle. Quand Abélard et Bernard de Clairvaux s'affrontent au concile de 1141, c'est parce que Sens est déjà un centre de savoir reconnu — pas seulement une ville d'archevêque. L'école cathédrale a préparé le terrain pendant six siècles.\n\nAujourd'hui, le palais archiépiscopal (devenu musée) conserve la mémoire de ce foyer intellectuel, dans les salles mêmes où les clercs étudiaient."
+          "longText": "Au VIe siècle, l'Empire romain d'Occident a disparu depuis trois générations. En Gaule, les rois mérovingiens se disputent le pouvoir. Les routes sont moins sûres, le commerce décline, les villes se rétractent. Dans ce monde instable, qui maintient le savoir ?\n\nL'Église. Et plus précisément les écoles cathédrales — ces petites communautés de clercs qui se forment auprès de l'évêque. L'école cathédrale de Sens est l'une des plus anciennes de France, fondée dans la lignée des recommandations du concile de Vaison (529), qui ordonne à chaque évêque de former ses futurs prêtres.\n\nOn y enseigne les sept arts libéraux, divisés en deux cycles. Le trivium d'abord : grammaire (lire et écrire le latin), rhétorique (l'art de convaincre), dialectique (la logique). Puis le quadrivium : arithmétique, géométrie, astronomie et musique. La musique n'est pas un loisir — c'est une science mathématique, et elle est indispensable pour la liturgie.\n\nL'école cathédrale de Sens forme des prêtres, mais aussi des administrateurs. Dans un monde où presque personne ne sait lire, un clerc formé aux arts libéraux est un atout précieux pour un roi ou un comte. Beaucoup de ces élèves finissent conseillers à la cour.\n\nCette tradition intellectuelle explique pourquoi Sens deviendra un lieu de débat théologique au XIIe siècle. Quand Abélard et Bernard de Clairvaux s'affrontent au concile de 1141, c'est parce que Sens est déjà un centre de savoir reconnu — pas seulement une ville d'archevêque. L'école cathédrale a préparé le terrain pendant six siècles.\n\nAujourd'hui, le palais archiépiscopal (devenu musée) conserve la mémoire de ce foyer intellectuel, dans les salles mêmes où les clercs étudiaient.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cath%C3%A9drale_Saint-Etienne_-_Archev%C3%AAch%C3%A9_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00014399.jpg"
         },
         {
           "year": 600,
@@ -447,7 +450,8 @@
           "sources": [
             "Bulletin SAS, vol. II, 1851, p. 57 (rapport Brullee)."
           ],
-          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010096.jpg"
         },
         {
           "year": 692,
@@ -506,7 +510,8 @@
             "Wikipedia, Wenilon (archeveque de Sens).",
             "Brousse, B. 2024."
           ],
-          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010097.jpg"
         },
         {
           "year": 850,
@@ -553,7 +558,8 @@
             "Leviste, J. La cathedrale de Sens. 1965."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "L'archevêque Wenilon est l'un des personnages les plus ambigus de l'histoire de Sens. Nommé vers 840, ancien clerc de la chapelle de Charles le Chauve, il va trahir son protecteur — puis se réconcilier avec lui — dans un épisode digne d'un roman politique.\n\nEn 858, des comtes rebelles invitent Louis le Germanique à envahir le royaume de Charles le Chauve. Wenilon choisit le camp de l'envahisseur : il célèbre des messes publiques pour Louis, en violation de toutes les règles canoniques. Charles le Chauve, furieux, fait rédiger un acte d'accusation — le Libellus proclamationis — qui est lu devant le concile de Savonnières en 859. Wenilon est accusé de parjure et de trahison. Mais il s'en sort : il se réconcilie avec le roi avant la fin de l'année.\n\nCe qui nous intéresse ici, c'est la cathédrale. Au IXe siècle, Wenilon reconstruit l'édifice — probablement après un incendie, comme c'est souvent le cas. La ville médiévale, avec ses maisons en bois serrées les unes contre les autres, est une poudrière. Les incendies sont fréquents et dévastateurs.\n\nLa cathédrale de Wenilon est un édifice carolingien — probablement une grande basilique à trois nefs, avec une charpente en bois. On n'en connaît pas le plan exact. Ce qu'on sait, c'est qu'elle brûle à nouveau en 968. L'archevêque Archambaud la reconstruit. Puis elle brûle encore.\n\nChaque incendie est une catastrophe — mais aussi une occasion de moderniser. C'est après un de ces sinistres que l'archevêque Henri Sanglier lancera, vers 1135, la construction révolutionnaire de la cathédrale gothique qu'on connaît aujourd'hui. Sans les incendies, pas de cathédrale gothique."
+          "longText": "L'archevêque Wenilon est l'un des personnages les plus ambigus de l'histoire de Sens. Nommé vers 840, ancien clerc de la chapelle de Charles le Chauve, il va trahir son protecteur — puis se réconcilier avec lui — dans un épisode digne d'un roman politique.\n\nEn 858, des comtes rebelles invitent Louis le Germanique à envahir le royaume de Charles le Chauve. Wenilon choisit le camp de l'envahisseur : il célèbre des messes publiques pour Louis, en violation de toutes les règles canoniques. Charles le Chauve, furieux, fait rédiger un acte d'accusation — le Libellus proclamationis — qui est lu devant le concile de Savonnières en 859. Wenilon est accusé de parjure et de trahison. Mais il s'en sort : il se réconcilie avec le roi avant la fin de l'année.\n\nCe qui nous intéresse ici, c'est la cathédrale. Au IXe siècle, Wenilon reconstruit l'édifice — probablement après un incendie, comme c'est souvent le cas. La ville médiévale, avec ses maisons en bois serrées les unes contre les autres, est une poudrière. Les incendies sont fréquents et dévastateurs.\n\nLa cathédrale de Wenilon est un édifice carolingien — probablement une grande basilique à trois nefs, avec une charpente en bois. On n'en connaît pas le plan exact. Ce qu'on sait, c'est qu'elle brûle à nouveau en 968. L'archevêque Archambaud la reconstruit. Puis elle brûle encore.\n\nChaque incendie est une catastrophe — mais aussi une occasion de moderniser. C'est après un de ces sinistres que l'archevêque Henri Sanglier lancera, vers 1135, la construction révolutionnaire de la cathédrale gothique qu'on connaît aujourd'hui. Sans les incendies, pas de cathédrale gothique.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010098.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010098.jpg"
         },
         {
           "year": 870,
@@ -627,7 +633,8 @@
             "Bulletin SAS, passim."
           ],
           "heritageItemId": "e5555555-0044-0044-0044-000000000044",
-          "longText": "La communauté juive de Sens est l'une des plus anciennes et des plus importantes du nord de la France. Des familles juives s'installent dans la ville dès le haut Moyen Âge, probablement attirées par la position de carrefour commercial de Sens et par la relative tolérance des autorités locales.\n\nLeur quartier se trouve au cœur de la ville, près de la cathédrale. La rue de la Grande Juiverie (actuelle rue Voltaire) et la rue de la Petite Juiverie marquent le périmètre d'un quartier qui possède sa synagogue, son four à pain (les Juifs ne peuvent pas utiliser les fours chrétiens), son école talmudique et son cimetière (la place du Tau).\n\nLes Juifs sénonais sont marchands, prêteurs, médecins. Leur rôle économique est essentiel : dans une société chrétienne où le prêt à intérêt est interdit par l'Église, les prêteurs juifs sont les seuls à pouvoir financer le commerce, les travaux publics, les campagnes militaires. Les rois et les archevêques les protègent — quand ça les arrange.\n\nCar l'histoire de cette communauté est un « incessant aller-retour » entre protection et persécution. Protégés par le comte Renaut II au XIe siècle (on le surnomme « le Roi des Juifs »), les Juifs de Sens sont expulsés par Philippe Auguste en 1182, rappelés en 1198, expulsés à nouveau par Philippe le Bel en 1306, rappelés, puis définitivement chassés en 1394.\n\nSens est aussi un centre intellectuel juif majeur. Les Tossafistes — ces commentateurs du Talmud qui poursuivent l'œuvre de Rachi de Troyes — enseignent à Sens au XIIe siècle. L'école talmudique de Sens fait partie d'un réseau qui inclut Troyes, Ramerupt et Dampierre.\n\nAujourd'hui, rien de visible ne subsiste de cette communauté. Seuls les noms de rues conservent la mémoire d'une présence de quatre siècles."
+          "longText": "La communauté juive de Sens est l'une des plus anciennes et des plus importantes du nord de la France. Des familles juives s'installent dans la ville dès le haut Moyen Âge, probablement attirées par la position de carrefour commercial de Sens et par la relative tolérance des autorités locales.\n\nLeur quartier se trouve au cœur de la ville, près de la cathédrale. La rue de la Grande Juiverie (actuelle rue Voltaire) et la rue de la Petite Juiverie marquent le périmètre d'un quartier qui possède sa synagogue, son four à pain (les Juifs ne peuvent pas utiliser les fours chrétiens), son école talmudique et son cimetière (la place du Tau).\n\nLes Juifs sénonais sont marchands, prêteurs, médecins. Leur rôle économique est essentiel : dans une société chrétienne où le prêt à intérêt est interdit par l'Église, les prêteurs juifs sont les seuls à pouvoir financer le commerce, les travaux publics, les campagnes militaires. Les rois et les archevêques les protègent — quand ça les arrange.\n\nCar l'histoire de cette communauté est un « incessant aller-retour » entre protection et persécution. Protégés par le comte Renaut II au XIe siècle (on le surnomme « le Roi des Juifs »), les Juifs de Sens sont expulsés par Philippe Auguste en 1182, rappelés en 1198, expulsés à nouveau par Philippe le Bel en 1306, rappelés, puis définitivement chassés en 1394.\n\nSens est aussi un centre intellectuel juif majeur. Les Tossafistes — ces commentateurs du Talmud qui poursuivent l'œuvre de Rachi de Troyes — enseignent à Sens au XIIe siècle. L'école talmudique de Sens fait partie d'un réseau qui inclut Troyes, Ramerupt et Dampierre.\n\nAujourd'hui, rien de visible ne subsiste de cette communauté. Seuls les noms de rues conservent la mémoire d'une présence de quatre siècles.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010099.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010099.jpg"
         }
       ]
     },
@@ -668,7 +675,8 @@
           "sources": [
             "Bulletin SAS, vol. VIII, 1858, p. 79."
           ],
-          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010100.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010100.jpg"
         },
         {
           "year": 1066,
@@ -698,7 +706,8 @@
             "Daguin, G. \"De la porte St-Pregt à la place Drapes.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0012-0012-0012-000000000012",
-          "longText": "En 1146-1147, les bourgeois de Sens obtiennent — pour un temps — des institutions communales. C'est l'une des premières tentatives d'émancipation urbaine en France, contemporaine du mouvement communal qui secoue les villes du nord du royaume.\n\nMais Sens n'est pas Laon ou Noyon. Ici, le seigneur de la ville n'est pas un petit baron féodal : c'est l'archevêque, l'un des hommes les plus puissants de France. Et l'archevêque n'entend pas se laisser déposséder de son pouvoir.\n\nLe conflit entre la commune et l'archevêque va durer des décennies. Louis VI reprend les libertés accordées. Les bourgeois s'agitent. L'archevêque réprime. On négocie. On se révolte. C'est un bras de fer permanent.\n\nLe tournant vient en 1189-1190, quand le roi Philippe Auguste accorde à Sens une charte d'affranchissement. Le roi y trouve son intérêt : en plaçant la ville sous son autorité directe, il affaiblit l'archevêque et renforce le pouvoir royal. Les bourgeois obtiennent un maire et des jurés — mais ils troquent la tutelle de l'archevêque pour celle du roi.\n\nCe qui distingue la commune de Sens, c'est sa précocité et sa fragilité. Contrairement aux grandes communes flamandes (Gand, Bruges), qui deviennent de véritables républiques urbaines, Sens reste tiraillée entre trois pouvoirs — le roi, l'archevêque et les bourgeois. La commune ne sera jamais pleinement souveraine.\n\nLa mémoire de ce combat reste inscrite dans la topographie : la maison commune (ancêtre de la mairie) s'installe loin du palais archiépiscopal, dans le quartier des marchands, près de la porte Saint-Pregts. C'est un geste symbolique : le pouvoir civil s'éloigne du pouvoir religieux."
+          "longText": "En 1146-1147, les bourgeois de Sens obtiennent — pour un temps — des institutions communales. C'est l'une des premières tentatives d'émancipation urbaine en France, contemporaine du mouvement communal qui secoue les villes du nord du royaume.\n\nMais Sens n'est pas Laon ou Noyon. Ici, le seigneur de la ville n'est pas un petit baron féodal : c'est l'archevêque, l'un des hommes les plus puissants de France. Et l'archevêque n'entend pas se laisser déposséder de son pouvoir.\n\nLe conflit entre la commune et l'archevêque va durer des décennies. Louis VI reprend les libertés accordées. Les bourgeois s'agitent. L'archevêque réprime. On négocie. On se révolte. C'est un bras de fer permanent.\n\nLe tournant vient en 1189-1190, quand le roi Philippe Auguste accorde à Sens une charte d'affranchissement. Le roi y trouve son intérêt : en plaçant la ville sous son autorité directe, il affaiblit l'archevêque et renforce le pouvoir royal. Les bourgeois obtiennent un maire et des jurés — mais ils troquent la tutelle de l'archevêque pour celle du roi.\n\nCe qui distingue la commune de Sens, c'est sa précocité et sa fragilité. Contrairement aux grandes communes flamandes (Gand, Bruges), qui deviennent de véritables républiques urbaines, Sens reste tiraillée entre trois pouvoirs — le roi, l'archevêque et les bourgeois. La commune ne sera jamais pleinement souveraine.\n\nLa mémoire de ce combat reste inscrite dans la topographie : la maison commune (ancêtre de la mairie) s'installe loin du palais archiépiscopal, dans le quartier des marchands, près de la porte Saint-Pregts. C'est un geste symbolique : le pouvoir civil s'éloigne du pouvoir religieux.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010101.jpg"
         },
         {
           "year": 1100,
@@ -747,7 +756,8 @@
             "Leviste, Jacques (abbe). La cathedrale de Sens. 1965."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "Vers 1135, l'archevêque Henri Sanglier lance un chantier qui va changer l'histoire de l'architecture mondiale. Il fait appel à un maître d'œuvre innovant — dont on ne connaît pas le nom avec certitude — pour construire une nouvelle cathédrale.\n\nL'idée est révolutionnaire. Pour la première fois dans un édifice de cette taille, on utilise ensemble trois techniques qui existaient séparément : la croisée d'ogives (des arcs en diagonale qui reportent le poids de la voûte sur quatre piliers), l'arc brisé (plus solide que l'arc en plein cintre roman) et les arcs-boutants (des supports extérieurs qui contrebalancent la poussée des voûtes).\n\nRésultat : les murs n'ont plus besoin de porter le poids de l'édifice. On peut les percer de grandes fenêtres. La lumière entre à flots. L'espace intérieur, libéré des murs épais du roman, devient immense et aérien.\n\nC'est le gothique. Et Sens est la première cathédrale à l'appliquer de manière systématique sur l'ensemble du chantier. Saint-Denis, souvent citée, a expérimenté la croisée d'ogives dans son chœur (1140-1144), mais la cathédrale de Sens est le premier édifice complet conçu selon ces principes.\n\nLe chantier avance vite : la consécration a lieu en 1164, en présence du pape Alexandre III — qui réside alors à Sens. Mais la cathédrale continuera d'évoluer pendant des siècles : ajout du transept au XIIIe siècle, reconstruction de la tour sud après son effondrement en 1268, modifications diverses.\n\nLa cathédrale de Sens a servi de modèle direct pour Canterbury (reconstruite après 1174 par Guillaume de Sens, un architecte sénonais), et a influencé tout le gothique du nord de la France.\n\nAujourd'hui, la cathédrale Saint-Étienne reste le monument phare de Sens — classée Monument historique dès 1840, dans la première liste de Prosper Mérimée."
+          "longText": "Vers 1135, l'archevêque Henri Sanglier lance un chantier qui va changer l'histoire de l'architecture mondiale. Il fait appel à un maître d'œuvre innovant — dont on ne connaît pas le nom avec certitude — pour construire une nouvelle cathédrale.\n\nL'idée est révolutionnaire. Pour la première fois dans un édifice de cette taille, on utilise ensemble trois techniques qui existaient séparément : la croisée d'ogives (des arcs en diagonale qui reportent le poids de la voûte sur quatre piliers), l'arc brisé (plus solide que l'arc en plein cintre roman) et les arcs-boutants (des supports extérieurs qui contrebalancent la poussée des voûtes).\n\nRésultat : les murs n'ont plus besoin de porter le poids de l'édifice. On peut les percer de grandes fenêtres. La lumière entre à flots. L'espace intérieur, libéré des murs épais du roman, devient immense et aérien.\n\nC'est le gothique. Et Sens est la première cathédrale à l'appliquer de manière systématique sur l'ensemble du chantier. Saint-Denis, souvent citée, a expérimenté la croisée d'ogives dans son chœur (1140-1144), mais la cathédrale de Sens est le premier édifice complet conçu selon ces principes.\n\nLe chantier avance vite : la consécration a lieu en 1164, en présence du pape Alexandre III — qui réside alors à Sens. Mais la cathédrale continuera d'évoluer pendant des siècles : ajout du transept au XIIIe siècle, reconstruction de la tour sud après son effondrement en 1268, modifications diverses.\n\nLa cathédrale de Sens a servi de modèle direct pour Canterbury (reconstruite après 1174 par Guillaume de Sens, un architecte sénonais), et a influencé tout le gothique du nord de la France.\n\nAujourd'hui, la cathédrale Saint-Étienne reste le monument phare de Sens — classée Monument historique dès 1840, dans la première liste de Prosper Mérimée.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010102.jpg"
         },
         {
           "year": 1141,
@@ -764,7 +774,8 @@
             "Leviste, J. La cathedrale de Sens. 1965."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "Les 25-26 mai 1141, la cathédrale de Sens est le théâtre d'un événement intellectuel majeur : le procès de Pierre Abélard.\n\nTout le pouvoir de France est là. Le roi Louis VII (21 ans), Aliénor d'Aquitaine (19 ans, mariée au roi depuis quatre ans), le comte de Champagne, une brochette d'évêques et d'abbés. Et les deux protagonistes : Pierre Abélard, le philosophe le plus brillant et le plus controversé de son temps, et Bernard de Clairvaux, le moine le plus influent d'Europe.\n\nLe conflit est théologique, mais aussi personnel. Abélard applique la raison au dogme — il veut comprendre la foi par la logique. Bernard voit dans cette démarche une menace pour l'Église : la foi ne se démontre pas, elle se vit. Les deux hommes s'affrontent depuis des années par lettres interposées.\n\nAbélard a réclamé ce concile pour se défendre publiquement. Mais Bernard a manœuvré en coulisses : la veille de l'assemblée, il a réuni les évêques en privé et les a convaincus de condamner Abélard. Quand le concile s'ouvre, la cause est entendue.\n\nAbélard, comprenant que le procès est truqué, refuse de se défendre et fait appel au pape. Il quitte Sens. Le concile le condamne tout de même. Le pape confirmera la condamnation. Abélard, brisé, se retire à l'abbaye de Cluny où Pierre le Vénérable l'accueille avec bienveillance. Il meurt en 1142.\n\nPourquoi à Sens ? Parce que l'archevêque de Sens est le métropolitain de la province. Un concile provincial se tient dans la métropole. Et parce que Sens, avec son école cathédrale et sa tradition intellectuelle, est le lieu naturel de ce type de débat.\n\nLa Société archéologique de Sens (SAS) a consacré une conférence à cet épisode en février 2024, par Jérôme Rival."
+          "longText": "Les 25-26 mai 1141, la cathédrale de Sens est le théâtre d'un événement intellectuel majeur : le procès de Pierre Abélard.\n\nTout le pouvoir de France est là. Le roi Louis VII (21 ans), Aliénor d'Aquitaine (19 ans, mariée au roi depuis quatre ans), le comte de Champagne, une brochette d'évêques et d'abbés. Et les deux protagonistes : Pierre Abélard, le philosophe le plus brillant et le plus controversé de son temps, et Bernard de Clairvaux, le moine le plus influent d'Europe.\n\nLe conflit est théologique, mais aussi personnel. Abélard applique la raison au dogme — il veut comprendre la foi par la logique. Bernard voit dans cette démarche une menace pour l'Église : la foi ne se démontre pas, elle se vit. Les deux hommes s'affrontent depuis des années par lettres interposées.\n\nAbélard a réclamé ce concile pour se défendre publiquement. Mais Bernard a manœuvré en coulisses : la veille de l'assemblée, il a réuni les évêques en privé et les a convaincus de condamner Abélard. Quand le concile s'ouvre, la cause est entendue.\n\nAbélard, comprenant que le procès est truqué, refuse de se défendre et fait appel au pape. Il quitte Sens. Le concile le condamne tout de même. Le pape confirmera la condamnation. Abélard, brisé, se retire à l'abbaye de Cluny où Pierre le Vénérable l'accueille avec bienveillance. Il meurt en 1142.\n\nPourquoi à Sens ? Parce que l'archevêque de Sens est le métropolitain de la province. Un concile provincial se tient dans la métropole. Et parce que Sens, avec son école cathédrale et sa tradition intellectuelle, est le lieu naturel de ce type de débat.\n\nLa Société archéologique de Sens (SAS) a consacré une conférence à cet épisode en février 2024, par Jérôme Rival.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010103.jpg"
         },
         {
           "year": 1146,
@@ -809,7 +820,8 @@
             "Merimee, PA00113881."
           ],
           "heritageItemId": "e5555555-0047-0047-0047-000000000047",
-          "longText": "L'Hôtel-Dieu de Sens est fondé au XIIe siècle, sous l'autorité directe de l'archevêque. Ce n'est pas un hôpital au sens moderne — c'est un lieu d'accueil universel. On y soigne les malades, on y héberge les pèlerins de passage, on y recueille les orphelins, on y nourrit les pauvres.\n\nEn langage moderne, l'Hôtel-Dieu cumule les fonctions d'un hôpital, d'un EHPAD, d'un foyer d'hébergement d'urgence et d'une aide sociale à l'enfance. Tout cela dans le même bâtiment, géré par des religieux et des religieuses sous la direction de l'archevêque.\n\nL'Hôtel-Dieu de Sens se trouve à l'ombre de la cathédrale — littéralement. C'est un choix théologique : soigner les pauvres est un acte de charité chrétienne, et la proximité avec la cathédrale le rappelle. Les malades entendent les offices depuis leur lit.\n\nLes descriptions médiévales montrent un établissement mieux tenu qu'on ne l'imagine. Les malades ont des lits individuels, avec matelas et couvertures. La nourriture est simple mais régulière. Les soins sont rudimentaires (on ne connaît pas encore les microbes), mais l'hygiène est surveillée.\n\nL'Hôtel-Dieu est aussi une institution économique. Il possède des terres, des rentes, des donations. Les notables de Sens lèguent volontiers une partie de leur fortune à l'Hôtel-Dieu — c'est bon pour le salut de l'âme, et c'est affiché publiquement.\n\nLe bâtiment médiéval a été remplacé au XIXe siècle par le marché couvert de Sens, qui occupe aujourd'hui son emplacement exact. L'Hôtel-Dieu est classé aux Monuments historiques (base Mérimée, PA00113881). On passe de la charité médiévale au commerce moderne — mais toujours au même endroit, à l'ombre de la cathédrale."
+          "longText": "L'Hôtel-Dieu de Sens est fondé au XIIe siècle, sous l'autorité directe de l'archevêque. Ce n'est pas un hôpital au sens moderne — c'est un lieu d'accueil universel. On y soigne les malades, on y héberge les pèlerins de passage, on y recueille les orphelins, on y nourrit les pauvres.\n\nEn langage moderne, l'Hôtel-Dieu cumule les fonctions d'un hôpital, d'un EHPAD, d'un foyer d'hébergement d'urgence et d'une aide sociale à l'enfance. Tout cela dans le même bâtiment, géré par des religieux et des religieuses sous la direction de l'archevêque.\n\nL'Hôtel-Dieu de Sens se trouve à l'ombre de la cathédrale — littéralement. C'est un choix théologique : soigner les pauvres est un acte de charité chrétienne, et la proximité avec la cathédrale le rappelle. Les malades entendent les offices depuis leur lit.\n\nLes descriptions médiévales montrent un établissement mieux tenu qu'on ne l'imagine. Les malades ont des lits individuels, avec matelas et couvertures. La nourriture est simple mais régulière. Les soins sont rudimentaires (on ne connaît pas encore les microbes), mais l'hygiène est surveillée.\n\nL'Hôtel-Dieu est aussi une institution économique. Il possède des terres, des rentes, des donations. Les notables de Sens lèguent volontiers une partie de leur fortune à l'Hôtel-Dieu — c'est bon pour le salut de l'âme, et c'est affiché publiquement.\n\nLe bâtiment médiéval a été remplacé au XIXe siècle par le marché couvert de Sens, qui occupe aujourd'hui son emplacement exact. L'Hôtel-Dieu est classé aux Monuments historiques (base Mérimée, PA00113881). On passe de la charité médiévale au commerce moderne — mais toujours au même endroit, à l'ombre de la cathédrale.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010104.jpg"
         },
         {
           "year": 1151,
@@ -840,7 +852,8 @@
             "Bulletin SAS, 1846."
           ],
           "heritageItemId": "e5555555-0013-0013-0013-000000000013",
-          "longText": "En 1163, un événement extraordinaire se produit : le pape s'installe à Sens. Pas en visite — en résidence. Le chef de l'Église catholique, Alexandre III, fuit Rome parce que l'empereur Frédéric Barberousse le menace et a fait élire un antipape à sa place.\n\nOù va-t-il ? Pas à Paris, pas à Lyon — à Sens. Pourquoi ? Parce que l'archevêque de Sens est le métropolitain de la plus importante province ecclésiastique de France. Parce que le roi Louis VII, allié d'Alexandre III, lui a préparé un refuge dans cette ville sûre et prestigieuse.\n\nPendant près de deux ans (1163-1165), le pape habite dans le palais archiépiscopal. La Curie romaine — tout l'appareil administratif de la papauté — s'installe à Sens. Les cardinaux logent chez les chanoines. Les courriers pontificaux partent de Sens vers toute la chrétienté.\n\nSens devient, pour un temps, la capitale de la chrétienté. Les conséquences sont considérables : c'est depuis Sens qu'Alexandre III administre l'Église, reçoit les ambassadeurs, tranche les conflits. C'est probablement depuis Sens qu'il prépare la pose de la première pierre de Notre-Dame de Paris (24 mars 1163) — un événement auquel il assiste en personne.\n\nLa cathédrale de Sens est consacrée pendant ce séjour, en 1164 — par le pape en personne. Un honneur exceptionnel.\n\nAlexandre III repart en 1165, quand la situation s'améliore en Italie. Mais le séjour papal a définitivement inscrit Sens dans l'histoire de l'Église. Le palais synodal, construit quelques décennies plus tard par l'archevêque Gauthier Cornut, conserve la mémoire de cette époque où Sens était le centre du monde chrétien."
+          "longText": "En 1163, un événement extraordinaire se produit : le pape s'installe à Sens. Pas en visite — en résidence. Le chef de l'Église catholique, Alexandre III, fuit Rome parce que l'empereur Frédéric Barberousse le menace et a fait élire un antipape à sa place.\n\nOù va-t-il ? Pas à Paris, pas à Lyon — à Sens. Pourquoi ? Parce que l'archevêque de Sens est le métropolitain de la plus importante province ecclésiastique de France. Parce que le roi Louis VII, allié d'Alexandre III, lui a préparé un refuge dans cette ville sûre et prestigieuse.\n\nPendant près de deux ans (1163-1165), le pape habite dans le palais archiépiscopal. La Curie romaine — tout l'appareil administratif de la papauté — s'installe à Sens. Les cardinaux logent chez les chanoines. Les courriers pontificaux partent de Sens vers toute la chrétienté.\n\nSens devient, pour un temps, la capitale de la chrétienté. Les conséquences sont considérables : c'est depuis Sens qu'Alexandre III administre l'Église, reçoit les ambassadeurs, tranche les conflits. C'est probablement depuis Sens qu'il prépare la pose de la première pierre de Notre-Dame de Paris (24 mars 1163) — un événement auquel il assiste en personne.\n\nLa cathédrale de Sens est consacrée pendant ce séjour, en 1164 — par le pape en personne. Un honneur exceptionnel.\n\nAlexandre III repart en 1165, quand la situation s'améliore en Italie. Mais le séjour papal a définitivement inscrit Sens dans l'histoire de l'Église. Le palais synodal, construit quelques décennies plus tard par l'archevêque Gauthier Cornut, conserve la mémoire de cette époque où Sens était le centre du monde chrétien.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010105.jpg"
         },
         {
           "year": 1164,
@@ -857,7 +870,8 @@
             "Leviste, Jacques (abbe). La cathedrale de Sens. 1965."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "Thomas Becket est l'un des personnages les plus romanesques du Moyen Âge — et il a vécu six ans à Sens.\n\nL'histoire commence en Angleterre. Thomas Becket, fils d'un marchand normand de Londres, est le meilleur ami du roi Henri II Plantagenêt. Le roi le nomme chancelier d'Angleterre, puis archevêque de Canterbury en 1162. Erreur fatale : Becket prend son rôle religieux au sérieux et s'oppose au roi sur les droits de l'Église.\n\nEn 1164, le conflit éclate. Becket est convoqué devant un tribunal royal à Northampton. Condamné, il s'enfuit en France. Il se réfugie d'abord à l'abbaye cistercienne de Pontigny (en Bourgogne), mais Henri II menace d'expulser tous les cisterciens de ses territoires. Becket part alors pour Sens, où il est accueilli à l'abbaye bénédictine de Sainte-Colombe, sous la protection du roi Louis VII et du pape Alexandre III (qui réside lui-même à Sens).\n\nPendant quatre ans, Becket vit à Sens. Il prie dans la cathédrale, prêche dans les églises, écrit des lettres enflammées au pape et au roi. C'est un exilé illustre — toute l'Europe sait qu'il est à Sens.\n\nEn 1170, une réconciliation fragile le ramène en Angleterre. Le 29 décembre 1170, quatre chevaliers du roi l'assassinent dans sa cathédrale de Canterbury. Le meurtre provoque un scandale mondial. Becket est canonisé en 1173.\n\nSens conserve des souvenirs tangibles de ce séjour. Le trésor de la cathédrale possède des vêtements liturgiques attribués à Becket — dont une chasuble et un autel portatif. L'abbaye Sainte-Colombe, où il a vécu, a été détruite à la Révolution, mais son emplacement est connu, au nord de la ville."
+          "longText": "Thomas Becket est l'un des personnages les plus romanesques du Moyen Âge — et il a vécu six ans à Sens.\n\nL'histoire commence en Angleterre. Thomas Becket, fils d'un marchand normand de Londres, est le meilleur ami du roi Henri II Plantagenêt. Le roi le nomme chancelier d'Angleterre, puis archevêque de Canterbury en 1162. Erreur fatale : Becket prend son rôle religieux au sérieux et s'oppose au roi sur les droits de l'Église.\n\nEn 1164, le conflit éclate. Becket est convoqué devant un tribunal royal à Northampton. Condamné, il s'enfuit en France. Il se réfugie d'abord à l'abbaye cistercienne de Pontigny (en Bourgogne), mais Henri II menace d'expulser tous les cisterciens de ses territoires. Becket part alors pour Sens, où il est accueilli à l'abbaye bénédictine de Sainte-Colombe, sous la protection du roi Louis VII et du pape Alexandre III (qui réside lui-même à Sens).\n\nPendant quatre ans, Becket vit à Sens. Il prie dans la cathédrale, prêche dans les églises, écrit des lettres enflammées au pape et au roi. C'est un exilé illustre — toute l'Europe sait qu'il est à Sens.\n\nEn 1170, une réconciliation fragile le ramène en Angleterre. Le 29 décembre 1170, quatre chevaliers du roi l'assassinent dans sa cathédrale de Canterbury. Le meurtre provoque un scandale mondial. Becket est canonisé en 1173.\n\nSens conserve des souvenirs tangibles de ce séjour. Le trésor de la cathédrale possède des vêtements liturgiques attribués à Becket — dont une chasuble et un autel portatif. L'abbaye Sainte-Colombe, où il a vécu, a été détruite à la Révolution, mais son emplacement est connu, au nord de la ville.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Becket_liturgical_garments_Sens_Cathedral.jpg/500px-Becket_liturgical_garments_Sens_Cathedral.jpg"
         },
         {
           "year": 1165,
@@ -873,7 +887,8 @@
             "Leviste, Jacques (abbe). La cathedrale de Sens. 1965."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "La cathédrale de Sens, consacrée en 1164, n'est pas un monument figé. Depuis sa construction, elle n'a cessé d'être modifiée, réparée, agrandie, reconstruite en partie.\n\nLa plus spectaculaire de ces modifications est l'ajout du transept. La cathédrale de 1135-1164 n'en avait pas : c'était un plan rectangulaire, sans les bras qui forment la croix. Le transept est ajouté au XIIIe siècle, avec de grandes roses vitrées qui comptent parmi les plus belles de France.\n\nEn 1268, la tour sud s'effondre. C'est un désastre qui oblige à reconstruire une partie de la façade. Le chantier de reconstruction dure des décennies. La tour actuelle, dite « tour de plomb » (parce qu'elle est coiffée d'un toit en plomb et non d'une flèche en pierre), date de cette reconstruction.\n\nLa tour nord, elle, n'a jamais été terminée. Elle s'arrête à la hauteur de la nef, tronquée. C'est l'un des signes visibles du déclin de Sens à partir du XIVe siècle : la ville n'a plus les moyens de financer un chantier aussi colossal.\n\nAu XVIe siècle, l'archevêque Tristan de Salazar fait reconstruire le portail du transept sud dans le style flamboyant — un contraste saisissant avec la sobriété du gothique primitif de la nef.\n\nChaque époque a laissé sa marque. La cathédrale de Sens est un palimpseste architectural : gothique primitif dans la nef (1135-1164), gothique rayonnant dans le transept et les roses (XIIIe siècle), flamboyant dans le portail sud (XVIe), restaurations du XIXe siècle (Viollet-le-Duc a failli s'en charger, mais c'est finalement l'architecte diocésain qui s'y colle).\n\nDenis Cailleaux, historien de l'art à l'université de Bourgogne, a consacré sa thèse à ce chantier (La cathédrale en chantier, CTHS, 1999)."
+          "longText": "La cathédrale de Sens, consacrée en 1164, n'est pas un monument figé. Depuis sa construction, elle n'a cessé d'être modifiée, réparée, agrandie, reconstruite en partie.\n\nLa plus spectaculaire de ces modifications est l'ajout du transept. La cathédrale de 1135-1164 n'en avait pas : c'était un plan rectangulaire, sans les bras qui forment la croix. Le transept est ajouté au XIIIe siècle, avec de grandes roses vitrées qui comptent parmi les plus belles de France.\n\nEn 1268, la tour sud s'effondre. C'est un désastre qui oblige à reconstruire une partie de la façade. Le chantier de reconstruction dure des décennies. La tour actuelle, dite « tour de plomb » (parce qu'elle est coiffée d'un toit en plomb et non d'une flèche en pierre), date de cette reconstruction.\n\nLa tour nord, elle, n'a jamais été terminée. Elle s'arrête à la hauteur de la nef, tronquée. C'est l'un des signes visibles du déclin de Sens à partir du XIVe siècle : la ville n'a plus les moyens de financer un chantier aussi colossal.\n\nAu XVIe siècle, l'archevêque Tristan de Salazar fait reconstruire le portail du transept sud dans le style flamboyant — un contraste saisissant avec la sobriété du gothique primitif de la nef.\n\nChaque époque a laissé sa marque. La cathédrale de Sens est un palimpseste architectural : gothique primitif dans la nef (1135-1164), gothique rayonnant dans le transept et les roses (XIIIe siècle), flamboyant dans le portail sud (XVIe), restaurations du XIXe siècle (Viollet-le-Duc a failli s'en charger, mais c'est finalement l'architecte diocésain qui s'y colle).\n\nDenis Cailleaux, historien de l'art à l'université de Bourgogne, a consacré sa thèse à ce chantier (La cathédrale en chantier, CTHS, 1999).",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010107.jpg"
         },
         {
           "year": 1170,
@@ -890,7 +905,8 @@
             "Leviste, J. 1965."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "Le trésor de la cathédrale de Sens est l'un des plus riches de France — et certainement le plus remarquable pour les textiles anciens.\n\nLa pièce la plus ancienne est la chasuble de saint Ebbon (VIIe siècle), un vêtement liturgique en soie qui figure parmi les plus vieux tissus conservés en Europe occidentale. Comment un tissu a-t-il pu traverser treize siècles ? Parce qu'il a été pieusement conservé dans un reliquaire, à l'abri de la lumière et de l'humidité.\n\nMais la pièce la plus célèbre est le suaire de saint Victoire, un tissu de soie à motifs orientaux qui témoigne des échanges commerciaux entre l'Occident chrétien et le monde islamique. Les soieries médiévales de Sens viennent de Byzance, de Perse, d'Égypte — preuve que la ville, malgré sa position continentale, est connectée aux circuits du grand commerce.\n\nLes ornements attribués à Thomas Becket — chasuble, mitre, sandales — sont les vedettes du trésor depuis le XIIe siècle. Leur authenticité fait débat, mais leur qualité artistique est indiscutable.\n\nLe trésor contient aussi des ivoires, des émaux, des orfèvreries et des tapisseries. L'ensemble représente mille ans d'art liturgique, du VIIe au XVIIe siècle.\n\nCe trésor a survécu à la Révolution — contrairement à beaucoup d'autres — grâce à la présence d'esprit de quelques Sénonais qui ont caché les pièces les plus précieuses. Il est aujourd'hui présenté dans le palais synodal, accessible depuis le musée de Sens.\n\nLa Médiathèque du patrimoine (base Palissy) répertorie les pièces du trésor. L'abbé Leviste, dans son ouvrage de référence de 1965, en a fait le premier inventaire moderne."
+          "longText": "Le trésor de la cathédrale de Sens est l'un des plus riches de France — et certainement le plus remarquable pour les textiles anciens.\n\nLa pièce la plus ancienne est la chasuble de saint Ebbon (VIIe siècle), un vêtement liturgique en soie qui figure parmi les plus vieux tissus conservés en Europe occidentale. Comment un tissu a-t-il pu traverser treize siècles ? Parce qu'il a été pieusement conservé dans un reliquaire, à l'abri de la lumière et de l'humidité.\n\nMais la pièce la plus célèbre est le suaire de saint Victoire, un tissu de soie à motifs orientaux qui témoigne des échanges commerciaux entre l'Occident chrétien et le monde islamique. Les soieries médiévales de Sens viennent de Byzance, de Perse, d'Égypte — preuve que la ville, malgré sa position continentale, est connectée aux circuits du grand commerce.\n\nLes ornements attribués à Thomas Becket — chasuble, mitre, sandales — sont les vedettes du trésor depuis le XIIe siècle. Leur authenticité fait débat, mais leur qualité artistique est indiscutable.\n\nLe trésor contient aussi des ivoires, des émaux, des orfèvreries et des tapisseries. L'ensemble représente mille ans d'art liturgique, du VIIe au XVIIe siècle.\n\nCe trésor a survécu à la Révolution — contrairement à beaucoup d'autres — grâce à la présence d'esprit de quelques Sénonais qui ont caché les pièces les plus précieuses. Il est aujourd'hui présenté dans le palais synodal, accessible depuis le musée de Sens.\n\nLa Médiathèque du patrimoine (base Palissy) répertorie les pièces du trésor. L'abbé Leviste, dans son ouvrage de référence de 1965, en a fait le premier inventaire moderne.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Becket_liturgical_garments_Sens_Cathedral.jpg/500px-Becket_liturgical_garments_Sens_Cathedral.jpg"
         },
         {
           "year": 1180,
@@ -950,7 +966,8 @@
           "sources": [
             "Bulletin SAS, vol. VIII, 1858, p. 58-69 (etude musicologique)."
           ],
-          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010110.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010110.jpg"
         },
         {
           "year": 1234,
@@ -966,7 +983,8 @@
             "Leviste, Jacques (abbe). La cathedrale de Sens. 1965."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "Le 27 mai 1234, le roi Louis IX — futur Saint Louis, il a vingt ans — épouse Marguerite de Provence — quatorze ans — dans la cathédrale de Sens. Pas à Paris, pas à Reims : à Sens.\n\nPourquoi ici ? Parce que l'archevêque de Sens, Gauthier Cornut, est le métropolitain de la province — le supérieur hiérarchique de l'évêque de Paris. C'est à lui qu'il revient de célébrer le mariage royal. Et un archevêque célèbre dans sa cathédrale.\n\nLa cérémonie est fastueuse. L'évêque Guillaume de Savoie, oncle de la mariée, joint les mains des époux. Le roi passe au doigt de Marguerite un anneau d'or émaillé de lys et de marguerites, séparés par un saphir, surmonté d'un crucifix. Le lendemain, 28 mai, Marguerite est couronnée reine de France.\n\nCe mariage est un coup diplomatique. En épousant une Provençale, Louis IX étend l'influence française au-delà du Rhône, vers la Méditerranée. Marguerite apporte en dot le prestige de sa maison — sa sœur Éléonore épousera le roi d'Angleterre Henri III.\n\nPour Sens, c'est un moment de gloire. La ville accueille toute la cour de France — seigneurs, prélats, chevaliers — pendant plusieurs jours. Les fêtes, les tournois, les banquets transforment la petite ville en capitale provisoire du royaume.\n\nLes musées de Sens ont consacré une exposition au 750e anniversaire de ce mariage en 1984. L'anneau nuptial, lui, a disparu — mais les vitraux de la cathédrale racontent encore l'histoire de Saint Louis, roi bâtisseur et croisé, dont le mariage a eu lieu dans ces murs."
+          "longText": "Le 27 mai 1234, le roi Louis IX — futur Saint Louis, il a vingt ans — épouse Marguerite de Provence — quatorze ans — dans la cathédrale de Sens. Pas à Paris, pas à Reims : à Sens.\n\nPourquoi ici ? Parce que l'archevêque de Sens, Gauthier Cornut, est le métropolitain de la province — le supérieur hiérarchique de l'évêque de Paris. C'est à lui qu'il revient de célébrer le mariage royal. Et un archevêque célèbre dans sa cathédrale.\n\nLa cérémonie est fastueuse. L'évêque Guillaume de Savoie, oncle de la mariée, joint les mains des époux. Le roi passe au doigt de Marguerite un anneau d'or émaillé de lys et de marguerites, séparés par un saphir, surmonté d'un crucifix. Le lendemain, 28 mai, Marguerite est couronnée reine de France.\n\nCe mariage est un coup diplomatique. En épousant une Provençale, Louis IX étend l'influence française au-delà du Rhône, vers la Méditerranée. Marguerite apporte en dot le prestige de sa maison — sa sœur Éléonore épousera le roi d'Angleterre Henri III.\n\nPour Sens, c'est un moment de gloire. La ville accueille toute la cour de France — seigneurs, prélats, chevaliers — pendant plusieurs jours. Les fêtes, les tournois, les banquets transforment la petite ville en capitale provisoire du royaume.\n\nLes musées de Sens ont consacré une exposition au 750e anniversaire de ce mariage en 1984. L'anneau nuptial, lui, a disparu — mais les vitraux de la cathédrale racontent encore l'histoire de Saint Louis, roi bâtisseur et croisé, dont le mariage a eu lieu dans ces murs.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010111.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010111.jpg"
         },
         {
           "year": 1239,
@@ -983,7 +1001,8 @@
             "Leviste, J. 1965."
           ],
           "heritageItemId": "e5555555-0002-0002-0002-000000000002",
-          "longText": "En août 1239, une procession extraordinaire traverse le Sénonais. Le roi Louis IX, pieds nus, en chemise, porte sur ses épaules un coffret contenant la Sainte Couronne d'épines — la relique la plus précieuse de la chrétienté.\n\nLouis IX a racheté cette relique à l'empereur latin de Constantinople, Baudouin II, qui l'avait mise en gage auprès de marchands vénitiens. Le roi a payé une somme colossale — 135 000 livres, soit la moitié du budget annuel du royaume — pour acquérir ce trésor.\n\nLa Couronne arrive en France par le sud. Le 10 août 1239, elle fait étape à Villeneuve-l'Archevêque, à 30 km de Sens. Le 11 août, elle est solennellement accueillie dans la cathédrale de Sens par l'archevêque Gauthier Cornut — le même qui a célébré le mariage de Louis IX cinq ans plus tôt.\n\nPourquoi cette étape à Sens ? Parce que l'archevêque de Sens est le primat — Paris est son suffragant. La Couronne doit être honorée dans la métropole avant de descendre vers la capitale.\n\nDe Sens, la procession continue vers Vincennes, puis Paris. Louis IX fera construire un écrin architectural pour abriter la relique : la Sainte-Chapelle, chef-d'œuvre du gothique rayonnant, achevée en 1248.\n\nPour Sens, l'épisode de la Couronne d'épines est à la fois un moment de gloire et un symbole amer. La relique passe par Sens — mais elle va à Paris. Le palais synodal de Sens, que Gauthier Cornut fait construire à la même époque, est magnifique — mais il ne rivalisera jamais avec la Sainte-Chapelle.\n\nLa Sainte Couronne d'épines, survivant à la Révolution et à l'incendie de Notre-Dame en 2019, est aujourd'hui conservée au Louvre en attendant la réouverture de la cathédrale de Paris."
+          "longText": "En août 1239, une procession extraordinaire traverse le Sénonais. Le roi Louis IX, pieds nus, en chemise, porte sur ses épaules un coffret contenant la Sainte Couronne d'épines — la relique la plus précieuse de la chrétienté.\n\nLouis IX a racheté cette relique à l'empereur latin de Constantinople, Baudouin II, qui l'avait mise en gage auprès de marchands vénitiens. Le roi a payé une somme colossale — 135 000 livres, soit la moitié du budget annuel du royaume — pour acquérir ce trésor.\n\nLa Couronne arrive en France par le sud. Le 10 août 1239, elle fait étape à Villeneuve-l'Archevêque, à 30 km de Sens. Le 11 août, elle est solennellement accueillie dans la cathédrale de Sens par l'archevêque Gauthier Cornut — le même qui a célébré le mariage de Louis IX cinq ans plus tôt.\n\nPourquoi cette étape à Sens ? Parce que l'archevêque de Sens est le primat — Paris est son suffragant. La Couronne doit être honorée dans la métropole avant de descendre vers la capitale.\n\nDe Sens, la procession continue vers Vincennes, puis Paris. Louis IX fera construire un écrin architectural pour abriter la relique : la Sainte-Chapelle, chef-d'œuvre du gothique rayonnant, achevée en 1248.\n\nPour Sens, l'épisode de la Couronne d'épines est à la fois un moment de gloire et un symbole amer. La relique passe par Sens — mais elle va à Paris. Le palais synodal de Sens, que Gauthier Cornut fait construire à la même époque, est magnifique — mais il ne rivalisera jamais avec la Sainte-Chapelle.\n\nLa Sainte Couronne d'épines, survivant à la Révolution et à l'incendie de Notre-Dame en 2019, est aujourd'hui conservée au Louvre en attendant la réouverture de la cathédrale de Paris.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toit_du_Palais_synodal.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toit_du_Palais_synodal.tif.jpg"
         },
         {
           "year": 1250,
@@ -1043,7 +1062,8 @@
             "Leviste, Jacques (abbe). La cathedrale de Sens. 1965."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "La construction de la cathédrale Saint-Étienne aurait pu être achevée en quelques décennies. Elle prendra plus d'un siècle. Pourquoi ? Parce qu'un chantier médiéval dépend de l'argent — et l'argent ne coule pas toujours.\n\nLe chantier commence vers 1135 sous l'archevêque Henri Sanglier. Les travaux avancent vite dans un premier temps : les fonds viennent de l'archevêché, des donations des fidèles, des revenus des foires. La consécration a lieu en 1164, en présence du pape.\n\nMais « consécration » ne veut pas dire « achèvement ». En 1164, la nef et le chœur sont terminés, mais le transept n'existe pas encore. Le clocher nord est inachevé. Les décors sont sommaires.\n\nLes problèmes se multiplient dans la seconde moitié du XIIe siècle. Les guerres entre le roi de France et le roi d'Angleterre drainent les ressources. Les conflits entre l'archevêque et la commune absorbent l'énergie. Les incendies — celui de 1184 notamment — obligent à des réparations coûteuses.\n\nEn 1268, c'est la catastrophe : la tour sud s'effondre. Il faut reconstruire une partie de la façade occidentale. Le chantier reprend, avec des moyens réduits. La tour est reconstruite, mais coiffée d'un simple toit en plomb au lieu de la flèche de pierre prévue initialement.\n\nLe chantier de la cathédrale de Sens, tel que l'a décrit Denis Cailleaux dans sa thèse de 1999, est un miroir de l'histoire économique et politique de la ville. Quand Sens prospère, le chantier avance. Quand la ville décline, il s'arrête. La tour nord, jamais terminée, en est le symbole le plus éloquent."
+          "longText": "La construction de la cathédrale Saint-Étienne aurait pu être achevée en quelques décennies. Elle prendra plus d'un siècle. Pourquoi ? Parce qu'un chantier médiéval dépend de l'argent — et l'argent ne coule pas toujours.\n\nLe chantier commence vers 1135 sous l'archevêque Henri Sanglier. Les travaux avancent vite dans un premier temps : les fonds viennent de l'archevêché, des donations des fidèles, des revenus des foires. La consécration a lieu en 1164, en présence du pape.\n\nMais « consécration » ne veut pas dire « achèvement ». En 1164, la nef et le chœur sont terminés, mais le transept n'existe pas encore. Le clocher nord est inachevé. Les décors sont sommaires.\n\nLes problèmes se multiplient dans la seconde moitié du XIIe siècle. Les guerres entre le roi de France et le roi d'Angleterre drainent les ressources. Les conflits entre l'archevêque et la commune absorbent l'énergie. Les incendies — celui de 1184 notamment — obligent à des réparations coûteuses.\n\nEn 1268, c'est la catastrophe : la tour sud s'effondre. Il faut reconstruire une partie de la façade occidentale. Le chantier reprend, avec des moyens réduits. La tour est reconstruite, mais coiffée d'un simple toit en plomb au lieu de la flèche de pierre prévue initialement.\n\nLe chantier de la cathédrale de Sens, tel que l'a décrit Denis Cailleaux dans sa thèse de 1999, est un miroir de l'histoire économique et politique de la ville. Quand Sens prospère, le chantier avance. Quand la ville décline, il s'arrête. La tour nord, jamais terminée, en est le symbole le plus éloquent.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010113.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010113.jpg"
         },
         {
           "year": 1280,
@@ -1114,7 +1134,8 @@
             "Bernard Brousse, documentation SAS."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "L'histoire de Jean du Cognot est l'une des anecdotes les plus savoureuses de la cathédrale de Sens — et l'une des plus mal connues.\n\nLe 7 décembre 1329, le roi Philippe VI convoque une assemblée de prélats et de seigneurs dans la cathédrale. L'enjeu est sérieux : trancher le conflit entre le pouvoir royal et l'Église sur les droits respectifs de chacun. Le conseiller du roi, Pierre de Cugnières, formule 70 griefs contre les empiétements du clergé sur la justice royale.\n\nL'Église gagne le débat. Le clergé conserve ses privilèges. Pierre de Cugnières — que les chroniqueurs appellent par dérision « Jean du Cognot » (un jeu de mots grivois qui évoque le cocu) — est ridiculisé. Pour marquer leur victoire, les chanoines de Sens auraient fait sculpter, quelque part dans la cathédrale, une tête grimaçante qui représente le malheureux conseiller royal.\n\nCette « tête de Jean du Cognot » est devenue une curiosité locale. Gérard Daguin en a fait le sujet d'une de ses chroniques. Bernard Brousse, historien local, a documenté l'anecdote.\n\nAu-delà du folklore, l'épisode illustre un enjeu fondamental du XIVe siècle : la lutte entre le pouvoir royal et l'Église pour le contrôle de la justice. Philippe VI veut unifier la justice sous l'autorité royale. Le clergé défend ses tribunaux ecclésiastiques, qui jugent les affaires de mariage, d'héritage, de dîme.\n\nCe conflit ne sera tranché qu'à la Révolution, quand la Constitution civile du clergé (1790) supprimera les tribunaux ecclésiastiques.\n\nLa « tête du cocu » est toujours visible quelque part dans la cathédrale — mais son identification exacte fait débat. Cherchez parmi les sculptures des chapiteaux et des modillons : le Moyen Âge adore cacher des messages dans la pierre."
+          "longText": "L'histoire de Jean du Cognot est l'une des anecdotes les plus savoureuses de la cathédrale de Sens — et l'une des plus mal connues.\n\nLe 7 décembre 1329, le roi Philippe VI convoque une assemblée de prélats et de seigneurs dans la cathédrale. L'enjeu est sérieux : trancher le conflit entre le pouvoir royal et l'Église sur les droits respectifs de chacun. Le conseiller du roi, Pierre de Cugnières, formule 70 griefs contre les empiétements du clergé sur la justice royale.\n\nL'Église gagne le débat. Le clergé conserve ses privilèges. Pierre de Cugnières — que les chroniqueurs appellent par dérision « Jean du Cognot » (un jeu de mots grivois qui évoque le cocu) — est ridiculisé. Pour marquer leur victoire, les chanoines de Sens auraient fait sculpter, quelque part dans la cathédrale, une tête grimaçante qui représente le malheureux conseiller royal.\n\nCette « tête de Jean du Cognot » est devenue une curiosité locale. Gérard Daguin en a fait le sujet d'une de ses chroniques. Bernard Brousse, historien local, a documenté l'anecdote.\n\nAu-delà du folklore, l'épisode illustre un enjeu fondamental du XIVe siècle : la lutte entre le pouvoir royal et l'Église pour le contrôle de la justice. Philippe VI veut unifier la justice sous l'autorité royale. Le clergé défend ses tribunaux ecclésiastiques, qui jugent les affaires de mariage, d'héritage, de dîme.\n\nCe conflit ne sera tranché qu'à la Révolution, quand la Constitution civile du clergé (1790) supprimera les tribunaux ecclésiastiques.\n\nLa « tête du cocu » est toujours visible quelque part dans la cathédrale — mais son identification exacte fait débat. Cherchez parmi les sculptures des chapiteaux et des modillons : le Moyen Âge adore cacher des messages dans la pierre.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010114.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010114.jpg"
         },
         {
           "year": 1336,
@@ -1128,7 +1149,8 @@
           "sources": [
             "Bulletin SAS, vol. XV, 1892, p. 82 (fondation Celestins)."
           ],
-          "heritageItemId": "e5555555-0024-0024-0024-000000000024"
+          "heritageItemId": "e5555555-0024-0024-0024-000000000024",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010144.jpg"
         },
         {
           "year": 1345,
@@ -1348,7 +1370,8 @@
           "sources": [
             "Bulletin SAS, vol. XII, 1880, p. 79-92 et 190 (genealogie Cousin, Deligand)."
           ],
-          "heritageItemId": "e5555555-0017-0017-0017-000000000017"
+          "heritageItemId": "e5555555-0017-0017-0017-000000000017",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cath%C3%A9drale_Saint-Etienne_-_Vitrail_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010181.jpg"
         },
         {
           "year": 1510,
@@ -1394,7 +1417,8 @@
             "Daguin, G. 'College Stephane Mallarme, du Couvent au C.E.S.' histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0024-0024-0024-000000000024",
-          "longText": "Une notice de M. Chanoine décrit deux Dolmens à Trancault, non loin de Nogent-sur-Seine (voir ci-après la légende et le dessin. ) Une notice de M. Vignon signale le Menhir ou pierre levée de Diant (voir ci-après la légende et le dessin) et cette même pierre de Diant et les monuments celtiques en général ont donné lieu à un mémoire par M. Prou (voir ci-après). Mais il n'est aucun habitant de Sens et des environs qui n'ait sous les yeux un vestige présumé des temps celtiques, plus apparent que ceux qui viennent d'être rappelés ce sont les mamelons, connus sous le nom de tombelles, qui dominent le coteau de Saint-Martin. Sur la proposition de M. Prou, tendant à y faire des fouilles, la Société a décidé qu'elle se mettrait en rapport avec M. le maire de Saint-Martin-du-Tertre, et M."
+          "longText": "Une notice de M. Chanoine décrit deux Dolmens à Trancault, non loin de Nogent-sur-Seine (voir ci-après la légende et le dessin. ) Une notice de M. Vignon signale le Menhir ou pierre levée de Diant (voir ci-après la légende et le dessin) et cette même pierre de Diant et les monuments celtiques en général ont donné lieu à un mémoire par M. Prou (voir ci-après). Mais il n'est aucun habitant de Sens et des environs qui n'ait sous les yeux un vestige présumé des temps celtiques, plus apparent que ceux qui viennent d'être rappelés ce sont les mamelons, connus sous le nom de tombelles, qui dominent le coteau de Saint-Martin. Sur la proposition de M. Prou, tendant à y faire des fouilles, la Société a décidé qu'elle se mettrait en rapport avec M. le maire de Saint-Martin-du-Tertre, et M.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010183.jpg"
         },
         {
           "year": 1542,
@@ -1520,7 +1544,8 @@
             "SAS."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": null
+          "longText": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010184.jpg"
         },
         {
           "year": 1562,
@@ -1656,7 +1681,8 @@
             "Daguin, G. \"Un lieu discret dans la ville, le Carmel de Sens.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0025-0025-0025-000000000025",
-          "longText": "militaires el hospitaliers de Notre-Dame du Mont-Carmel et de Saint-Lazare de Jérusalem, garde général dudit ordre, expédition si- gnée par du Prat Taxis et légalisée par le maire du quatrième arrondisse- ment de Paris et le préfet de la Seine. Comte de Majwy. (2} Dans son Armoriai historique de l'Yonne, M. Déy donne cos mêmes armes à deux personnages différents: l'un, du Doffand, seigneur de La- lande, d'Ordon et de Dannery l'autre du môme nom, seigneur de Semen- tron et de Fontenoy. Du Deffand, seigneur de Saint-Loup-d'Ordon, Chaumont. sur- Yonne, etc., portait, suivant le même auteur d'azur à une merlette d'or en cmur. G. JULLIOT. la maison du Deffend du Tremblay a pris son nom de la première cependant, il n'y a point de preuve qu'elle l'ait possédée, et il est certain qu'elle a possédé celle de l'Auxerrois."
+          "longText": "militaires el hospitaliers de Notre-Dame du Mont-Carmel et de Saint-Lazare de Jérusalem, garde général dudit ordre, expédition si- gnée par du Prat Taxis et légalisée par le maire du quatrième arrondisse- ment de Paris et le préfet de la Seine. Comte de Majwy. (2} Dans son Armoriai historique de l'Yonne, M. Déy donne cos mêmes armes à deux personnages différents: l'un, du Doffand, seigneur de La- lande, d'Ordon et de Dannery l'autre du môme nom, seigneur de Semen- tron et de Fontenoy. Du Deffand, seigneur de Saint-Loup-d'Ordon, Chaumont. sur- Yonne, etc., portait, suivant le même auteur d'azur à une merlette d'or en cmur. G. JULLIOT. la maison du Deffend du Tremblay a pris son nom de la première cependant, il n'y a point de preuve qu'elle l'ait possédée, et il est certain qu'elle a possédé celle de l'Auxerrois.",
+          "image": "https://archives.yonne.fr/archives/img/ico_visu.gif?1732532265"
         },
         {
           "year": 1622,
@@ -1701,7 +1727,8 @@
             "Daguin, G. \"Les Ursulines à Sens.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0028-0028-0028-000000000028",
-          "longText": null
+          "longText": null,
+          "image": "https://archives.yonne.fr/img/inventaire.png?1733479380"
         },
         {
           "year": 1630,
@@ -1747,7 +1774,8 @@
             "Daguin, G. histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "me, par l'expulsion des Tarquins, fonde sa future grandeur, les Gaulois Sénonais refluent vers le berceau du genre humain et courent au-devant des foyers de civilisation dont les révélations sont destinées à se résumer, à se continuer sur leur propre territoire. Cette grande expédition, en sens inverse des migrations des peuples, n'a plus d'analogue dans l'histoire de l'antiquité jus- qu'aux conquêtes d'Alexandre quel en a été le mobile? nous l'ignorerons toujours. Quelle réaction a-telle produite sur la mère patrie? c'est à l'archéologie qu'il appartient de chercher à résou- dre cette question. Peut-être un examen attentif, une classifica- tion chronologique des monuments de l'ère celtique, mettront-ils sur la trace de quelques améliorations dans les arts, et par suite dans les moeurs d'une nation qui s'était ouvert le monde."
+          "longText": "me, par l'expulsion des Tarquins, fonde sa future grandeur, les Gaulois Sénonais refluent vers le berceau du genre humain et courent au-devant des foyers de civilisation dont les révélations sont destinées à se résumer, à se continuer sur leur propre territoire. Cette grande expédition, en sens inverse des migrations des peuples, n'a plus d'analogue dans l'histoire de l'antiquité jus- qu'aux conquêtes d'Alexandre quel en a été le mobile? nous l'ignorerons toujours. Quelle réaction a-telle produite sur la mère patrie? c'est à l'archéologie qu'il appartient de chercher à résou- dre cette question. Peut-être un examen attentif, une classifica- tion chronologique des monuments de l'ère celtique, mettront-ils sur la trace de quelques améliorations dans les arts, et par suite dans les moeurs d'une nation qui s'était ouvert le monde.",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_01449.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2216722&MTIME=1346436966"
         },
         {
           "year": 1696,
@@ -1797,7 +1825,8 @@
             "Brousse, B. 2024."
           ],
           "heritageItemId": "e5555555-0002-0002-0002-000000000002",
-          "longText": null
+          "longText": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010185.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010185.jpg"
         },
         {
           "year": 1748,
@@ -1812,7 +1841,8 @@
             "Daguin, G. \"Des Lieux et des Hommes, Jacques-Louis David.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "même temps que c'est uniquement par ignorance des lieux et des peu- ples dont ils parlaient, qu'ils ont ainsi compris sous un même nom plusieurs nations différentes. Il n'y a donc à conclure de cette appellation rien, pas même 1 1° Qui ipsorum linguâ Celue, nostrà Galli appellantur. » (Csesar, de Bello Gallico. ) 2° «Aborigènes primos in his regionibus quidam visosesse fir- « marunt Celtas, nomine regis amabilis, et matris ejus vocabulo Galatas dictos, ità enim Gallos sermo Grcecus appellat. (Amm., p. 574). « Gallia est omnis divisa in partes tres, quarum unam incolant Bclgse, aliam Aquitani, tertiam qui ipsorum linguà Celte, nostrâ Galli appellantur. Hii « omnes linguà, institutis, legibus inter se differunt. Gallos ab Aquitanis Ga- « rumna flumen à Belgis Matrona et Sequana dividit."
+          "longText": "même temps que c'est uniquement par ignorance des lieux et des peu- ples dont ils parlaient, qu'ils ont ainsi compris sous un même nom plusieurs nations différentes. Il n'y a donc à conclure de cette appellation rien, pas même 1 1° Qui ipsorum linguâ Celue, nostrà Galli appellantur. » (Csesar, de Bello Gallico. ) 2° «Aborigènes primos in his regionibus quidam visosesse fir- « marunt Celtas, nomine regis amabilis, et matris ejus vocabulo Galatas dictos, ità enim Gallos sermo Grcecus appellat. (Amm., p. 574). « Gallia est omnis divisa in partes tres, quarum unam incolant Bclgse, aliam Aquitani, tertiam qui ipsorum linguà Celte, nostrâ Galli appellantur. Hii « omnes linguà, institutis, legibus inter se differunt. Gallos ab Aquitanis Ga- « rumna flumen à Belgis Matrona et Sequana dividit.",
+          "image": "https://archives.yonne.fr/archives/img/plus_pt.gif?1717664997"
         },
         {
           "year": 1762,
@@ -1858,7 +1888,8 @@
             "CGF, jeton 'La Concorde Orient de Sens.'"
           ],
           "heritageItemId": "e5555555-0063-0063-0063-000000000063",
-          "longText": "ieu nous donna une asse'; abondante pluie pour la premiere fois; on la desiroit esperant quelle fera venir un peu de froid car nous somes come dans un doux prin- temps ce qui ne nous est pas bon par raport a la contagion. J'ay l'honneur d'estre avec bien du respect. Monseigneur, voslre très humble et tres obeissant serviteur, t HENr.Y, ~n. de Marseille. AMaraeiUe,ti:t&'(lecEm.l7':o. ()) A tort ou à raison ce certificat a ~tc ~unnë, le 19 f~~ner ]~0, au P. Ilangeau par le supplément à la Gazette dp IIottandc, qui exultant le zèle, la fermelé et les méritt's de ce religieux, et le comparant ù seS confrères en fdit une rose alllmhcu des épines, un dianiant daDsla bouc. lettre (f<i~f)nse)yt)eMrCtar~d'eFtH<tm!<fe',or<'Aft'~ti<' fi\"~t)'.x.a~onM~<jeM)'7,aByMf'<. AAnicOmayl~t."
+          "longText": "ieu nous donna une asse'; abondante pluie pour la premiere fois; on la desiroit esperant quelle fera venir un peu de froid car nous somes come dans un doux prin- temps ce qui ne nous est pas bon par raport a la contagion. J'ay l'honneur d'estre avec bien du respect. Monseigneur, voslre très humble et tres obeissant serviteur, t HENr.Y, ~n. de Marseille. AMaraeiUe,ti:t&'(lecEm.l7':o. ()) A tort ou à raison ce certificat a ~tc ~unnë, le 19 f~~ner ]~0, au P. Ilangeau par le supplément à la Gazette dp IIottandc, qui exultant le zèle, la fermelé et les méritt's de ce religieux, et le comparant ù seS confrères en fdit une rose alllmhcu des épines, un dianiant daDsla bouc. lettre (f<i~f)nse)yt)eMrCtar~d'eFtH<tm!<fe',or<'Aft'~ti<' fi\"~t)'.x.a~onM~<jeM)'7,aByMf'<. AAnicOmayl~t.",
+          "image": "https://archives.yonne.fr/archives/img/moins_pt.gif?1717664997"
         },
         {
           "year": 1777,
@@ -1874,7 +1905,8 @@
             "Leviste, J. La cathedrale de Sens. 1965."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": null
+          "longText": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010186.jpg"
         },
         {
           "year": 1780,
@@ -1931,7 +1963,8 @@
             "Archives communales de Sens, BB 4, fol. 109-111."
           ],
           "heritageItemId": "e5555555-0012-0012-0012-000000000012",
-          "longText": "jours ordinaires, en avons plusieurs plaintifz et doléances, encores disoient que audict bailliage on souffroit et tolléroit une chose desraisonnable contre lesdictes ordonnances royal- les, que aulcuns desdictz sergens royaulx avec leursdictz of- fices estoient procureurs postulians ordinairement pardcvaut nous qu'ilz disoient estre un abbuz manifeste et dont plusieurs inconvéniens en avenoient et peullent advenir chascun jour, et combien que pareil stille notoire dudict bailliage gardé et observé par cy-devant lesdictz sergens doibvent faire leurs re- lations en parchemin, néantmoins les aulcuns les font en pa- pier qui le plus souvent sont trouées rompues et dessirées ou en la diffinitive des procès et es adjournements, exécutions, intimations, veues et aultres exploietz gist le principal de la cause recours à iceulx, requérant lesdict"
+          "longText": "jours ordinaires, en avons plusieurs plaintifz et doléances, encores disoient que audict bailliage on souffroit et tolléroit une chose desraisonnable contre lesdictes ordonnances royal- les, que aulcuns desdictz sergens royaulx avec leursdictz of- fices estoient procureurs postulians ordinairement pardcvaut nous qu'ilz disoient estre un abbuz manifeste et dont plusieurs inconvéniens en avenoient et peullent advenir chascun jour, et combien que pareil stille notoire dudict bailliage gardé et observé par cy-devant lesdictz sergens doibvent faire leurs re- lations en parchemin, néantmoins les aulcuns les font en pa- pier qui le plus souvent sont trouées rompues et dessirées ou en la diffinitive des procès et es adjournements, exécutions, intimations, veues et aultres exploietz gist le principal de la cause recours à iceulx, requérant lesdict",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_02290.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2324421&MTIME=1346437531"
         },
         {
           "year": 1789,
@@ -1974,7 +2007,8 @@
           "sources": [
             "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Brannay l.10615, Evry l.4279."
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_02849.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1939737&MTIME=1346437821"
         },
         {
           "year": 1789,
@@ -2016,7 +2050,8 @@
           "sources": [
             "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Cerisiers l.12586, Dollot l.16936."
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_03515.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2422688&MTIME=1346438143"
         },
         {
           "year": 1789,
@@ -2058,7 +2093,8 @@
           "sources": [
             "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. La Louptiere l.20392-20401, Malay-le-Vicomte l.5230-5328."
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_03744.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2302760&MTIME=1346438253"
         },
         {
           "year": 1789,
@@ -2100,7 +2136,8 @@
           "sources": [
             "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Foucherolles l.14871-14895."
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04683.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2222128&MTIME=1346439142"
         },
         {
           "year": 1789,
@@ -2142,7 +2179,8 @@
           "sources": [
             "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Subligny l.8964."
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04684.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2277428&MTIME=1346439143"
         },
         {
           "year": 1789,
@@ -2184,7 +2222,8 @@
           "sources": [
             "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Clerge l.54537-54545 (impot), l.54935 (gabelle), l.54714 (dime), l.54460 (fetes)."
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04685.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2541005&MTIME=1346439144"
         },
         {
           "year": 1789,
@@ -2227,7 +2266,8 @@
             "Daguin, G. \"1790, dissolution des ordres religieux.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0024-0024-0024-000000000024",
-          "longText": null
+          "longText": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04686.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2207342&MTIME=1346439144"
         },
         {
           "year": 1790,
@@ -2272,7 +2312,8 @@
             "Delasselle, C. \"L'Yonne pendant la Révolution.\" Archives de l'Yonne."
           ],
           "heritageItemId": null,
-          "longText": "s du Très Haut de toute sorte d'état frap- pés de terreur, chercher leur sûreté dans une honteuse fuite et un nombre prodigieux de saints, de fidèles et infatigables ministres du Seigneur être enlevés du milieu de nous dans le temps que leur zèle et leur eharité héroïque paraissait être plus nécessaire pour le secours et la consolation des pasteurs et pour le troupeau consterne. Marseille cette ville si floris- sante, si superbe, si peuplée il y a peu de mois, cette ville si chérie dont vous aimiez à faire remarquer et admirer aux étrangers les différentes beautés, dont vous vantiez si souvent et avec tant de complaisance la magnificence et la singularité du terroir, cette.ville dont le commerce s'étendait d'un bout de l'univers à l'autre, ou toutes les nations les plus barbares et les plus reculées venaient aborder chaque jour, Marseille"
+          "longText": "s du Très Haut de toute sorte d'état frap- pés de terreur, chercher leur sûreté dans une honteuse fuite et un nombre prodigieux de saints, de fidèles et infatigables ministres du Seigneur être enlevés du milieu de nous dans le temps que leur zèle et leur eharité héroïque paraissait être plus nécessaire pour le secours et la consolation des pasteurs et pour le troupeau consterne. Marseille cette ville si floris- sante, si superbe, si peuplée il y a peu de mois, cette ville si chérie dont vous aimiez à faire remarquer et admirer aux étrangers les différentes beautés, dont vous vantiez si souvent et avec tant de complaisance la magnificence et la singularité du terroir, cette.ville dont le commerce s'étendait d'un bout de l'univers à l'autre, ou toutes les nations les plus barbares et les plus reculées venaient aborder chaque jour, Marseille",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04687.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2293893&MTIME=1346439145"
         },
         {
           "year": 1793,
@@ -2320,7 +2361,8 @@
             "La Gazette du Patrimoine."
           ],
           "heritageItemId": "e5555555-0059-0059-0059-000000000059",
-          "longText": "rres monumentales que l'on extrait des murs de la ville, croit convenable de laisser l'initiative de ces mesures à l'Adminis- tration municipale. En conséquence elle invite M. le Président à écrire à M. le Maire pour lui signaler les inconvénients graves qu'entraîne l'état actuel des choses, et le prier de vouloir bien, d'accord avec le Conseil municipal, prendre les mesures indis- pensables pour que ces inconvénients disparaissent, et pour que des monuments, du plus haut intérêt pour l'histoire et l'archéo- logie Sénonaises, soient scrupuleusement conservés. Cette proposition du Bureau a été adoptée. Il a été convenu toutefois que celle de M. Lallier demeurait réservée pour être examinée plus tard, s'il en était besoin. Les prévisions de la Société ont été justifiées par M."
+          "longText": "rres monumentales que l'on extrait des murs de la ville, croit convenable de laisser l'initiative de ces mesures à l'Adminis- tration municipale. En conséquence elle invite M. le Président à écrire à M. le Maire pour lui signaler les inconvénients graves qu'entraîne l'état actuel des choses, et le prier de vouloir bien, d'accord avec le Conseil municipal, prendre les mesures indis- pensables pour que ces inconvénients disparaissent, et pour que des monuments, du plus haut intérêt pour l'histoire et l'archéo- logie Sénonaises, soient scrupuleusement conservés. Cette proposition du Bureau a été adoptée. Il a été convenu toutefois que celle de M. Lallier demeurait réservée pour être examinée plus tard, s'il en était besoin. Les prévisions de la Société ont été justifiées par M.",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04688.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2142344&MTIME=1346439146"
         },
         {
           "year": 1798,
@@ -2368,7 +2410,8 @@
             "Brousse, B. 2024."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": "188 ). 1 Conférez Batissier, Musée des familles tome 4, p. 313; Magasin pitt., 1839,p.4. 5 Beaulieu, Archéol. de la Lorraine t. 2, p. 188. La pierre droite de Diant, citée ci-après, offre ce caractère, à ce que m'a assuré M. l'abbé Bérault, qui l'a fait déchausser d'un côté. 4 Batissier, ouvrage cité. carrières et de tailler la pierre, avaient été forcément réduits à employer les blocs tels qu'ils les trouvaient. Or nous avons déjà vu, dans Ammien Marcellin, que la légende d'Hercule était gravée sur certains monuments celtiques Batis- sier rapporte qu'Olaüs Magnus a vu en Suède des Menhirs qui portaient sur leurs faces des inscriptions en caractères russi- ques', et il cite en France la pierre écrite de Saulieu, dont un des côtés présente des figures grossièrement dessinées, et le peulvan de Trédion en Basse-Bretagne qui se termi"
+          "longText": "188 ). 1 Conférez Batissier, Musée des familles tome 4, p. 313; Magasin pitt., 1839,p.4. 5 Beaulieu, Archéol. de la Lorraine t. 2, p. 188. La pierre droite de Diant, citée ci-après, offre ce caractère, à ce que m'a assuré M. l'abbé Bérault, qui l'a fait déchausser d'un côté. 4 Batissier, ouvrage cité. carrières et de tailler la pierre, avaient été forcément réduits à employer les blocs tels qu'ils les trouvaient. Or nous avons déjà vu, dans Ammien Marcellin, que la légende d'Hercule était gravée sur certains monuments celtiques Batis- sier rapporte qu'Olaüs Magnus a vu en Suède des Menhirs qui portaient sur leurs faces des inscriptions en caractères russi- ques', et il cite en France la pierre écrite de Saulieu, dont un des côtés présente des figures grossièrement dessinées, et le peulvan de Trédion en Basse-Bretagne qui se termi",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Becket_liturgical_garments_Sens_Cathedral.jpg/500px-Becket_liturgical_garments_Sens_Cathedral.jpg"
         },
         {
           "year": 1814,
@@ -2383,7 +2426,8 @@
             "Daguin, G. \"Le mamelouk Ali, de Napoléon.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "L'empereur Napoléon I\" pensa exactement comme Philippe III, mais il trouva dans son génie et sa puissance un moyen plus efficace pour maltriser l'ardeur des orateurs du gouver- nement, il leur enleva l'initiative des affaires, et tout en leur laissant le titre de maîtres des requêtes, il borna leurs fonc- tions à plaider les causes qui leur seraient renvoyées par l'autorité supérieure. Le serment imposé par le roi Philippe III resta donc sans effets, il fut rangé immédiatement parmi les lettres mortes et les simples formalités; alors comme aujourd'hui les ora- teurs cherchèrent la célébrité dans les rangs de l'opposition et jusqu'à la révolution française ils travaillèrent d'abord à amoindrir la liberté de conscience et les attributions du pou- voir spirituel, ensuite à exalter ]o pouvoir royal au de"
+          "longText": "L'empereur Napoléon I\" pensa exactement comme Philippe III, mais il trouva dans son génie et sa puissance un moyen plus efficace pour maltriser l'ardeur des orateurs du gouver- nement, il leur enleva l'initiative des affaires, et tout en leur laissant le titre de maîtres des requêtes, il borna leurs fonc- tions à plaider les causes qui leur seraient renvoyées par l'autorité supérieure. Le serment imposé par le roi Philippe III resta donc sans effets, il fut rangé immédiatement parmi les lettres mortes et les simples formalités; alors comme aujourd'hui les ora- teurs cherchèrent la célébrité dans les rangs de l'opposition et jusqu'à la révolution française ils travaillèrent d'abord à amoindrir la liberté de conscience et les attributions du pou- voir spirituel, ensuite à exalter ]o pouvoir royal au de",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04689.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2694447&MTIME=1346439146"
         },
         {
           "year": 1814,
@@ -2429,7 +2473,8 @@
             "Daguin, G. \"Le roi ne figure pas dans le bréviaire de l’archevêque…De la.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "orité du roi; 'il défend notamment de réformer le bréviaire, même avec le consentement du chapitre, sans lettres patentes dû- ment enregistrées au parlement. ~Voiia le parlement juge de la prière. par exercer son esprit satirique sur ces abbés et ces prélats de nouvelle sorte, puis il se scandalisa, puis bientôt il s'irrita, puis enfin tous roi, parlements, noblesse et clergé furent en- gloutis dans l'ablme qu'ils s'étaient creusé de leurs propres mains. Inclinons-nous devant ia justice de Dieu. Mais l'Église ne descend dans les ablmes que pour s'y pu- rifier, elle en sort toujours plus vivante on trouvera des na- tions sans rois, d'autres sans parlements, d'autre sans no- blesse, mais un peuple sans religion est aussi introuvable, disait Cicéron, qu'une ville bâtie dans les airs."
+          "longText": "orité du roi; 'il défend notamment de réformer le bréviaire, même avec le consentement du chapitre, sans lettres patentes dû- ment enregistrées au parlement. ~Voiia le parlement juge de la prière. par exercer son esprit satirique sur ces abbés et ces prélats de nouvelle sorte, puis il se scandalisa, puis bientôt il s'irrita, puis enfin tous roi, parlements, noblesse et clergé furent en- gloutis dans l'ablme qu'ils s'étaient creusé de leurs propres mains. Inclinons-nous devant ia justice de Dieu. Mais l'Église ne descend dans les ablmes que pour s'y pu- rifier, elle en sort toujours plus vivante on trouvera des na- tions sans rois, d'autres sans parlements, d'autre sans no- blesse, mais un peuple sans religion est aussi introuvable, disait Cicéron, qu'une ville bâtie dans les airs.",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04690.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2518559&MTIME=1346439147"
         },
         {
           "year": 1839,
@@ -2447,7 +2492,8 @@
             "Brousse, Bernard. « Sens, cité d'art et d'histoire. » Le Charmoiset, 2024."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": null
+          "longText": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010188.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010188.jpg"
         },
         {
           "year": 1842,
@@ -2509,7 +2555,8 @@
             "Daguin, G. \"La longue marche du cheval de fer.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": null
+          "longText": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04691.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1959732&MTIME=1346439147"
         },
         {
           "year": 1849,
@@ -2555,7 +2602,8 @@
             "Daguin, G. \"Le General, la caserne Gemeau.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0048-0048-0048-000000000048",
-          "longText": "La caserne Gemeau raconte a elle seule deux siecles d'histoire militaire francaise. Son nom vient d'Auguste Pierre Walbourg Gemeau (1790-1868), un officier napoleonien qui a combattu a Wagram, en Espagne et en Russie. Apres Waterloo, interdit de sejour a Paris comme beaucoup d'anciens de la Grande Armee, il s'installe a Sens ou il finit ses jours.\n\nLes batiments actuels sont construits en 1874, dans la fievre de rearmement qui suit la defaite de 1870 contre la Prusse. Le 89e Regiment d'Infanterie y tient garnison. C'est un regiment de conscrits -- des jeunes hommes de l'Yonne qui font leur service militaire. En 1914, ils partent pour le front. La plupart ne reviendront pas.\n\nApres 1945, l'armee quitte les lieux. Le ministere de l'Interieur transforme la caserne en centre de formation de la police. En 1946, c'est d'abord un centre de formation des motocyclistes. En 1948, les premiers stages de gardiens de la paix debutent. L'Ecole nationale de police de Sens est nee -- elle forme encore aujourd'hui des gardiens de la paix et des cadets de la Republique.\n\nDe la Grande Armee a la police nationale, en passant par les tranchees de 14-18 : la caserne Gemeau a change de mission a chaque generation, mais sa fonction n'a jamais varie -- former des hommes en uniforme au service de l'Etat."
+          "longText": "La caserne Gemeau raconte a elle seule deux siecles d'histoire militaire francaise. Son nom vient d'Auguste Pierre Walbourg Gemeau (1790-1868), un officier napoleonien qui a combattu a Wagram, en Espagne et en Russie. Apres Waterloo, interdit de sejour a Paris comme beaucoup d'anciens de la Grande Armee, il s'installe a Sens ou il finit ses jours.\n\nLes batiments actuels sont construits en 1874, dans la fievre de rearmement qui suit la defaite de 1870 contre la Prusse. Le 89e Regiment d'Infanterie y tient garnison. C'est un regiment de conscrits -- des jeunes hommes de l'Yonne qui font leur service militaire. En 1914, ils partent pour le front. La plupart ne reviendront pas.\n\nApres 1945, l'armee quitte les lieux. Le ministere de l'Interieur transforme la caserne en centre de formation de la police. En 1946, c'est d'abord un centre de formation des motocyclistes. En 1948, les premiers stages de gardiens de la paix debutent. L'Ecole nationale de police de Sens est nee -- elle forme encore aujourd'hui des gardiens de la paix et des cadets de la Republique.\n\nDe la Grande Armee a la police nationale, en passant par les tranchees de 14-18 : la caserne Gemeau a change de mission a chaque generation, mais sa fonction n'a jamais varie -- former des hommes en uniforme au service de l'Etat.",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04692.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2410191&MTIME=1346439148"
         },
         {
           "year": 1850,
@@ -2601,7 +2649,8 @@
             "Merimee, PA00113883."
           ],
           "heritageItemId": "e5555555-0002-0002-0002-000000000002",
-          "longText": null
+          "longText": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toit_du_Palais_synodal.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toit_du_Palais_synodal.tif.jpg"
         },
         {
           "year": 1860,
@@ -2617,7 +2666,8 @@
             "Wikipedia, College Stephane-Mallarme de Sens."
           ],
           "heritageItemId": "e5555555-0024-0024-0024-000000000024",
-          "longText": "J'en ai moi-même recueilli quelques-uns à fleur de terre, et je'suis convaincu que si des fouilles étaient faites en cet endroit, où la terre recouverte de gazon n'a pas été remuée depuis longtemps, on y ferait d'importantes découvertes. Quoi qu'il en soit, on sait qu'une bataille a été livrée, vers l'an 600, près de Dormelles, à Clotaire II, roi de Soissons, par Théo- debert II, roi d'Austrasie et Thierry II, roi de Bourgogne. En rapprochant du fait certain de cette bataille les circonstances de localité que je viens de rappeler; le nom de la Haie-au-Roi; celui de Villethierry, emprunté à l'un des rois coalisés; les noms de Champ-de-la-Bataille Cornois, Pierre-de-Cornois; enfin la découverte d'ossements humains non loin delà; on peut penser, 1 v."
+          "longText": "J'en ai moi-même recueilli quelques-uns à fleur de terre, et je'suis convaincu que si des fouilles étaient faites en cet endroit, où la terre recouverte de gazon n'a pas été remuée depuis longtemps, on y ferait d'importantes découvertes. Quoi qu'il en soit, on sait qu'une bataille a été livrée, vers l'an 600, près de Dormelles, à Clotaire II, roi de Soissons, par Théo- debert II, roi d'Austrasie et Thierry II, roi de Bourgogne. En rapprochant du fait certain de cette bataille les circonstances de localité que je viens de rappeler; le nom de la Haie-au-Roi; celui de Villethierry, emprunté à l'un des rois coalisés; les noms de Champ-de-la-Bataille Cornois, Pierre-de-Cornois; enfin la découverte d'ossements humains non loin delà; on peut penser, 1 v.",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04693.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2479316&MTIME=1346439149"
         },
         {
           "year": 1860,
@@ -2663,7 +2713,8 @@
             "Daguin, G. \"Ils sont morts pour la France... Campagne de 1870, de Tunisi.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0016-0016-0016-000000000016",
-          "longText": "D'autrefois les squelettes ou les cendres des morts, ren- fermées dans des urnes funéraires, sont placés dans des cham- bres sépulcrales construites sur le plan des dolmens. Un tumulus recouvre ou une seule de ces chambres, dans laquelle un ou plu- sieurs corps sont assis, couchés ou même debout, la tête resserée entre deux pierres, ou bien plusieurs chambres communiquant entre elles par des corridors. On trouve souvent dans ces tumuli des torques, et tous les autres objets que renferment les sépultures de toute espèce. M. Mérimée a fait connaître un Gal-Gal situé dans une îlé du Morbihan, et dont la chambre sépulcrale est formée par une sorte de dolmen dont les parois sont couvertes de figures étranges en creux et en relief."
+          "longText": "D'autrefois les squelettes ou les cendres des morts, ren- fermées dans des urnes funéraires, sont placés dans des cham- bres sépulcrales construites sur le plan des dolmens. Un tumulus recouvre ou une seule de ces chambres, dans laquelle un ou plu- sieurs corps sont assis, couchés ou même debout, la tête resserée entre deux pierres, ou bien plusieurs chambres communiquant entre elles par des corridors. On trouve souvent dans ces tumuli des torques, et tous les autres objets que renferment les sépultures de toute espèce. M. Mérimée a fait connaître un Gal-Gal situé dans une îlé du Morbihan, et dont la chambre sépulcrale est formée par une sorte de dolmen dont les parois sont couvertes de figures étranges en creux et en relief.",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04694.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2113233&MTIME=1346439149"
         },
         {
           "year": 1870,
@@ -2709,7 +2760,8 @@
             "Mérimée, PA00113881."
           ],
           "heritageItemId": "e5555555-0004-0004-0004-000000000004",
-          "longText": "vieux édifices et de publier modestement leurs découvertes, dus- sent-ils laisser à de plus habiles, le soin d'en déduire les consé- quences. Telle est la pensée principale qui a présidé à la création de la Société archéologique de Sens. De tous les peuples réputés barbares, les Gaulois Sénonais ap- paraissent activement les premiers sur la scène du monde. Dans le siècle même oit tout l'Orient s'agite et recueille ses forces comme pour s'apprêter à répandre ses flots de lumière jusqu'aux confins de l'Occident, où Jérusalem renaît, où les Perses impor- tent sur les rives de l'Hellespont, la culture intellectuelle de la haute Asie, où Pisistrate ouvre aux Athéniens la carrière de la poésie et des beaux arts, dans laquelle ils doiventjeter un incom- parable éclat, où une colonie de Phocéens s'établit auxBouches- du-Rhône, où Rome, par l'exp"
+          "longText": "vieux édifices et de publier modestement leurs découvertes, dus- sent-ils laisser à de plus habiles, le soin d'en déduire les consé- quences. Telle est la pensée principale qui a présidé à la création de la Société archéologique de Sens. De tous les peuples réputés barbares, les Gaulois Sénonais ap- paraissent activement les premiers sur la scène du monde. Dans le siècle même oit tout l'Orient s'agite et recueille ses forces comme pour s'apprêter à répandre ses flots de lumière jusqu'aux confins de l'Occident, où Jérusalem renaît, où les Perses impor- tent sur les rives de l'Hellespont, la culture intellectuelle de la haute Asie, où Pisistrate ouvre aux Athéniens la carrière de la poésie et des beaux arts, dans laquelle ils doiventjeter un incom- parable éclat, où une colonie de Phocéens s'établit auxBouches- du-Rhône, où Rome, par l'exp",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04695.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=3262515&MTIME=1346439150"
         },
         {
           "year": 1882,
@@ -2753,7 +2805,8 @@
             "Reportage photos Rose Diers. reportagephotosrosediers.jimdofree.com."
           ],
           "heritageItemId": "e5555555-0053-0053-0053-000000000053",
-          "longText": null
+          "longText": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04696.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2328004&MTIME=1346439151"
         },
         {
           "year": 1890,
@@ -2801,7 +2854,8 @@
             "Bourgogne Tourisme, Sens."
           ],
           "heritageItemId": "e5555555-0004-0004-0004-000000000004",
-          "longText": "L'histoire de la fromagerie Lincet commence a la fin du XIXe siecle dans le Senonais. La famille Lincet, installee dans la region, commence a affiner des fromages a pate molle et croute fleurie -- le Chaource et ce qui deviendra le Brillat-Savarin.\n\nLe Brillat-Savarin est un fromage triple-creme (75% de matiere grasse) cree dans les annees 1890. Mais c'est dans le Senonais que sa production industrielle se developpe, grace au lait abondant des fermes de la Champagne humide et de la vallee de l'Yonne.\n\nLa fromagerie Lincet est devenue le premier producteur mondial de Brillat-Savarin. C'est une success-story industrielle locale qui a traverse le XXe siecle. Le Chaource, quant a lui, est un fromage AOC depuis 1970, puis AOP au niveau europeen.\n\nCe qui est interessant, c'est le lien entre la disparition du vignoble (phylloxera des annees 1890) et l'essor de la fromagerie. Quand les vignes meurent, les terres sont converties en paturages. Plus de vaches = plus de lait = plus de fromage. Le malheur viticole nourrit le succes fromager. C'est un exemple de reconversion economique rurale -- pas planifiee, pas decidee par un ministre, mais emergente, portee par des familles qui s'adaptent."
+          "longText": "L'histoire de la fromagerie Lincet commence a la fin du XIXe siecle dans le Senonais. La famille Lincet, installee dans la region, commence a affiner des fromages a pate molle et croute fleurie -- le Chaource et ce qui deviendra le Brillat-Savarin.\n\nLe Brillat-Savarin est un fromage triple-creme (75% de matiere grasse) cree dans les annees 1890. Mais c'est dans le Senonais que sa production industrielle se developpe, grace au lait abondant des fermes de la Champagne humide et de la vallee de l'Yonne.\n\nLa fromagerie Lincet est devenue le premier producteur mondial de Brillat-Savarin. C'est une success-story industrielle locale qui a traverse le XXe siecle. Le Chaource, quant a lui, est un fromage AOC depuis 1970, puis AOP au niveau europeen.\n\nCe qui est interessant, c'est le lien entre la disparition du vignoble (phylloxera des annees 1890) et l'essor de la fromagerie. Quand les vignes meurent, les terres sont converties en paturages. Plus de vaches = plus de lait = plus de fromage. Le malheur viticole nourrit le succes fromager. C'est un exemple de reconversion economique rurale -- pas planifiee, pas decidee par un ministre, mais emergente, portee par des familles qui s'adaptent.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Becket_liturgical_garments_Sens_Cathedral.jpg/500px-Becket_liturgical_garments_Sens_Cathedral.jpg"
         },
         {
           "year": 1900,
@@ -2816,7 +2870,8 @@
             "Daguin, G. \"Des Lieux et des Hommes, l'Hôtel de Paris et de la Poste.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "même temps que c'est uniquement par ignorance des lieux et des peu- ples dont ils parlaient, qu'ils ont ainsi compris sous un même nom plusieurs nations différentes. Il n'y a donc à conclure de cette appellation rien, pas même 1 1° Qui ipsorum linguâ Celue, nostrà Galli appellantur. » (Csesar, de Bello Gallico. ) 2° «Aborigènes primos in his regionibus quidam visosesse fir- « marunt Celtas, nomine regis amabilis, et matris ejus vocabulo Galatas dictos, ità enim Gallos sermo Grcecus appellat. (Amm., p. 574). « Gallia est omnis divisa in partes tres, quarum unam incolant Bclgse, aliam Aquitani, tertiam qui ipsorum linguà Celte, nostrâ Galli appellantur. Hii « omnes linguà, institutis, legibus inter se differunt. Gallos ab Aquitanis Ga- « rumna flumen à Belgis Matrona et Sequana dividit."
+          "longText": "même temps que c'est uniquement par ignorance des lieux et des peu- ples dont ils parlaient, qu'ils ont ainsi compris sous un même nom plusieurs nations différentes. Il n'y a donc à conclure de cette appellation rien, pas même 1 1° Qui ipsorum linguâ Celue, nostrà Galli appellantur. » (Csesar, de Bello Gallico. ) 2° «Aborigènes primos in his regionibus quidam visosesse fir- « marunt Celtas, nomine regis amabilis, et matris ejus vocabulo Galatas dictos, ità enim Gallos sermo Grcecus appellat. (Amm., p. 574). « Gallia est omnis divisa in partes tres, quarum unam incolant Bclgse, aliam Aquitani, tertiam qui ipsorum linguà Celte, nostrâ Galli appellantur. Hii « omnes linguà, institutis, legibus inter se differunt. Gallos ab Aquitanis Ga- « rumna flumen à Belgis Matrona et Sequana dividit.",
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04697.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2327789&MTIME=1346439151"
         },
         {
           "year": 1901,
@@ -2831,7 +2886,8 @@
             "Daguin, G. \"Chimères, mascarons, stuc et staff….\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "Au tournant du XXe siecle, un mouvement artistique nouveau envahit les facades des villes francaises : l'Art Nouveau. A Sens, le plus bel exemple est l'immeuble du 2 boulevard de Maupeou, construit entre 1907 et 1909.\n\nL'architecte Richardot -- le meme qui construira l'Hotel de Ville -- concoit un immeuble de rapport dont la facade est un manifeste esthetique. Bas-reliefs floraux, balustrades en fer forge ouvrage, grandes baies vitrees, courbes et contre-courbes -- c'est du pur Art Nouveau.\n\nLe sculpteur Delassasseigne realise les decors. L'entrepreneur Coydon utilise une technique alors moderne : la pierre armee (pierre renforcee par du metal), qui permet des porte-a-faux et des decorations impossibles en maconnerie traditionnelle.\n\nL'immeuble est inscrit aux monuments historiques en 2013. C'est le seul immeuble Art Nouveau protege a Sens.\n\nCe qui est remarquable, c'est que cet immeuble existe dans une ville de 25 000 habitants en 1900. Sens n'est ni Paris, ni Nancy, ni Bruxelles -- les capitales reconnues de l'Art Nouveau. Un bourgeois senonais qui fait construire en 1907 veut les memes chimeres et mascarons que les Parisiens. Et il les obtient."
+          "longText": "Au tournant du XXe siecle, un mouvement artistique nouveau envahit les facades des villes francaises : l'Art Nouveau. A Sens, le plus bel exemple est l'immeuble du 2 boulevard de Maupeou, construit entre 1907 et 1909.\n\nL'architecte Richardot -- le meme qui construira l'Hotel de Ville -- concoit un immeuble de rapport dont la facade est un manifeste esthetique. Bas-reliefs floraux, balustrades en fer forge ouvrage, grandes baies vitrees, courbes et contre-courbes -- c'est du pur Art Nouveau.\n\nLe sculpteur Delassasseigne realise les decors. L'entrepreneur Coydon utilise une technique alors moderne : la pierre armee (pierre renforcee par du metal), qui permet des porte-a-faux et des decorations impossibles en maconnerie traditionnelle.\n\nL'immeuble est inscrit aux monuments historiques en 2013. C'est le seul immeuble Art Nouveau protege a Sens.\n\nCe qui est remarquable, c'est que cet immeuble existe dans une ville de 25 000 habitants en 1900. Sens n'est ni Paris, ni Nancy, ni Bruxelles -- les capitales reconnues de l'Art Nouveau. Un bourgeois senonais qui fait construire en 1907 veut les memes chimeres et mascarons que les Parisiens. Et il les obtient.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010191.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010191.jpg"
         },
         {
           "year": 1902,
@@ -2876,7 +2932,8 @@
             "Daguin, G. \"Vers la séparation de l'Eglise et de l'Etat, les conséquence.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "t, ch. le'. La Seine faisait la séparation entre les Celtes et les Belges Liv. n, ch. 4. Les Bellovaques étaient un des peuples les plus puissants des Belges ils habitaient donc sur la droite de la Seine. Dans aucune carte des Gaules je n'ai vu les Bellovaques sur la gauche, et d'Anville place même, entre eux et la Seine, un peuple intermédiaire, les Véliocasses. Si les Bellovaques étaient sur la droite, Labiénus y était aussi Camulogène était sur la gauche, alteram tenebat, la rivière entre deux, et alors Agendicum doit être Sens et non Provins. 5° Enfin, Labiénus vainqueur revient à Agendicum avant d'al- ler rejoindre César, qui de son côté avait passé la Loire pour opérer sa jonction avec Labiénus. En supposant Labiénus sur la gauche, il s'éloignait de César en retournant à Agendicum."
+          "longText": "t, ch. le'. La Seine faisait la séparation entre les Celtes et les Belges Liv. n, ch. 4. Les Bellovaques étaient un des peuples les plus puissants des Belges ils habitaient donc sur la droite de la Seine. Dans aucune carte des Gaules je n'ai vu les Bellovaques sur la gauche, et d'Anville place même, entre eux et la Seine, un peuple intermédiaire, les Véliocasses. Si les Bellovaques étaient sur la droite, Labiénus y était aussi Camulogène était sur la gauche, alteram tenebat, la rivière entre deux, et alors Agendicum doit être Sens et non Provins. 5° Enfin, Labiénus vainqueur revient à Agendicum avant d'al- ler rejoindre César, qui de son côté avait passé la Loire pour opérer sa jonction avec Labiénus. En supposant Labiénus sur la gauche, il s'éloignait de César en retournant à Agendicum.",
+          "image": "https://archives.yonne.fr/archives/img/loader.gif?1717664997"
         },
         {
           "year": 1905,
@@ -2891,7 +2948,8 @@
             "Daguin, G. \"Et la flèche laïque s’éleva vers les cieux…..\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "Ils viennent, ils viennent quelle haie de lances 1 comme les bannières aux diverses couleurs flottent au milieu 1 Quels éclairs jaillissent des armes Combien sont-ils?Enfant, compte les bien. Un, deux, trois, quatre, cinq, six. sept, huit, neuf, dix, onze, douze, treize, quatorze, quinze, seize, dix-sept, dix-huit, dix-neuf, vingt. Vingt et des milliers d'autres en- core, on perdrait son temps à les compter. Unissons nos bras nerveux, déracinons ces rochers, lançons les du haut des montagnes jusque sur leurs têtes; écrasons- les, tuons-les tous. (1) Escaldunacs est le nom que se donnent les Basques dans leur langue. Etcheco-laona, le maitre de la maison, le seigiaeur laona, signifie monsieur. Etchs veut dire maison. Eco est la marque de possession. DU PETIT HOTEL-DIEU DE SENS."
+          "longText": "Ils viennent, ils viennent quelle haie de lances 1 comme les bannières aux diverses couleurs flottent au milieu 1 Quels éclairs jaillissent des armes Combien sont-ils?Enfant, compte les bien. Un, deux, trois, quatre, cinq, six. sept, huit, neuf, dix, onze, douze, treize, quatorze, quinze, seize, dix-sept, dix-huit, dix-neuf, vingt. Vingt et des milliers d'autres en- core, on perdrait son temps à les compter. Unissons nos bras nerveux, déracinons ces rochers, lançons les du haut des montagnes jusque sur leurs têtes; écrasons- les, tuons-les tous. (1) Escaldunacs est le nom que se donnent les Basques dans leur langue. Etcheco-laona, le maitre de la maison, le seigiaeur laona, signifie monsieur. Etchs veut dire maison. Eco est la marque de possession. DU PETIT HOTEL-DIEU DE SENS.",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010192.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010192.jpg"
         },
         {
           "year": 1905,
@@ -2907,7 +2965,8 @@
             "Daguin, G. \"Vers la separation de l'Eglise et de l'Etat.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0013-0013-0013-000000000013",
-          "longText": null
+          "longText": null,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010193.jpg"
         },
         {
           "year": 1910,
@@ -2965,7 +3024,8 @@
             "Patrimoine du Morvan."
           ],
           "heritageItemId": null,
-          "longText": null
+          "longText": null,
+          "image": "https://archives.yonne.fr/img/loader.gif?1717664997"
         },
         {
           "year": 1925,
@@ -3010,7 +3070,8 @@
             "Daguin, G. \"Malheur aux vaincus !.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": null
+          "longText": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04698.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2193797&MTIME=1346439152"
         },
         {
           "year": 1939,
@@ -3055,7 +3116,8 @@
             "Daguin, G. \"Des milliers de prisonniers de guerre.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": null
+          "longText": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05440.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2120095&MTIME=1346439500"
         },
         {
           "year": 1939,
@@ -3100,7 +3162,8 @@
             "Daguin, G. \"Sens, la matinée du 15 Juin  1940.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": null
+          "longText": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05616.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1975599&MTIME=1346439577"
         },
         {
           "year": 1940,
@@ -3145,7 +3208,8 @@
             "Daguin, G. \"15 juin 1940, les combats pour les ponts de Sens.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": null
+          "longText": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05617.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2237734&MTIME=1346439578"
         },
         {
           "year": 1943,
@@ -3190,7 +3254,8 @@
             "Maitron, Sens 21 aout 1944.",
             "Daguin, G. 'La Liberation de Sens.'"
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05618.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2250689&MTIME=1346439578"
         },
         {
           "year": 1960,
@@ -3234,7 +3299,8 @@
             "Wikipedia, Autoroute A5 (France).",
             "Wikipedia, Autoroute A19 (France)."
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05619.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2262681&MTIME=1346439579"
         },
         {
           "year": 2017,
@@ -3281,7 +3347,8 @@
           "sources": [
             "Ville de Sens, 'Transformation des promenades.'"
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05620.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2556394&MTIME=1346439579"
         }
       ]
     }
