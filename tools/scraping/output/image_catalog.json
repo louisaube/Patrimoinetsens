@@ -1,0 +1,3986 @@
+{
+  "generated": "2026-04-08T15:54:13",
+  "totalImages": 237,
+  "sources": {
+    "commons": 79,
+    "gallica": 90,
+    "archives_yonne": 68
+  },
+  "images": [
+    {
+      "id": "commons_10f7c1edee40",
+      "source": "commons",
+      "title": "Arcature.cathedrale.Sens.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Arcature.cathedrale.Sens.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/10/Arcature.cathedrale.Sens.png",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 365,
+      "height": 614,
+      "mime": "image/png",
+      "description": ""
+    },
+    {
+      "id": "commons_de78cfb43a51",
+      "source": "commons",
+      "title": "Archevêché (ancien) - Jardin - Ancienne grille provenant du choeur - Sens - Médiathèque de l'architecture et du patrimoine - APMH00004333.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Archev%C3%AAch%C3%A9_%28ancien%29_-_Jardin_-_Ancienne_grille_provenant_du_choeur_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00004333.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/27/Archev%C3%AAch%C3%A9_%28ancien%29_-_Jardin_-_Ancienne_grille_provenant_du_choeur_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00004333.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 371,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": "Jardin : Ancienne grille provenant du chœur."
+    },
+    {
+      "id": "commons_b6bc6c434289",
+      "source": "commons",
+      "title": "Archevêché (ancien) - Porte - Sens - Médiathèque de l'architecture et du patrimoine - APMH00004282.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Archev%C3%AAch%C3%A9_%28ancien%29_-_Porte_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00004282.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Archev%C3%AAch%C3%A9_%28ancien%29_-_Porte_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00004282.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "porte",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 425,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": "Porte."
+    },
+    {
+      "id": "commons_9490ae78eaff",
+      "source": "commons",
+      "title": "Bague.colonne.cathedrale.Sens.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bague.colonne.cathedrale.Sens.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bague.colonne.cathedrale.Sens.png",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 378,
+      "height": 270,
+      "mime": "image/png",
+      "description": ""
+    },
+    {
+      "id": "commons_7505e24320a9",
+      "source": "commons",
+      "title": "Becket liturgical garments Sens Cathedral.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Becket_liturgical_garments_Sens_Cathedral.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Becket_liturgical_garments_Sens_Cathedral.jpg/500px-Becket_liturgical_garments_Sens_Cathedral.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 1533,
+      "height": 2052,
+      "mime": "image/jpeg",
+      "description": "Chasuble and other liturgical garments of Thomas Becket, from his exile in Sens. (12th century), now in the Sens Museum Cathedral Treasury"
+    },
+    {
+      "id": "commons_38207a1c5e4f",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Archevêché - Sens - Médiathèque de l'architecture et du patrimoine - APMH00014399.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cath%C3%A9drale_Saint-Etienne_-_Archev%C3%AAch%C3%A9_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00014399.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cath%C3%A9drale_Saint-Etienne_-_Archev%C3%AAch%C3%A9_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00014399.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 370,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": "Archevêché."
+    },
+    {
+      "id": "commons_b3603d185af9",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010096.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010096.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010096.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 495,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_788e0f182a01",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010097.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010097.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010097.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 358,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_91248e86c05d",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010098.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010098.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010098.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010098.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 706,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_5ddbde927df5",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010099.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010099.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010099.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010099.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 705,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_183f1a5b849c",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010100.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010100.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010100.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010100.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 705,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_6845a71e503b",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010101.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010101.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010101.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 370,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_246d1b7d51a3",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010102.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010102.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010102.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 371,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_1f950319ffa1",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010103.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010103.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/de/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010103.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 419,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_11ba1137df5e",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010104.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010104.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010104.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 372,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_c950a0626dbc",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010105.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010105.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010105.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 370,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_f26296a6e07f",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010106.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010106.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/49/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010106.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 413,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_a0f3cce1a3c0",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010107.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010107.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010107.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 435,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_c2d762435c9a",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010109.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010109.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010109.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 442,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_680c12c11de2",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010110.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010110.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010110.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010110.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 705,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_a9d2e94d073d",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010111.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010111.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010111.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010111.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 567,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_564cb4edc1bb",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010112.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010112.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010112.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010112.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 705,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_4474d6eba6af",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010113.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010113.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010113.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010113.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 707,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_0a4eb5e4ecc5",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010114.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010114.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010114.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010114.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 714,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_fc3126011128",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010144.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010144.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010144.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 403,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_e058310b2839",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010170.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010170.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010170.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 299,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_828eb2eb8ea9",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010183.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010183.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010183.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 363,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_5ad48cb7fac7",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010184.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010184.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010184.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 370,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_78317ddd6ce9",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010185.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010185.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010185.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010185.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 710,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_33d3d95cbe43",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010186.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010186.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/74/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010186.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 369,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_ca0f1fdd920e",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010187.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010187.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010187.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 370,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_11b3cb7fde04",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010188.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010188.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010188.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010188.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 710,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_b4ff53be9900",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010189.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010189.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010189.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 353,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_f814e74d1666",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010190.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010190.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010190.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 334,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_bfaab3877ac4",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010191.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010191.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010191.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010191.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 702,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_4e98bafbadf1",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010192.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010192.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010192.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010192.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 674,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_f5db0b0945e4",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010193.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010193.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010193.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 361,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_55bef3cb6bce",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Arcs-boutants sud.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Arcs-boutants_sud.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Arcs-boutants_sud.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Arcs-boutants_sud.tif.jpg",
+      "license": "CC0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 4260,
+      "height": 2840,
+      "mime": "image/tiff",
+      "description": "Cathédrale Saint Etienne de Sens - Arcs-boutants sud"
+    },
+    {
+      "id": "commons_d330e4439731",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Cour sud.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Cour_sud.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Cour_sud.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Cour_sud.tif.jpg",
+      "license": "CC0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 4110,
+      "height": 2740,
+      "mime": "image/tiff",
+      "description": "Cathédrale Saint Etienne de Sens - vue du transept Sud"
+    },
+    {
+      "id": "commons_0aa8c1a6575c",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Cour sud b.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Cour_sud_b.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Cour_sud_b.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Cour_sud_b.tif.jpg",
+      "license": "CC BY 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 2652,
+      "height": 4290,
+      "mime": "image/tiff",
+      "description": "Cathédrale Saint Etienne de Sens - Cour sud"
+    },
+    {
+      "id": "commons_2275cfe545b2",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Hotel de ville.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Hotel_de_ville.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Hotel_de_ville.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Hotel_de_ville.tif.jpg",
+      "license": "CC0",
+      "tags": [
+        "cathedrale",
+        "hotel-de-ville",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 2685,
+      "height": 4366,
+      "mime": "image/tiff",
+      "description": "Hôtel de ville de Sens. Vue de de la tour sud de la cathédrale"
+    },
+    {
+      "id": "commons_9ea2d2878b3b",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Ouest.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Ouest.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Ouest.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Ouest.tif.jpg",
+      "license": "CC0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 4550,
+      "height": 2816,
+      "mime": "image/tiff",
+      "description": "Vue de la tour sud"
+    },
+    {
+      "id": "commons_64a2fbc27e02",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Portail de la cour nord.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Portail_de_la_cour_nord.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Portail_de_la_cour_nord.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Portail_de_la_cour_nord.tif.jpg",
+      "license": "CC0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 2265,
+      "height": 4027,
+      "mime": "image/tiff",
+      "description": "Cathédrale Saint Etienne de Sens - Portail de la cour nord. Seul portail"
+    },
+    {
+      "id": "commons_99d43712c1a5",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Portail de la cour nord b.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Portail_de_la_cour_nord_b.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Portail_de_la_cour_nord_b.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Portail_de_la_cour_nord_b.tif.jpg",
+      "license": "CC0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 3264,
+      "height": 4912,
+      "mime": "image/tiff",
+      "description": "Cathédrale Saint Etienne de Sens - Portail de la cour nord b"
+    },
+    {
+      "id": "commons_3729bda71c8f",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Première chapelle de la tour sud.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Premi%C3%A8re_chapelle_de_la_tour_sud.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Premi%C3%A8re_chapelle_de_la_tour_sud.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Premi%C3%A8re_chapelle_de_la_tour_sud.tif.jpg",
+      "license": "CC0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 3756,
+      "height": 2256,
+      "mime": "image/tiff",
+      "description": "Cathédrale Saint Etienne de Sens - Première chapelle de la tour sud"
+    },
+    {
+      "id": "commons_05cca0a743dd",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Toit du Palais synodal.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toit_du_Palais_synodal.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toit_du_Palais_synodal.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toit_du_Palais_synodal.tif.jpg",
+      "license": "CC0",
+      "tags": [
+        "cathedrale",
+        "palais-synodal",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 4344,
+      "height": 2664,
+      "mime": "image/tiff",
+      "description": "Toit du Palais Synodal de Sens - Vue de la cathédrale"
+    },
+    {
+      "id": "commons_eaa25466eb78",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Toit du Palais synodal b.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toit_du_Palais_synodal_b.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toit_du_Palais_synodal_b.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toit_du_Palais_synodal_b.tif.jpg",
+      "license": "CC0",
+      "tags": [
+        "cathedrale",
+        "palais-synodal",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 4523,
+      "height": 2776,
+      "mime": "image/tiff",
+      "description": "Vue de la tour sud de la cathédrale"
+    },
+    {
+      "id": "commons_99a67230075d",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Toiture Nord.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toiture_Nord.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toiture_Nord.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toiture_Nord.tif.jpg",
+      "license": "CC0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 4548,
+      "height": 2894,
+      "mime": "image/tiff",
+      "description": "Toiture Nord"
+    },
+    {
+      "id": "commons_d7577d87feb1",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Toitures.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toitures.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toitures.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Toitures.tif.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 3894,
+      "height": 2684,
+      "mime": "image/tiff",
+      "description": "Cathédrale Saint Etienne de Sens - vue des toitures"
+    },
+    {
+      "id": "commons_c2da05612453",
+      "source": "commons",
+      "title": "Cathédrale Saint Etienne de Sens - Tour sud.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Tour_sud.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Tour_sud.tif/lossy-page1-500px-Cath%C3%A9drale_Saint_Etienne_de_Sens_-_Tour_sud.tif.jpg",
+      "license": "CC BY 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 4272,
+      "height": 2848,
+      "mime": "image/tiff",
+      "description": "Cathédrale Saint Etienne de Sens - Tour sud"
+    },
+    {
+      "id": "commons_7769b6204b9c",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010194.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010194.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/12/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010194.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 334,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_e9c1012da955",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010195.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010195.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010195.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010195.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 768,
+      "height": 497,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_c94ce8c37923",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010196.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010196.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010196.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 372,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_89ac1db69834",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010197.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010197.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/93/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010197.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 363,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_b51377ea049a",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010199.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010199.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010199.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 387,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_c7159769ffeb",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010200.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010200.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010200.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010200.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 713,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_49424a3e152e",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00019209.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00019209.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/18/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00019209.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 240,
+      "height": 600,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_a982464f07ed",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Transept nord - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010089.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cath%C3%A9drale_Saint-Etienne_-_Transept_nord_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010089.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cath%C3%A9drale_Saint-Etienne_-_Transept_nord_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010089.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 374,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": "Transept nord."
+    },
+    {
+      "id": "commons_76755d5d8a3b",
+      "source": "commons",
+      "title": "Cathédrale Saint-Etienne - Vitrail - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010181.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cath%C3%A9drale_Saint-Etienne_-_Vitrail_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010181.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Cath%C3%A9drale_Saint-Etienne_-_Vitrail_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010181.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 342,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": "Vitrail."
+    },
+    {
+      "id": "commons_3125abb7a219",
+      "source": "commons",
+      "title": "Chapiteau.cathedrale.Saint.Etienne.Sens.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Chapiteau.cathedrale.Saint.Etienne.Sens.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Chapiteau.cathedrale.Saint.Etienne.Sens.png/500px-Chapiteau.cathedrale.Saint.Etienne.Sens.png",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 534,
+      "height": 480,
+      "mime": "image/png",
+      "description": ""
+    },
+    {
+      "id": "commons_c0e711035bcc",
+      "source": "commons",
+      "title": "Chasuble de Thomas de cantorbéry cathédrale de Sens 03412.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Chasuble_de_Thomas_de_cantorb%C3%A9ry_cath%C3%A9drale_de_Sens_03412.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Chasuble_de_Thomas_de_cantorb%C3%A9ry_cath%C3%A9drale_de_Sens_03412.jpg/500px-Chasuble_de_Thomas_de_cantorb%C3%A9ry_cath%C3%A9drale_de_Sens_03412.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 2392,
+      "height": 2629,
+      "mime": "image/jpeg",
+      "description": "présenté dans le livre de Gaussen."
+    },
+    {
+      "id": "commons_3a430088555d",
+      "source": "commons",
+      "title": "Ciboire cathédrale de Sens 03373.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Ciboire_cath%C3%A9drale_de_Sens_03373.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ciboire_cath%C3%A9drale_de_Sens_03373.jpg/500px-Ciboire_cath%C3%A9drale_de_Sens_03373.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 1705,
+      "height": 2667,
+      "mime": "image/jpeg",
+      "description": "présenté dans le livre de Gaussen."
+    },
+    {
+      "id": "commons_1f3c9b88f994",
+      "source": "commons",
+      "title": "De Paris a la Mediterranee 1 1874 (145834853).jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/De_Paris_a_la_Mediterranee_1_1874_%28145834853%29.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/De_Paris_a_la_Mediterranee_1_1874_%28145834853%29.jpg/500px-De_Paris_a_la_Mediterranee_1_1874_%28145834853%29.jpg",
+      "license": "Public domain",
+      "tags": [],
+      "relatedHeritageItemId": null,
+      "width": 2258,
+      "height": 3037,
+      "mime": "image/jpeg",
+      "description": "Adres wydawniczy: Paris : L. Hachette, 1874Współtwórcy: Ferrand, Jules (1817-1894) AutorOpis fizyczny: [4], VI, [2], 424 strony, [4] karty tablic, [2] karty tablic złożone : ilustracje, mapy ; 20 cm"
+    },
+    {
+      "id": "commons_546ffb27bb3b",
+      "source": "commons",
+      "title": "Détail de la cathédrale de Sens.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/D%C3%A9tail_de_la_cath%C3%A9drale_de_Sens.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/D%C3%A9tail_de_la_cath%C3%A9drale_de_Sens.jpg/500px-D%C3%A9tail_de_la_cath%C3%A9drale_de_Sens.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 1080,
+      "height": 1920,
+      "mime": "image/jpeg",
+      "description": "This building is indexed in the base Mérimée, a database of architectural heritage maintained by the French Ministry of Culture, under the reference PA00113853 .\n\nbrezhoneg ∙ català ∙ Deutsch ∙ English ∙ español ∙ Esperanto ∙ euskara ∙ français ∙ italiano ∙ magyar ∙ Nederlands ∙ português do Brasil "
+    },
+    {
+      "id": "commons_a7ddc25d64f1",
+      "source": "commons",
+      "title": "Eglise Saint-Savinien - Choeur - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010087.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Eglise_Saint-Savinien_-_Choeur_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010087.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eglise_Saint-Savinien_-_Choeur_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010087.jpg/500px-Eglise_Saint-Savinien_-_Choeur_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010087.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 709,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": "Choeur."
+    },
+    {
+      "id": "commons_a227977010b0",
+      "source": "commons",
+      "title": "Eglise Saint-Savinien - Façade ouest - Sens - Médiathèque de l'architecture et du patrimoine - APMH00031771.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Eglise_Saint-Savinien_-_Fa%C3%A7ade_ouest_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00031771.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Eglise_Saint-Savinien_-_Fa%C3%A7ade_ouest_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00031771.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 389,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": "Façade ouest."
+    },
+    {
+      "id": "commons_26677fda4621",
+      "source": "commons",
+      "title": "Faitiere.cathedrale.Sens.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Faitiere.cathedrale.Sens.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Faitiere.cathedrale.Sens.png/500px-Faitiere.cathedrale.Sens.png",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 630,
+      "height": 384,
+      "mime": "image/png",
+      "description": ""
+    },
+    {
+      "id": "commons_50a32e7dbd36",
+      "source": "commons",
+      "title": "Maison à piliers - Sens - Médiathèque de l'architecture et du patrimoine - APMH00011565.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Maison_%C3%A0_piliers_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00011565.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Maison_%C3%A0_piliers_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00011565.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 403,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_4d21b29ba680",
+      "source": "commons",
+      "title": "Obejts de thomas de Cantorbery cathédrale de Sens 03414.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Obejts_de_thomas_de_Cantorbery_cath%C3%A9drale_de_Sens_03414.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Obejts_de_thomas_de_Cantorbery_cath%C3%A9drale_de_Sens_03414.jpg/500px-Obejts_de_thomas_de_Cantorbery_cath%C3%A9drale_de_Sens_03414.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 2260,
+      "height": 2498,
+      "mime": "image/jpeg",
+      "description": "présenté dans le livre de Gaussen."
+    },
+    {
+      "id": "commons_527f35874d06",
+      "source": "commons",
+      "title": "Plan.voute.cathedrale.Sens.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Plan.voute.cathedrale.Sens.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Plan.voute.cathedrale.Sens.png/500px-Plan.voute.cathedrale.Sens.png",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "porte",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 636,
+      "height": 1035,
+      "mime": "image/png",
+      "description": "... La cathédrale de Sens ne peut donc passer pour avoir servi de point\nde départ pour les travaux de Saint-Denis, et les voûtes de Saint-Étienne\nde Sens accusent une indécision (surtout les voûtes basses), des tâtonnements\nqui n'apparaissent plus à Saint-Denis.\nExaminons (fig. 23) une demi-travée d"
+    },
+    {
+      "id": "commons_d8968cd881a9",
+      "source": "commons",
+      "title": "Porte de Sens - Villeneuve-sur-Yonne - Médiathèque de l'architecture et du patrimoine - APMH00007030.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Porte_de_Sens_-_Villeneuve-sur-Yonne_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00007030.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/72/Porte_de_Sens_-_Villeneuve-sur-Yonne_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00007030.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "porte",
+        "sens",
+        "yonne"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 384,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": ""
+    },
+    {
+      "id": "commons_bf4059918a5e",
+      "source": "commons",
+      "title": "Sculpture.astronomie.cathedrale.Sens.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sculpture.astronomie.cathedrale.Sens.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Sculpture.astronomie.cathedrale.Sens.png",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 338,
+      "height": 500,
+      "mime": "image/png",
+      "description": ""
+    },
+    {
+      "id": "commons_35cb0afc78c6",
+      "source": "commons",
+      "title": "Sculpture.dialectique.cathedrale.Sens.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sculpture.dialectique.cathedrale.Sens.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/46/Sculpture.dialectique.cathedrale.Sens.png",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 339,
+      "height": 837,
+      "mime": "image/png",
+      "description": ""
+    },
+    {
+      "id": "commons_a6ef0631cbf0",
+      "source": "commons",
+      "title": "Sculpture.theologie.cathedrale.Sens.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sculpture.theologie.cathedrale.Sens.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sculpture.theologie.cathedrale.Sens.png",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 308,
+      "height": 504,
+      "mime": "image/png",
+      "description": ""
+    },
+    {
+      "id": "commons_d121d7612dba",
+      "source": "commons",
+      "title": "Sens - Hôtel de ville - vue de la tour sud de la cathédrale.tif",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Sens_-_H%C3%B4tel_de_ville_-_vue_de_la_tour_sud_de_la_cath%C3%A9drale.tif",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sens_-_H%C3%B4tel_de_ville_-_vue_de_la_tour_sud_de_la_cath%C3%A9drale.tif/lossy-page1-500px-Sens_-_H%C3%B4tel_de_ville_-_vue_de_la_tour_sud_de_la_cath%C3%A9drale.tif.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "cathedrale",
+        "hotel-de-ville",
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 4253,
+      "height": 2835,
+      "mime": "image/tiff",
+      "description": "Sens - Hôtel de ville - vue de la tour sud de la cathédrale"
+    },
+    {
+      "id": "commons_dde3851df725",
+      "source": "commons",
+      "title": "Séminaire (ancien) - Autel - Sens - Médiathèque de l'architecture et du patrimoine - APMH00031774.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/S%C3%A9minaire_%28ancien%29_-_Autel_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00031774.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e1/S%C3%A9minaire_%28ancien%29_-_Autel_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00031774.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 384,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": "Autel."
+    },
+    {
+      "id": "commons_67261feadddb",
+      "source": "commons",
+      "title": "Séminaire (ancien) - Cartouche - Sens - Médiathèque de l'architecture et du patrimoine - APMH00031775.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/S%C3%A9minaire_%28ancien%29_-_Cartouche_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00031775.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/S%C3%A9minaire_%28ancien%29_-_Cartouche_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00031775.jpg/500px-S%C3%A9minaire_%28ancien%29_-_Cartouche_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00031775.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 688,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": "Cartouche."
+    },
+    {
+      "id": "commons_eeaeb02463f9",
+      "source": "commons",
+      "title": "Séminaire (ancien) - Cartouche - Sens - Médiathèque de l'architecture et du patrimoine - APMH00031776.jpg",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/S%C3%A9minaire_%28ancien%29_-_Cartouche_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00031776.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/30/S%C3%A9minaire_%28ancien%29_-_Cartouche_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00031776.jpg",
+      "license": "CC BY-SA 4.0",
+      "tags": [
+        "sens"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 385,
+      "height": 512,
+      "mime": "image/jpeg",
+      "description": "Cartouche."
+    },
+    {
+      "id": "commons_0775c577f334",
+      "source": "commons",
+      "title": "Trumeaux.cathedrale.Sens.et.eglise.Souvigny.png",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Trumeaux.cathedrale.Sens.et.eglise.Souvigny.png",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Trumeaux.cathedrale.Sens.et.eglise.Souvigny.png/500px-Trumeaux.cathedrale.Sens.et.eglise.Souvigny.png",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "eglise",
+        "porte",
+        "sens",
+        "yonne"
+      ],
+      "relatedHeritageItemId": null,
+      "width": 648,
+      "height": 1053,
+      "mime": "image/png",
+      "description": "... C'est sur ces données qu'est composé le trumeau de la porte centrale\noccidentale de la cathédrale de Sens (fig. 2); cette porte date de 1170\net fut restaurée à la fin du XIIIe siècle. La statue de saint Étienne, patron\nde l'église, décore le trumeau, sur les parois duquel s'élèvent des ornements"
+    },
+    {
+      "id": "gallica_dad9d2654602",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.7 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f7/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f7/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f7",
+      "ark": "bpt6k298584k",
+      "pageNum": 7,
+      "context": "r-Seine (voir ci-après la légende et le dessin. ) Une notice de M. Vignon signale le Menhir ou pierre levé"
+    },
+    {
+      "id": "gallica_4c4e03b06937",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.11 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f11/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f11/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "gravure",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f11",
+      "ark": "bpt6k298584k",
+      "pageNum": 11,
+      "context": "un manuscrit précieux sous le point de vue de l'art, précieux surtout par son objet. C'est le manuscrit o"
+    },
+    {
+      "id": "gallica_c4d830766439",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.21 (Planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f21/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f21/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f21",
+      "ark": "bpt6k298584k",
+      "pageNum": 21,
+      "context": "ent de l'Yonne, près de Villethierry. ( Planche II.) Cette pierre levée est à mi-côte dans une vigne à deux"
+    },
+    {
+      "id": "gallica_e7d06c87ad82",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.34 (Planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f34/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f34/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f34",
+      "ark": "bpt6k298584k",
+      "pageNum": 34,
+      "context": "gnon vous a signalée comme un Menhir. ( Planche II.) Cette pierre, dont il vous a donné une description exa"
+    },
+    {
+      "id": "gallica_59c9a7b705c9",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.42 (Planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f42/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f42/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f42",
+      "ark": "bpt6k298584k",
+      "pageNum": 42,
+      "context": "de portes. Ce sont les portes d'Yonne ( Planche III, a ), St-Remy (b), Dauphine (c), Saint-Hi- laire (d), F"
+    },
+    {
+      "id": "gallica_2eef773103a6",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.46 (Planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f46/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f46/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f46",
+      "ark": "bpt6k298584k",
+      "pageNum": 46,
+      "context": "alors existantes y sont indiquées. Voir Planche III). L'autre\" est un plan visuel, qui présente 1 Cette par"
+    },
+    {
+      "id": "gallica_1290bde90808",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.47 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f47/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f47/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f47",
+      "ark": "bpt6k298584k",
+      "pageNum": 47,
+      "context": "t, s'est chargé de le reproduire par le dessin. Nous n'y avons retracé avec détail que les parties des mur"
+    },
+    {
+      "id": "gallica_45435a172620",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.51 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f51/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f51/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f51",
+      "ark": "bpt6k298584k",
+      "pageNum": 51,
+      "context": "s, celle indiquée sous le n° 3, dans la planche V, a été trouvée dans les fondations du mur de M. Vernay, p"
+    },
+    {
+      "id": "gallica_2f2fbf9bcdd9",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.54 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f54/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f54/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f54",
+      "ark": "bpt6k298584k",
+      "pageNum": 54,
+      "context": "t On peut voir aussi dans Montfaucon le dessin d'un monument qu'un Secundinus Ã©lÃ¨ve Ã  son Ã©pouse et si"
+    },
+    {
+      "id": "gallica_18405ad22d42",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.57 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f57/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f57/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f57",
+      "ark": "bpt6k298584k",
+      "pageNum": 57,
+      "context": "elief, et que le bras dÃ©ployÃ© dans la figure 2, est celui du cavalier qui monte le cheval de la figure 1"
+    },
+    {
+      "id": "gallica_a48cf0260e7f",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.61 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f61/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f61/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "gravure",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f61",
+      "ark": "bpt6k298584k",
+      "pageNum": 61,
+      "context": "soldat gaulois, dont Millin a donné le dessin dans ses Monuments antiques inédits. Ce tom- beau existait"
+    },
+    {
+      "id": "gallica_2e70a73edf47",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.65 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f65/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f65/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f65",
+      "ark": "bpt6k298584k",
+      "pageNum": 65,
+      "context": "a coupe de ses cheveux, le profil de sa figure sans barbe indiquent le type grec. Yphigénie, envelop- pée"
+    },
+    {
+      "id": "gallica_edf592eeb79e",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.66 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f66/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f66/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f66",
+      "ark": "bpt6k298584k",
+      "pageNum": 66,
+      "context": "ses Monumenti antichi inediti' donne le dessin d'un sarcophage du palais Accoramboni oÃ¹ sont reprÃ©sentÃ©"
+    },
+    {
+      "id": "gallica_e07c4460c759",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.73 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f73/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f73/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f73",
+      "ark": "bpt6k298584k",
+      "pageNum": 73,
+      "context": "o-romaine, un intérêt réel. Le meilleur dessin, la copie la plus exacte, ne remplacent jamais les monument"
+    },
+    {
+      "id": "gallica_f66b1fe20ed0",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.84 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f84/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f84/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f84",
+      "ark": "bpt6k298584k",
+      "pageNum": 84,
+      "context": "temps, de connaissances et de talent de dessin suffisants pour en faire une description détaillée et compl"
+    },
+    {
+      "id": "gallica_9dfee2682a69",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.87 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f87/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f87/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f87",
+      "ark": "bpt6k298584k",
+      "pageNum": 87,
+      "context": "s plus naÃ¯fs et les plus expressifs de dessin. Deux autres verriÃ¨res de chaque cÃ´tÃ©, de couleurs moins"
+    },
+    {
+      "id": "gallica_48c13c050ae0",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.91 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f91/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f91/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f91",
+      "ark": "bpt6k298584k",
+      "pageNum": 91,
+      "context": "ux, Ã  leurs grandes figures et Ã  leur dessin correct, vous reconnaissez texv' siÃ¨cte. AprÃ¨s cet examen"
+    },
+    {
+      "id": "gallica_7d3ad61ee885",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.93 (plan de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f93/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f93/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "plan",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f93",
+      "ark": "bpt6k298584k",
+      "pageNum": 93,
+      "context": "de rÃ©tablir la conception primitive du plan de fÃ©dince, de reproduire l'effet rÃ©el de sa perspective, et"
+    },
+    {
+      "id": "gallica_10c2f336d376",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.95 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f95/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f95/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f95",
+      "ark": "bpt6k298584k",
+      "pageNum": 95,
+      "context": "tivres. Â« DÃ©mo)ir tes jubÃ©s, dont la figure est Ã©pouvantable, ce qui o allongera le cœur de 9 Ã  10 pi"
+    },
+    {
+      "id": "gallica_7d09d4ff3b4b",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.96 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f96/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f96/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f96",
+      "ark": "bpt6k298584k",
+      "pageNum": 96,
+      "context": "s stalles de droite Â« 4\" Des jubÃ©s de figure Ã©pouvantable (suivant les auteurs des nouveaux devis), qui"
+    },
+    {
+      "id": "gallica_2452db71f706",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.103 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f103/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f103/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f103",
+      "ark": "bpt6k298584k",
+      "pageNum": 103,
+      "context": "cier une statue, un tableau au point de vue de l'art, ce n'est pas borner son jugement Ã  la forme et Ã  l"
+    },
+    {
+      "id": "gallica_7a2995dc97e4",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.104 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f104/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f104/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f104",
+      "ark": "bpt6k298584k",
+      "pageNum": 104,
+      "context": "ne pas seulement les assistants dans la vue de quelques cÃ©rÃ©monies plus ou moins rares et ex- ceptionnel"
+    },
+    {
+      "id": "gallica_d64de597518c",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.110 (PLAN DE)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f110/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f110/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "plan",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f110",
+      "ark": "bpt6k298584k",
+      "pageNum": 110,
+      "context": "re de prÃ©somptions et de tÃ©moignages. PLAN DE CETTE DISSERTATION. 1Â° Bien connaÃ®tre les localitÃ©s et s"
+    },
+    {
+      "id": "gallica_4b0e706de2be",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.111 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f111/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f111/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f111",
+      "ark": "bpt6k298584k",
+      "pageNum": 111,
+      "context": "ications, et M. BarbiÃ© du Bocage Ã  la vue de ce ciment, convient qu'il ne ressemble en rien au ciment ro"
+    },
+    {
+      "id": "gallica_ff366f86da4d",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.114 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f114/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f114/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f114",
+      "ark": "bpt6k298584k",
+      "pageNum": 114,
+      "context": "essemblance avec le ciment Romain. A la vue de cette belle plaine de la Motte du Ciar, je n'ai pu me défen"
+    },
+    {
+      "id": "gallica_da91c2297ea3",
+      "source": "gallica",
+      "title": "Bulletin SAS 1846 — p.129 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f129/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298584k/f129/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1846",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f129",
+      "ark": "bpt6k298584k",
+      "pageNum": 129,
+      "context": "racÃ© sur la Table ThÃ©odosienne. Cette figure marque toujours des fontaines minÃ©rales et non pas seuleme"
+    },
+    {
+      "id": "gallica_ad2029bf30e5",
+      "source": "gallica",
+      "title": "Bulletin SAS 1851 — p.25 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298585z/f25/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298585z/f25/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1851",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298585z/f25",
+      "ark": "bpt6k298585z",
+      "pageNum": 25,
+      "context": "de l'ancienne porte Notre-Dame 2\" d'une vue de l'église Saint-Maurice 3° et d'une vue des bâtiments de l'A"
+    },
+    {
+      "id": "gallica_ddbf5c9f8409",
+      "source": "gallica",
+      "title": "Bulletin SAS 1851 — p.56 (plan de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298585z/f56/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298585z/f56/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1851",
+        "gallica",
+        "plan",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298585z/f56",
+      "ark": "bpt6k298585z",
+      "pageNum": 56,
+      "context": "s correspon- dantes et un exemplaire du plan de l'ancienne abbaye de- Saiute-Colombe sont déposés sur le bu"
+    },
+    {
+      "id": "gallica_df7a96c4c16f",
+      "source": "gallica",
+      "title": "Bulletin SAS 1858 — p.7 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f7/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f7/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1858",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f7",
+      "ark": "bpt6k298589g",
+      "pageNum": 7,
+      "context": "rs, le \"onlinaenl des Séquanes, 12,000, figure comme s'étant po>"
+    },
+    {
+      "id": "gallica_bfdacb7a4b17",
+      "source": "gallica",
+      "title": "Bulletin SAS 1858 — p.11 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f11/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f11/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1858",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f11",
+      "ark": "bpt6k298589g",
+      "pageNum": 11,
+      "context": "les autres, chaque mcdaillon encadre la figure d'un soldat romain deux lions furieux, symbole des persécut"
+    },
+    {
+      "id": "gallica_3646ebecf16b",
+      "source": "gallica",
+      "title": "Bulletin SAS 1858 — p.13 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f13/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f13/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1858",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f13",
+      "ark": "bpt6k298589g",
+      "pageNum": 13,
+      "context": "'Aqui- taine, s'étaient réveillées à la vue de l'armée franque. Réunis sur le mont Altobiscar, à la voix d"
+    },
+    {
+      "id": "gallica_2a22d4124f0a",
+      "source": "gallica",
+      "title": "Bulletin SAS 1858 — p.16 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f16/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f16/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1858",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f16",
+      "ark": "bpt6k298589g",
+      "pageNum": 16,
+      "context": "joint à cette note présente cette croix vue de face au-dessous sont reproduits aussi fidèlement que pos- s"
+    },
+    {
+      "id": "gallica_800c87a49456",
+      "source": "gallica",
+      "title": "Bulletin SAS 1858 — p.40 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f40/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f40/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1858",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f40",
+      "ark": "bpt6k298589g",
+      "pageNum": 40,
+      "context": "ns ladite maison, achetÃ©e par elle, en vue de la fondation qu'elle avait faite (1). Depuis ces diverses d"
+    },
+    {
+      "id": "gallica_b2a7f44afef1",
+      "source": "gallica",
+      "title": "Bulletin SAS 1858 — p.62 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f62/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f62/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1858",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f62",
+      "ark": "bpt6k298589g",
+      "pageNum": 62,
+      "context": "ne figure au janvier que dans les manuscrits du xnf sie- cle, et qu'i"
+    },
+    {
+      "id": "gallica_5787bc0752ea",
+      "source": "gallica",
+      "title": "Bulletin SAS 1858 — p.71 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f71/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f71/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1858",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f71",
+      "ark": "bpt6k298589g",
+      "pageNum": 71,
+      "context": "ocents. Jugeant la quéstion au point de vue de l'actualité, bien en- tendu, « Je ne crois pas pouvoir désa"
+    },
+    {
+      "id": "gallica_ece230001bfb",
+      "source": "gallica",
+      "title": "Bulletin SAS 1858 — p.89 (gravure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f89/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f89/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1858",
+        "gallica",
+        "gravure",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f89",
+      "ark": "bpt6k298589g",
+      "pageNum": 89,
+      "context": "pascal marchant Ã  gauche, incrustÃ© de gravure rouge, nimbÃ© d'une croix de mÃªme couleur et portant une b"
+    },
+    {
+      "id": "gallica_97acffeac2af",
+      "source": "gallica",
+      "title": "Bulletin SAS 1858 — p.123 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f123/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f123/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1858",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f123",
+      "ark": "bpt6k298589g",
+      "pageNum": 123,
+      "context": "nt ï IHuslrated-London news a publié un dessin. C'est à un prêtre catholique, bulgare de naissance, et en"
+    },
+    {
+      "id": "gallica_4d13da90ba67",
+      "source": "gallica",
+      "title": "Bulletin SAS 1858 — p.126 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f126/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298589g/f126/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1858",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f126",
+      "ark": "bpt6k298589g",
+      "pageNum": 126,
+      "context": "uska, au mois de juillet 1854. (Voir la planche ci-contre.) Kustendjee que les Italiens appellent Coslanza"
+    },
+    {
+      "id": "gallica_bdf250674d97",
+      "source": "gallica",
+      "title": "Bulletin SAS 1867 — p.50 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985925/f50/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985925/f50/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1867",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985925/f50",
+      "ark": "bpt6k2985925",
+      "pageNum": 50,
+      "context": "laise PelÃ©e, probablement le mÃªme qui figure sous le numÃ©ro 104 dans la liste des conseillers au bailli"
+    },
+    {
+      "id": "gallica_df6a5b78eecc",
+      "source": "gallica",
+      "title": "Bulletin SAS 1867 — p.59 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985925/f59/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985925/f59/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1867",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985925/f59",
+      "ark": "bpt6k2985925",
+      "pageNum": 59,
+      "context": "e de la colonie séno- naise an point de vue de la civilisation dans les Vosges. La contrée choisie par Gon"
+    },
+    {
+      "id": "gallica_3b284fde0259",
+      "source": "gallica",
+      "title": "Bulletin SAS 1867 — p.61 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985925/f61/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985925/f61/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1867",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985925/f61",
+      "ark": "bpt6k2985925",
+      "pageNum": 61,
+      "context": "ement l'un des plus avancés au point de vue de l'instruction primaire? Honneur donc à saint Gondelbert et"
+    },
+    {
+      "id": "gallica_29c9d628a08e",
+      "source": "gallica",
+      "title": "Bulletin SAS 1867 — p.82 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985925/f82/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985925/f82/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1867",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985925/f82",
+      "ark": "bpt6k2985925",
+      "pageNum": 82,
+      "context": "cieuse pour les arts. La chasuble (voir planche <\") ressemble pour la forme à une chape fermée et cousue pa"
+    },
+    {
+      "id": "gallica_09c9c58896af",
+      "source": "gallica",
+      "title": "Bulletin SAS 1867 — p.83 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985925/f83/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985925/f83/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1867",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985925/f83",
+      "ark": "bpt6k2985925",
+      "pageNum": 83,
+      "context": "st émaillé d'ornements bysantins que le dessin peut facilement reproduire, mais dont la description serait"
+    },
+    {
+      "id": "gallica_979a5e55c005",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.34 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f34/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f34/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f34",
+      "ark": "bpt6k2985959",
+      "pageNum": 34,
+      "context": "rmond, sur le musÃ©e lapidaire de Lyon, planche 3e. On l'a diversement complÃ©tÃ©e mais la lecture la plus"
+    },
+    {
+      "id": "gallica_c1163f0d3645",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.39 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f39/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f39/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f39",
+      "ark": "bpt6k2985959",
+      "pageNum": 39,
+      "context": ". Julius, M. Tullius Thermianus, qui ne figure pas sur le monument de Sens, et à Sens, un frère de M. Magi"
+    },
+    {
+      "id": "gallica_36b802b9fb42",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.42 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f42/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f42/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f42",
+      "ark": "bpt6k2985959",
+      "pageNum": 42,
+      "context": "nvier 1877. (I) Voir le numÃ©ro I de la planche, oÃ¹ l'on a essayÃ© do reprÃ©senter I'cd- semble du monumen"
+    },
+    {
+      "id": "gallica_610035b91c34",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.45 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f45/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f45/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f45",
+      "ark": "bpt6k2985959",
+      "pageNum": 45,
+      "context": "rÃ§ut et en voyant la bonne et honnÃªte figure d'Antoine reproduire d'une faÃ§on comique ses propres impre"
+    },
+    {
+      "id": "gallica_7db0086d0672",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.71 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f71/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f71/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f71",
+      "ark": "bpt6k2985959",
+      "pageNum": 71,
+      "context": "rs de l'Ã©cole une 1\" mÃ©daille pour la figure modelÃ©e d'aprÃ¨s nature, une 9Â° mÃ©daille pour la figure"
+    },
+    {
+      "id": "gallica_34a075ce19ee",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.77 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f77/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f77/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f77",
+      "ark": "bpt6k2985959",
+      "pageNum": 77,
+      "context": "même usage que les rouelles russes. La figure 1 représente un disque percé, portant à sa partie supérieur"
+    },
+    {
+      "id": "gallica_d87e2512d646",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.88 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f88/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f88/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "gravure",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f88",
+      "ark": "bpt6k2985959",
+      "pageNum": 88,
+      "context": "de J. Cousin, de M. Didot, d'aprÃ¨s le dessin de Bocourt, placÃ© en tÃªte de la notice de Charles Blanc s"
+    },
+    {
+      "id": "gallica_edd1f9fa23d8",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.90 (gravure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f90/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f90/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "gravure",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f90",
+      "ark": "bpt6k2985959",
+      "pageNum": 90,
+      "context": "es, et se livra mÃªme au commerce de la gravure, ce qui ne l'empÃªcha pas d'Ãªtre nommÃ© graveur du roi, en"
+    },
+    {
+      "id": "gallica_3a63de618fc5",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.181 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f181/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f181/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f181",
+      "ark": "bpt6k2985959",
+      "pageNum": 181,
+      "context": "ppeler des haches, des celts (nÃ® 1060, planche 1) (1) des piÃ¨ces votives ou (1) Pour l'iodicntioii des nu"
+    },
+    {
+      "id": "gallica_897a93a41874",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.183 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f183/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f183/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f183",
+      "ark": "bpt6k2985959",
+      "pageNum": 183,
+      "context": "facilité en les reproduisant. Le n*776, planche III, est une scie rectangulaire, dentelée sur un seul côté"
+    },
+    {
+      "id": "gallica_66c259de9355",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.184 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f184/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f184/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f184",
+      "ark": "bpt6k2985959",
+      "pageNum": 184,
+      "context": "sera démontré plus loin. Le n' 84, même planche, représente une scie double avec traces d'usage, munie de d"
+    },
+    {
+      "id": "gallica_3029dfe35487",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.186 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f186/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f186/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f186",
+      "ark": "bpt6k2985959",
+      "pageNum": 186,
+      "context": "le plus grand spécimen connu. Len°740, planche VI, est une scie à main provenant d'un enlevage fait sur un"
+    },
+    {
+      "id": "gallica_4fd1f7cc45c1",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.208 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f208/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f208/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f208",
+      "ark": "bpt6k2985959",
+      "pageNum": 208,
+      "context": "tendre leurs grognements et jouir de la vue de leurs gesticulations naturelles, pourvu qu'au préalable on"
+    },
+    {
+      "id": "gallica_ed3d1d2205d7",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.225 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f225/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f225/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f225",
+      "ark": "bpt6k2985959",
+      "pageNum": 225,
+      "context": "e réduction au dixième. Le calque et le dessin sont mis sous les yeux des mem- bres de la Société. Cette m"
+    },
+    {
+      "id": "gallica_eb356c64f318",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.226 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f226/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f226/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f226",
+      "ark": "bpt6k2985959",
+      "pageNum": 226,
+      "context": "d'espérer que M. Hardy fera exécuter le dessin complet de la mosaïque, lorsqu'elle sera en- tièrement déco"
+    },
+    {
+      "id": "gallica_900866f7e74f",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.229 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f229/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f229/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f229",
+      "ark": "bpt6k2985959",
+      "pageNum": 229,
+      "context": "tout ce que j'avais pu apercevoir et le dessin colorié de ce calque réduit au dixième. La crainte de la ge"
+    },
+    {
+      "id": "gallica_a26785ff53d4",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.231 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f231/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f231/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f231",
+      "ark": "bpt6k2985959",
+      "pageNum": 231,
+      "context": "ne riche torsade elle rappelle, par son dessin, la mosaÃ¯que trouvÃ©e Ã  Sens, en 1791,'sur la pro- menade"
+    },
+    {
+      "id": "gallica_23d104e9ed3b",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.232 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f232/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f232/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f232",
+      "ark": "bpt6k2985959",
+      "pageNum": 232,
+      "context": "mosaÃ¯que qu'il ne connait que par mon dessin, dessin fait Ã  la hÃ¢te par une main fatiguÃ©e, que j'aura"
+    },
+    {
+      "id": "gallica_2db6fe2aca90",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.239 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f239/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f239/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f239",
+      "ark": "bpt6k2985959",
+      "pageNum": 239,
+      "context": "ur 14 pieds 6 pouces de largeur (1). Le dessin en est conservé par la Société archéologique. Elle ne prése"
+    },
+    {
+      "id": "gallica_738c2a67a488",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.240 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f240/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f240/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f240",
+      "ark": "bpt6k2985959",
+      "pageNum": 240,
+      "context": "as d'une statue de bronze et une petite figure de mÃªme mÃ©tal haute de trois pouces. Tous ces objets ont"
+    },
+    {
+      "id": "gallica_f232f4618727",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.244 (Figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f244/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f244/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f244",
+      "ark": "bpt6k2985959",
+      "pageNum": 244,
+      "context": "l droite. 4. TR, P. IIII Mr. II COS. II Figure militaire debout, Ã  droite."
+    },
+    {
+      "id": "gallica_2206241c06db",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.248 (Figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f248/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f248/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f248",
+      "ark": "bpt6k2985959",
+      "pageNum": 248,
+      "context": "Ã©, Ã  droite. Â»). SALVS PROVINCIARVM. Figure couchÃ©e il gauche. Bill. 102. LÃ©lien. IMP. C. LAELIANVS P"
+    },
+    {
+      "id": "gallica_7f3bc6741efa",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.254 (Figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f254/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f254/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f254",
+      "ark": "bpt6k2985959",
+      "pageNum": 254,
+      "context": "droite. t$. LÃ©gende indÃ©chiffrable. Figure debuut, portant une hasle sur l'Ã©paule droite. Petit bronz"
+    },
+    {
+      "id": "gallica_1bbae786045d",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.258 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f258/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f258/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f258",
+      "ark": "bpt6k2985959",
+      "pageNum": 258,
+      "context": "e rapproche beaucoup plus du type de la figure 5, mais avec le mo- dule de la figure 10. Petit bronze. 220"
+    },
+    {
+      "id": "gallica_72e97db4395e",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.263 (Figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f263/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f263/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f263",
+      "ark": "bpt6k2985959",
+      "pageNum": 263,
+      "context": "G. Buste radiÃ©, Ã  droite. i$. Fruste. Figure debout, tenant une palme ? HÃ©lÃ¨ne, femme de Coustan ce-Ch"
+    },
+    {
+      "id": "gallica_1fdd777ead62",
+      "source": "gallica",
+      "title": "Bulletin SAS 1880 — p.271 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f271/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k2985959/f271/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1880",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f271",
+      "ark": "bpt6k2985959",
+      "pageNum": 271,
+      "context": "ar M. Pompon, professeur au collège. Le dessin et l'architecture, par MM. Person et Pilon, anciens archite"
+    },
+    {
+      "id": "gallica_77e18a88913e",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.21 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f21/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f21/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f21",
+      "ark": "bpt6k298598f",
+      "pageNum": 21,
+      "context": "vèrent en poussant de grands cris. A la vue de ces vénérables vieillards, dont la barbe blanche retombait"
+    },
+    {
+      "id": "gallica_a5c75bea8b0a",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.45 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f45/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f45/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f45",
+      "ark": "bpt6k298598f",
+      "pageNum": 45,
+      "context": "bleue, en sorte qu'une armée gauloise, vue de loin, montrait déjà sur les mêmes lignes, les couleurs de n"
+    },
+    {
+      "id": "gallica_f26ff35337ac",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.57 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f57/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f57/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f57",
+      "ark": "bpt6k298598f",
+      "pageNum": 57,
+      "context": "restes du fus d'orgues, fait d'après le dessin ou portraict de l'illustre artiste sénonais. Mais pourquoi"
+    },
+    {
+      "id": "gallica_a4aadee0629f",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.59 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f59/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f59/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f59",
+      "ark": "bpt6k298598f",
+      "pageNum": 59,
+      "context": "oyneau condam- damnait, comme Ã©tant de figure Ã©pouvantable, les mer- veilleux jubÃ©s dont nous admirons"
+    },
+    {
+      "id": "gallica_fdf302addd66",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.62 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f62/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f62/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f62",
+      "ark": "bpt6k298598f",
+      "pageNum": 62,
+      "context": "s, cette faÃ§ade de la nef ferait bonne figure avec son arcature Ã  quatre compartiments surmontÃ©s de gab"
+    },
+    {
+      "id": "gallica_566e3d0dd55d",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.70 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f70/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f70/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f70",
+      "ark": "bpt6k298598f",
+      "pageNum": 70,
+      "context": "e deux filets encadre le tout. (Voir la planche.) La seconde donne pour empreinte le buste tournÃ© de profi"
+    },
+    {
+      "id": "gallica_dc8a64466110",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.73 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f73/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f73/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f73",
+      "ark": "bpt6k298598f",
+      "pageNum": 73,
+      "context": "squ'ici le nom du Chapitre CAPITVLVM ne figure pas sur les sceaux de l'Eglise de Sens. L'église, c'était l"
+    },
+    {
+      "id": "gallica_2d5f790d0308",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.79 (gravure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f79/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f79/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "figure",
+        "gallica",
+        "gravure",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f79",
+      "ark": "bpt6k298598f",
+      "pageNum": 79,
+      "context": "sceau présente plus d'une faute dans sa gravure 1° L'abréviation défectueuse du mot Senonense et l'accent s"
+    },
+    {
+      "id": "gallica_bf185f81d492",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.83 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f83/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f83/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f83",
+      "ark": "bpt6k298598f",
+      "pageNum": 83,
+      "context": "bienheureuse Marie de Sens. ») (Voir la planche.) La seconde matrice servait de sceau privé au prieur;"
+    },
+    {
+      "id": "gallica_1e2957684b73",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.88 (gravure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f88/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f88/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "gravure",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f88",
+      "ark": "bpt6k298598f",
+      "pageNum": 88,
+      "context": "en grÃ¨s. Il y a lieu de croire que la gravure de cette matrice a Ã©tÃ© exÃ©cutÃ©e dans l'abbaye de Saint-"
+    },
+    {
+      "id": "gallica_7bb841e2211a",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.89 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f89/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f89/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f89",
+      "ark": "bpt6k298598f",
+      "pageNum": 89,
+      "context": "issance d'une possession antérieure qui figure dans la fameuse charte de Clovis à Théodechilde (Lavernade,"
+    },
+    {
+      "id": "gallica_26ffbd1c589c",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.97 (dessin)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f97/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f97/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f97",
+      "ark": "bpt6k298598f",
+      "pageNum": 97,
+      "context": "ne manque absolument, pour restituer le dessin, que le diamètre. Dans les treize têtes ainsi distribuées d"
+    },
+    {
+      "id": "gallica_5f8a766ac73e",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.116 (planche)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f116/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f116/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "planche",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f116",
+      "ark": "bpt6k298598f",
+      "pageNum": 116,
+      "context": "les, Léon Renier et Robert Mowat. (Voir planche ci-contre.) On y trouve le cursus honorum d'un Sénonais mor"
+    },
+    {
+      "id": "gallica_a91cd46c86d3",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.127 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f127/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f127/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f127",
+      "ark": "bpt6k298598f",
+      "pageNum": 127,
+      "context": "ville et le nom d'homme Agedovirus qui figure sur une inscription de Nantes donnée par M. R. Mowat, Revue"
+    },
+    {
+      "id": "gallica_085c47ad23ab",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.136 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f136/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f136/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f136",
+      "ark": "bpt6k298598f",
+      "pageNum": 136,
+      "context": "d'huy les Capucins (1), en sorte que sa figure Ã©toit celle d'un cercle coupÃ© par la moitiÃ©. Le quay dep"
+    },
+    {
+      "id": "gallica_89012f67375d",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.150 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f150/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f150/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f150",
+      "ark": "bpt6k298598f",
+      "pageNum": 150,
+      "context": "m, par une singulière inconséquence, ne figure même pas sur la liste des bienfaiteurs de cet établissement"
+    },
+    {
+      "id": "gallica_cc23f881e997",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.170 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f170/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f170/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f170",
+      "ark": "bpt6k298598f",
+      "pageNum": 170,
+      "context": "à la teste de ce missel manuscrit on se figure que l'antiquité y aura bonne part et que les rubriques sero"
+    },
+    {
+      "id": "gallica_c5aa0c96ebed",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.240 (plan de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f240/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f240/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "plan",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f240",
+      "ark": "bpt6k298598f",
+      "pageNum": 240,
+      "context": "oudrez bien me communiquer, tant sur le plan de l'ouvrage que sur le détail dans lequel je suis entré. Je n"
+    },
+    {
+      "id": "gallica_20478ded8106",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.259 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f259/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f259/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f259",
+      "ark": "bpt6k298598f",
+      "pageNum": 259,
+      "context": "et qu'Ã©voquerait, et perpÃ©tuerait, la vue de la faÃ§ade rÃ©Ã©difiÃ©e de l'ancienne salle des malades du"
+    },
+    {
+      "id": "gallica_59db7f5d15ac",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.267 (vue de)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f267/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f267/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f267",
+      "ark": "bpt6k298598f",
+      "pageNum": 267,
+      "context": "plusieurs d'un haut intérêt au point de vue de l'art romain chez les Gaulois. On peut citer le groupe de D"
+    },
+    {
+      "id": "gallica_065148ba1c29",
+      "source": "gallica",
+      "title": "Bulletin SAS 1892 — p.298 (figure)",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f298/full/1024,/0/native.jpg",
+      "thumbnail": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k298598f/f298/full/400,/0/native.jpg",
+      "license": "domaine-public",
+      "tags": [
+        "annee-1892",
+        "figure",
+        "gallica",
+        "sas"
+      ],
+      "relatedHeritageItemId": null,
+      "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f298",
+      "ark": "bpt6k298598f",
+      "pageNum": 298,
+      "context": "sur la ceinture. Cette boucle, dont la figure est ci-jointe, a été donnée à M. Daumont, in- stituteur àMi"
+    },
+    {
+      "id": "yonne_13982d48e696",
+      "source": "archives_yonne",
+      "title": "1 vue  - Bellechaume (Yonne). Grande-Rue. Route de Sens / Cliché Harry, G., Auxerre.- Ouvre la visio",
+      "url": "https://archives.yonne.fr/archives/img/ico_visu.gif?1732532265",
+      "thumbnail": "https://archives.yonne.fr/archives/img/ico_visu.gif?1732532265",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_3a84468a8579",
+      "source": "archives_yonne",
+      "title": "Ouvrir la notice dans son contexte",
+      "url": "https://archives.yonne.fr/img/inventaire.png?1733479380",
+      "thumbnail": "https://archives.yonne.fr/img/inventaire.png?1733479380",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_03f83b2234c1",
+      "source": "archives_yonne",
+      "title": "1 vue  - Bellechaume (Yonne). Grande-Rue. Route de Sens / Cliché Harry, G., Auxerre. (ouvre la visio",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_01449.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2216722&MTIME=1346436966",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_01449.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2216722&MTIME=1346436966",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_b3aa794ee1b2",
+      "source": "archives_yonne",
+      "title": "Ouvrir le détail",
+      "url": "https://archives.yonne.fr/archives/img/plus_pt.gif?1717664997",
+      "thumbnail": "https://archives.yonne.fr/archives/img/plus_pt.gif?1717664997",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_da271ffa0f74",
+      "source": "archives_yonne",
+      "title": "Fermer le détail",
+      "url": "https://archives.yonne.fr/archives/img/moins_pt.gif?1717664997",
+      "thumbnail": "https://archives.yonne.fr/archives/img/moins_pt.gif?1717664997",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_2bf339d78f9d",
+      "source": "archives_yonne",
+      "title": "1 vue  - Cornant. La route de Sens. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_02290.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2324421&MTIME=1346437531",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_02290.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2324421&MTIME=1346437531",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_76f19deeafba",
+      "source": "archives_yonne",
+      "title": "1 vue  - Fleurigny. L\\'église et la Route de Sens. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_02849.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1939737&MTIME=1346437821",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_02849.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1939737&MTIME=1346437821",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_5c7c32c43b31",
+      "source": "archives_yonne",
+      "title": "1 vue  - Environs de Sens. Maillot (Yonne). L\\'abreuvoir près du pont sur la Vanne, à la sortie du v",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_03515.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2422688&MTIME=1346438143",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_03515.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2422688&MTIME=1346438143",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_27c972f7d55e",
+      "source": "archives_yonne",
+      "title": "1 vue  - Molinons (Yonne). L\\'église et la route de Sens. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_03744.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2302760&MTIME=1346438253",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_03744.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2302760&MTIME=1346438253",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_24dc6ec57f21",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Eglise délabrée. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04683.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2222128&MTIME=1346439142",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04683.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2222128&MTIME=1346439142",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_e7c195ebf32d",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Eglise de l\\'Abbaye de ste-Colombe. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04684.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2277428&MTIME=1346439143",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04684.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2277428&MTIME=1346439143",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_0f42a9af48fd",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-La Ferme et le Couvent. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04685.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2541005&MTIME=1346439144",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04685.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2541005&MTIME=1346439144",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_ba65e1d69d31",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Le Couvent de Sainte Colombe côté de la Ferme. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04686.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2207342&MTIME=1346439144",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04686.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2207342&MTIME=1346439144",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_ecc215378e04",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, intérieur de la Chapelle. (ouvre la visionne",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04687.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2293893&MTIME=1346439145",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04687.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2293893&MTIME=1346439145",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_2b7aba144aa1",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, châsse, Vierge et Martyre. (ouvre la visionn",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04688.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2142344&MTIME=1346439146",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04688.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2142344&MTIME=1346439146",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_79a6dd12428c",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04689.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2694447&MTIME=1346439146",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04689.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2694447&MTIME=1346439146",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_e311d9048acc",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, le réfectoire. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04690.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2518559&MTIME=1346439147",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04690.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2518559&MTIME=1346439147",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_3f4bae44f204",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, intérieur de l\\'Eglise. (ouvre la visionneus",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04691.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1959732&MTIME=1346439147",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04691.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1959732&MTIME=1346439147",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_a5ec1cfe9b65",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe et la Vallée de l\\'Yonne. (ouvre la visionneu",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04692.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2410191&MTIME=1346439148",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04692.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2410191&MTIME=1346439148",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_6648b8cdf1e9",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Translation des reliques de Ste Colombe de la Cathédrale à la chapelle",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04693.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2479316&MTIME=1346439149",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04693.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2479316&MTIME=1346439149",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_b597cab918e9",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Translation des reliques de Ste Colombe de la Cathédrale à la chapelle",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04694.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2113233&MTIME=1346439149",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04694.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2113233&MTIME=1346439149",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_2a066a20b192",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, le réfectoire. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04695.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=3262515&MTIME=1346439150",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04695.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=3262515&MTIME=1346439150",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_61267b41e523",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-La Ferme et le Couvent. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04696.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2328004&MTIME=1346439151",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04696.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2328004&MTIME=1346439151",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_7ce631b9d260",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-La Ferme et le Couvent. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04697.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2327789&MTIME=1346439151",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04697.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2327789&MTIME=1346439151",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_1a70bda58342",
+      "source": "archives_yonne",
+      "title": "Chargement en cours...",
+      "url": "https://archives.yonne.fr/archives/img/loader.gif?1717664997",
+      "thumbnail": "https://archives.yonne.fr/archives/img/loader.gif?1717664997",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_f68e02dc4e0e",
+      "source": "archives_yonne",
+      "title": "Chargement en cours...",
+      "url": "https://archives.yonne.fr/img/loader.gif?1717664997",
+      "thumbnail": "https://archives.yonne.fr/img/loader.gif?1717664997",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_aeaf5f282230",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, le réfectoire. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04698.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2193797&MTIME=1346439152",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04698.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2193797&MTIME=1346439152",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_5f06545fac69",
+      "source": "archives_yonne",
+      "title": "1 vue  - Saint-Sérotin. L\\'église et la route de Sens. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05440.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2120095&MTIME=1346439500",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05440.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2120095&MTIME=1346439500",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_1836dbc1f8bd",
+      "source": "archives_yonne",
+      "title": "1 vue  - Sens. La cathédrale. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05616.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1975599&MTIME=1346439577",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05616.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1975599&MTIME=1346439577",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_11356fbde6a5",
+      "source": "archives_yonne",
+      "title": "1 vue  - 120. Sens. Façade de la cathédrale. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05617.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2237734&MTIME=1346439578",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05617.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2237734&MTIME=1346439578",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_48ca018aa03b",
+      "source": "archives_yonne",
+      "title": "1 vue  - 3. Sens. La cathédrale. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05618.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2250689&MTIME=1346439578",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05618.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2250689&MTIME=1346439578",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_5da9deac3200",
+      "source": "archives_yonne",
+      "title": "1 vue  - Sens. La cathédrale et la place. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05619.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2262681&MTIME=1346439579",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05619.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2262681&MTIME=1346439579",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_099a8e7f4617",
+      "source": "archives_yonne",
+      "title": "1 vue  - Sens (Yonne). La cathédrale et la place. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05620.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2556394&MTIME=1346439579",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05620.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2556394&MTIME=1346439579",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_aeae92a61f72",
+      "source": "archives_yonne",
+      "title": "1 vue  - 14. Sens. Façade de la cathédrale. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05621.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2487049&MTIME=1346439580",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05621.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2487049&MTIME=1346439580",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_6989803c9cd5",
+      "source": "archives_yonne",
+      "title": "1 vue  - 120. Sens. Façade de la cathédrale. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05622.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2116409&MTIME=1346439580",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05622.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2116409&MTIME=1346439580",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_ae5ea29b2065",
+      "source": "archives_yonne",
+      "title": "1 vue  - Sens. La cathédrale. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05623.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2190431&MTIME=1346439581",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05623.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2190431&MTIME=1346439581",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_c33cb185ae6a",
+      "source": "archives_yonne",
+      "title": "1 vue  - Sens. La cathédrale Saint-Étienne. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05624.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2330893&MTIME=1346439582",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05624.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2330893&MTIME=1346439582",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_ef25f28c9141",
+      "source": "archives_yonne",
+      "title": "1 vue  - Sens. La cathédrale (façade). (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05625.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2088507&MTIME=1346439582",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05625.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2088507&MTIME=1346439582",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_ab2f086e1998",
+      "source": "archives_yonne",
+      "title": "1 vue  - Sens. La cathédrale et le palais synodal. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05626.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2190786&MTIME=1346439583",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05626.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2190786&MTIME=1346439583",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_7168b437e63f",
+      "source": "archives_yonne",
+      "title": "1 vue  - 4e série. Sens (Yonne). La cathédrale Saint-Étienne (ensemble ouest). (ouvre la visionneuse",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05627.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2468645&MTIME=1346439584",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05627.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2468645&MTIME=1346439584",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_ce0d5a25ca1c",
+      "source": "archives_yonne",
+      "title": "1 vue  - Sens. La cathédrale. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05628.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1791264&MTIME=1346439584",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05628.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1791264&MTIME=1346439584",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_bd03de25aa96",
+      "source": "archives_yonne",
+      "title": "1 vue  - La cathédrale de Sens. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05629.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2102758&MTIME=1346439585",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05629.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2102758&MTIME=1346439585",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_7c7c9803627d",
+      "source": "archives_yonne",
+      "title": "1 vue  - Sens. La cathédrale vue d\\'ensemble, place de la République. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05631.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2127153&MTIME=1346439585",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05631.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2127153&MTIME=1346439585",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_a1a15b197e64",
+      "source": "archives_yonne",
+      "title": "1 vue  - Sens. La cathédrale. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05632.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2363709&MTIME=1346439586",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05632.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2363709&MTIME=1346439586",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_3f8adaddec1f",
+      "source": "archives_yonne",
+      "title": "1 vue  - 34. Sens. La tour de la cathédrale. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05633.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2311488&MTIME=1346439586",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05633.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2311488&MTIME=1346439586",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_d6968336d8be",
+      "source": "archives_yonne",
+      "title": "1 vue  - 50. Sens. La tour de pierres de la cathédrale. (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05634.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2132515&MTIME=1346439587",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05634.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2132515&MTIME=1346439587",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_2bdbc5bec2a7",
+      "source": "archives_yonne",
+      "title": "Carte postale Sens",
+      "url": "https://archives.yonne.fr/.within.website/x/cmd/anubis/static/img/pensive.webp?cacheBuster=1.24.0-38-g4e0df8c-dev",
+      "thumbnail": "https://archives.yonne.fr/.within.website/x/cmd/anubis/static/img/pensive.webp?cacheBuster=1.24.0-38-g4e0df8c-dev",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_018c4564ae25",
+      "source": "archives_yonne",
+      "title": "Carte postale Sens",
+      "url": "https://archives.yonne.fr/.within.website/x/cmd/anubis/static/img/happy.webp?cacheBuster=1.24.0-38-g4e0df8c-dev",
+      "thumbnail": "https://archives.yonne.fr/.within.website/x/cmd/anubis/static/img/happy.webp?cacheBuster=1.24.0-38-g4e0df8c-dev",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_b6603fb11ece",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 199-1 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0199%2FFRAD089_C_0199_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5288664&MTIME=1360311906",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0199%2FFRAD089_C_0199_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5288664&MTIME=1360311906",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_e89f0f411aed",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 199-2 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0199%2FFRAD089_C_0199_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=10847805&MTIME=1360311862",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0199%2FFRAD089_C_0199_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=10847805&MTIME=1360311862",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_ac4971d63f40",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 201-1 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0201%2FFRAD089_C_0201_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1834209&MTIME=1360311999",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0201%2FFRAD089_C_0201_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1834209&MTIME=1360311999",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_a5f5ebd71543",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 201-2 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0201%2FFRAD089_C_0201_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2585324&MTIME=1360311984",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0201%2FFRAD089_C_0201_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2585324&MTIME=1360311984",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_7ae5c293e165",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 201-3 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0201%2FFRAD089_C_0201_0003.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=4376570&MTIME=1360311966",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0201%2FFRAD089_C_0201_0003.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=4376570&MTIME=1360311966",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_433616fe985f",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 202-1 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0202%2FFRAD089_C_0202_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=3169792&MTIME=1360312068",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0202%2FFRAD089_C_0202_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=3169792&MTIME=1360312068",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_73d1774ba769",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 202-2 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0202%2FFRAD089_C_0202_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=6453060&MTIME=1360312084",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0202%2FFRAD089_C_0202_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=6453060&MTIME=1360312084",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_6c15fe3a2bf6",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 202-3 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0202%2FFRAD089_C_0202_0003.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2027698&MTIME=1360312096",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0202%2FFRAD089_C_0202_0003.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2027698&MTIME=1360312096",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_7bfcdb055433",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 205-3 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0205%2FFRAD089_C_0205_0003.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5332958&MTIME=1360312231",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0205%2FFRAD089_C_0205_0003.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5332958&MTIME=1360312231",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_c1a6c2565a9f",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 205-2 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0205%2FFRAD089_C_0205_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=4487129&MTIME=1350668740",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0205%2FFRAD089_C_0205_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=4487129&MTIME=1350668740",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_ebe12c29a70c",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 205-1 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0205%2FFRAD089_C_0205_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2543687&MTIME=1360312216",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0205%2FFRAD089_C_0205_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2543687&MTIME=1360312216",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_c8705dbb68ce",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 207-1 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0207%2FFRAD089_C_0207_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5655666&MTIME=1350668750",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0207%2FFRAD089_C_0207_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5655666&MTIME=1350668750",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_603a9cc72d5e",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 208-1 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0208%2FFRAD089_C_0208_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5422813&MTIME=1350668758",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0208%2FFRAD089_C_0208_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5422813&MTIME=1350668758",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_d6be88ff5486",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 208-2 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0208%2FFRAD089_C_0208_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5863309&MTIME=1360312425",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0208%2FFRAD089_C_0208_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5863309&MTIME=1360312425",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_a30d10994da4",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 208-3 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0208%2FFRAD089_C_0208_0003.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5974561&MTIME=1360312404",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0208%2FFRAD089_C_0208_0003.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5974561&MTIME=1360312404",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_f771b7d37c87",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 208-4 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0208%2FFRAD089_C_0208_0004.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5333037&MTIME=1360312390",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0208%2FFRAD089_C_0208_0004.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=5333037&MTIME=1360312390",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_4636c8285863",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 208-5 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0208%2FFRAD089_C_0208_0005.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=4323492&MTIME=1360312376",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0208%2FFRAD089_C_0208_0005.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=4323492&MTIME=1360312376",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_efeac06dc730",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 209-1 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0209%2FFRAD089_C_0209_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=7554203&MTIME=1360312597",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0209%2FFRAD089_C_0209_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=7554203&MTIME=1360312597",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_7e737681297b",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 209-2 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0209%2FFRAD089_C_0209_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=4960059&MTIME=1360312611",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0209%2FFRAD089_C_0209_0002.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=4960059&MTIME=1360312611",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    },
+    {
+      "id": "yonne_c36ab28ab1c1",
+      "source": "archives_yonne",
+      "title": "1 vue  - voir l\\'article C 210-1 (ouvre la visionneuse)",
+      "url": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0210%2FFRAD089_C_0210_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2469623&MTIME=1364287408",
+      "thumbnail": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_C%2FFRAD089_C_0210%2FFRAD089_C_0210_0001.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2469623&MTIME=1364287408",
+      "license": "archives-departementales",
+      "tags": [
+        "cartes postales",
+        "Sens",
+        "archives"
+      ],
+      "relatedHeritageItemId": null
+    }
+  ]
+}
