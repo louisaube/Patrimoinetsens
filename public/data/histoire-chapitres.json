@@ -7,7 +7,7 @@
       "title": "Agedincum, capitale des Sénons",
       "period": "-300 — 476",
       "periodLabel": "Antiquité",
-      "summary": "Brennus et ses Sénons marchent sur Rome. Puis les Romains reviennent, et Agedincum devient l'une des plus grandes villes de Gaule.",
+      "summary": "Trois siècles avant notre ère, les Sénons sont le peuple gaulois le plus audacieux — ils marchent sur Rome. Puis les Romains reviennent, et Agedincum devient une vraie ville : forum, thermes, amphithéâtre, aqueduc. Quand les invasions barbares menacent, on construit des remparts avec les pierres des monuments romains. C'est le paradoxe de Sens : on détruit pour survivre.",
       "color": "#8B4513",
       "events": [
         {
@@ -229,7 +229,7 @@
       "title": "La métropole chrétienne",
       "period": "476 — 1000",
       "periodLabel": "Haut Moyen Âge",
-      "summary": "Sens devient la plus puissante métropole religieuse du nord de la France. Son archevêque porte le titre de « Primat des Gaules et de Germanie ».",
+      "summary": "Après la chute de Rome, Sens ne disparaît pas — elle se réinvente. Son archevêque devient le personnage le plus puissant de la région. Il commande à sept évêques, dont celui de Paris. Il sacre des rois, trahit des empereurs, part évangéliser les Vikings. En 886, quand les Normands assiègent la ville, les remparts gallo-romains tiennent bon. Sens survit à tout.",
       "color": "#6B3FA0",
       "events": [
         {
@@ -466,7 +466,7 @@
       "title": "Le siècle de la cathédrale",
       "period": "1000 — 1300",
       "periodLabel": "Moyen Âge central",
-      "summary": "Sens construit la première grande cathédrale gothique. Un pape y vit. Thomas Becket s'y réfugie. Saint Louis s'y marie. C'est le sommet de la puissance sénonaise.",
+      "summary": "C'est l'âge d'or. Vers 1135, on lance la construction d'une cathédrale révolutionnaire — l'une des premières gothiques. Un pape s'installe à Sens. Thomas Becket s'y réfugie. Saint Louis s'y marie. La ville est au centre du monde chrétien. Mais c'est aussi l'époque des tanneurs, des drapiers, des foires — Sens est une ville qui travaille autant qu'elle prie.",
       "color": "#1E40AF",
       "events": [
         {
@@ -822,7 +822,7 @@
         {
           "year": 1291,
           "title": "Dans les prisons de Sens, des Chevaliers du Temple (1)",
-          "text": "dans les prisons de Sens, des Chevaliers du Temple 4. Dans les prisons de Sens, des Chevaliers du Temple (1) Après la perte définitive de la Terre sainte en 1291, l'ordre du Temple fut victime de la lutte entre la papauté et le roi de France,Philippe IV le Bel. Il fut dissout par le pape Clément V en 1312 à la suite d'un procès en hérésie.",
+          "text": "Chevaliers du Temple (1) Après la perte définitive de la Terre sainte en 1291, l'ordre du Temple fut victime de la lutte entre la papauté et le roi de France,Philippe IV le Bel. Il fut dissout par le pape Clément V en 1312 à la suite d'un procès en hérésie.",
           "location": {
             "lat": 48.197,
             "lng": 3.285,
@@ -841,7 +841,7 @@
       "title": "Guerres et reconstructions",
       "period": "1300 — 1600",
       "periodLabel": "Fin du Moyen Âge / Renaissance",
-      "summary": "La Guerre de Cent Ans dévaste le Sénonais. Jeanne d'Arc passe par Sens. Puis les guerres de Religion ensanglantent la ville — le massacre des Huguenots de 1562.",
+      "summary": "Tout s'effondre. La peste noire (1348) tue un tiers de la population. La Guerre de Cent Ans ravage le Sénonais. Les Anglais et les Bourguignons assiègent Sens en 1420. Puis les guerres de Religion ensanglantent la ville — le massacre des Huguenots de 1562 est l'un des plus violents de France. Mais c'est aussi l'époque de Jean Cousin, le premier grand nu français, et de l'arrivée de l'imprimerie.",
       "color": "#991B1B",
       "events": [
         {
@@ -879,7 +879,7 @@
         {
           "year": 1345,
           "title": "L'ombre des Célestins rode sur Mallarmé",
-          "text": "Collège Stéphane Mallarmé 4. L'ombre des Célestins rode sur Mallarmé Le couvent des Célestins, deviendra au cours du temps, un établissement scolaire. Il accueillera de nombreux élèves dont Stéphane Mallarmé qui lui donnera son nom. Nous sommes en l’an de grâce, si l’on peut dire, 1345.",
+          "text": "Mallarmé Le couvent des Célestins, deviendra au cours du temps, un établissement scolaire. Il accueillera de nombreux élèves dont Stéphane Mallarmé qui lui donnera son nom. Nous sommes en l’an de grâce, si l’on peut dire, 1345.",
           "location": {
             "lat": 48.1985,
             "lng": 3.287,
@@ -1038,7 +1038,7 @@
         {
           "year": 1493,
           "title": "A partir de 1493, on trouve des traces de cet établissement...",
-          "text": "que reste-t-il de \"l'Ostel de l'Escu\"? 4. A partir de 1493, on trouve des traces de cet établissement... ... qui fut,pendant de longues années la demeure des administrateurs de l’Hôtel Dieu. ![l-hotel-de-l-ecu-tel-qu-il-existait-jusqu-en-1965-au-fond-la-rue-de-la-république-fond-pissot-bis.jpg](http://www.histoire-sens-senonais-yonne.",
+          "text": "s traces de cet établissement... ... qui fut,pendant de longues années la demeure des administrateurs de l’Hôtel Dieu. ![l-hotel-de-l-ecu-tel-qu-il-existait-jusqu-en-1965-au-fond-la-rue-de-la-république-fond-pissot-bis.jpg](http://www.histoire-sens-senonais-yonne.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1131,7 +1131,7 @@
         {
           "year": 1542,
           "title": "Les Ursulines à Sens",
-          "text": "du couvent des Ursulines à l’école Jeanne d’Arc 4. Les Ursulines à Sens Le 22 mai 1542, en réponse aux demandes formulées par Martin Luther dans le cadre de la Réforme protestante, le pape Paul III convoque le concile de Trente qui va débuter le 13 décembre 1545. Il sera clos 18 ans plus tard, confirmant la doctrine du pêché originel, l’autorité de la Bible, les sept sacrements, le culte des saints et des reliques.",
+          "text": "Le 22 mai 1542, en réponse aux demandes formulées par Martin Luther dans le cadre de la Réforme protestante, le pape Paul III convoque le concile de Trente qui va débuter le 13 décembre 1545. Il sera clos 18 ans plus tard, confirmant la doctrine du pêché originel, l’autorité de la Bible, les sept sacrements, le culte des saints et des reliques.",
           "location": {
             "lat": 48.199,
             "lng": 3.285,
@@ -1358,7 +1358,7 @@
       "title": "La ville classique",
       "period": "1600 — 1789",
       "periodLabel": "Ancien Régime",
-      "summary": "Sens se couvre de couvents. L'archevêque reste puissant mais Paris grandit. L'Armorial d'Hozier recense 110 familles sénonaises en 1696.",
+      "summary": "Sens se couvre de couvents — Carmélites, Ursulines, Célestins, Dominicaines. L'archevêque reste puissant mais Paris grandit. En 1622, le coup fatal : Paris s'émancipe et Sens perd la moitié de sa province. La ville qui commandait à Paris devient lentement une ville de province. L'Armorial d'Hozier (1696) recense 110 familles — c'est le portrait d'une société figée, juste avant que tout bascule.",
       "color": "#7C3AED",
       "events": [
         {
@@ -1521,7 +1521,7 @@
         {
           "year": 1762,
           "title": "C’est une des rues les plus longues de la ville qui porte son nom.",
-          "text": "Jacques-Charles Dubois Général d'Empire 4. C’est une des rues les plus longues de la ville qui porte son nom. Ancienne voie romaine, elle est le prolongement de l’ancien axe nord-sud de la cité. Jacques-Charles Dubois à vu le jour le 27 novembre 1762 à Reux, petit village du Calvados, non loin de Pont-l’Evêque.",
+          "text": "ngues de la ville qui porte son nom. Ancienne voie romaine, elle est le prolongement de l’ancien axe nord-sud de la cité. Jacques-Charles Dubois à vu le jour le 27 novembre 1762 à Reux, petit village du Calvados, non loin de Pont-l’Evêque.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1536,7 +1536,7 @@
         {
           "year": 1769,
           "title": "Une Poste que l’on appelait « La boite à savon ! »",
-          "text": "une Poste que l'on appelait « La boite à savon ! » 4. Une Poste que l’on appelait « La boite à savon ! » Si l’on pose la question à de nombreux Sénonais, «Qu’est-ce que la boite à savon ?», bien peu pourront vous répondre qu’il s’agit de la poste.",
+          "text": "La boite à savon ! » Si l’on pose la question à de nombreux Sénonais, «Qu’est-ce que la boite à savon ?», bien peu pourront vous répondre qu’il s’agit de la poste.",
           "location": {
             "lat": 48.1975,
             "lng": 3.2835,
@@ -1618,7 +1618,7 @@
       "title": "Révolution et industrie",
       "period": "1789 — 1914",
       "periodLabel": "Époque contemporaine",
-      "summary": "Sens passe de l'Ancien Régime à la modernité. La Révolution chasse les moines. Le train arrive en 1849. Le marché couvert et le théâtre transforment la ville.",
+      "summary": "En 1789, les Sénonais demandent un siège aux États Généraux — ils se souviennent de leur grandeur passée. La Révolution ferme les couvents, guillotine à Champbertrand, traîne les corps du Dauphin dans les rues. Puis vient la modernité : le train (1849), le marché couvert (1882), Mallarmé au lycée, le phylloxéra qui détruit les vignes. En un siècle, Sens passe de l'Ancien Régime à la République.",
       "color": "#B91C1C",
       "events": [
         {
@@ -1749,7 +1749,7 @@
         {
           "year": 1798,
           "title": "Louis-Etienne Saint-Denis, le Mamelouk Ali, de Napoléon",
-          "text": "le mamelouk Ali, de Napoléon 4. Louis-Etienne Saint-Denis, le Mamelouk Ali, de Napoléon Napoléon en avait trois…. Chose peu commune direz-vous. Mais pas tant que cela. L’un s’appelait Ali. L’autre Roustam. Le dernier Ali. Ils furent les mamelouks de l’Empereur.Napoléon mourut à Ste-Hélène. Ali bis à Sens.",
+          "text": "Mamelouk Ali, de Napoléon Napoléon en avait trois…. Chose peu commune direz-vous. Mais pas tant que cela. L’un s’appelait Ali. L’autre Roustam. Le dernier Ali. Ils furent les mamelouks de l’Empereur.Napoléon mourut à Ste-Hélène. Ali bis à Sens.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -1938,7 +1938,7 @@
         {
           "year": 1849,
           "title": "Un chemin de fer inauguré entre archevêque et choléra",
-          "text": "la Gare de Sens 1849 4. Un chemin de fer inauguré entre archevêque et choléra Le 9 septembre 1849, le train inaugural de la ligne Paris-Tonnerre s’arrête à Sens. Un terminal prévu car à  Tonnerre, le choléra sévit. A Sens, l’archevêque bénit. En toute sagesse, le Prince-président opte pour le goupillon. ![inauguration-de-la-ligne-paris-tonnerre-par-le-prince-louis-napoleon-bonaparte-coll-sas.jpg](http://www.",
+          "text": "e archevêque et choléra Le 9 septembre 1849, le train inaugural de la ligne Paris-Tonnerre s’arrête à Sens. Un terminal prévu car à  Tonnerre, le choléra sévit. A Sens, l’archevêque bénit. En toute sagesse, le Prince-président opte pour le goupillon. ![inauguration-de-la-ligne-paris-tonnerre-par-le-prince-louis-napoleon-bonaparte-coll-sas.jpg](http://www.",
           "location": {
             "lat": 48.192,
             "lng": 3.278,
@@ -1949,21 +1949,6 @@
           ],
           "heritageItemId": null,
           "longText": "ns une vigne à deux cents pas environ à droite du chemin de Villethierry à Diant, et à un kilomètre de Diant. Elle est méplate et présente à sa base un trapèze irrégulier dont les deux grandes faces sont à bien peu près parallèles. La plus grande largeur de cette base est de 80 centimètres et sa plus grande longueur de 2 mètres 35 centimè- tres, le contour total étant de 5 mètres 70 centimètres. Sa hau- teur, hors terre, est d'au moins 4 mètres; on dit dans le pays qu'on a creusé à 2 mètres à son pied, sans en trouver l'extré- mité inférieure."
-        },
-        {
-          "year": 1849,
-          "title": "La longue marche du cheval de fer",
-          "text": "la Gare de Sens 1849 4. La longue marche du cheval de fer Avant l'avènement du chemin de fer, le système de transport rapide est assuré par les diligences qui atteignent la vitesse moyenne d'un cheval au trot ! C'est au Royaume-Uni, au début du XIXe siècle, que commence l'histoire des chemins de fer avec la première traction à vapeur, inaugurée en 1812, dans le Yorkshire.",
-          "location": {
-            "lat": 48.192,
-            "lng": 3.278,
-            "label": "Gare de Sens"
-          },
-          "sources": [
-            "Daguin, G. \"La longue marche du cheval de fer.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "dans la cour, représente une partie du corps d'un cheval et les pieds du cavalier. Le cheval porte à la croupe des traces qui ressemblent à des écailles ou aux plumes courtes d'un aile. Les pieds de derrière sont ramassés sous lui. (Pl. F7,l.) Deuxième fragment 2) au-dessus du premier, I) contient le torse d'un homme, le bras gauche étendu en arrière. Une aile gigantesque se déploie dans le fond. Le troisième (fig. 3~ offre la tête et le buste d'un jeune homme coiffé d'un bonnet phrygien. Derrière les épaules on distingue deux appendices sculptés qui sont peut-être les jarrets repliés d'un aigle. (Jupiter enlevant Ganymède ?) Le quatrième, dans le jardin, représente un homme assis ou plutôt à demi étendu à terre, et une femme debout, dans des proportions plus grande que nature. On n~ voit que le milieu du corps les extrémités manquent."
         },
         {
           "year": 1850,
@@ -1999,7 +1984,7 @@
         {
           "year": 1854,
           "title": "Collège Stéphane Mallarmé, du Couvent au C.E.S.",
-          "text": "Collège Stéphane Mallarmé 4. Collège Stéphane Mallarmé, du Couvent au C.E.S. Grâce aux efforts de Mgr Mellon Jolly et à l’influence d’anciens élèves dont le Baron Thénard ou le ministre Vuitry, l’ancien couvent des Célestins devient, par décret de Napoléon III en date du 4 avril 1854, Lycée Impérial. _Stéphane Mallarmé_ _![mal-6-sas-bis.jpg](",
+          "text": "Couvent au C.E.S. Grâce aux efforts de Mgr Mellon Jolly et à l’influence d’anciens élèves dont le Baron Thénard ou le ministre Vuitry, l’ancien couvent des Célestins devient, par décret de Napoléon III en date du 4 avril 1854, Lycée Impérial. _Stéphane Mallarmé_ _![mal-6-sas-bis.jpg](",
           "location": {
             "lat": 48.1985,
             "lng": 3.287,
@@ -2186,7 +2171,7 @@
         {
           "year": 1895,
           "title": "Le général Duchesne, 1895 un sénonais à Madagascar",
-          "text": "le Général Duchesne 4. Le général Duchesne, 1895 un sénonais à Madagascar Le général Duchesne, un sénonais à Madagascar Pour amener la souveraine Ranavalo III à respecter un protectorat qui ne dit pas son nom, un corps expéditionnaire français, sous le commandement du général Duchesne, débarque sur l’île de Madagascar en 1895. ![duchesnesaa-bis-1.jpg](http://www.histoire-sens-senonais-yonne.",
+          "text": "énonais à Madagascar Le général Duchesne, un sénonais à Madagascar Pour amener la souveraine Ranavalo III à respecter un protectorat qui ne dit pas son nom, un corps expéditionnaire français, sous le commandement du général Duchesne, débarque sur l’île de Madagascar en 1895. ![duchesnesaa-bis-1.jpg](http://www.histoire-sens-senonais-yonne.",
           "location": {
             "lat": 48.1977,
             "lng": 3.2837,
@@ -2358,7 +2343,7 @@
       "title": "Le XXe siècle",
       "period": "1914 — 2025",
       "periodLabel": "XXe — XXIe siècle",
-      "summary": "Deux guerres mondiales, la Libération, la fin des tanneries et du flottage, et la renaissance du patrimoine sénonais.",
+      "summary": "Deux guerres mondiales frappent Sens. En 1940, la ville tombe en une matinée. En 1944, les Américains de Patton la libèrent. Puis viennent les Trente Glorieuses, l'autoroute, les grands ensembles — et le risque d'oublier le patrimoine. Aujourd'hui, Sens se redécouvre : on rénove les promenades, on replante la vigne, on raconte l'histoire. Ce récit est un début.",
       "color": "#374151",
       "events": [
         {
