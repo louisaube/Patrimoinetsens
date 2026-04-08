@@ -2311,6 +2311,48 @@
           "heritageItemId": null
         },
         {
+          "year": 1789,
+          "title": "Fontaine-la-Gaillarde vote une messe pour le roi : l'impense monarchique",
+          "text": "En mars 1789, les habitants de Fontaine-la-Gaillarde, apres avoir redige leurs doleances, votent a l'unanimite une messe du Saint-Esprit pour le roi. Ils chantent le Domine salvum fac Regem et declarent etre 'toujours prets a verser notre sang' pour 'notre Roi tres chretien, dont les vues ne tendent qu'au soulagement de son pauvre peuple.' Quatre mois plus tard, la Bastille tombe. Cinq mois plus tard, le roi est ramene de force a Paris. Quatre ans plus tard, il est decapite. Ces paysans qui prient pour le roi ne savent pas qu'ils vivent les derniers mois de la monarchie absolue.",
+          "location": {
+            "lat": 48.16,
+            "lng": 3.26,
+            "label": "Fontaine-la-Gaillarde --- messe pour le roi"
+          },
+          "sources": [
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Fontaine-la-Gaillarde l.4941-4952."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1789,
+          "title": "Chigy : 'Supprimez les intermediaires et les coffres seront remplis'",
+          "text": "Les habitants de Chigy ecrivent : 'Avant que les deniers que le peuple fournit parviennent au coffre royal, helas, par combien de mains ne passent-ils point ?' Et leur solution : supprimer les intendants et les employes, et le roi 'verrait, avec joie et la plus grande satisfaction, finir les besoins de l'Etat, les coffres remplis, ses fideles sujets satisfaits.' Ils pensent que le deficit est un probleme de tuyauterie, pas de structure. Que le roi est mal informe, pas mal constitue. C'est l'angle mort fondamental de 1789.",
+          "location": {
+            "lat": 48.12,
+            "lng": 3.15,
+            "label": "Chigy --- les intermediaires"
+          },
+          "sources": [
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Chigy l.13786-13828."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1789,
+          "title": "La Louptiere : 'Que la Noblesse garde ses titres' --- l'abolition impensable",
+          "text": "La Louptiere redige le cahier le plus radical du bailliage : 'Puisque nous n'avons qu'un seul Roi, n'ayons qu'une seule loi, ne formons qu'un seul peuple.' Mais meme ce texte ajoute : 'Que la Noblesse et le Clerge gardent, s'ils le veulent, leurs titres ; mais que le peuple soit libre.' Meme dans la doleance la plus audacieuse du Senonais, l'abolition des ordres est impensable. On demande l'egalite fiscale, pas l'egalite civique. Le 4 aout --- cinq mois plus tard --- abolira tout.",
+          "location": {
+            "lat": 48.2,
+            "lng": 3.4,
+            "label": "La Louptiere --- cahier radical"
+          },
+          "sources": [
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. La Louptiere l.20348-20352, l.20483-20484."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1790,
           "title": "Les couvents fermés",
           "text": "L'Assemblée nationale décrète la dissolution des ordres religieux. À Sens, c'est un séisme. Les Célestins, les Jacobins, les Carmélites, les Ursulines — tous doivent partir. Les bâtiments sont vendus comme biens nationaux. Le couvent des Célestins deviendra... un collège (Stéphane Mallarmé y enseignera en 1870).",
