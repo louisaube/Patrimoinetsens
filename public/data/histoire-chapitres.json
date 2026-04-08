@@ -11,6 +11,20 @@
       "color": "#8B4513",
       "events": [
         {
+          "year": -3000,
+          "title": "Les morts assis en cercle : une sepulture de l'age de pierre a Villemanoche",
+          "text": "Le 12 avril 1875, un carrier de Villemanoche (pres de Sens) souleve un rocher de 3 metres et decouvre une sepulture collective de l'age de la pierre polie. Les morts etaient assis en cercle dans une fosse ovale, entoures de couteaux et grattoirs en silex. Envoyes au celebre Dr Broca a Paris, les cranes sont identifies comme parmi les plus anciennes decouvertes de ce type en France. Bien avant les Senons, bien avant les Romains, des hommes vivaient et mouraient ici.",
+          "location": {
+            "lat": 48.21,
+            "lng": 3.25,
+            "label": "Villemanoche --- sepulture neolithique"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XII, 1880, p. 8-14 (decouverte du 12 avril 1875)."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": -390,
           "title": "Brennus prend Rome",
           "text": "Le chef sénon Brennus et ses guerriers marchent sur Rome. Selon la légende, quand les Romains protestent contre la rançon exigée, il jette son épée sur la balance et lance : « Vae victis ! » — Malheur aux vaincus. Que l'anecdote soit vraie ou non, les Sénons — le peuple qui à donné son nom à Sens — sont les seuls Gaulois à avoir pris Rome.",
@@ -173,6 +187,20 @@
           "image": "/images/histoire/sas_1880_mosaique.jpg"
         },
         {
+          "year": 200,
+          "title": "352 monnaies au musee : d'Auguste a Justinien en passant par Carthage",
+          "text": "En 1880, le musee de Sens conserve une collection de 352 monnaies antiques cataloguees par G. Dubois. On y trouve des pieces de la Republique romaine, des empereurs d'Auguste a Honorius, des monnaies byzantines de Justinien, et meme une monnaie vandale de Carthage et une piece d'Alexandre le Grand. Cet ensemble temoigne des echanges commerciaux qui transitaient par Agedincum pendant des siecles --- la ville etait un carrefour ou circulaient des pieces venues de tout le monde antique.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Musee de Sens --- collection numismatique"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XII, 1880, p. 248-267 (catalogue Dubois, 352 pieces)."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
           "year": 270,
           "title": "Les remparts gallo-romains",
           "text": "Face aux invasions germaniques, les habitants construisent une enceinte de 1 200 mètres de périmètre avec des blocs récupérés sur les monuments romains. Ces remparts — dont on voit encore des pans dans la ville — délimitent un espace qui restera le cœur de Sens pendant quinze siècles.",
@@ -205,6 +233,20 @@
           "longText": "L'amphithéâtre d'Agedincum est un fantôme. On sait qu'il a existé, mais il a presque entièrement disparu.\n\nLes preuves sont de trois ordres. D'abord, les textes : les Actes du martyre de sainte Colombe (IIIe siècle) mentionnent un amphithéâtre où des chrétiens sont suppliciés sous l'empereur Aurélien. Ensuite, la toponymie : dans le faubourg Saint-Savinien, un terrain est appelé « les Arènes » dans les documents médiévaux. Enfin, la topographie : en 1846, les fondateurs de la SAS notent qu'un terrain « creusé en entonnoir » à gauche du faubourg pourrait être la cavea (les gradins) d'un amphithéâtre.\n\nUn amphithéâtre romain n'est pas un théâtre. Le théâtre est en demi-cercle, pour les pièces et les discours. L'amphithéâtre est un ovale fermé, conçu pour les combats de gladiateurs et les chasses (venationes). C'est l'ancêtre du stade.\n\nToute ville romaine de quelque importance en possédait un. L'amphithéâtre d'Agedincum devait contenir entre 5 000 et 10 000 spectateurs — autant que la population de la ville. Les jours de spectacle, on venait de toute la campagne environnante.\n\nSens avait donc son « Colisée » — à l'échelle d'une capitale de province gauloise. Les vestiges sont sous les maisons du faubourg Saint-Savinien. Des fouilles archéologiques permettraient peut-être de les retrouver, mais les terrains sont privés et urbanisés."
         },
         {
+          "year": 280,
+          "title": "Les remparts construits sur les ruines : recycler sa propre ville",
+          "text": "Quand on demolit une partie des remparts de Sens pres du palais de justice au XIXe siecle, l'archeologue Julliot fait une decouverte saisissante : le mur d'enceinte avait ete construit en coupant en deux une maison romaine decoree de mosaiques. Les Senonais du IVe siecle ont litteralement recycle les ruines de leur propre ville pour se fortifier. On retrouve des cubes de marbre blanc et noir d'une mosaique detruite, emprisonnes dans le mortier du rempart.",
+          "location": {
+            "lat": 48.1968,
+            "lng": 3.285,
+            "label": "Remparts pres du palais de justice"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XII, 1880, p. 239 (demolition du rempart, Julliot)."
+          ],
+          "heritageItemId": "e5555555-0014-0014-0014-000000000014"
+        },
+        {
           "year": 300,
           "title": "Saint Savinien, premier évêque",
           "text": "Selon la tradition, Savinien arrive à Sens au IIIe siècle pour évangéliser la ville. Il est martyrisé — battu avec des maillets de bois, puis décapité. Sa basilique, dans le faubourg sud, marque l'un des plus anciens lieux de culte chrétien de la région.",
@@ -219,6 +261,22 @@
           ],
           "heritageItemId": "e5555555-0010-0010-0010-000000000010",
           "longText": "Qui était vraiment saint Savinien ? La question divise les historiens depuis des siècles. La tradition en fait un envoyé de Rome, arrivé à Sens au IIIe siècle avec son compagnon Potentien pour évangéliser la Gaule. Les textes les plus anciens le décrivent comme le premier évêque de Sens, martyrisé pour sa foi — battu avec des maillets, puis décapité.\n\nMais il y a un problème : l'Église des Francs avait une fâcheuse tendance à antidater ses origines. Chaque diocèse voulait prouver qu'il avait été fondé par un disciple direct des apôtres — une sorte de certificat d'ancienneté. En réalité, la christianisation de la Gaule du Nord a été plus tardive que les légendes ne le disent. Les historiens modernes situent plutôt Savinien à la fin du IIIe ou au début du IVe siècle.\n\nCe qui est certain, c'est que Sens est l'un des premiers sièges épiscopaux de la Gaule du Nord. Le découpage ecclésiastique reprend le découpage administratif romain : l'évêque s'installe dans la capitale de la civitas. Or Agedincum est la capitale des Sénons depuis des siècles. L'évêque de Sens hérite donc d'un territoire immense — celui de l'ancienne IVe Lyonnaise — et deviendra bientôt l'archevêque le plus puissant de France, supérieur hiérarchique de l'évêque de Paris.\n\nLa basilique Saint-Savinien, dans le faubourg sud, marque le lieu présumé du martyre. L'édifice actuel date du XIIIe siècle mais repose sur des fondations bien plus anciennes. Joseph Perrin, archéologue, a identifié en 1921 un possible martyrium — un petit édifice funéraire paléochrétien — sous la basilique. C'est l'un des plus anciens lieux de culte chrétien du Bassin parisien.\n\nSavinien est fêté le 19 octobre. Son nom est devenu celui du faubourg entier — et de la commune de Saint-Savinien-sur-Yonne."
+        },
+        {
+          "year": 300,
+          "title": "Sept mosaiques sous Sens : une ville de luxe enfouie",
+          "text": "Depuis le XVIIe siecle, au moins sept mosaiques romaines ont ete decouvertes sous les rues de Sens. Le cure Rousseau ecrit vers 1682 avoir vu une cave pavee de 'centaines de carreaux en jaspe, marbre et porphyre.' En 1876, un terrassier creusant Grande-Rue a 1m60 de profondeur tombe sur deux cerfs face a face broutant des feuillages, entoures de pampres et d'oiseaux. Ces tresors prouvent qu'Agedincum n'etait pas un bourg provincial --- c'etait une metropole luxueuse ou les riches demeures avaient des sols dignes de Rome.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2837,
+            "label": "Grande-Rue --- mosaique romaine (1876)"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XII, 1880, p. 225-239 (etude Julliot).",
+            "Chanoine Dulimon (decouverte 1620).",
+            "Cure Rousseau, vers 1682."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 390,
@@ -1139,6 +1197,20 @@
           "longText": null
         },
         {
+          "year": 1500,
+          "title": "Jean Cousin signe 'I.S.' --- Jean de Sens",
+          "text": "Jean Cousin signait ses gravures sur bois avec le monogramme 'I.S.' --- pour Iohannes Senonensis (Jean de Sens) ou Iohannes Sociacensis (Jean de Soucy). Dix bois graves portent cette signature. L'artiste a peint jusqu'a un age tres avance : on connait un portrait date de 1582 et des vitraux parisiens de 1586. La SAS decouvre en 1880 que cinq portraits de famille peints par Cousin existent encore chez un descendant a Agen. Un projet de statue est a l'etude --- elle sera finalement erigee dans le square qui porte son nom.",
+          "location": {
+            "lat": 48.1965,
+            "lng": 3.283,
+            "label": "Square Jean Cousin"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XII, 1880, p. 79-92 et 190 (genealogie Cousin, Deligand)."
+          ],
+          "heritageItemId": "e5555555-0017-0017-0017-000000000017"
+        },
+        {
           "year": 1510,
           "title": "La généalogie des Cousin : des artistes enracines dans le Senonais",
           "text": "Le Bulletin de la SAS de 1880 publie une etude genealogique de la famille de Jean Cousin. Jusqu'au XVIe siècle, il n'existait aucun registre d'etat civil --- le pere inscrivait les naissances sur ses \"livres domestiques\" selon la tradition romaine. L'etude retrace les alliances familiales des Cousin dans le Senonais : ce n'est pas un artiste isole, c'est un homme ancre dans un reseau local de notables, artisans et clercs. Le grand peintre du premier nu francais etait d'abord un fils du pays.",
@@ -1279,6 +1351,20 @@
           ],
           "heritageItemId": null,
           "longText": "es Gaulois Sénonais ap- paraissent activement les premiers sur la scène du monde. Dans le siècle même oit tout l'Orient s'agite et recueille ses forces comme pour s'apprêter à répandre ses flots de lumière jusqu'aux confins de l'Occident, où Jérusalem renaît, où les Perses impor- tent sur les rives de l'Hellespont, la culture intellectuelle de la haute Asie, où Pisistrate ouvre aux Athéniens la carrière de la poésie et des beaux arts, dans laquelle ils doiventjeter un incom- parable éclat, où une colonie de Phocéens s'établit auxBouches- du-Rhône, où Rome, par l'expulsion des Tarquins, fonde sa future grandeur, les Gaulois Sénonais refluent vers le berceau du genre humain et courent au-devant des foyers de civilisation dont les révélations sont destinées à se résumer, à se continuer sur leur propre territoire."
+        },
+        {
+          "year": 1552,
+          "title": "Le premier imprimeur de Sens installe ses presses pres de l'Hotel-Dieu",
+          "text": "En 1552, Francois Girault installe la premiere imprimerie de Sens a cote des portes de l'Hotel-Dieu. Son premier ouvrage est un antiphonaire (un livre de chants liturgiques) commande par le cardinal Louis de Bourbon, archeveque de Sens, et corrige par Jean Cousin lui-meme --- ici en tant que chantre, pas peintre. En 1556, Gilles Richebois publie les Coustumes du bailliage de Sens, un chef-d'oeuvre typographique dont un exemplaire sur velin existe a la bibliotheque. C'est le debut de trois siecles d'imprimerie senonaise.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2819,
+            "label": "Hotel-Dieu --- premiere imprimerie"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XII, 1880, p. 187-189 (imprimeurs de Sens)."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1560,
