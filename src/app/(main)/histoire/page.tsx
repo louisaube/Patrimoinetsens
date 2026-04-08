@@ -5,6 +5,7 @@ import Link from "next/link"
 import { MapPin, BookOpen, ChevronDown, ExternalLink } from "lucide-react"
 import { Badge } from "@/components/ui/badge"
 import chapitresData from "../../../../public/data/histoire-chapitres.json"
+import glossaireData from "../../../../public/data/histoire-glossaire.json"
 
 // ─── Types ──────────────────────────────────────────────────────────────────
 
@@ -47,6 +48,65 @@ function EventLocationBadge({ event }: { event: StoryEvent }) {
   )
 }
 
+// ─── Glossaire inline (tooltip sur les termes) ─────────────────────────────
+
+const glossaryTerms = glossaireData.terms as { term: string; definition: string }[]
+const glossaryMap = new Map(glossaryTerms.map((t) => [t.term.toLowerCase(), t.definition]))
+
+function GlossaryText({ text }: { text: string }) {
+  // Chercher les termes du glossaire dans le texte et les wrapper en tooltips
+  const parts: React.ReactNode[] = []
+  let remaining = text
+  let key = 0
+
+  // Trier les termes par longueur décroissante (matcher les plus longs d'abord)
+  const sortedTerms = [...glossaryMap.keys()].sort((a, b) => b.length - a.length)
+
+  while (remaining.length > 0) {
+    let earliestMatch: { index: number; term: string; length: number } | null = null
+
+    for (const term of sortedTerms) {
+      const idx = remaining.toLowerCase().indexOf(term)
+      if (idx !== -1 && (!earliestMatch || idx < earliestMatch.index)) {
+        earliestMatch = { index: idx, term, length: term.length }
+      }
+    }
+
+    if (!earliestMatch) {
+      parts.push(remaining)
+      break
+    }
+
+    // Texte avant le terme
+    if (earliestMatch.index > 0) {
+      parts.push(remaining.slice(0, earliestMatch.index))
+    }
+
+    // Le terme avec tooltip
+    const matchedText = remaining.slice(earliestMatch.index, earliestMatch.index + earliestMatch.length)
+    const definition = glossaryMap.get(earliestMatch.term)
+    parts.push(
+      <span
+        key={key++}
+        className="border-b border-dotted border-amber-400 cursor-help"
+        title={definition}
+      >
+        {matchedText}
+      </span>
+    )
+
+    remaining = remaining.slice(earliestMatch.index + earliestMatch.length)
+
+    // Éviter les boucles infinies sur le même terme
+    if (remaining.toLowerCase().startsWith(earliestMatch.term)) {
+      parts.push(remaining[0])
+      remaining = remaining.slice(1)
+    }
+  }
+
+  return <p>{parts}</p>
+}
+
 // ─── Composant événement ────────────────────────────────────────────────────
 
 function EventCard({ event, chapterColor }: { event: StoryEvent; chapterColor: string }) {
@@ -81,10 +141,10 @@ function EventCard({ event, chapterColor }: { event: StoryEvent; chapterColor: s
         <EventLocationBadge event={event} />
       </div>
 
-      {/* Text */}
-      <p className="text-stone-700 leading-relaxed text-[15px]">
-        {event.text}
-      </p>
+      {/* Text with glossary highlights */}
+      <div className="text-stone-700 leading-relaxed text-[15px]">
+        <GlossaryText text={event.text} />
+      </div>
 
       {/* Version longue */}
       {event.longText && (
