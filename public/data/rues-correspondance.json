@@ -1,0 +1,239 @@
+{
+  "title": "Table de correspondance des noms de rues de Sens",
+  "description": "Ancien nom → nom actuel des rues du centre historique de Sens. Seules les correspondances attestées par une source primaire sont marquées 'certaine'. Les autres sont 'à vérifier' — à confirmer via recensements AD89 ou cadastre.",
+  "sources": [
+    "Porée, Charles. « Histoire des rues et des maisons de Sens. » Société Archéologique de Sens, 1920.",
+    "Tarbé, Théodore. « Recherches historiques et anecdotiques sur la ville de Sens. » 1838.",
+    "Daguin, Gérard. « À propos du nom des rues. » histoire-sens-senonais-yonne.com.",
+    "Archives départementales de l'Yonne, recensements de population 1836–1936.",
+    "Landry, Ernest. « Les Tarbé, généalogie-biographie. » Sens, Miriam, 1902."
+  ],
+  "correspondances_attestees": [
+    {
+      "nomActuel": "Grande Rue",
+      "ancienNom": "Grande-Rue",
+      "autresNoms": ["Grant-Rue", "Grant Rue du Roy"],
+      "dateChangement": null,
+      "fiabilite": "certaine",
+      "sourcePoree": "ch. I, p. 5–88",
+      "notes": "Nom inchangé depuis le Moyen Âge. Axe principal du centre historique."
+    },
+    {
+      "nomActuel": "Rue des Déportés et de la Résistance",
+      "ancienNom": "Grande-Rue (section est)",
+      "autresNoms": [],
+      "dateChangement": "1945",
+      "fiabilite": "certaine",
+      "sourcePoree": "ch. I, p. 5–88",
+      "notes": "Section de la Grande-Rue renommée après la Libération. Le 190 actuel = ancienne maison Moreau de Vormes. Numérotation décalée par rapport à l'ancienne."
+    },
+    {
+      "nomActuel": "Rue du Palais-de-Justice",
+      "ancienNom": "Rue du Bailliage",
+      "autresNoms": [],
+      "dateChangement": "XVIIIe siècle",
+      "fiabilite": "certaine (Porée p. 116)",
+      "sourcePoree": "ch. II, p. 85–111",
+      "notes": "Citation Porée : « La rue du Palais-de-Justice, dite autrefois rue du Bailliage, parce qu'elle conduisait au bailliage. »"
+    },
+    {
+      "nomActuel": "Rue de l'Épée",
+      "ancienNom": "Rue de la Treille",
+      "autresNoms": ["Rue de l'Espée"],
+      "dateChangement": "~XVIe siècle (progressif)",
+      "fiabilite": "certaine (Porée p. 148, 167)",
+      "sourcePoree": "ch. III, p. 115–166",
+      "notes": "Citation Porée p. 148 : « l'appellation de rue de l'Épée, qui remplaça peu à peu celle de rue de la Treille. » Et p. 167 : « rue anciennement appellée rue de la Treille et à présent rue de l'Espée. »"
+    },
+    {
+      "nomActuel": "Rue Jean-Cousin",
+      "ancienNom": "Rue de la Poterie",
+      "autresNoms": ["Rue de la Serrurerie", "Rue de la Tuile"],
+      "dateChangement": "XIXe siècle",
+      "fiabilite": "certaine (Porée p. 202)",
+      "sourcePoree": "ch. IV, p. 167–232",
+      "notes": "Citation Porée p. 202 : « la partie orientale de la rue Jean-Cousin, c'était, très anciennement, la rue de la Poterie. Au XVe siècle, la Serrurerie. » Le tronçon ouest était rattaché à la rue de la Treille/Épée."
+    },
+    {
+      "nomActuel": "Rue Jossey",
+      "ancienNom": "Rue Saint-Romain (section ouest)",
+      "autresNoms": ["Fromagerie (section)", "Porcelets (section)"],
+      "dateChangement": "XIXe siècle",
+      "fiabilite": "certaine (Porée p. 286)",
+      "sourcePoree": "ch. VII, p. 246–285",
+      "notes": "Citation Porée p. 286 : « C'était autrefois la rue Saint-Romain, mais cette dénomination ne s'appliquait qu'à la partie occidentale de la rue Jossey. »"
+    },
+    {
+      "nomActuel": "Rue Rigault",
+      "ancienNom": "Rue du Cheval-Rouge",
+      "autresNoms": [],
+      "dateChangement": "XIXe siècle",
+      "fiabilite": "certaine (Porée p. 80, 202, 418)",
+      "sourcePoree": "ch. XIII, p. 371–397",
+      "notes": "Citation Porée p. 80, 202 : « rue du Cheval-Rouge, aujourd'hui rue Rigault. » Ancien hôtel de ville, Élection, hôtel-Dieu."
+    }
+  ],
+  "correspondances_a_verifier": [
+    {
+      "nomActuel": "Rue Nonat-Fillemin",
+      "ancienNom": "Rue de la Synagogue",
+      "autresNoms": [],
+      "fiabilite": "à vérifier (Porée couvre la rue ch. X mais ne dit pas explicitement le changement de nom)",
+      "sourcePoree": "ch. X, p. 303–321",
+      "notes": "Porée titre son chapitre 'Rue Nonat-Fillemin' et mentionne la Synagogue, mais la correspondance directe 'Synagogue → Nonat-Fillemin' n'est pas citée mot pour mot."
+    },
+    {
+      "nomActuel": "Rue de l'Écrivain",
+      "ancienNom": "Rue des Jamards",
+      "autresNoms": [],
+      "fiabilite": "à vérifier (lien implicite dans Porée mais pas de citation directe trouvée)",
+      "sourcePoree": "ch. XI, p. 325–359",
+      "notes": "Porée mentionne les Jamards dans le corps du texte. À confirmer via recensements."
+    },
+    {
+      "nomActuel": "Rue du Plat-d'Étain",
+      "ancienNom": "Rue du Plat-d'Étain-d'En-Haut",
+      "autresNoms": ["Plat d'Estain"],
+      "fiabilite": "à vérifier",
+      "sourcePoree": "mentionnée p. 82, 90",
+      "notes": "Porée distingue 'Plat-d'Étain-d'En-Haut' du 'Plat-d'Étain'. Vérifier si la rue actuelle correspond."
+    },
+    {
+      "nomActuel": "Rue Saint-Pierre",
+      "ancienNom": "Rue Saint-Pierre-le-Rond",
+      "autresNoms": [],
+      "fiabilite": "à vérifier",
+      "sourcePoree": "mentionnée p. 227, 236",
+      "notes": "Porée utilise 'Saint-Pierre-le-Rond'. La rue actuelle s'appelle-t-elle 'Saint-Pierre' ou 'Saint-Pierre-le-Rond' ?"
+    },
+    {
+      "nomActuel": "Rue Gaston-Perrot",
+      "ancienNom": "Ruelle de la Blanchisserie",
+      "autresNoms": [],
+      "fiabilite": "à vérifier (source : rosediers, pas Porée)",
+      "sourcePoree": null,
+      "notes": "Emplacement des Moulins Saint-Louis. Gaston Perrot, maire 1947–1971. Nom de la ruelle à confirmer."
+    },
+    {
+      "nomActuel": "Boulevard du 14-Juillet",
+      "ancienNom": "Boulevard des Promenades",
+      "autresNoms": ["Mail"],
+      "fiabilite": "à vérifier",
+      "sourcePoree": null,
+      "notes": "Hypothèse basée sur les conventions de renommage IIIe République. À confirmer."
+    }
+  ],
+  "rues_inchangees_dans_poree": [
+    {
+      "nomActuel": "Rue Maillard",
+      "sourcePoree": "ch. V, p. 233–235",
+      "notes": "Ancien marché aux balais."
+    },
+    {
+      "nomActuel": "Rue de Cugnières",
+      "sourcePoree": "ch. VI, p. 236–245",
+      "notes": "Du nom de Pierre de Cugnières, avocat du roi."
+    },
+    {
+      "nomActuel": "Rue de la Petite-Juiverie",
+      "sourcePoree": "ch. VIII, p. 286–288",
+      "notes": "Ancien quartier juif médiéval."
+    },
+    {
+      "nomActuel": "Rue de la Grande-Juiverie",
+      "sourcePoree": "ch. IX, p. 289–302",
+      "notes": "Tour de la Synagogue."
+    },
+    {
+      "nomActuel": "Rue de Cléneau",
+      "sourcePoree": "ch. XII, p. 360–370",
+      "notes": "Place et église Saint-Pierre-le-Rond."
+    },
+    {
+      "nomActuel": "Rue Édouard-Charton",
+      "sourcePoree": "ch. XIV, p. 398–411",
+      "notes": "Maison natale d'Édouard Charton, fondateur du Magasin pittoresque."
+    },
+    {
+      "nomActuel": "Rue Beaurepaire",
+      "sourcePoree": "mentionnée p. 64",
+      "notes": "Carrefour du Carrouge."
+    },
+    {
+      "nomActuel": "Rue Haut-le-Pied",
+      "sourcePoree": "mentionnée p. 260",
+      "notes": "Près du presbytère de Saint-Pierre-le-Rond."
+    },
+    {
+      "nomActuel": "Rue des Bourses",
+      "sourcePoree": "mentionnée p. 62, 95",
+      "notes": "Charles-Hardouin Tarbé possédait les deux maisons d'angle."
+    }
+  ],
+  "rues_post_remparts": [
+    {
+      "nomActuel": "Cours Tarbé",
+      "notes": "En l'honneur de la famille Tarbé. Boulevard extérieur, post-démolition des remparts."
+    },
+    {
+      "nomActuel": "Rue du Général-Allix",
+      "notes": "Jacques Alexandre François Allix de Vaux (1776–1836), défenseur de Sens en 1814."
+    },
+    {
+      "nomActuel": "Rue Abélard",
+      "notes": "Pierre Abélard (1079–1142), condamné au concile de Sens en 1140."
+    },
+    {
+      "nomActuel": "Boulevard de Maupeou",
+      "notes": "Boulevard extérieur. Immeuble Art Nouveau MH inscrit 2013."
+    },
+    {
+      "nomActuel": "Rue Victor-Hugo",
+      "notes": "Hugo visita Sens en 1839."
+    },
+    {
+      "nomActuel": "Rue Gambetta",
+      "notes": "IIIe République, ~1882."
+    },
+    {
+      "nomActuel": "Rue Thiers",
+      "notes": "IIIe République, ~1877."
+    },
+    {
+      "nomActuel": "Rue Carnot",
+      "notes": "IIIe République, ~1894."
+    },
+    {
+      "nomActuel": "Rue du Général-de-Gaulle",
+      "notes": "Renommage post-WWII, ~1970."
+    },
+    {
+      "nomActuel": "Rue du Général-Duchesne",
+      "notes": "Général Duchesne (1876–1936), natif de Sens."
+    }
+  ],
+  "ruelles_et_cours_disparues": [
+    { "nom": "Ruelle des Jacobins", "localisation": "Entre Grande-Rue et rue de l'Épée", "sourcePoree": "ch. 13, p. 27" },
+    { "nom": "Ruelle du Puits-Picard", "localisation": "Entre rue de l'Épée et remparts", "sourcePoree": "ch. 50, p. 127" },
+    { "nom": "Rue Couverte", "localisation": "Parallèle aux remparts", "sourcePoree": "p. 148, 260" },
+    { "nom": "Cour de la Cloche", "localisation": "Grande-Rue", "sourcePoree": "ch. 8, p. 17" },
+    { "nom": "Cour Perdriat", "localisation": "Grande-Rue", "sourcePoree": "p. 40" },
+    { "nom": "Cour des Guillaumets", "localisation": "Parallèle rue de l'Épée", "sourcePoree": "ch. 108, p. 349" },
+    { "nom": "Cour Josselin / Cour Brûlée", "localisation": "Rue Nonat-Fillemin", "sourcePoree": "ch. 99, p. 314" },
+    { "nom": "Cour Richebois", "localisation": "Rue de l'Écrivain", "sourcePoree": "ch. 106, p. 342" },
+    { "nom": "Cour Brion", "localisation": "Rue Jossey", "sourcePoree": "ch. 91, p. 282" },
+    { "nom": "Cour Véron", "localisation": "Rue de Cugnières", "sourcePoree": "ch. 81, p. 241" },
+    { "nom": "Cour de la Souche", "localisation": "Rue de l'Écrivain", "sourcePoree": "ch. 102, p. 326" },
+    { "nom": "Gastellerie", "localisation": "Section rue Saint-Romain (actuelle Jossey)", "sourcePoree": "p. 326" }
+  ],
+  "metadata": {
+    "correspondancesCertaines": 7,
+    "correspondancesAVerifier": 6,
+    "ruesInchangees": 9,
+    "ruesPostRemparts": 10,
+    "ruellesDisparues": 12,
+    "generatedDate": "2026-04-08",
+    "lastUpdated": "2026-04-08",
+    "note": "Les correspondances 'à vérifier' nécessitent une confirmation via les recensements numérisés des AD89 (1836–1936) ou le cadastre napoléonien. Le Porée (1920) est la source primaire pour les rues intra-muros."
+  }
+}

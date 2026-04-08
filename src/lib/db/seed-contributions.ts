@@ -1639,4 +1639,257 @@ export const seedContributions = [
     audioUrl: null,
   },
 
+  // =========================================================================
+  // CONTRIBUTIONS PORÉE (1920) — sources primaires cross-référencées
+  // Charles Porée, "Histoire des rues et des maisons de Sens", tome I, 1920
+  // =========================================================================
+
+  // --- Fontaine de la Samaritaine (item 7) ---
+  {
+    id: 'f6666666-0115-0115-0115-000000000115',
+    heritageItemId: 'e5555555-0007-0007-0007-000000000007',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La Samaritaine : l'hôtelier Claude Lexcellent et le puits de Jacob",
+    body: "L'historien Charles Porée a retrouvé l'origine du nom de la Samaritaine. Ce n'est pas une fontaine publique à l'origine — c'est une enseigne d'auberge.\n\nAu XVIe siècle, l'hôtelier Claude Lexcellent tenait une maison à l'angle de la rue de l'Épée et de la Grande Juiverie (actuel n° 2). Le voisinage d'un puits et le nom même de la rue de la Juiverie lui donnèrent l'idée de baptiser sa maison « la Samaritaine ». Il fit représenter sur son enseigne l'épisode de l'Évangile de Jean : Jésus assis, conversant avec la Samaritaine venue emplir sa cruche au puits de Jacob.\n\nPorée précise que « la Samaritaine est la vieille maison au mur bossué » qui porte le n° 2. Avant Lexcellent, elle avait appartenu au XVIe siècle à Jérôme Maulmirey, qui la louait à Jean Chaulmard. Le domaine des Maulmirey s'étendait aussi sur les maisons voisines (n°s 11 et 13 de la rue de l'Épée).\n\nCe qui est frappant, c'est que le nom est resté. L'auberge a disparu, les propriétaires ont changé vingt fois, mais quatre siècles plus tard on dit encore « la Samaritaine » — et les Sénonais ne savent plus pourquoi.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. 52, p. 169-173, 1920.',
+    ],
+    period: 'XVIe siècle',
+    audioUrl: null,
+  },
+  // --- Maison Jean Cousin (item 17) ---
+  {
+    id: 'f6666666-0116-0116-0116-000000000116',
+    heritageItemId: 'e5555555-0017-0017-0017-000000000017',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Porée conteste l'attribution de la maison à Jean Cousin",
+    body: "Charles Porée consacre un chapitre entier (ch. 61) à la « maison dite de Jean Cousin ». Son verdict est sans appel : la maison ne mérite « en rien cette glorieuse appellation ».\n\nPorée démontre, grâce aux censiers de l'abbaye de Saint-Rémy, que la maison appartenait à la famille de Bonnaire — six générations s'y succédèrent pendant près d'un siècle et demi, depuis Simon de Bonnaire (1659) jusqu'à Jean-Charles, conseiller au bailliage, qui y habitait en 1780. Avant les Bonnaire : Jean-Vincent, lieutenant en la prévôté, et deux procureurs au bailliage, Robert Venière et Charles Legrand.\n\nLegrand y demeurait au commencement du XVIIe siècle, « vraisemblablement dans les dernières années du XVIe, au temps de la vieillesse de Jean Cousin le jeune ». Mais rien ne prouve que Cousin y ait habité. L'historien Maurice Roy a démontré qu'il y eut deux artistes de ce nom, père et fils, « tous deux si égaux par le talent ou le génie que l'histoire les a longtemps confondus ».\n\nPorée préfère appeler ce bâtiment « la maison des Cousin » par commodité, tout en précisant que c'est un abus de langage. La maison est belle — mais elle n'a probablement jamais abrité le peintre.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. 61, p. 202-206, 1920.',
+      'Roy, Maurice. « Les Cousin, peintres à Sens. »',
+    ],
+    period: 'XVIe – XVIIIe siècle',
+    audioUrl: null,
+  },
+  // --- Couvent des Jacobins (item 27) ---
+  {
+    id: 'f6666666-0117-0117-0117-000000000117',
+    heritageItemId: 'e5555555-0027-0027-0027-000000000027',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La ruelle des Jacobins et la bretèche : ce que Porée a retrouvé",
+    body: "Charles Porée a retrouvé la trace exacte du couvent des Jacobins (Dominicains) dans le tissu urbain sénonais. Entre les n°s 49 et 51 de la Grande-Rue, une ruelle « s'enfonçait perpendiculairement à la rue, jusqu'à une petite place située devant l'ancienne église des Jacobins ».\n\nEn 1467, Nicolas Col, fils de Gontier Col, céda aux religieux une partie de ses droits sur la ruelle. Un accord fut passé : les habitants de la rue et les religieux auraient l'usage commun de la porte donnant sur la Grande-Rue, « mais les religieux seuls auraient la clef de la porte intérieure donnant dans la cour de leur église ».\n\nDétail remarquable : au XVIe siècle, l'entrée de la ruelle était encore surmontée d'une bretèche — un ouvrage défensif percé de mâchicoulis, accroché au flanc d'un mur. Porée note que « toutes les bretèches qui existaient à Sens commandaient l'entrée d'une grande cour intérieure ou d'une ruelle ». Le couvent des Jacobins était donc un monde clos, protégé, enclavé dans la ville — ce qui aide à comprendre comment Jacques Clément, le futur assassin d'Henri III, a pu y être formé dans un isolement quasi total.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. 13, p. 50-51, 1920.',
+    ],
+    period: 'XVe – XVIe siècle',
+    audioUrl: null,
+  },
+  // --- Palais de justice (item 36) ---
+  {
+    id: 'f6666666-0118-0118-0118-000000000118',
+    heritageItemId: 'e5555555-0036-0036-0036-000000000036',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Le Palais de justice : de la chapelle royale au tribunal, 800 ans d'histoire",
+    body: "Le Palais de justice de Sens est le bâtiment le plus documenté du livre de Porée — 151 pages le mentionnent. Le chapitre II entier (p. 85-111, « Rue du Palais-de-Justice ») lui est consacré.\n\nPorée retrace l'histoire du site depuis la chapelle royale de Philippe Auguste. Au XIIIe siècle, Eudes des Barres, frère consanguin du fameux Guillaume III qui se mesura en combat singulier avec Richard Cœur de Lion, tenait la censive du quartier. Sa veuve Héloïse, en 1234, se dessaisit au profit des religieux de Saint-Rémy des cens qu'elle percevait en face de la résidence royale.\n\nAprès la Révolution, le bâtiment connut des vicissitudes rocambolesques. En floréal an II, le citoyen Dufourse « saisit révolutionnairement » les locaux pour y stocker des subsistances. Les juges émigrèrent à l'Hôtel-Dieu, puis à l'archevêché. En l'an VI, le bâtiment fut vendu aux enchères : adjugé à un propriétaire d'Auxerre et un limonadier de Sens pour 52 300 livres en mandats territoriaux. Ils le rétrocédèrent ensuite à un sieur Jolly.\n\nLa chapelle royale, qui servait de salle des Plaideurs, fut finalement transformée en Parquet. Porée note que ce bâtiment « faisait une saillie considérable sur la rue, avançant jusqu'à deux pieds du cours ordinaire du ruisseau ».",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. II (p. 85-111) et ch. 40 (p. 102), 1920.',
+    ],
+    period: 'XIIIe – XIXe siècle',
+    audioUrl: null,
+  },
+  // --- Sous-préfecture / Hôtel Jodrillat (item 37) ---
+  {
+    id: 'f6666666-0119-0119-0119-000000000119',
+    heritageItemId: 'e5555555-0037-0037-0037-000000000037',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "L'hôtel Jodrillat : des Guillefault à la sous-préfecture, en passant par l'archevêché",
+    body: "L'actuelle sous-préfecture de Sens occupe l'hôtel Jodrillat, dont Porée retrace l'histoire complète (ch. 59, p. 194-198).\n\nEn 1572, la partie centrale appartenait aux Guillefault et à Edme Perrot. Trois maisons furent progressivement réunies au XVIIIe siècle par Louis Jodrillat, directeur des aides de l'élection de Noyon, devenu secrétaire du roi. Il tenait le domaine de sa mère, Marie Crécy.\n\nAprès la Révolution, l'héritière de Jodrillat, Madame de la Mothe, vendit l'hôtel le 8 mai 1819. Quand fut décidé le retour des archevêques à Sens (ils résidaient à Troyes depuis le Concordat), la municipalité loua l'hôtel pour y installer provisoirement l'archevêché : le 21 septembre 1821, le maire Leroux signait un bail de deux ans à 800 francs l'an. Le cardinal de la Fare s'y installa.\n\nLes archevêques partis, les sous-préfets s'y installèrent en 1842. Le Département racheta l'immeuble le 16 juillet pour 45 000 francs. L'hôtel Jodrillat n'a donc pas changé de fonction depuis 1842 — mais il en a eu trois en un quart de siècle : maison privée, archevêché provisoire, sous-préfecture.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. 59, p. 194-198, 1920.',
+    ],
+    period: '1572 – 1842',
+    audioUrl: null,
+  },
+  // --- Place du Tau / Juiverie (item 44) ---
+  {
+    id: 'f6666666-0120-0120-0120-000000000120',
+    heritageItemId: 'e5555555-0044-0044-0044-000000000044',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Juifs de Sens au Moyen Âge : la Grande Juiverie, la Synagogue et les rues perdues",
+    body: "Porée consacre trois chapitres entiers au quartier juif médiéval de Sens (ch. VIII-X, p. 286-321), ce qui en fait l'une des documentations les plus riches de France sur une juiverie provinciale.\n\nLa Grande Juiverie (actuelle rue de la Juiverie) et la Petite Juiverie étaient le cœur d'une communauté florissante. Porée note que les Juifs « étaient surtout nombreux dans la Grande Juiverie et rue Nonat-Fillemin ». La rue Nonat-Fillemin, aujourd'hui disparue, reliait la Juiverie à la rue de l'Épée.\n\nLe chapitre 97 (p. 307) décrit la « tour de la Synagogue » — un élément architectural majeur dont l'emplacement exact est identifiable grâce aux censiers. Cette tour apparaît dans les archives comme repère topographique, preuve qu'elle était un bâtiment imposant et visible.\n\nPortée politique : en 1394, Charles VI expulse les Juifs de France. Le quartier se vide. Les maisons sont redistribuées. Mais les noms de rues, eux, persistent — « Grande Juiverie », « Petite Juiverie », « École aux Juifs ». Six siècles plus tard, la mémoire toponymique est intacte.\n\nPorée est l'un des rares historiens à avoir reconstitué, maison par maison, la topographie exacte du quartier juif médiéval de Sens. C'est une source irremplaçable.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. VIII-X, p. 286-321, 1920.',
+    ],
+    period: 'XIIIe – XIVe siècle',
+    audioUrl: null,
+  },
+  // --- Hôtel de Bourrienne / Marivaux (item 45) ---
+  {
+    id: 'f6666666-0121-0121-0121-000000000121',
+    heritageItemId: 'e5555555-0045-0045-0045-000000000045',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Porée déboulonne la légende Marivaux — et retrouve Bonaparte chez Bourrienne",
+    body: "L'hôtel de Bourrienne, rue de l'Écrivain, est associé à deux célébrités : Marivaux et Bonaparte. Porée démonte une légende et en confirme une autre.\n\nTarbé, l'historien du XIXe siècle, affirmait que « le nom actuel de cette rue lui viendrait du séjour qu'y fit Marivaux, dans la maison Fauvelet ». Porée rejette cette opinion : « on trouve l'appellation de rue de l'Écrivain dès 1632, par conséquent bien avant la naissance de l'auteur du Jeu de l'Amour et du Hasard » (Marivaux est né en 1688).\n\nEn revanche, le lien avec Bonaparte est confirmé. La maison appartenait aux Fauvelet de Charbonnière, seigneurs de Bourrienne — le fameux Bourrienne, condisciple de Bonaparte à l'école de Brienne. « Quand, à son retour d'Égypte où Bourrienne l'avait accompagné, le jeune général passa à Sens, méditant déjà peut-être le coup du 18 Brumaire, c'est chez Bourrienne qu'il descendit, dans l'hôtel déjà illustré par le séjour de Marivaux. »\n\nAvant les Fauvelet, la maison avait appartenu au XVe siècle à Thibault Legoux, puis à Jean Legoux, secrétaire du roi Louis XI. Sa fille Anne épousa Étienne Bernard, seigneur de la Mothe d'Arthenne.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. XI (Rue de l\'Écrivain), p. 367-375, 1920.',
+    ],
+    period: 'XVe – XVIIIe siècle',
+    audioUrl: null,
+  },
+  // --- Abbaye Saint-Rémy (item 46) ---
+  {
+    id: 'f6666666-0122-0122-0122-000000000122',
+    heritageItemId: 'e5555555-0046-0046-0046-000000000046',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Saint-Rémy : l'abbaye invisible qui possédait la moitié de Sens",
+    body: "L'abbaye Saint-Rémy est l'entité la plus mentionnée du livre de Porée — 85 pages, plus que n'importe quel bâtiment. Et pourtant, il ne reste rien de l'abbaye elle-même. Ce paradoxe s'explique par sa nature : Saint-Rémy n'était pas seulement un monastère, c'était le plus grand propriétaire foncier de Sens intra-muros.\n\nLe plus ancien censier de l'abbaye, daté de 1302, énumère les maisons qui se succédaient de l'est à l'ouest, depuis la porte de Saint-Rémy. Porée les identifie une par une : la maison « près de la tour », celle de Miles de Pont, de Pierre Ogier, de Pierre le Gastelier, la maison « Croulebois » — « ainsi nommée vraisemblablement parce que déjà ses murs de charpente menaçaient ruine ».\n\nLes abbés de Saint-Rémy percevaient des rentes sur des dizaines de maisons, dans presque toutes les rues de Sens. Ils jouissaient aussi du droit de forage — un prélèvement d'un setier par tonneau de vin vendu dans les maisons de leur censive. En 1212, un propriétaire nommé Guibert Frese refusa de payer. L'abbé l'appela en justice. Frese déclara que « si l'abbé trouvait deux personnes pour jurer que ce droit était dans l'usage, il s'acquitterait immédiatement sans exiger d'autre preuve ». Exemple touchant de confiance en la foi jurée, note Porée.\n\nÀ la veille de la Révolution, les tenanciers allaient « encore payer leurs cens, chaque année, le jour de Saint-Léger, 2 octobre, devant l'ancien manoir de l'abbaye ». Ce rituel a duré cinq siècles.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, passim (85 pages), notamment ch. 53 (p. 174-177) et p. 253-257, 1920.',
+    ],
+    period: '1302 – 1789',
+    audioUrl: null,
+  },
+  // --- Ancien Hôtel-Dieu (item 47) ---
+  {
+    id: 'f6666666-0123-0123-0123-000000000123',
+    heritageItemId: 'e5555555-0047-0047-0047-000000000047',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Le trésor caché dans le pilier : la fondation de l'Hôtel-Dieu par Garnier des Prés",
+    body: "Le petit Hôtel-Dieu de Sens a été fondé par un seigneur médiéval qui avait prévu sa propre destruction.\n\nPorée rapporte la tradition : « Garnier des Prés, seigneur de Granchettes et de Noslon, avait caché, dans un pilier de la salle commune, une grande quantité de pièces d'or, pour rebâtir ledit hôpital s'il advenait que, par fortune de feu ou autrement, il fût démoli et ruiné. »\n\nMais le gouverneur de Champagne, informé de la découverte du trésor, le confisqua au profit du roi. En compensation, Charles V accorda au petit Hôtel-Dieu le revenu du « poids du Roi » — toutes les marchandises vendues au poids à Sens devaient être pesées à l'Hôtel-Dieu, moyennant une redevance.\n\nL'Hôtel-Dieu a ensuite subi des démembrements successifs : en 1514 et en 1650, des parties furent vendues au profit de la fabrique de Saint-Pierre-le-Rond et de M. de Foudriat. En 1675, les soldats du régiment d'Anjou, en garnison à Sens, travaillèrent à la démolition de la grande salle. En 1699, les derniers vestiges furent vendus à M. Vézou.\n\nAujourd'hui, il ne reste rien du petit Hôtel-Dieu. Mais l'histoire de Garnier des Prés — un fondateur assez prévoyant pour cacher un trésor dans un pilier, et assez malchanceux pour se le faire confisquer par l'État — mérite d'être racontée.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. 119, p. 438-439, 1920.',
+    ],
+    period: 'XIVe – XVIIe siècle',
+    audioUrl: null,
+  },
+  // --- Hôtel Vézou / Ancien Hôtel de Ville (item 19) ---
+  {
+    id: 'f6666666-0124-0124-0124-000000000124',
+    heritageItemId: 'e5555555-0019-0019-0019-000000000019',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "L'hôtel Vézou : des Picotte à Daniel Vézou, maire de Sens en 1674",
+    body: "Porée retrace la chaîne de propriété de l'hôtel Vézou, futur hôtel de ville de Sens.\n\nL'immeuble avait été « la propriété de Daniel Vézou, qui fut maire de Sens en 1674, et, plus anciennement, des Picotte ». Les Picotte étaient une famille d'officiers de justice. Anne Perrot épousa Daniel Vézou et, « le 4 mai 1651, par contrat devant Bollogne, Vézou vendait à Pierre Cartault » — ce qui montre que l'immeuble a changé de mains plusieurs fois avant de revenir aux Vézou.\n\nLe plus remarquable, c'est la reconstitution que fait Porée de la chaîne complète des propriétaires, acte notarié par acte notarié. Chaque maison de Sens est un palimpseste : sous le nom actuel, il y a cinq ou six strates de familles, de métiers, de destins. L'hôtel Vézou n'est pas un monument — c'est un feuilleté de cinq siècles de vie sénonaise.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, p. 184 et p. 194-195, 1920.',
+    ],
+    period: 'XVe – XVIIe siècle',
+    audioUrl: null,
+  },
+  // --- Caisse d'épargne (item 56) ---
+  {
+    id: 'f6666666-0125-0125-0125-000000000125',
+    heritageItemId: 'e5555555-0056-0056-0056-000000000056',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Avant la Caisse d'épargne : Jean-Charles de Bonnaire et la rue Jean-Cousin",
+    body: "Le bâtiment de l'ancienne Caisse d'épargne de Sens est traité par Porée au chapitre 62. Avant d'accueillir une institution financière, cette maison appartenait à Jean-Charles de Bonnaire, seigneur de Rosoy, qui en passait reconnaissance en 1780.\n\nPorée remonte plus loin : l'échevin Jean Artault, dont l'épitaphe se voyait dans l'église de Saint-Romain, en était propriétaire au début du XVIe siècle. Il vise le compte du procureur de ville Étienne de Bierne en 1514 — ce qui le situe parmi les notables sénonais de la Renaissance.\n\nLa maison est dans la continuité de la rue Jean-Cousin, anciennement rue de la Poterie (les potiers), puis rue de la Serrurerie (les serruriers y étant devenus nombreux au XVe siècle). Les noms de rues à Sens sont un registre des métiers qui les ont habitées.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. 62, p. 208-210, 1920.',
+    ],
+    period: 'XVIe – XVIIIe siècle',
+    audioUrl: null,
+  },
+
+  // =========================================================================
+  // RUE NONAT-FILLEMIN (item 82)
+  // =========================================================================
+  {
+    id: 'f6666666-0126-0126-0126-000000000126',
+    heritageItemId: 'e5555555-0082-0082-0082-000000000082',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La rue Nonat-Fillemin : six chapitres de Porée sur une rue oubliée",
+    body: "La rue Nonat-Fillemin est l'une des rues les plus riches de Sens — et l'une des plus méconnues. Porée lui consacre six chapitres entiers (ch. 96 à 101, p. 303-321).\n\nElle abritait les greniers à sel (ch. 96) — le sel étant un monopole royal, les greniers étaient un lieu stratégique. On y trouvait aussi la « tour de la Synagogue » (ch. 97), vestige de la communauté juive médiévale. Porée note que « malgré une tradition contraire qui place la synagogue rue Nonat-Fillemin, l'École aux Juifs était vraisemblablement la synagogue de Sens », située dans une ruelle au-delà de la rue de l'Épée. Mais la tour, elle, est bien attestée dans les censiers.\n\nLa cour Josselin — ou cour Brûlée (ch. 99) — évoque un incendie ancien. Le cimetière de Sainte-Colombe y était attenant. La cour Guibert (ch. 100) tire son nom de Jean Guibert et Jean l'Orfèvre, propriétaires au XIVe siècle.\n\nDétail fascinant : Porée retrouve dans cette rue un Jean-Baptiste Déon, « ancien boucher » (p. 321), propriétaire d'une maison à la fin du XVIIIe siècle. Ce patronyme Déon est rare à Sens — ce pourrait être un ancêtre du tanneur Camille Déon, dont le nom est associé au patrimoine industriel sénonais au XIXe siècle.\n\nLe nom Nonat-Fillemin lui-même est un mystère. Porée ne l'explique pas. Les « Nonat » apparaissent comme une famille sénonaise (Cécile Nonat, veuve Farinade) mais le « Fillemin » reste obscur.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. X (p. 303-321), 1920.',
+    ],
+    period: 'XIIIe – XVIIIe siècle',
+    audioUrl: null,
+  },
+  // =========================================================================
+  // HÔTEL DE BIENCOURT — RUE DE L'ÉPÉE (item 83)
+  // =========================================================================
+  {
+    id: 'f6666666-0127-0127-0127-000000000127',
+    heritageItemId: 'e5555555-0083-0083-0083-000000000083',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les hôtels de la rue de l'Épée : Biencourt, Époigny et les prisons du roi",
+    body: "La rue de l'Épée est un condensé de l'histoire sénonaise. Porée lui consacre treize chapitres (ch. III, p. 115-166) et une planche gravée : « Hôtel de Biencourt, rue de l'Épée, n° 21 ».\n\nLe nom de la rue ne vient pas d'un armurier — Porée le précise : « jamais l'Épée ne désigna à Sens la maison d'un armurier ». C'est une enseigne comme tant d'autres, choisie par fantaisie.\n\nLa rue commence par les prisons du roi et les maisons du commandeur de l'ordre de Malte (ch. 45). On y trouve l'église Saint-Maximin, dont le curé Doussier vit le clocher s'élever depuis les fenêtres de son étude. La cour des Comtes (ch. 47) tire son nom des Leconte — cinq héritiers qui se partagèrent la succession de Perrin Leconte en 1476.\n\nL'Huis de fer (ch. 49) était une maison fortifiée dont l'inventaire de 1554 révèle un intérieur Renaissance : chaises cannelées, escabelles assorties, un « manycordyon garny de ses cordes » (un clavicorde), une arquebuse, une arbalète, un jeu de dames, et aux murs un « grand miroir » et des tableaux à l'huile.\n\nL'hôtel de Biencourt (ch. 57, p. 152) et l'hôtel Époigny sont les plus beaux hôtels particuliers de la rue. Porée a fait graver une planche de la porte de Biencourt. La censive de Saint-Rémy couvrait la quasi-totalité du côté est de la rue — un plan de 1778 en reconstitue la topographie exacte.\n\nLa rue de l'Épée est aussi le cœur du quartier juif : c'est dans son prolongement que s'ouvre la Grande Juiverie et que se trouvait l'École aux Juifs.",
+    sources: [
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Tome I, ch. III (p. 115-166), et planches VI-VIII, 1920.',
+    ],
+    period: 'XIIIe – XVIIIe siècle',
+    audioUrl: null,
+  },
+  // =========================================================================
+  // USINE DU PLOMB (item 84)
+  // =========================================================================
+  {
+    id: 'f6666666-0128-0128-0128-000000000128',
+    heritageItemId: 'e5555555-0084-0084-0084-000000000084',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "L'usine du Plomb : des boutons de Metz aux capsules du monde entier",
+    body: "En 1861, Jean-Baptiste Muleur quitte Metz pour s'installer à Sens. Il fabrique des boutons d'acier au Moulin de la Fosse, cours Tarbé. C'est le début d'une aventure industrielle qui durera un siècle.\n\nEn 1870, Muleur s'associe avec Alexandre Lelièvre, du Havre. La société « A. Lelièvre et Muleur Frères » produit des boutons, boucles, agrafes. Puis elle se diversifie : capsules de bouteilles, plombs de scellés. En 1892, le moulin voisin — le Moulin de la Menelle, 6 cours Tarbé — est racheté. L'usine grossit.\n\nÀ son apogée, c'est la plus grosse usine de Sens : jusqu'à 300 ouvriers. Plus que les tanneries Domange à l'époque. Paul Muleur, le fils du fondateur, est Commandeur de l'Ordre d'Isabelle Catholique et Chevalier de l'Ordre de Charles III d'Espagne — des décorations espagnoles, pour un industriel sénonais. On exportait loin.\n\nAlbert Lelièvre, polytechnicien, dirigeait l'usine quand il mourut le 21 mai 1940 — au début de l'Occupation. Son fils Paul prit la suite, mais quitta Sens pour Paris en 1954. L'usine du Plomb continua ses activités jusqu'en 1968, quand Paul Lelièvre la ferma définitivement.\n\nDe deux moulins à farine sur l'Yonne, les familles Muleur et Lelièvre avaient fait la plus grande usine de Sens. De Metz à Sens, des boutons aux capsules, des Bourbons d'Espagne à l'Occupation — c'est un siècle d'industrie française condensé sur les rives du cours Tarbé.",
+    sources: [
+      'Rose Diers, « Coopérative Agricole / Usine de Plomb », reportagephotosrosediers.jimdofree.com.',
+      'Dodet, Étienne. « Sens au XIXe siècle, Tome IV. » CEREP / Société Archéologique de Sens, 2009.',
+    ],
+    period: '1870–1968',
+    audioUrl: null,
+  },
+  // =========================================================================
+  // MOULINS SAINT-LOUIS (item 85)
+  // =========================================================================
+  {
+    id: 'f6666666-0129-0129-0129-000000000129',
+    heritageItemId: 'e5555555-0085-0085-0085-000000000085',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Les Moulins Saint-Louis : du blatier Perrot au maire de Sens",
+    body: "En 1855, Théophile Perrot arrive à Sens. Il est blatier — revendeur de blé sur le marché. Il vient de Saint-Thibault, près de Vitteaux en Côte-d'Or. Ce n'est pas un meunier de naissance, c'est un commerçant qui flaire une opportunité.\n\nLes moulins de la ruelle de la Blanchisserie ont une longue histoire. Antoine Auguste Vieubled, né à Argenteuil dans le Tonnerrois, les exploitait déjà. Son fils Nicolas-Antoine lui succéda, puis Jean-Baptiste Dezalay, puis Eugène Fournier (1866). Quand Ernest Perrot apparaît au moulin avant 1896, les Perrot sont déjà implantés.\n\nC'est Gaston Perrot, né en 1898, qui change l'échelle. Mobilisé en 1917 à dix-neuf ans, il revient en 1920, affronte l'Occupation, relance le moulin. Mais c'est en politique qu'il marque Sens : maire de 1947 à 1971 — vingt-quatre ans —, député de l'Yonne pendant trois législatures. Une rue porte son nom : la rue Gaston-Perrot, où se trouvait son moulin.\n\nSes fils Jean et Roger prennent la suite. En 1988, le groupe Soufflet de Nogent-sur-Seine rachète la Société des Moulins Saint-Louis. Fin d'une histoire familiale.\n\nDu blatier au député, des Perrot ont fait de la farine et de la politique pendant quatre générations. À Sens, les deux allaient ensemble.",
+    sources: [
+      'Rose Diers, « Les anciennes usines de Sens — Les Moulins Saint-Louis », reportagephotosrosediers.jimdofree.com.',
+      'Dodet, Étienne. « Sens au XIXe siècle, Tome IV. » CEREP / Société Archéologique de Sens, 2009.',
+    ],
+    period: '1855–1988',
+    audioUrl: null,
+  },
+
+  // =========================================================================
+  // MAISON MOREAU DE VORMES (item 86)
+  // =========================================================================
+  {
+    id: 'f6666666-0130-0130-0130-000000000130',
+    heritageItemId: 'e5555555-0086-0086-0086-000000000086',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La maison Moreau de Vormes : un président de tribunal sur la Grande-Rue",
+    body: "Au 190 de l'actuelle rue des Déportés et de la Résistance — l'ancienne Grande-Rue de Sens — se dresse une maison qui porte le nom d'une famille oubliée : les Moreau de Vormes.\n\nDeux générations au moins sont documentées. Paul-Augustin Moreau de Vormes (1722–1791) est référencé comme auteur à la Bibliothèque nationale de France. Son fils probable, Jacob-Augustin-Antoine Moreau de Vormes (1750–1806), a connu un destin politique remarquable : président du tribunal criminel de l'Yonne pendant la Révolution, puis membre du Conseil des Anciens — la chambre haute du Corps législatif sous le Directoire. On le désignait « Moreau (de l'Yonne) » dans les débats parlementaires.\n\nEn 1799, il prononce devant le Conseil des Anciens un discours sur la responsabilité des communes, puis un autre sur les fêtes décadaires. Le 5 fructidor an VII, il rapporte sur le décès des prisonniers d'Orléans massacrés à Versailles — un épisode sanglant de la Terreur.\n\nLa tradition locale veut qu'il ait été maire « désigné » de Sens — ce qui est plausible : après la Constitution de l'an VIII (décembre 1799), les maires des villes de plus de 5 000 habitants étaient nommés par le Premier Consul, pas élus. En tant que président du tribunal criminel du département, Moreau de Vormes avait le profil parfait pour cette nomination.\n\nL'origine du nom « de Vormes » reste obscure. Ce n'est ni un lieu-dit connu de l'Yonne, ni une commune. Il pourrait s'agir d'un fief disparu ou d'un nom d'origine germanique. Les registres de recensement des Archives départementales de l'Yonne confirment la présence de la famille sur la Grande-Rue de Sens, bien que la numérotation ait été décalée par rapport à l'actuelle.\n\nDans le Porée (1920), plusieurs Moreau apparaissent sur la Grande-Rue aux XVe–XVIIe siècles — Guillaume, Thévenin et Gilles Moreau possédaient une maison entre la Nef et la maison Debonnaire (p. 35). Pierre Moreau, procureur au bailliage, et ses fils Jean et Baltazar tenaient l'ancienne maison du Croissant en 1615 (p. 54). Il est tentant d'y voir les ancêtres des Moreau de Vormes, avant l'anoblissement au XVIIIe siècle — mais le lien reste à établir.\n\nLe mariage d'Agathe Tarbé avec Jacob-Antoine-Augustin Moreau de Vormes, conseiller au bailliage de Sens, ancre définitivement la famille dans l'élite sénonaise. Agathe est la fille de Bernard Tarbé et de Madeleine-Colombe Pigalle. Bernard est l'oncle de Louis-Hardouin Tarbé (1753–1806), le futur ministre des Contributions sous Louis XVI. Moreau de Vormes devient donc cousin par alliance du ministre — et de toute la fratrie Tarbé : Charles le député, Sébastien-André le maire de Melun, Jean-Bernard l'inspecteur des ponts-et-chaussées, Théodore l'historien de Sens.\n\nLes Tarbé, d'origine basque, sont arrivés à Sens en 1685 avec l'archevêque Hardouin de la Hoguette. En un siècle, ils ont conquis la Grande-Rue : Charles-Hardouin possédait les deux maisons d'angle de la rue des Bourses, Pierre-Hardouin l'imprimeur occupait le n° 52 (ancien) vers 1780, et son frère orfèvre le n° 53 (Porée, p. 79-81). En épousant une Tarbé, Moreau de Vormes s'alliait à la famille la plus influente de Sens.\n\nUne famille de procureurs sénonais devenue présidente de tribunal et membre du parlement national en trois générations, alliée aux Tarbé par mariage : c'est l'ascension sociale typique de la bourgeoisie de robe, portée par la Révolution.",
+    sources: [
+      'BnF data, « Jacob-Augustin-Antoine Moreau de Vormes (1750–1806) », data.bnf.fr/13488154.',
+      'BnF data, « Paul-Augustin Moreau de Vormes (1722–1791) », data.bnf.fr/15022919.',
+      'IDREF, notice 067053084 : Moreau de Vormes, Jacob-Augustin-Antoine.',
+      'Internet Archive, « Discours de Moreau (de l\'Yonne) sur la résolution relative à la responsabilité des communes », séance du 24 messidor an VII (1799).',
+      'Porée, Charles. « Histoire des rues et des maisons de Sens. » Société Archéologique de Sens, 1920, p. 35, 54.',
+      'Archives départementales de l\'Yonne, recensements de population, commune de Sens.',
+      'Landry, Ernest. « Les Tarbé, généalogie-biographie. » Sens, Miriam, 1902 (tiré à 100 exemplaires).',
+      'Institut de la gestion publique, « Tarbé (Louis-Hardouin) », in Les ministres des Finances de la Révolution française au Second Empire, books.openedition.org/igpde/863.',
+    ],
+    furtherReading: "Le mariage Moreau de Vormes × Tarbé relie deux dynasties sénonaises. Les Tarbé sont documentés par Porée (p. 79-81, « Le Berceau des Tarbé ») et par Landry (1902). L'index du Porée recense au moins huit Moreau dans le Sens médiéval : Guillaume, Thévenin, Gilles (Grande-Rue, XVe s.), Pierre procureur au bailliage, Jean et Baltazar (maison du Croissant, 1615), Claude (héritier Ygot, 1672), Michel sergent royal, Cosme avocat, Jean changeur (maison aux Piliers). Louis-Hardouin Tarbé, cousin germain de l'épouse, acheta le domaine de Bois-le-Roi près de Nailly en 1792 pour 60 000 livres (65 hectares).",
+    period: '1750–1806',
+    audioUrl: null,
+  },
+
 ] as const

@@ -1,0 +1,406 @@
+{
+  "title": "Inventaire du cadastre de Sens — Archives départementales de l'Yonne",
+  "description": "44 documents cadastraux numérisés pour Sens et Saint-Denis-lès-Sens. Cadastre napoléonien (1826), états de sections (1828), plans de rénovation (XXe s.), plans de remembrement.",
+  "source": "Archives départementales de l'Yonne (AD89)",
+  "url": "https://archives.yonne.fr/archive/resultats/cadastre/n:175?RECH_communescadastre=sens&type=cadastre",
+  "extractionDate": "2026-04-08",
+  "totalDocuments": 44,
+  "documents": {
+    "plans_renovation": [
+      {
+        "id": 1,
+        "intitule": "Par voie de mise à jour (s.d.) : tableau d'assemblage (1/10000) ; sections A1, A2, B1, B2, C1, C2, C3, C4 (1/1250)",
+        "date": "sans date",
+        "commune": "Sens",
+        "typologie": "Plans de rénovation",
+        "vues": 57,
+        "ark": "https://archives.yonne.fr/ark:/56431/198912.526430"
+      },
+      {
+        "id": 2,
+        "intitule": "Plans (armés) (s.d.) : section AZ (1/1000) ; section BL (1/1000) ; plans (armés) (1962)",
+        "date": "s.d.–1962",
+        "commune": "Sens",
+        "typologie": "Plans de rénovation",
+        "vues": 15,
+        "ark": "https://archives.yonne.fr/ark:/56431/198913.526431"
+      },
+      {
+        "id": 40,
+        "intitule": "Plans de rénovation Saint-Denis-lès-Sens",
+        "date": "1935",
+        "commune": "Saint-Denis-lès-Sens",
+        "typologie": "Plans de rénovation",
+        "vues": null,
+        "ark": "https://archives.yonne.fr/ark:/56431/198915.526530"
+      },
+      {
+        "id": 44,
+        "intitule": "Plans (armés) 1963–1974 : sections AO, AP, AX, AY, BD, BE, BH, BI, BN, BO, AB, AC, AD, AE, AH, AI, AK, AL, AM, AN, BM",
+        "date": "1963–1974",
+        "commune": "Sens",
+        "typologie": "Plans de rénovation",
+        "vues": null,
+        "ark": "https://archives.yonne.fr/ark:/56431/198914.526432"
+      }
+    ],
+    "saint_denis_les_sens_1813": [
+      {
+        "id": 3,
+        "intitule": "Plan géométrique de la commune de Saint-Denis (an XII)",
+        "date": "1803–1804",
+        "commune": "Saint-Denis-lès-Sens",
+        "typologie": "Plans par masses de cultures",
+        "vues": 1,
+        "ark": "https://archives.yonne.fr/ark:/56431/vta53a0aa18198f7"
+      },
+      {
+        "id": 4,
+        "intitule": "Tableau d'assemblage (1:10000)",
+        "date": "1813",
+        "commune": "Saint-Denis-lès-Sens",
+        "typologie": "Plans parcellaires",
+        "vues": 1,
+        "ark": "https://archives.yonne.fr/ark:/56431/vta5346b1ef7c624"
+      },
+      {
+        "id": 5,
+        "intitule": "Section A de l'Arche-du-Crot (1:2500)",
+        "date": "1813",
+        "commune": "Saint-Denis-lès-Sens",
+        "typologie": "Plans parcellaires",
+        "vues": 1,
+        "ark": "https://archives.yonne.fr/ark:/56431/vta534654df7c6c3"
+      },
+      {
+        "id": 6,
+        "intitule": "Section B de Granchette (1:2500)",
+        "date": "1813",
+        "commune": "Saint-Denis-lès-Sens",
+        "typologie": "Plans parcellaires",
+        "vues": 1,
+        "ark": "https://archives.yonne.fr/ark:/56431/vta534654df54a70"
+      },
+      {
+        "id": 7,
+        "intitule": "Section C du village (1:2500)",
+        "date": "1813",
+        "commune": "Saint-Denis-lès-Sens",
+        "typologie": "Plans parcellaires",
+        "vues": 1,
+        "ark": "https://archives.yonne.fr/ark:/56431/vta5346b1ef84623"
+      }
+    ],
+    "cadastre_napoleonien_sens_1826": {
+      "description": "Cadastre napoléonien de Sens, levé en 1826. 30 planches couvrant la ville et ses faubourgs. La section H (la ville) couvre le centre historique intra-muros avec les noms de rues d'époque.",
+      "planches": [
+        {
+          "id": 8,
+          "section": "Tableau d'assemblage",
+          "lieuDit": "Sens (vue d'ensemble)",
+          "echelle": "1:10000",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467e647b7fb",
+          "interet": "Vue d'ensemble avec toutes les sections identifiées"
+        },
+        {
+          "id": 9,
+          "section": "A1",
+          "lieuDit": "Faubourg d'Yonne",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta534654df7300e"
+        },
+        {
+          "id": 10,
+          "section": "A2",
+          "lieuDit": "Faubourg d'Yonne",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta534654df69b25"
+        },
+        {
+          "id": 11,
+          "section": "B1",
+          "lieuDit": "Saint-Antoine",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta534673eab5a23"
+        },
+        {
+          "id": 12,
+          "section": "B2",
+          "lieuDit": "Saint-Antoine",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta534673eac1b5a"
+        },
+        {
+          "id": 13,
+          "section": "C1",
+          "lieuDit": "Sainte-Béate",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta534673eac8dfb"
+        },
+        {
+          "id": 14,
+          "section": "C2",
+          "lieuDit": "Sainte-Béate",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta534673ead0075"
+        },
+        {
+          "id": 15,
+          "section": "C3",
+          "lieuDit": "Sainte-Béate",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta534673ead73a7"
+        },
+        {
+          "id": 16,
+          "section": "C4",
+          "lieuDit": "Sainte-Béate",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta534673eade5f4"
+        },
+        {
+          "id": 17,
+          "section": "C5",
+          "lieuDit": "Sainte-Béate",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta534673eae5837"
+        },
+        {
+          "id": 18,
+          "section": "C6",
+          "lieuDit": "Sainte-Béate",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta534673eaecad3"
+        },
+        {
+          "id": 19,
+          "section": "C7",
+          "lieuDit": "Sainte-Béate",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467e648444a"
+        },
+        {
+          "id": 20,
+          "section": "C8",
+          "lieuDit": "Sainte-Béate",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467e6489282"
+        },
+        {
+          "id": 21,
+          "section": "D1",
+          "lieuDit": "Saint-Sauveur",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467e648e6bc"
+        },
+        {
+          "id": 22,
+          "section": "D2",
+          "lieuDit": "Saint-Sauveur",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467e64943be"
+        },
+        {
+          "id": 23,
+          "section": "D3",
+          "lieuDit": "Saint-Sauveur",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467e649bdcc"
+        },
+        {
+          "id": 24,
+          "section": "D4",
+          "lieuDit": "Saint-Sauveur",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467e64a35e0"
+        },
+        {
+          "id": 25,
+          "section": "D5",
+          "lieuDit": "Saint-Sauveur",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467e64a9237"
+        },
+        {
+          "id": 26,
+          "section": "D6",
+          "lieuDit": "Saint-Sauveur",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467e64aedc7"
+        },
+        {
+          "id": 27,
+          "section": "E1",
+          "lieuDit": "Saint-Savinien",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467e64b4b03"
+        },
+        {
+          "id": 28,
+          "section": "E2",
+          "lieuDit": "Saint-Savinien",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467eccbe3e6"
+        },
+        {
+          "id": 29,
+          "section": "E3",
+          "lieuDit": "Saint-Savinien",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467eccc988f"
+        },
+        {
+          "id": 30,
+          "section": "E4",
+          "lieuDit": "Saint-Savinien",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467eccd2138"
+        },
+        {
+          "id": 31,
+          "section": "E5",
+          "lieuDit": "Saint-Savinien",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467eccda6b8"
+        },
+        {
+          "id": 32,
+          "section": "F1",
+          "lieuDit": "Champbertrand",
+          "echelle": "1:2500",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467ecce2d8a"
+        },
+        {
+          "id": 33,
+          "section": "F2",
+          "lieuDit": "Champbertrand",
+          "echelle": "1:2500",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467ecceb09b"
+        },
+        {
+          "id": 34,
+          "section": "G1",
+          "lieuDit": "Saint-Pregts",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467ecd00a58"
+        },
+        {
+          "id": 35,
+          "section": "G2",
+          "lieuDit": "Saint-Pregts",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467ecd0ab71"
+        },
+        {
+          "id": 36,
+          "section": "G3",
+          "lieuDit": "Saint-Pregts",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467ecd14fe5"
+        },
+        {
+          "id": 37,
+          "section": "H",
+          "lieuDit": "La Ville",
+          "echelle": "1:1250",
+          "vues": 1,
+          "ark": "https://archives.yonne.fr/ark:/56431/vta53467ecd1e975",
+          "interet": "PLAN DU CENTRE HISTORIQUE INTRA-MUROS — noms de rues d'époque (1826)"
+        }
+      ]
+    },
+    "etats_de_sections": [
+      {
+        "id": 38,
+        "intitule": "État de sections et matrices — Sens",
+        "date": "1828",
+        "commune": "Sens",
+        "typologie": "État de sections et matrices",
+        "imagesIndexees": 8,
+        "indexation": "3%",
+        "ark": "https://archives.yonne.fr/ark:/56431/vta53623d1c0a932",
+        "interet": "Registre des propriétaires par section et par rue — source clé pour les noms de rues en 1828"
+      },
+      {
+        "id": 39,
+        "intitule": "État de section — Saint-Denis-lès-Sens",
+        "date": "1830",
+        "commune": "Saint-Denis-lès-Sens",
+        "typologie": "État de sections et matrices",
+        "imagesIndexees": 3,
+        "indexation": "5%",
+        "ark": "https://archives.yonne.fr/ark:/56431/vta53623d125a67d"
+      }
+    ],
+    "plans_remembrement": [
+      {
+        "id": 41,
+        "intitule": "Maillot",
+        "date": "1954–1975",
+        "communes": ["Sens", "Malay-le-Grand", "Maillot"],
+        "typologie": "Plans de remembrement",
+        "ark": "https://archives.yonne.fr/ark:/56431/198861.526503"
+      },
+      {
+        "id": 42,
+        "intitule": "Saint-Denis-les-Sens",
+        "date": "1954–1977",
+        "communes": ["Soucy", "Saint-Clément"],
+        "typologie": "Plans de remembrement",
+        "ark": "https://archives.yonne.fr/ark:/56431/198899.526522"
+      },
+      {
+        "id": 43,
+        "intitule": "Sens",
+        "date": "1954–1981",
+        "communes": ["Saint-Clément", "Saligny", "Malay-le-Grand", "Sens"],
+        "typologie": "Plans de remembrement",
+        "ark": "https://archives.yonne.fr/ark:/56431/198915.526530"
+      }
+    ]
+  },
+  "sectionsParQuartier": {
+    "A": {"lieuDit": "Faubourg d'Yonne", "planches": 2, "notes": "Faubourg nord, rive gauche de l'Yonne"},
+    "B": {"lieuDit": "Saint-Antoine", "planches": 2, "notes": "Faubourg est"},
+    "C": {"lieuDit": "Sainte-Béate", "planches": 8, "notes": "Ceinture autour du centre-ville, entre remparts et faubourgs"},
+    "D": {"lieuDit": "Saint-Sauveur", "planches": 6, "notes": "Quartier sud"},
+    "E": {"lieuDit": "Saint-Savinien", "planches": 5, "notes": "Quartier sud-ouest"},
+    "F": {"lieuDit": "Champbertrand", "planches": 2, "notes": "Domaine agricole au sud-ouest (ferme Dumée / Leblanc-Duvernoy)"},
+    "G": {"lieuDit": "Saint-Pregts", "planches": 3, "notes": "Quartier ouest"},
+    "H": {"lieuDit": "La Ville", "planches": 1, "notes": "CENTRE HISTORIQUE INTRA-MUROS — seule planche du noyau médiéval, avec les noms de rues de 1826"}
+  },
+  "documentsClePourRues": [
+    "Section H de la ville (1826) — plan cadastral du centre avec noms de rues",
+    "État de sections 1828 — registre des propriétaires par rue et par parcelle",
+    "Tableau d'assemblage (1826) — vue d'ensemble avec limites de sections"
+  ]
+}
