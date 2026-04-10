@@ -317,6 +317,21 @@
           "heritageItemId": "e5555555-0014-0014-0014-000000000014"
         },
         {
+          "year": 280,
+          "title": "L'amande : 3 km de remparts creent la forme de Sens pour 17 siecles",
+          "text": "A la fin du IIIe siecle, les Senonais construisent une enceinte de 3 km de perimetre --- parmi les plus imposantes de la Gaule romaine. Des murs de 8 metres de haut, des fosses remplis d'eau, des portes fortifiees. Pour construire ces remparts, on demolit les quartiers peripheriques, les arenes, les thermes --- les materiaux sont reutilises. La ville se contracte dans une forme ovale que les Senonais appellent 'l'amande'. Cette forme ovale definira le plan de Sens pendant 17 siecles --- jusqu'a ce qu'on comble les fosses au XVIIIe pour creer les boulevards.",
+          "location": {
+            "lat": 48.1977,
+            "lng": 3.2837,
+            "label": "L'amande --- forme de Sens depuis le IIIe s."
+          },
+          "sources": [
+            "Daguin, G. histoire-sens-senonais-yonne.com.",
+            "Bourgogne medievale, fiche Sens."
+          ],
+          "heritageItemId": "e5555555-0014-0014-0014-000000000014"
+        },
+        {
           "year": 300,
           "title": "Saint Savinien, premier évêque",
           "text": "Selon la tradition, Savinien arrive à Sens au IIIe siècle pour évangéliser la ville. Il est martyrisé — battu avec des maillets de bois, puis décapité. Sa basilique, dans le faubourg sud, marque l'un des plus anciens lieux de culte chrétien de la région.",
@@ -662,6 +677,22 @@
           "heritageItemId": null
         },
         {
+          "year": 895,
+          "title": "Richard le Justicier s'empare de Sens : la Bourgogne avale le Senonais",
+          "text": "En 895, le duc Richard le Justicier de Bourgogne s'empare du comte de Sens et se fait nommer abbe de Sainte-Colombe. C'est la premiere fois que Sens passe dans l'orbite bourguignonne. Mais en 1015, le roi Robert II la reprend. Sous l'Ancien Regime, Sens relevera de la Generalite de Paris, pas de Dijon --- elle est administrativement champenoise, pas bourguignonne. En 1790, on la met dans l'Yonne (a dominante bourguignonne) par assemblage artificiel. Aujourd'hui, Sens est a 55 minutes de Paris en train, mais a 2 heures de Dijon. 5 000 navetteurs prennent le train vers Paris chaque jour.",
+          "location": {
+            "lat": 48.1977,
+            "lng": 3.2837,
+            "label": "Sens --- ni Bourgogne ni IDF"
+          },
+          "sources": [
+            "Wikipedia, Senonais.",
+            "Wikipedia, Histoire de l'Yonne.",
+            "INSEE, navetteurs."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 900,
           "title": "La communauté juive de Sens, l'une des plus anciennes de France",
           "text": "Des familles juives s'installent à Sens des le haut Moyen Age. La communaute grandit et devient l'une des plus importantes du nord de la France. Les Juifs senonais sont marchands, preteurs, medecins. Ils vivent pres de la cathédrale, dans un quartier qui porte encore la memoire de leur presence : la rue de la Juiverie (actuelle rue Voltaire) et la place du Tau, ancien cimetière juif. L'histoire de cette communaute sera une succession d'accueils et d'expulsions — un \"incessant aller-retour\" selon l'expression de Daguin.",
@@ -677,6 +708,21 @@
           "heritageItemId": "e5555555-0044-0044-0044-000000000044",
           "longText": "La communauté juive de Sens est l'une des plus anciennes et des plus importantes du nord de la France. Des familles juives s'installent dans la ville dès le haut Moyen Âge, probablement attirées par la position de carrefour commercial de Sens et par la relative tolérance des autorités locales.\n\nLeur quartier se trouve au cœur de la ville, près de la cathédrale. La rue de la Grande Juiverie (actuelle rue Voltaire) et la rue de la Petite Juiverie marquent le périmètre d'un quartier qui possède sa synagogue, son four à pain (les Juifs ne peuvent pas utiliser les fours chrétiens), son école talmudique et son cimetière (la place du Tau).\n\nLes Juifs sénonais sont marchands, prêteurs, médecins. Leur rôle économique est essentiel : dans une société chrétienne où le prêt à intérêt est interdit par l'Église, les prêteurs juifs sont les seuls à pouvoir financer le commerce, les travaux publics, les campagnes militaires. Les rois et les archevêques les protègent — quand ça les arrange.\n\nCar l'histoire de cette communauté est un « incessant aller-retour » entre protection et persécution. Protégés par le comte Renaut II au XIe siècle (on le surnomme « le Roi des Juifs »), les Juifs de Sens sont expulsés par Philippe Auguste en 1182, rappelés en 1198, expulsés à nouveau par Philippe le Bel en 1306, rappelés, puis définitivement chassés en 1394.\n\nSens est aussi un centre intellectuel juif majeur. Les Tossafistes — ces commentateurs du Talmud qui poursuivent l'œuvre de Rachi de Troyes — enseignent à Sens au XIIe siècle. L'école talmudique de Sens fait partie d'un réseau qui inclut Troyes, Ramerupt et Dampierre.\n\nAujourd'hui, rien de visible ne subsiste de cette communauté. Seuls les noms de rues conservent la mémoire d'une présence de quatre siècles.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010099.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010099.jpg"
+        },
+        {
+          "year": 939,
+          "title": "Les comtes hereditaires : la dynastie Fromonide prend Sens",
+          "text": "Vers 939, Fromond Ier fonde une dynastie de comtes hereditaires de Sens. Ses successeurs --- Renard Ier (un demi-siecle au pouvoir), Fromond II, Renard II 'le Mauvais' --- regnent sur Sens pendant plus d'un siecle. Ils sont en conflit permanent avec les archeveques. En 1015, le roi Robert II reprend la ville par les souterrains. Renard II conserve le titre jusqu'a sa mort en 1055. Le comte de Sens est la premiere acquisition feodale des Capetiens --- et le bailliage de Sens devient le premier bailliage de France.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Sens --- comtes Fromonides"
+          },
+          "sources": [
+            "Wikipedia, Comte de Sens.",
+            "Wikipedia, Liste des comtes et vicomtes de Sens."
+          ],
+          "heritageItemId": null
         }
       ]
     },
@@ -782,6 +828,21 @@
           ],
           "heritageItemId": null,
           "longText": "Les noms des rues de Sens sont un livre d'histoire à ciel ouvert. Chaque nom médiéval raconte un métier, une communauté, une activité.\n\nLa rue de la Grande Juiverie et la rue de la Petite Juiverie : c'est le quartier juif, avec sa synagogue et son école talmudique. Les Juifs vivent regroupés — par choix autant que par obligation — dans un périmètre qui correspond aujourd'hui à la rue Voltaire et ses alentours.\n\nLa rue de la Blanchisserie : les lavandières y rincent le linge dans l'eau courante des petits bras de l'Yonne qui traversent la ville.\n\nLa rue de la Boucherie : les bouchers y sont regroupés, comme l'exigent les règlements municipaux. La boucherie est un métier surveillé — les risques sanitaires sont réels dans une ville médiévale.\n\nLa rue de la Parcheminerie : les parcheminiers fabriquent le parchemin (peau de mouton traitée) qui sert à écrire. Sens, ville d'archevêché avec une école cathédrale, consomme beaucoup de parchemin.\n\nLa rue des Tanneurs, la rue du Moulin-à-Tan : toute la filière du cuir est regroupée au sud de la ville, près de l'eau courante indispensable au travail des peaux.\n\nCette géographie des métiers obéit à une logique simple : les métiers bruyants ou malodorants (tanneurs, bouchers, teinturiers) sont repoussés en périphérie, près des portes et de l'eau. Les métiers nobles (orfèvres, drapiers, parcheminiers) sont au centre, près de la cathédrale.\n\nBeaucoup de ces noms ont été changés au XIXe et au XXe siècle — la rue de la Grande Juiverie est devenue rue Voltaire. Mais la structure parcellaire médiévale — ces lots étroits et profonds, caractéristiques du lotissement urbain du XIIe siècle — est toujours visible dans le plan cadastral."
+        },
+        {
+          "year": 1122,
+          "title": "Henri Sanglier : l'archeveque qui lance la cathedrale et juge Abelard",
+          "text": "Henri Sanglier, archeveque de Sens de 1122 a 1142, est l'homme le plus puissant du nord de la France apres le roi. C'est lui qui lance la construction de la cathedrale gothique vers 1135. C'est lui qui preside le concile qui condamne Abelard en 1140. Il participe au concile de Troyes (1129) qui reconnait l'Ordre des Templiers. Il meurt en 1142 et est enterre a l'abbaye Saint-Pierre-le-Vif. De son vivant, l'archeveque de Sens commande a Paris, Chartres, Orleans, Meaux, Troyes, Auxerre et Nevers.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Palais archiepiscopal --- Henri Sanglier"
+          },
+          "sources": [
+            "Wikipedia, Henri Ier Sanglier.",
+            "Leviste, J. La cathedrale de Sens. 1965."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
         },
         {
           "year": 1135,
@@ -1474,6 +1535,20 @@
           "longText": null
         },
         {
+          "year": 1525,
+          "title": "Antoine Duprat : l'archeveque-chancelier de France",
+          "text": "Antoine Duprat cumule les deux postes les plus puissants du royaume : archeveque de Sens (1525-1535) et chancelier de France. Il est le bras droit de Francois Ier. C'est lui qui negocie le Concordat de Bologne (1516) qui donne au roi le droit de nommer les eveques. Sens n'est plus seulement une metropole religieuse --- c'est un rouage du pouvoir royal. Duprat incarne le moment ou l'Eglise et l'Etat fusionnent au sommet.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Archevech --- Duprat, chancelier de France"
+          },
+          "sources": [
+            "Wikipedia, Antoine Duprat."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
           "year": 1536,
           "title": "la longue marche de l’église réformée à Sens",
           "text": "À partir de 1536, la Réforme protestante gagne Sens. Calvin publie l'Institution chrétienne, le concile de Trente réaffirme le dogme catholique, et la tension monte. Sens, ville de l'archevêque, devient un terrain d'affrontement religieux qui culminera dans le massacre de 1562.",
@@ -1955,6 +2030,20 @@
           "heritageItemId": null,
           "longText": "même temps que c'est uniquement par ignorance des lieux et des peu- ples dont ils parlaient, qu'ils ont ainsi compris sous un même nom plusieurs nations différentes. Il n'y a donc à conclure de cette appellation rien, pas même 1 1° Qui ipsorum linguâ Celue, nostrà Galli appellantur. » (Csesar, de Bello Gallico. ) 2° «Aborigènes primos in his regionibus quidam visosesse fir- « marunt Celtas, nomine regis amabilis, et matris ejus vocabulo Galatas dictos, ità enim Gallos sermo Grcecus appellat. (Amm., p. 574). « Gallia est omnis divisa in partes tres, quarum unam incolant Bclgse, aliam Aquitani, tertiam qui ipsorum linguà Celte, nostrâ Galli appellantur. Hii « omnes linguà, institutis, legibus inter se differunt. Gallos ab Aquitanis Ga- « rumna flumen à Belgis Matrona et Sequana dividit.",
           "image": "https://archives.yonne.fr/archives/img/plus_pt.gif?1717664997"
+        },
+        {
+          "year": 1756,
+          "title": "On comble les fosses : les remparts deviennent des boulevards",
+          "text": "En 1756, le Conseil autorise a combler les fosses entre la porte Saint-Didier et la porte Saint-Antoine. C'est le debut de la transformation de la ville close medievale en ville ouverte moderne. Les fosses combles deviennent des promenades, puis des boulevards (14-Juillet, du Mail, Garibaldi). En 1776, un incendie rue Couverte fournit les materiaux pour poursuivre le comblement. Les portes de la ville seront demolies entre 1831 et 1882. L'amande gallo-romaine eclate enfin --- apres 15 siecles.",
+          "location": {
+            "lat": 48.1965,
+            "lng": 3.286,
+            "label": "Fosses combles --- boulevards"
+          },
+          "sources": [
+            "Daguin, G. 'Des portes qui laissaient entrer le voyageur.' histoire-sens-senonais-yonne.com."
+          ],
+          "heritageItemId": "e5555555-0014-0014-0014-000000000014"
         },
         {
           "year": 1762,
@@ -2558,6 +2647,21 @@
           "longText": null
         },
         {
+          "year": 1793,
+          "title": "Premier recensement : 10 957 habitants dans la tourmente revolutionnaire",
+          "text": "Le premier recensement revolutionnaire compte 10 957 habitants a Sens en 1793. La ville retombera a 8 675 en 1806 (point bas historique), puis mettra un siecle a franchir les 15 000 (en 1911). L'arrivee du train (1849) accelere la croissance : 13 515 en 1881. Mais c'est le XXe siecle qui transforme tout : 20 000 en 1962 (baby-boom + ZUP des Champs-Plaisants), pic a 27 082 en 1990, puis leger declin avant de remonter a 27 106 en 2023 --- record absolu, porte par les neo-Senonais venus d'Ile-de-France.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Sens --- demographie"
+          },
+          "sources": [
+            "INSEE, recensements 1793-2023.",
+            "Cassini/EHESS, donnees historiques."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1796,
           "title": "L'Auberge de la Ville de Paris : deux siecles d'hospitalite",
           "text": "En 1796, l'Auberge de la Ville de Paris ouvre ses portes. Relais de poste et de diligences, elle deviendra en 1840 l'Hotel de Paris, puis en 1936 l'Hotel de Paris et de la Poste. La famille Godard le dirige pendant 40 ans. Pendant plus de deux siecles, c'est un point de repere central de la vie senonaise --- jusqu'a sa demolition en 2021, devant une foule d'habitants attristes. Un hotel quatre etoiles (l'Epona Hotel) est construit sur le meme site.",
@@ -3037,6 +3141,21 @@
           "longText": "Dans les annees 1880-1890, un insecte minuscule -- le phylloxera -- detruit le vignoble francais. Le Senonais n'est pas epargne. Avant le phylloxera, les coteaux autour de Sens etaient couverts de vignes. Le vin senonais n'etait pas grand -- c'etait un vin de pays, acide et leger -- mais il faisait vivre des centaines de familles.\n\nLe phylloxera est un puceron americain arrive en France vers 1860 via des plants importes. Il attaque les racines de la vigne europeenne, qui n'a aucune defense contre lui. En quelques annees, des regions entieres sont devastees. Le Senonais perd ses vignes entre 1885 et 1895.\n\nLa solution existe -- greffer les cepages francais sur des porte-greffes americains resistants -- mais elle est couteuse et technique. Les grands domaines bordelais et bourguignons s'en remettent. Les petits vignerons du Senonais, eux, abandonnent. Ils n'ont pas les moyens de replanter.\n\nC'est un tournant economique majeur pour la region. Quand le vignoble disparait, l'economie locale perd un de ses piliers. Les terres a vignes sont converties en cultures cerealieres ou en paturages. Les familles vigneronnes migrent vers les villes ou se reconvertissent. La physionomie du paysage senonais change definitivement.\n\nAujourd'hui, il ne reste presque rien du vignoble senonais. Quelques micro-cuvees confidentielles, quelques toponymes (les Vignes, le Clos) et le souvenir d'un temps ou Sens avait son vin."
         },
         {
+          "year": 1893,
+          "title": "Lucien Cornet : 29 ans de pouvoir, l'homme qui modernise Sens",
+          "text": "Lucien Cornet est elu maire de Sens en 1893. Radical-socialiste, il restera 29 ans au pouvoir (jusqu'a sa mort en 1922), cumulant avec les mandats de depute puis senateur. C'est lui qui modernise Sens : hotel de ville, egouts, eau courante, ecoles, college de jeunes filles. Le pont qui porte son nom est inaugure en 1913. Son influence est telle qu'aucun maire apres lui ne remodele autant la ville --- jusqu'a Marie-Louise Fort, qui dirigera Sens de 2001 a 2022.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Hotel de ville --- ere Cornet"
+          },
+          "sources": [
+            "Senat, fiche Lucien Cornet.",
+            "Daguin, G. 'Victor Guichard.' histoire-sens-senonais-yonne.com."
+          ],
+          "heritageItemId": "e5555555-0012-0012-0012-000000000012"
+        },
+        {
           "year": 1895,
           "title": "Le général Duchesne, 1895 un sénonais à Madagascar",
           "text": "En 1895, le général Duchesne, natif de Sens, commande l'expédition française à Madagascar. Il force la reine Ranavalona III à accepter le protectorat. Pour Sens, c'est une fierté ambiguë : un enfant du pays au sommet de l'empire colonial, à une époque où la France se projette outre-mer.",
@@ -3496,6 +3615,21 @@
           ],
           "heritageItemId": "e5555555-0030-0030-0030-000000000030",
           "longText": "même temps que c'est uniquement par ignorance des lieux et des peu- ples dont ils parlaient, qu'ils ont ainsi compris sous un même nom plusieurs nations différentes. Il n'y a donc à conclure de cette appellation rien, pas même 1 1° Qui ipsorum linguâ Celue, nostrà Galli appellantur. » (Csesar, de Bello Gallico. ) 2° «Aborigènes primos in his regionibus quidam visosesse fir- « marunt Celtas, nomine regis amabilis, et matris ejus vocabulo Galatas dictos, ità enim Gallos sermo Grcecus appellat. (Amm., p. 574). « Gallia est omnis divisa in partes tres, quarum unam incolant Bclgse, aliam Aquitani, tertiam qui ipsorum linguà Celte, nostrâ Galli appellantur. Hii « omnes linguà, institutis, legibus inter se differunt. Gallos ab Aquitanis Ga- « rumna flumen à Belgis Matrona et Sequana dividit."
+        },
+        {
+          "year": 1965,
+          "title": "La ZUP des Champs-Plaisants : Sens sort de l'amande",
+          "text": "Dans les annees 1960, Sens construit la ZUP (Zone a Urbaniser en Priorite) des Champs-Plaisants et le quartier des Arenes, au nord de la ville. Des barres d'immeubles pour loger les familles venues des campagnes, du Maghreb, et de Paris. Sens passe de 20 000 a 27 000 habitants en 30 ans. Pour la premiere fois depuis les Romains, la ville s'etend massivement hors de l'amande. Mais ces grands ensembles, construits a la hate, vieilliront mal : 617 logements seront demolies d'ici 2030.",
+          "location": {
+            "lat": 48.2,
+            "lng": 3.29,
+            "label": "ZUP des Champs-Plaisants"
+          },
+          "sources": [
+            "Ville de Sens, grands projets.",
+            "Wikipedia, Sens (Yonne)."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1994,
