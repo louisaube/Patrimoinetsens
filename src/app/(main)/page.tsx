@@ -14,48 +14,41 @@ import {
 } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
+import { useStats } from "@/hooks/use-heritage"
 import annuaireData from "../../../public/armorial/annuaire.json"
-
-// ─── Vraies données ─────────────────────────────────────────────────────────
-
-const STATS = {
-  heritageItems: 136,
-  contributions: 881,
-  blasons: annuaireData.entries.length,
-}
 
 /** Contributions réelles tirées du seed (Denis, Bernard) */
 const HIGHLIGHTS = [
   {
-    id: "cathedrale",
+    id: "e5555555-0001-0001-0001-000000000001",
     title: "Cathédrale Saint-Étienne",
     category: "Édifice religieux",
     period: "1135 — 1534",
     icon: Church,
     excerpt:
-      "On dit souvent que Sens est « la première cathédrale gothique ». La réalité est plus intéressante : les travaux ont démarré vers 1135, le chœur a été consacré en 1164 en présence du pape Alexandre III.",
+      "Vers 1135, l'archevêque Henri Sanglier engage un chantier sans précédent. Les voûtes d'ogives sur plan sexpartite (divisé en six quartiers, une prouesse technique pour l'époque), la lumière qui inonde la nef — tout cela précède Chartres, Paris et Bourges. Le chœur est consacré en 1164, en présence d'Alexandre III, pape réfugié en France.",
     author: "Denis Cailleaux",
     type: "historique" as const,
   },
   {
-    id: "becket",
+    id: "e5555555-0001-0001-0001-000000000001",
     title: "Thomas Becket à Sens",
     category: "Récit",
     period: "1164 — 1170",
     icon: Mic,
     excerpt:
-      "En 1164, Thomas Becket, archevêque de Canterbury, s'enfuit d'Angleterre. Il se réfugie à Sens, protégé par le pape. Pendant six ans, il prie chaque matin dans la cathédrale avant le lever du jour.",
+      "L'archevêque de Canterbury débarque à Sens en 1164, chassé d'Angleterre par Henri II Plantagenêt, roi d'Angleterre. Le pape le protège ; la cathédrale l'accueille. Pendant six années d'exil, Becket dit la messe à l'aube dans le transept nord (le bras gauche de la croix que forme l'édifice) — avant de rentrer mourir assassiné dans sa propre cathédrale.",
     author: "Bernard Brousse",
     type: "recit" as const,
   },
   {
-    id: "palais",
+    id: "e5555555-0002-0002-0002-000000000002",
     title: "Palais synodal",
     category: "Bâtiment historique",
-    period: "XIIIe siècle",
+    period: "1222 — 1875",
     icon: Landmark,
     excerpt:
-      "Au XIIIe siècle, l'archevêque de Sens — primat des Gaules — commande un palais digne de son rang. La salle synodale, où se réunissaient les évêques des sept diocèses, est l'une des plus belles salles civiles du Moyen Âge.",
+      "L'archevêque Gauthier Cornut fait bâtir ce palais vers 1230. La salle synodale — c'est-à-dire la salle de concile où les évêques se réunissaient — mesure trente mètres de long et douze mètres sous plafond. Sens commandait alors à Paris : l'archevêque, primat des Gaules (le plus haut dignitaire de l'Église de France), avait autorité sur sept diocèses. Architecture, restauration Viollet-le-Duc, cachots de l'officialité — sept contributions à découvrir.",
     author: "Denis Cailleaux",
     type: "historique" as const,
   },
@@ -72,37 +65,16 @@ const TYPE_COLORS = {
 // ─── Composant AnimatedCounter ──────────────────────────────────────────────
 
 function AnimatedCounter({ target }: { target: number }) {
-  const [count, setCount] = React.useState(0)
-  const ref = React.useRef<HTMLSpanElement>(null)
-
-  React.useEffect(() => {
-    const observer = new IntersectionObserver(
-      ([entry]) => {
-        if (!entry?.isIntersecting) return
-        observer.disconnect()
-
-        const duration = 1200
-        const step = Math.ceil(target / (duration / 16))
-        let current = 0
-        const timer = setInterval(() => {
-          current = Math.min(current + step, target)
-          setCount(current)
-          if (current >= target) clearInterval(timer)
-        }, 16)
-      },
-      { threshold: 0.3 }
-    )
-
-    if (ref.current) observer.observe(ref.current)
-    return () => observer.disconnect()
-  }, [target])
-
-  return <span ref={ref}>{count.toLocaleString("fr-FR")}</span>
+  return <span>{target.toLocaleString("fr-FR")}</span>
 }
 
 // ─── Page ───────────────────────────────────────────────────────────────────
 
 export default function HomePage() {
+  const { data: stats } = useStats()
+  const heritageCount = stats?.heritageItems ?? 136
+  const contributionCount = stats?.contributions ?? 881
+
   return (
     <div className="mx-auto max-w-4xl px-4 py-8 space-y-12">
       {/* ── Hero ── */}
@@ -116,9 +88,9 @@ export default function HomePage() {
           <span className="text-blue-800">&amp;&nbsp;Sens</span>
         </h1>
         <p className="text-slate-500 text-base sm:text-lg max-w-2xl mx-auto leading-relaxed">
-          L&apos;encyclopédie vivante du patrimoine sénonais.
-          Cathédrale gothique, maisons à colombages, remparts gallo-romains,
-          101&nbsp;blasons de 1696 — documentés, géolocalisés, racontés.
+          Cathédrale gothique, remparts gallo-romains, maisons à colombages,
+          101&nbsp;blasons de 1696 — vingt siècles d&apos;histoire sénonaise,
+          documentés, géolocalisés, racontés.
         </p>
       </section>
 
@@ -126,23 +98,25 @@ export default function HomePage() {
       <section>
         <div className="grid grid-cols-3 gap-4">
           {[
-            { label: "Éléments patrimoniaux", value: STATS.heritageItems, sub: "documentés" },
-            { label: "Contributions", value: STATS.contributions, sub: "d'historiens et passionnés" },
-            { label: "Blasons d'Hozier", value: STATS.blasons, sub: "Élection de Sens, 1696" },
+            { label: "Éléments patrimoniaux", value: heritageCount, sub: "documentés", href: "/explorer" },
+            { label: "Contributions", value: contributionCount, sub: "d'historiens et passionnés", href: "/explorer" },
+            { label: "Blasons d'Hozier", value: annuaireData.entries.length, sub: "Élection de Sens, 1696", href: "/armorial" },
           ].map((stat) => (
-            <Card key={stat.label} className="bg-white border-slate-200 shadow-sm text-center">
-              <CardContent className="py-5 px-3">
-                <p className="font-serif text-3xl font-bold text-blue-800">
-                  <AnimatedCounter target={stat.value} />
-                </p>
-                <p className="mt-1 text-xs text-slate-600 leading-tight font-medium">
-                  {stat.label}
-                </p>
-                <p className="mt-0.5 text-[10px] text-slate-400">
-                  {stat.sub}
-                </p>
-              </CardContent>
-            </Card>
+            <Link key={stat.label} href={stat.href}>
+              <Card className="bg-white border-slate-200 shadow-sm text-center hover:shadow-md hover:border-blue-200 transition-all cursor-pointer">
+                <CardContent className="py-5 px-3">
+                  <p className="font-serif text-3xl font-bold text-blue-800">
+                    <AnimatedCounter target={stat.value} />
+                  </p>
+                  <p className="mt-1 text-xs text-slate-600 leading-tight font-medium">
+                    {stat.label}
+                  </p>
+                  <p className="mt-0.5 text-[10px] text-slate-400">
+                    {stat.sub}
+                  </p>
+                </CardContent>
+              </Card>
+            </Link>
           ))}
         </div>
       </section>
@@ -160,7 +134,7 @@ export default function HomePage() {
                   Explorer la carte
                 </h3>
                 <p className="text-xs text-blue-700/70">
-                  136 éléments géolocalisés
+                  {heritageCount} éléments géolocalisés
                 </p>
               </div>
             </CardContent>
@@ -209,7 +183,7 @@ export default function HomePage() {
             À la une
           </h2>
           <Link
-            href="/map"
+            href="/explorer"
             className="text-sm text-blue-800 hover:underline font-medium flex items-center gap-1"
           >
             Tout explorer <ArrowRight className="size-3.5" />
@@ -217,44 +191,43 @@ export default function HomePage() {
         </div>
 
         <div className="space-y-4">
-          {HIGHLIGHTS.map((item) => (
-            <Card
-              key={item.id}
-              className="bg-white border-slate-200 shadow-sm hover:shadow-md transition-all"
-            >
-              <CardContent className="p-5">
-                <div className="flex items-start gap-4">
-                  <div className="flex size-10 shrink-0 items-center justify-center rounded-lg bg-slate-100 mt-0.5">
-                    <item.icon className="size-5 text-slate-600" />
-                  </div>
-                  <div className="flex-1 min-w-0">
-                    <div className="flex flex-wrap items-center gap-2 mb-2">
-                      <h3 className="text-base font-semibold text-slate-800">
-                        {item.title}
-                      </h3>
-                      <Badge variant="outline" className="text-xs">
-                        {item.category}
-                      </Badge>
-                      <Badge className={`text-xs ${TYPE_COLORS[item.type]}`}>
-                        {item.type === "historique" ? "Historique" : "Récit"}
-                      </Badge>
-                      <span className="text-xs text-slate-400 ml-auto">
-                        {item.period}
-                      </span>
+          {HIGHLIGHTS.map((item, i) => (
+            <Link key={`${item.id}-${i}`} href={`/heritage/${item.id}`} className="block group">
+              <Card className="bg-white border-slate-200 shadow-sm hover:shadow-md hover:border-blue-200 transition-all">
+                <CardContent className="p-5">
+                  <div className="flex items-start gap-4">
+                    <div className="flex size-10 shrink-0 items-center justify-center rounded-lg bg-slate-100 mt-0.5">
+                      <item.icon className="size-5 text-slate-600" />
                     </div>
-                    <p className="text-sm text-slate-600 leading-relaxed">
-                      {item.excerpt}
-                    </p>
-                    <p className="mt-2 text-xs text-slate-400">
-                      Par{" "}
-                      <span className="font-medium text-slate-500">
-                        {item.author}
-                      </span>
-                    </p>
+                    <div className="flex-1 min-w-0">
+                      <div className="flex flex-wrap items-center gap-2 mb-2">
+                        <h3 className="text-base font-semibold text-slate-800 group-hover:text-blue-800 transition-colors">
+                          {item.title}
+                        </h3>
+                        <Badge variant="outline" className="text-xs">
+                          {item.category}
+                        </Badge>
+                        <Badge className={`text-xs ${TYPE_COLORS[item.type]}`}>
+                          {item.type === "historique" ? "Historique" : "Récit"}
+                        </Badge>
+                        <span className="text-xs text-slate-400 ml-auto">
+                          {item.period}
+                        </span>
+                      </div>
+                      <p className="text-sm text-slate-600 leading-relaxed">
+                        {item.excerpt}
+                      </p>
+                      <p className="mt-2 text-xs text-slate-400">
+                        Par{" "}
+                        <span className="font-medium text-slate-500">
+                          {item.author}
+                        </span>
+                      </p>
+                    </div>
                   </div>
-                </div>
-              </CardContent>
-            </Card>
+                </CardContent>
+              </Card>
+            </Link>
           ))}
         </div>
       </section>
@@ -313,19 +286,26 @@ export default function HomePage() {
         </h2>
         <div className="text-sm text-amber-800 leading-relaxed space-y-3">
           <p>
-            Sens est une ville qu&apos;on sous-estime. Au Moyen Âge, son archevêque
-            était le <strong>Primat des Gaules</strong> — il avait autorité
-            sur Paris, Chartres, Meaux, Orléans, Auxerre, Nevers et Troyes.
+            Avant que Paris ne devienne Paris, Sens était déjà capitale.
+            Capitale des Sénons, peuple gaulois dont le nom a traversé
+            vingt siècles. Centre d&apos;une vaste province religieuse dont
+            l&apos;archevêque, le{" "}
+            <strong>primat des Gaules</strong> (c&apos;est-à-dire le chef de
+            l&apos;Église de France), avait autorité sur sept diocèses
+            (territoires placés sous l&apos;autorité d&apos;un évêque)
+            — Paris, Chartres, Meaux, Orléans, Auxerre, Nevers et Troyes.
           </p>
           <p>
-            Sa cathédrale (1135) est l&apos;un des tout premiers édifices gothiques.
-            Un pape y a vécu. Thomas Becket y a trouvé refuge.
-            136&nbsp;monuments sont classés ou inscrits.
+            Sa cathédrale (1135) inaugure l&apos;architecture gothique.
+            Un pape en exil y a résidé. Thomas Becket y a trouvé asile
+            six années durant. {heritageCount}&nbsp;édifices y sont classés
+            ou inscrits aux Monuments historiques.
           </p>
           <p>
-            <strong>Patrimoine &amp; Sens</strong> réunit historiens, passionnés
-            et habitants pour documenter ce patrimoine — avec rigueur, mais
-            accessible à tous.
+            <strong>Patrimoine &amp; Sens</strong> réunit historiens,
+            érudits locaux et habitants autour d&apos;une ambition commune :
+            documenter, géolocaliser et raconter ce patrimoine — avec la rigueur
+            des sources et le plaisir du récit.
           </p>
         </div>
       </section>

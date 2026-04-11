@@ -25,45 +25,48 @@
 // Usage : npm run db:seed
 // =============================================================================
 
-import 'dotenv/config'
-import { db } from './index'
-import { users, heritageItems, contributions, reports } from './schema'
-import { seedUsers } from './seed-users'
-import { seedHeritageItems } from './seed-items'
-import { seedContributions } from './seed-contributions'
-
-// Signalement de test (Claire — fontaine de la Samaritaine)
-const seedReports = [
-  {
-    id: 'a7777777-0001-0001-0001-000000000001',
-    reporterId: 'd4444444-4444-4444-4444-444444444444',
-    heritageItemId: 'e5555555-0007-0007-0007-000000000007',
-    reportType: 'degradation' as const,
-    description: 'Bras cassé sur la figure sculptée côté est. Débris visibles dans le bassin. Graffiti récent sur le socle.',
-    severity: 'moyen' as const,
-    status: 'soumis' as const,
-    photos: null,
-    latitude: 48.1965,
-    longitude: 3.2855,
-  },
-] as const
+import { config } from 'dotenv'
+config({ path: '.env.local' })
 
 async function seed() {
+  // Dynamic imports — dotenv must run BEFORE db/index.ts reads DATABASE_URL
+  const { db } = await import('./index')
+  const { users, heritageItems, contributions, reports } = await import('./schema')
+  const { seedUsers } = await import('./seed-users')
+  const { seedHeritageItems } = await import('./seed-items')
+  const { seedContributions } = await import('./seed-contributions')
+
+  if (!db) throw new Error('DATABASE_URL manquant — vérifier .env.local')
+
+  // Signalement de test (Claire — fontaine de la Samaritaine)
+  const seedReports = [
+    {
+      id: 'a7777777-0001-0001-0001-000000000001',
+      reporterId: 'd4444444-4444-4444-4444-444444444444',
+      heritageItemId: 'e5555555-0007-0007-0007-000000000007',
+      reportType: 'degradation' as const,
+      description: 'Bras cassé sur la figure sculptée côté est. Débris visibles dans le bassin. Graffiti récent sur le socle.',
+      severity: 'moyen' as const,
+      status: 'soumis' as const,
+      photos: null,
+      latitude: 48.1965,
+      longitude: 3.2855,
+    },
+  ] as const
+
   console.log('Démarrage du seed...')
 
-  // Utilisateurs
   await db.insert(users).values(seedUsers as never).onConflictDoNothing()
   console.log(`${seedUsers.length} utilisateurs insérés`)
 
-  // Éléments patrimoniaux
   await db.insert(heritageItems).values(seedHeritageItems as never).onConflictDoNothing()
   console.log(`${seedHeritageItems.length} éléments patrimoniaux insérés`)
 
-  // Contributions
+  // Supprimer les anciennes contributions pour permettre la mise à jour du contenu
+  await db.delete(contributions)
   await db.insert(contributions).values(seedContributions as never).onConflictDoNothing()
   console.log(`${seedContributions.length} contributions insérées`)
 
-  // Signalements
   await db.insert(reports).values(seedReports as never).onConflictDoNothing()
   console.log(`${seedReports.length} signalements insérés`)
 

@@ -6,7 +6,8 @@
     "Tarbé, Théodore. « Recherches historiques et anecdotiques sur la ville de Sens. » 1838.",
     "Daguin, Gérard. « À propos du nom des rues. » histoire-sens-senonais-yonne.com.",
     "Archives départementales de l'Yonne, recensements de population 1836–1936.",
-    "Landry, Ernest. « Les Tarbé, généalogie-biographie. » Sens, Miriam, 1902."
+    "Landry, Ernest. « Les Tarbé, généalogie-biographie. » Sens, Miriam, 1902.",
+    "Cadastre napoléonien de Sens, 1826. Section H « La Ville ». AD89, cote 3P 5771, planche 30. Consultation IIIF : archives.yonne.fr/iiif/FRAD089_3P/FRAD089_3P_5771/FRAD089_3P_5771_30.jpg"
   ],
   "correspondances_attestees": [
     {
@@ -16,7 +17,7 @@
       "dateChangement": null,
       "fiabilite": "certaine",
       "sourcePoree": "ch. I, p. 5–88",
-      "notes": "Nom inchangé depuis le Moyen Âge. Axe principal du centre historique."
+      "notes": "Nom inchangé depuis le Moyen Âge. Axe principal du centre historique. Confirmé par le cadastre napoléonien 1826 (« grande rue »)."
     },
     {
       "nomActuel": "Rue des Déportés et de la Résistance",
@@ -43,7 +44,7 @@
       "dateChangement": "~XVIe siècle (progressif)",
       "fiabilite": "certaine (Porée p. 148, 167)",
       "sourcePoree": "ch. III, p. 115–166",
-      "notes": "Citation Porée p. 148 : « l'appellation de rue de l'Épée, qui remplaça peu à peu celle de rue de la Treille. » Et p. 167 : « rue anciennement appellée rue de la Treille et à présent rue de l'Espée. »"
+      "notes": "Citation Porée p. 148 : « l'appellation de rue de l'Épée, qui remplaça peu à peu celle de rue de la Treille. » Et p. 167 : « rue anciennement appellée rue de la Treille et à présent rue de l'Espée. » Confirmé par le cadastre 1826 (« rue de l'Épée » — le changement était donc acquis dès 1826)."
     },
     {
       "nomActuel": "Rue Jean-Cousin",
@@ -61,7 +62,7 @@
       "dateChangement": "XIXe siècle",
       "fiabilite": "certaine (Porée p. 286)",
       "sourcePoree": "ch. VII, p. 246–285",
-      "notes": "Citation Porée p. 286 : « C'était autrefois la rue Saint-Romain, mais cette dénomination ne s'appliquait qu'à la partie occidentale de la rue Jossey. »"
+      "notes": "Citation Porée p. 286 : « C'était autrefois la rue Saint-Romain, mais cette dénomination ne s'appliquait qu'à la partie occidentale de la rue Jossey. » Confirmé par le cadastre 1826 qui porte « Porcelets » sur la section correspondante."
     },
     {
       "nomActuel": "Rue Rigault",
@@ -71,17 +72,39 @@
       "fiabilite": "certaine (Porée p. 80, 202, 418)",
       "sourcePoree": "ch. XIII, p. 371–397",
       "notes": "Citation Porée p. 80, 202 : « rue du Cheval-Rouge, aujourd'hui rue Rigault. » Ancien hôtel de ville, Élection, hôtel-Dieu."
-    }
-  ],
-  "correspondances_a_verifier": [
+    },
     {
       "nomActuel": "Rue Nonat-Fillemin",
       "ancienNom": "Rue de la Synagogue",
       "autresNoms": [],
-      "fiabilite": "à vérifier (Porée couvre la rue ch. X mais ne dit pas explicitement le changement de nom)",
+      "dateChangement": "XIXe siècle",
+      "fiabilite": "certaine (Porée ch. X + cadastre 1826)",
       "sourcePoree": "ch. X, p. 303–321",
-      "notes": "Porée titre son chapitre 'Rue Nonat-Fillemin' et mentionne la Synagogue, mais la correspondance directe 'Synagogue → Nonat-Fillemin' n'est pas citée mot pour mot."
+      "sourceCadastre": "Section H, parcelles autour de l'ancienne synagogue",
+      "notes": "Le cadastre napoléonien de 1826 porte « Synagogue » comme nom de rue à cet emplacement. Porée titre son chapitre « Rue Nonat-Fillemin » et traite la Synagogue dans le corps du texte. Le renommage a eu lieu au XIXe siècle, en l'honneur de Nonat Fillemin."
     },
+    {
+      "nomActuel": "Rue du Plat-d'Étain",
+      "ancienNom": "Rue du Plat-d'Étain",
+      "autresNoms": ["Plat d'Estain", "Plat-d'Étain-d'En-Haut"],
+      "dateChangement": null,
+      "fiabilite": "certaine (Porée p. 82, 90 + cadastre 1826)",
+      "sourcePoree": "mentionnée p. 82, 90",
+      "sourceCadastre": "Section H, lisible « rue du Plat d'Etain »",
+      "notes": "Le cadastre de 1826 porte « rue du Plat d'Etain » — nom inchangé. Porée distingue un « Plat-d'Étain-d'En-Haut » qui pourrait correspondre à un tronçon distinct, aujourd'hui fusionné."
+    },
+    {
+      "nomActuel": "Boulevard du 14-Juillet",
+      "ancienNom": "Promenades du Midi",
+      "autresNoms": ["Mail", "Boulevard des Promenades"],
+      "dateChangement": "IIIe République (~1880–1890)",
+      "fiabilite": "certaine (cadastre 1826)",
+      "sourcePoree": null,
+      "sourceCadastre": "Section H, lisible « promenades du midi » le long des remparts sud",
+      "notes": "Le cadastre de 1826 porte « promenades du midi » pour la promenade plantée longeant les remparts sud. Le « mail » est la promenade nord-est. Renommé Boulevard du 14-Juillet sous la IIIe République."
+    }
+  ],
+  "correspondances_a_verifier": [
     {
       "nomActuel": "Rue de l'Écrivain",
       "ancienNom": "Rue des Jamards",
@@ -89,14 +112,6 @@
       "fiabilite": "à vérifier (lien implicite dans Porée mais pas de citation directe trouvée)",
       "sourcePoree": "ch. XI, p. 325–359",
       "notes": "Porée mentionne les Jamards dans le corps du texte. À confirmer via recensements."
-    },
-    {
-      "nomActuel": "Rue du Plat-d'Étain",
-      "ancienNom": "Rue du Plat-d'Étain-d'En-Haut",
-      "autresNoms": ["Plat d'Estain"],
-      "fiabilite": "à vérifier",
-      "sourcePoree": "mentionnée p. 82, 90",
-      "notes": "Porée distingue 'Plat-d'Étain-d'En-Haut' du 'Plat-d'Étain'. Vérifier si la rue actuelle correspond."
     },
     {
       "nomActuel": "Rue Saint-Pierre",
@@ -113,14 +128,156 @@
       "fiabilite": "à vérifier (source : rosediers, pas Porée)",
       "sourcePoree": null,
       "notes": "Emplacement des Moulins Saint-Louis. Gaston Perrot, maire 1947–1971. Nom de la ruelle à confirmer."
+    }
+  ],
+  "noms_cadastre_1826_nouveaux": [
+    {
+      "nomCadastre": "Rue Mauconseil",
+      "nomActuel": "à identifier",
+      "localisation": "Nord-ouest intra-muros, près de la porte Saint-Didier",
+      "notes": "Nom lisible sur le cadastre 1826 Section H. Pas dans Porée. Pourrait correspondre à une ruelle disparue ou renommée."
     },
     {
-      "nomActuel": "Boulevard du 14-Juillet",
-      "ancienNom": "Boulevard des Promenades",
-      "autresNoms": ["Mail"],
-      "fiabilite": "à vérifier",
-      "sourcePoree": null,
-      "notes": "Hypothèse basée sur les conventions de renommage IIIe République. À confirmer."
+      "nomCadastre": "Rue Dauphine",
+      "nomActuel": "à identifier",
+      "localisation": "Axe nord-sud, entre Grande-Rue et Place du Samedi",
+      "notes": "Nom lisible sur le cadastre 1826 Section H. Associée à la porte Dauphine (rempart sud). Nom d'Ancien Régime (dauphine = héritière royale)."
+    },
+    {
+      "nomCadastre": "Rue Royale",
+      "nomActuel": "Rue de la République (probable)",
+      "localisation": "Axe nord-sud, quartier cathédrale, entre place des Drapés et place Saint-Étienne, menant à la Porte Royale (percée en 1787)",
+      "fiabilite": "probable (recoupement Daguin + cadastre)",
+      "notes": "La rue de la République fut « percée de part en part » en 1787 à travers l'enclos du cloître, créant un axe nord-sud nouveau. La Porte Royale (ou Porte de l'Esplanade), 9e porte de Sens, fut ouverte cette même année. Le cadastre de 1826 porte « Royale » sur cet axe. Napoléon y passa le 1er décembre 1805, et la porte prit le nom de Porte Impériale. L'Esplanade devint la Place Jean-Jaurès. Renommage en « rue de la République » probable sous la IIIe République."
+    },
+    {
+      "nomCadastre": "Rue de la Parcheminerie",
+      "nomActuel": "Rue Thénard (partie haute)",
+      "localisation": "Nord-est intra-muros, menant vers la route royale N° 65 de Nancy",
+      "fiabilite": "certaine (Daguin + AD89)",
+      "notes": "Daguin confirme : « la rue de la Parcheminerie (le haut de la rue Thénard) ». Quartier des parcheminiers médiévaux. Pierre de Dicy donna une maison sur cette rue à une chapelle en 1342. Un cimetière juif y fut récupéré par les Célestins en 1336."
+    },
+    {
+      "nomCadastre": "Rue de la Vorlanche",
+      "nomActuel": "à identifier",
+      "localisation": "Est intra-muros, quartier Grand Séminaire",
+      "notes": "Nom lisible sur le cadastre 1826 Section H. Étymologie obscure — pourrait être une déformation de « Vorlange » ou terme local."
+    },
+    {
+      "nomCadastre": "Place Saint-Étienne",
+      "nomActuel": "Place de la République",
+      "localisation": "Devant la cathédrale Saint-Étienne",
+      "fiabilite": "probable (Daguin)",
+      "notes": "Le cadastre 1826 porte « place St Étienne » devant la cathédrale. Daguin mentionne que la place de l'Hôtel-Dieu (place St-Étienne) faisait face à la cathédrale et servait de marché. Un tir d'artillerie le 5 septembre 1638 pour la naissance de Louis XIV y brisa les vitraux de la cathédrale. Renommée place de la République probablement sous la IIIe République."
+    },
+    {
+      "nomCadastre": "Place des Drapés",
+      "nomActuel": "à identifier",
+      "localisation": "Nord de la cathédrale, intersection avec rue Royale",
+      "notes": "Place et rue qui existent toujours sous ce nom. « Drapès » = nom d'un guerrier gaulois de la tribu des Sénons (pas des drapiers). Le marché aux grains se tenait sur la partie sud, la boucherie au nord. Daguin mentionne le trajet « de la porte St-Pregt à la place Drapès »."
+    },
+    {
+      "nomCadastre": "Place du Samedi",
+      "nomActuel": "Place Victor-Hugo",
+      "localisation": "Sud-est intra-muros, au bout de la rue Dauphine",
+      "fiabilite": "certaine (Daguin)",
+      "notes": "Daguin confirme : « le jour du marché était fixé au samedi de chaque semaine, d'où le nom de place du Samedi (aujourd'hui Victor Hugo). » Deux marchés : la place de l'Hôtel-Dieu (place St-Étienne) et la halle aux grains (partie sud de la place du Samedi), la boucherie au nord."
+    },
+    {
+      "nomCadastre": "Le Mail",
+      "nomActuel": "Boulevard du Mail / Promenade",
+      "localisation": "Nord-est, promenade plantée le long des remparts",
+      "notes": "Nom lisible sur le cadastre 1826 Section H. Promenade ombragée (jeu de mail), distincte des « promenades du midi » au sud."
+    }
+  ],
+  "portes_de_ville_cadastre_1826": [
+    {
+      "nom": "Porte Saint-Didier",
+      "localisation": "Nord des remparts, à l'entrée du Cardo maximus (actuelle rue Beaurepaire). Route Paris-Lyon.",
+      "notes": "Agendicum/Daguin : située à l'entrée du Cardo maximus, face à la Porte Saint-Rémy. C'était l'axe Paris-Lyon traversant la ville du nord au sud. Lisible sur le cadastre 1826."
+    },
+    {
+      "nom": "Porte Dauphine",
+      "localisation": "Sud des remparts, à l'extrémité sud de la rue de la République actuelle, à hauteur du boulevard du 14-Juillet.",
+      "dateConstruction": "1283",
+      "dateReconstruction": "1777 (arc monumental par Charles-Axel Guillaumot, en mémoire du Dauphin fils de Louis XV, enterré dans la cathédrale)",
+      "dateDemolition": "1888",
+      "notes": "Porte édifiée en 1283, reconstruite en 1777, démolie en 1888 pour fluidifier la circulation. La rue Dauphine (cadastre 1826) menait de la Grande-Rue à cette porte. L'Hôtel-Dieu y fut rebâti."
+    },
+    {
+      "nom": "Porte Saint-Rémy",
+      "localisation": "Sud-ouest des remparts, à l'extrémité de la rue de l'Épée, à hauteur de l'actuel cours Tarbé. Près de l'ancien bâtiment des Prisons.",
+      "notes": "Lisible sur le cadastre 1826 au sud-ouest. Quartier des Prisons. Menait vers le faubourg Saint-Rémy (actuelle rue du Général-de-Gaulle)."
+    },
+    {
+      "nom": "Porte Formau (Formeau)",
+      "localisation": "Est des remparts, fermant le Decumanus maximus côté est. Débouchait sur le pont de l'Yonne et la route de Nancy.",
+      "dateDemolition": "avant 1804",
+      "notes": "Agendicum : « Porte Formau, fermant le Decumanus maximus à l'est. Démolie avant 1804. Possiblement de porta formosa (belle porte). » Le cadastre 1826 montre la route royale N° 65 de Nancy passant à cet emplacement. NB : j'avais noté « porte d'Orléans » mais le texte ne la confirme pas — il s'agit probablement de la porte Formau."
+    },
+    {
+      "nom": "Porte Royale / Porte de l'Esplanade / Porte Impériale",
+      "localisation": "Nord des remparts, à l'extrémité de la rue de la République actuelle, donnant sur la place Jean-Jaurès (ancienne Esplanade).",
+      "dateConstruction": "1787 (percée à travers l'enclos du cloître)",
+      "notes": "9e et dernière porte de Sens, percée en 1787. Napoléon y passa le 1er décembre 1805, d'où le nom « Porte Impériale ». L'Esplanade qui la précédait est devenue la place Jean-Jaurès."
+    },
+    {
+      "nom": "Porte Notre-Dame / Porte Saint-Léon",
+      "localisation": "Remparts, côté prieuré Notre-Dame",
+      "dateConstruction": "connue depuis 423 sous le nom de « Porte Saint-Léon »",
+      "dateDemolition": "1832",
+      "notes": "Agendicum : mâchicoulis fin XIIIe-début XIVe. Démolie en 1832."
+    },
+    {
+      "nom": "Porte Saint-Antoine / Porte du Cloître",
+      "localisation": "Remparts, départ de la route de Meaux",
+      "dateDemolition": "1832 (définitive ; détruite au XVe, reconstruite début XVIe)",
+      "notes": "Agendicum : détruite au XVe siècle, reconstruite début XVIe. Démolition définitive 1832."
+    },
+    {
+      "nom": "Porte d'Yonne",
+      "localisation": "Ouest des remparts, sur le Decumanus maximus (côté ouest), face à la Porte Formau",
+      "dateConstruction": "995 (par le comte Raynard-le-Viel)",
+      "dateDemolition": "XVIIIe siècle",
+      "notes": "Agendicum : bâtie sur les fondations du forum. Fermait le Decumanus maximus à l'ouest."
+    },
+    {
+      "nom": "Porte Saint-Hilaire",
+      "localisation": "Remparts, près de l'église paroissiale Saint-Hilaire (disparue)",
+      "notes": "Agendicum : nommée d'après l'église adjacente. Aurait remplacé une poterne plus ancienne."
+    }
+  ],
+  "lieux_dits_cadastre_1826": [
+    {
+      "nom": "Palais archiépiscopal",
+      "nomActuel": "Musées de Sens (Palais synodal + Palais archiépiscopal)",
+      "notes": "Vaste emprise en bleu sur le cadastre, jouxtant la cathédrale."
+    },
+    {
+      "nom": "Grand Séminaire",
+      "nomActuel": "Collège Montpezat (?)",
+      "localisation": "Est du Palais archiépiscopal, entre rue de la Parcheminerie et la Grande Rue",
+      "notes": "Visible sur le cadastre 1826 comme vaste emprise à l'est du palais archiépiscopal. Correspond probablement à l'actuel collège Montpezat. À confirmer."
+    },
+    {
+      "nom": "Hôtel de ville",
+      "localisation": "Sur la Grande-Rue, section est",
+      "notes": "Ancien emplacement de l'hôtel de ville, avant déménagement."
+    },
+    {
+      "nom": "Les Prisons",
+      "localisation": "Près de la porte Saint-Rémy, sud-ouest",
+      "notes": "Ancien bâtiment carcéral, visible sur le cadastre 1826."
+    },
+    {
+      "nom": "L'Esplanade",
+      "nomActuel": "Place Jean-Jaurès",
+      "notes": "Daguin confirme : « l'Esplanade » devint la place Jean-Jaurès. Napoléon y passa le 1er décembre 1805."
+    },
+    {
+      "nom": "Route royale N° 65, de Nancy",
+      "nomActuel": "Avenue de Senigallia / RN 60",
+      "notes": "Axe principal est, sortie de ville vers Nancy. Reclassée après 1830."
     }
   ],
   "rues_inchangees_dans_poree": [
@@ -224,16 +381,31 @@
     { "nom": "Cour Brion", "localisation": "Rue Jossey", "sourcePoree": "ch. 91, p. 282" },
     { "nom": "Cour Véron", "localisation": "Rue de Cugnières", "sourcePoree": "ch. 81, p. 241" },
     { "nom": "Cour de la Souche", "localisation": "Rue de l'Écrivain", "sourcePoree": "ch. 102, p. 326" },
-    { "nom": "Gastellerie", "localisation": "Section rue Saint-Romain (actuelle Jossey)", "sourcePoree": "p. 326" }
+    { "nom": "Gastellerie", "localisation": "Section rue Saint-Romain (actuelle Jossey)", "sourcePoree": "p. 326" },
+    { "nom": "Rue Mi-Pavée", "localisation": "Centre intra-muros (emplacement exact à déterminer)", "sourcePoree": null, "notes": "Mentionnée en 1539 pour des joutes en l'honneur de François Ier. Nom descriptif (rue à moitié pavée). Disparue de la nomenclature actuelle." }
   ],
   "metadata": {
-    "correspondancesCertaines": 7,
-    "correspondancesAVerifier": 6,
+    "correspondancesCertaines": 10,
+    "correspondancesAVerifier": 3,
+    "nomsCadastreNouveaux": 9,
+    "portesDeVille": 9,
+    "lieuxDits": 6,
     "ruesInchangees": 9,
     "ruesPostRemparts": 10,
-    "ruellesDisparues": 12,
+    "ruellesDisparues": 13,
     "generatedDate": "2026-04-08",
     "lastUpdated": "2026-04-08",
-    "note": "Les correspondances 'à vérifier' nécessitent une confirmation via les recensements numérisés des AD89 (1836–1936) ou le cadastre napoléonien. Le Porée (1920) est la source primaire pour les rues intra-muros."
+    "sourcePrimaire": "Porée, Charles (1920) + Cadastre napoléonien 1826, Section H « La Ville », AD89 3P 5771",
+    "iiifEndpoint": "https://archives.yonne.fr/iiif/FRAD089_3P/FRAD089_3P_5771/FRAD089_3P_5771_30.jpg/{region}/{size}/{rotation}/{quality}.jpg",
+    "imageDimensions": "11986×8124 px",
+    "note": "10 correspondances certaines (dont 3 promues grâce au cadastre 1826). 9 noms du cadastre identifiés dont 4 résolus (Parcheminerie→Thénard, Place du Samedi→Victor-Hugo, Place St-Étienne→République, Rue Royale→République probable). 9 portes de ville documentées (Agendicum, Daguin, cadastre). Esplanade→Jean-Jaurès. Rue Mi-Pavée ajoutée (1539). Reste à résoudre : rue Dauphine, Mauconseil, Vorlanche.",
+    "sourcesUtilisees": [
+      "Porée (1920)",
+      "Cadastre napoléonien 1826 Section H (AD89 3P 5771, IIIF)",
+      "Daguin, Gérard. histoire-sens-senonais-yonne.com",
+      "Agendicum (blog). agendicum.over-blog.com",
+      "SenoN.org",
+      "Delcampe (facture Émile Mery, quincaillier rue Dauphine, 1870)"
+    ]
   }
 }

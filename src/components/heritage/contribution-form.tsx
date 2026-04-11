@@ -42,6 +42,7 @@ const MAX_BODY_LENGTH = 3000
 
 interface FormState {
   type: ContributionType
+  title: string
   body: string
   period: string
   sources: string[]
@@ -65,6 +66,7 @@ export function ContributionForm({
 }: ContributionFormProps) {
   const [form, setForm] = React.useState<FormState>({
     type: initialType,
+    title: "",
     body: "",
     period: "",
     sources: [""],
@@ -180,6 +182,21 @@ export function ContributionForm({
             </button>
           ))}
         </div>
+      </div>
+
+      {/* Titre de la contribution */}
+      <div className="space-y-2">
+        <label htmlFor="title" className="block text-sm font-medium text-stone-700">
+          Titre{" "}
+          <span className="text-stone-400 font-normal">(optionnel mais recommandé)</span>
+        </label>
+        <Input
+          id="title"
+          type="text"
+          placeholder="ex : Architecture de la salle synodale, Le mariage de Saint Louis…"
+          value={form.title}
+          onChange={(e) => setForm((prev) => ({ ...prev, title: e.target.value }))}
+        />
       </div>
 
       {/* Champs conditionnels : Historique */}

@@ -1,0 +1,712 @@
+{
+  "totalImages": 237,
+  "totalMatched": 88,
+  "matchRate": "37%",
+  "threshold": 5,
+  "labels": [
+    {
+      "imageId": "commons_10f7c1edee40",
+      "imageTitle": "Arcature.cathedrale.Sens.png",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 7.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_9490ae78eaff",
+      "imageTitle": "Bague.colonne.cathedrale.Sens.png",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 7.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_7505e24320a9",
+      "imageTitle": "Becket liturgical garments Sens Cathedral.jpg",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 5.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_38207a1c5e4f",
+      "imageTitle": "Cathédrale Saint-Etienne - Archevêché - Sens - Médiathèque de l'architecture et du patrimoine - APMH00014399.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_b3603d185af9",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010096.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_788e0f182a01",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010097.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_91248e86c05d",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010098.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_5ddbde927df5",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010099.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_183f1a5b849c",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010100.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_6845a71e503b",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010101.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_246d1b7d51a3",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010102.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_1f950319ffa1",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010103.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_11ba1137df5e",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010104.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_c950a0626dbc",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010105.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_f26296a6e07f",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010106.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_a0f3cce1a3c0",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010107.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_c2d762435c9a",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010109.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_680c12c11de2",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010110.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_a9d2e94d073d",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010111.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_564cb4edc1bb",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010112.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_4474d6eba6af",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010113.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_0a4eb5e4ecc5",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010114.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_fc3126011128",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010144.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_e058310b2839",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010170.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_828eb2eb8ea9",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010183.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_5ad48cb7fac7",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010184.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_78317ddd6ce9",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010185.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_33d3d95cbe43",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010186.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_ca0f1fdd920e",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010187.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_11b3cb7fde04",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010188.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_b4ff53be9900",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010189.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_f814e74d1666",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010190.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_bfaab3877ac4",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010191.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_4e98bafbadf1",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010192.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_f5db0b0945e4",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010193.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_55bef3cb6bce",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Arcs-boutants sud.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_d330e4439731",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Cour sud.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_0aa8c1a6575c",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Cour sud b.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_2275cfe545b2",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Hotel de ville.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_9ea2d2878b3b",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Ouest.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_64a2fbc27e02",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Portail de la cour nord.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_99d43712c1a5",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Portail de la cour nord b.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_3729bda71c8f",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Première chapelle de la tour sud.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_05cca0a743dd",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Toit du Palais synodal.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_eaa25466eb78",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Toit du Palais synodal b.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_99a67230075d",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Toiture Nord.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_d7577d87feb1",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Toitures.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_c2da05612453",
+      "imageTitle": "Cathédrale Saint Etienne de Sens - Tour sud.tif",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 21.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_7769b6204b9c",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010194.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_e9c1012da955",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010195.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_c94ce8c37923",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010196.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_89ac1db69834",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010197.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_b51377ea049a",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010199.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_c7159769ffeb",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010200.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_49424a3e152e",
+      "imageTitle": "Cathédrale Saint-Etienne - Sens - Médiathèque de l'architecture et du patrimoine - APMH00019209.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_a982464f07ed",
+      "imageTitle": "Cathédrale Saint-Etienne - Transept nord - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010089.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_76755d5d8a3b",
+      "imageTitle": "Cathédrale Saint-Etienne - Vitrail - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010181.jpg",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_3125abb7a219",
+      "imageTitle": "Chapiteau.cathedrale.Saint.Etienne.Sens.png",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_c0e711035bcc",
+      "imageTitle": "Chasuble de Thomas de cantorbéry cathédrale de Sens 03412.jpg",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 7.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_3a430088555d",
+      "imageTitle": "Ciboire cathédrale de Sens 03373.jpg",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 7.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_546ffb27bb3b",
+      "imageTitle": "Détail de la cathédrale de Sens.jpg",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 7.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_a7ddc25d64f1",
+      "imageTitle": "Eglise Saint-Savinien - Choeur - Sens - Médiathèque de l'architecture et du patrimoine - APMH00010087.jpg",
+      "heritageItemId": "8a75a592-0268-5e6e-98c0-12fe47256773",
+      "heritageItemTitle": "Eglise Saint-Savinien",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_a227977010b0",
+      "imageTitle": "Eglise Saint-Savinien - Façade ouest - Sens - Médiathèque de l'architecture et du patrimoine - APMH00031771.jpg",
+      "heritageItemId": "8a75a592-0268-5e6e-98c0-12fe47256773",
+      "heritageItemTitle": "Eglise Saint-Savinien",
+      "score": 16.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_26677fda4621",
+      "imageTitle": "Faitiere.cathedrale.Sens.png",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 7.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_50a32e7dbd36",
+      "imageTitle": "Maison à piliers - Sens - Médiathèque de l'architecture et du patrimoine - APMH00011565.jpg",
+      "heritageItemId": "03844ddf-4d32-54e3-a0d9-31fff95c295e",
+      "heritageItemTitle": "Maison",
+      "score": 12.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_4d21b29ba680",
+      "imageTitle": "Obejts de thomas de Cantorbery cathédrale de Sens 03414.jpg",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 7.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_527f35874d06",
+      "imageTitle": "Plan.voute.cathedrale.Sens.png",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 11.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_d8968cd881a9",
+      "imageTitle": "Porte de Sens - Villeneuve-sur-Yonne - Médiathèque de l'architecture et du patrimoine - APMH00007030.jpg",
+      "heritageItemId": "e5555555-0066-0066-0066-000000000066",
+      "heritageItemTitle": "Porte de Sens — Villeneuve-sur-Yonne",
+      "score": 14.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_bf4059918a5e",
+      "imageTitle": "Sculpture.astronomie.cathedrale.Sens.png",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 7.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_35cb0afc78c6",
+      "imageTitle": "Sculpture.dialectique.cathedrale.Sens.png",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 7.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_a6ef0631cbf0",
+      "imageTitle": "Sculpture.theologie.cathedrale.Sens.png",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 7.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_d121d7612dba",
+      "imageTitle": "Sens - Hôtel de ville - vue de la tour sud de la cathédrale.tif",
+      "heritageItemId": "b4227dec-8db7-528c-8e56-f57df4c49280",
+      "heritageItemTitle": "Hôtel de ville",
+      "score": 14.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "commons_0775c577f334",
+      "imageTitle": "Trumeaux.cathedrale.Sens.et.eglise.Souvigny.png",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "heritageItemTitle": "Cathédrale Saint-Étienne de Sens",
+      "score": 13.0,
+      "source": "commons"
+    },
+    {
+      "imageId": "yonne_24dc6ec57f21",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Eglise délabrée. (ouvre la visionneuse)",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 6.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_e7c195ebf32d",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Eglise de l\\'Abbaye de ste-Colombe. (ouvre la visionneuse)",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 10.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_ba65e1d69d31",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Le Couvent de Sainte Colombe côté de la Ferme. (ouvre la visionneuse)",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 8.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_ecc215378e04",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, intérieur de la Chapelle. (ouvre la visionne",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 6.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_2b7aba144aa1",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, châsse, Vierge et Martyre. (ouvre la visionn",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 6.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_79a6dd12428c",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe. (ouvre la visionneuse)",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 6.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_e311d9048acc",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, le réfectoire. (ouvre la visionneuse)",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 6.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_3f4bae44f204",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, intérieur de l\\'Eglise. (ouvre la visionneus",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 8.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_a5ec1cfe9b65",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe et la Vallée de l\\'Yonne. (ouvre la visionneu",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 6.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_6648b8cdf1e9",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Translation des reliques de Ste Colombe de la Cathédrale à la chapelle",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 6.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_b597cab918e9",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Translation des reliques de Ste Colombe de la Cathédrale à la chapelle",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 6.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_2a066a20b192",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, le réfectoire. (ouvre la visionneuse)",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 6.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_aeaf5f282230",
+      "imageTitle": "1 vue  - Saint Denis les Sens-Monastère de Ste-Colombe, le réfectoire. (ouvre la visionneuse)",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "heritageItemTitle": "Abbaye Sainte-Colombe (Saint-Denis-lès-Sens)",
+      "score": 6.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_c33cb185ae6a",
+      "imageTitle": "1 vue  - Sens. La cathédrale Saint-Étienne. (ouvre la visionneuse)",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_7168b437e63f",
+      "imageTitle": "1 vue  - 4e série. Sens (Yonne). La cathédrale Saint-Étienne (ensemble ouest). (ouvre la visionneuse",
+      "heritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "heritageItemTitle": "Cathédrale Saint-Etienne",
+      "score": 16.0,
+      "source": "archives_yonne"
+    }
+  ]
+}

@@ -1,11 +1,12 @@
 // =============================================================================
 // Configuration Drizzle Kit — Patrimoine & Sens
 // Intent : Paramétrage des commandes drizzle-kit (generate, migrate, push, studio).
-//          Les migrations sont versionnées dans ./drizzle/ (distinct de supabase/).
+//          PostgreSQL classique via postgres-js.
 // =============================================================================
 
 import { defineConfig } from 'drizzle-kit'
-import 'dotenv/config'
+import { config } from 'dotenv'
+config({ path: '.env.local' })
 
 export default defineConfig({
   dialect: 'postgresql',

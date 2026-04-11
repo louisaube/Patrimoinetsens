@@ -1,6 +1,7 @@
 // =============================================================================
 // Client Drizzle ORM — Patrimoine & Sens
-// Intent : Connexion à Neon PostgreSQL quand DATABASE_URL est défini.
+// Intent : Connexion à PostgreSQL classique via postgres-js (postgresjs).
+//          Requiert DATABASE_URL dans .env.local.
 //          En dev local sans DATABASE_URL, exporte null — les hooks utilisent
 //          les données JSON statiques (public/data/) directement.
 // =============================================================================
@@ -13,9 +14,10 @@ const databaseUrl = process.env.DATABASE_URL
 export const db = databaseUrl
   ? (() => {
       // eslint-disable-next-line @typescript-eslint/no-require-imports
-      const { neon } = require('@neondatabase/serverless')
+      const postgres = require('postgres')
       // eslint-disable-next-line @typescript-eslint/no-require-imports
-      const { drizzle } = require('drizzle-orm/neon-http')
-      return drizzle(neon(databaseUrl), { schema })
+      const { drizzle } = require('drizzle-orm/postgres-js')
+      const client = postgres(databaseUrl)
+      return drizzle(client, { schema })
     })()
   : null

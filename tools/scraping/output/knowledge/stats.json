@@ -1,0 +1,29 @@
+{
+  "existing_items": 71,
+  "new_items": 2024,
+  "total_items": 2095,
+  "existing_contributions": 453,
+  "new_contributions": 2647,
+  "total_contributions": 2703,
+  "cailleaux_contributions": 42,
+  "by_type": {
+    "historique": 2509,
+    "temoignage": 74,
+    "recit": 64
+  },
+  "by_source": {
+    "facebook_groupe-histoire-sens": 37,
+    "facebook_gazette-senonaise": 69,
+    "pop_merimee": 285,
+    "pop_palissy": 2175,
+    "web_tourisme-sens": 64,
+    "wikipedia": 5,
+    "facebook_photos-de-sens": 2,
+    "facebook_senonais-hier-aujourdhui": 4,
+    "facebook_sens-ville-dyonne": 2,
+    "facebook_histoire-de-sens": 1,
+    "web_openedition-sens": 1,
+    "facebook_histoire-sens-senonais-yonne": 1,
+    "web_agendicum-blog": 1
+  }
+}

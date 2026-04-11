@@ -44,6 +44,7 @@ export interface ContributionAuthor {
 export interface Contribution {
   id: string
   type: ContributionType
+  title?: string | null
   body: string
   author: ContributionAuthor
   createdAt: string
@@ -51,6 +52,7 @@ export interface Contribution {
   // Champs spécifiques historique
   period?: string | null
   sources?: string[] | null
+  furtherReading?: string | null
 }
 
 export interface HeritageDetail extends HeritageSummary {

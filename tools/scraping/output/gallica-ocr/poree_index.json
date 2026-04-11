@@ -1,0 +1,4700 @@
+{
+  "total_sections": 939,
+  "sections": [
+    {
+      "section": 1,
+      "title": "Les Enseignes",
+      "page": 25
+    },
+    {
+      "section": 0,
+      "title": "QUARTIER SUD-OUEST",
+      "page": 25
+    },
+    {
+      "section": 0,
+      "title": "RUE COUVERTE",
+      "page": 25
+    },
+    {
+      "section": 2,
+      "title": "La porte d'Yonne",
+      "page": 27
+    },
+    {
+      "section": 3,
+      "title": "De la porte d'Yonne à la Trinité",
+      "page": 29
+    },
+    {
+      "section": 4,
+      "title": "La maison des Deux - Barbeaux",
+      "page": 30
+    },
+    {
+      "section": 5,
+      "title": "Saint Christophe et le Chapeau Rouge",
+      "page": 32
+    },
+    {
+      "section": 6,
+      "title": "La Nef ou le Griffon",
+      "page": 33
+    },
+    {
+      "section": 75,
+      "title": "« Honorable homme Jean Bouvier,",
+      "page": 33
+    },
+    {
+      "section": 32,
+      "title": "« Felisius de Chantemelle, XI d. pro",
+      "page": 34
+    },
+    {
+      "section": 7,
+      "title": "La maison de Jacques d'Ableiges ou le Grand-Godet",
+      "page": 35
+    },
+    {
+      "section": 8,
+      "title": "La cour de la Cloche et le Dauphin",
+      "page": 40
+    },
+    {
+      "section": 9,
+      "title": "Du Moulin à Vent à la Croix d'Or",
+      "page": 42
+    },
+    {
+      "section": 121,
+      "title": "« Maison",
+      "page": 42
+    },
+    {
+      "section": 10,
+      "title": "La maison du Sauvage et ses abords",
+      "page": 44
+    },
+    {
+      "section": 72,
+      "title": "En 1587, Pierre Espougny,",
+      "page": 45
+    },
+    {
+      "section": 11,
+      "title": "Gonthier Col et son",
+      "page": 46
+    },
+    {
+      "section": 12,
+      "title": "La Levrière ou la Levrette",
+      "page": 48
+    },
+    {
+      "section": 13,
+      "title": "La ruelle des Jacobins",
+      "page": 50
+    },
+    {
+      "section": 14,
+      "title": "La Manufacture de velours d'Utrecht",
+      "page": 52
+    },
+    {
+      "section": 15,
+      "title": "La maison du Croissant",
+      "page": 54
+    },
+    {
+      "section": 16,
+      "title": "L'église Sainte-Colombe du Carrouge",
+      "page": 55
+    },
+    {
+      "section": 17,
+      "title": "La mésaventure d'Etienne de Bierne",
+      "page": 61
+    },
+    {
+      "section": 18,
+      "title": "Le Carrouge et la maison des Degrés",
+      "page": 63
+    },
+    {
+      "section": 28,
+      "title": "Voy. aussi :",
+      "page": 66
+    },
+    {
+      "section": 19,
+      "title": "L'image Saint-Paul et le Chapeau-Rouge",
+      "page": 67
+    },
+    {
+      "section": 20,
+      "title": "La Cognée, ['Aigle-d'Or, le Mortier-cCOr et la Pinte",
+      "page": 70
+    },
+    {
+      "section": 35,
+      "title": "Voy. encore E 297, fol. 3 V, 7 v-, 42 v, 66.",
+      "page": 70
+    },
+    {
+      "section": 21,
+      "title": "La Censive des curés de Sainte-Colombe",
+      "page": 73
+    },
+    {
+      "section": 0,
+      "title": "« Colas",
+      "page": 73
+    },
+    {
+      "section": 28,
+      "title": "Voy. encore E 297, fol.",
+      "page": 73
+    },
+    {
+      "section": 15,
+      "title": "Voy. aussi Biblioth. de Sens'",
+      "page": 73
+    },
+    {
+      "section": 22,
+      "title": "Le Puits des Treize- Prêtres",
+      "page": 77
+    },
+    {
+      "section": 23,
+      "title": "Le Berceau des Tarbé",
+      "page": 79
+    },
+    {
+      "section": 24,
+      "title": "La maison de Siméon de Provenchères",
+      "page": 81
+    },
+    {
+      "section": 25,
+      "title": "La Sellerie, la Lormerie et le coin de l'Eperon",
+      "page": 85
+    },
+    {
+      "section": 26,
+      "title": "La maison des Ursulines",
+      "page": 87
+    },
+    {
+      "section": 13,
+      "title": "« Ung denier de cens",
+      "page": 88
+    },
+    {
+      "section": 27,
+      "title": "Le coin occidental des Bourses",
+      "page": 89
+    },
+    {
+      "section": 28,
+      "title": "La Hure ou la maison des Herbelins",
+      "page": 92
+    },
+    {
+      "section": 29,
+      "title": "Le grand Dauphin",
+      "page": 93
+    },
+    {
+      "section": 30,
+      "title": "Sainte-Barbe et la Croix-de-Fer",
+      "page": 96
+    },
+    {
+      "section": 11,
+      "title": "Maison de Jean Guyon, drapier, « appelée d'ancienneté l'ostel de la",
+      "page": 97
+    },
+    {
+      "section": 310,
+      "title": "« De la veufve Jehan Guérard, pour sa maison assise en",
+      "page": 97
+    },
+    {
+      "section": 23,
+      "title": "« De Pierre Maillet, libraire, au lieu d'Isaac Lau-",
+      "page": 98
+    },
+    {
+      "section": 106,
+      "title": "Maisonà Nicolas Doz,",
+      "page": 98
+    },
+    {
+      "section": 31,
+      "title": "Les Trois-Etriers ou Sainte-Catherine",
+      "page": 99
+    },
+    {
+      "section": 15,
+      "title": "« Messire Pierre Dupuys, pour sa maison... tenant d'une part à",
+      "page": 99
+    },
+    {
+      "section": 32,
+      "title": "Les Porcherons et la Pomme de Pin",
+      "page": 101
+    },
+    {
+      "section": 880,
+      "title": "« De Cosme Rousseau, chapelier ... pour une maison",
+      "page": 101
+    },
+    {
+      "section": 926,
+      "title": "« De Louis Rousseau, chapelier, au lieu de Marie Dalençon, sa mère,",
+      "page": 101
+    },
+    {
+      "section": 40,
+      "title": "La veuve Guérard possé-",
+      "page": 101
+    },
+    {
+      "section": 1359,
+      "title": "Les .chanoines s'étaient également rendus pro-",
+      "page": 102
+    },
+    {
+      "section": 731,
+      "title": "En 1254, Eudes de la Ferté",
+      "page": 102
+    },
+    {
+      "section": 771,
+      "title": "« La veuve..., au lieu de Pierre Leclerc, chape-",
+      "page": 104
+    },
+    {
+      "section": 807,
+      "title": "« Louis Treillaut, marchand,",
+      "page": 104
+    },
+    {
+      "section": 747,
+      "title": "« A Raoleto de Trillia, pro domo quam tenuit Robertus Diaboli,",
+      "page": 105
+    },
+    {
+      "section": 880,
+      "title": "« Les héritiers de Magdelaine Thibault, veuve Jean Morain, au",
+      "page": 106
+    },
+    {
+      "section": 747,
+      "title": "c Ab Henrico de Barro, custurario, pro domo ... contigua ex una parte",
+      "page": 106
+    },
+    {
+      "section": 751,
+      "title": "« A Petro Bou-",
+      "page": 106
+    },
+    {
+      "section": 754,
+      "title": "« De",
+      "page": 106
+    },
+    {
+      "section": 33,
+      "title": "Les Balduc et le Baclzot d'argent",
+      "page": 107
+    },
+    {
+      "section": 796,
+      "title": "« De Claude Lamy, marchand à Séns, et",
+      "page": 107
+    },
+    {
+      "section": 1014,
+      "title": "« De M' François Hatin,",
+      "page": 109
+    },
+    {
+      "section": 34,
+      "title": "Le coin du Mouton et la Lanterne",
+      "page": 111
+    },
+    {
+      "section": 41,
+      "title": "« Philipe, vefve de feu Huguenin le bar-",
+      "page": 112
+    },
+    {
+      "section": 1,
+      "title": "« Le",
+      "page": 112
+    },
+    {
+      "section": 35,
+      "title": "La maison des Béguines et les",
+      "page": 116
+    },
+    {
+      "section": 0,
+      "title": "RUE DU PALAIS - DE-JUSTICE",
+      "page": 116
+    },
+    {
+      "section": 36,
+      "title": "Les passages à Sens des rois et reines de France.",
+      "page": 118
+    },
+    {
+      "section": 37,
+      "title": "Le Plat d'Etain et Saini-Maurice.",
+      "page": 123
+    },
+    {
+      "section": 38,
+      "title": "Le bureau des coches d'eau.",
+      "page": 125
+    },
+    {
+      "section": 40,
+      "title": "Le Palais de Justice",
+      "page": 131
+    },
+    {
+      "section": 42,
+      "title": "De la Grande-Rue à la Galère.",
+      "page": 135
+    },
+    {
+      "section": 43,
+      "title": "La Galère",
+      "page": 138
+    },
+    {
+      "section": 44,
+      "title": "Le Lion d'argent et l'Étoile.",
+      "page": 140
+    },
+    {
+      "section": 0,
+      "title": "RUE DE L'ÉPÉE",
+      "page": 148
+    },
+    {
+      "section": 45,
+      "title": "Les prisons du Roi et les maisons du Commandeur.",
+      "page": 149
+    },
+    {
+      "section": 46,
+      "title": "La croix, la place et l'église Saint-Maximin.",
+      "page": 151
+    },
+    {
+      "section": 47,
+      "title": "La Cour des Comtes et les Deux-Lions.",
+      "page": 152
+    },
+    {
+      "section": 48,
+      "title": "La",
+      "page": 156
+    },
+    {
+      "section": 49,
+      "title": "L'Huis de fer.",
+      "page": 157
+    },
+    {
+      "section": 50,
+      "title": "Le Bout du Monde, la ruelle du Puits Picard",
+      "page": 160
+    },
+    {
+      "section": 51,
+      "title": "Les maisons de VEpée et VEcole aux Juifs.",
+      "page": 165
+    },
+    {
+      "section": 52,
+      "title": "La Samaritaine et les maisons de la Treille.",
+      "page": 169
+    },
+    {
+      "section": 53,
+      "title": "La cour de la Treille et le droit de forage",
+      "page": 174
+    },
+    {
+      "section": 55,
+      "title": "La maison de Balthazar laveau",
+      "page": 182
+    },
+    {
+      "section": 56,
+      "title": "La « maison à la grosse pierre »",
+      "page": 184
+    },
+    {
+      "section": 57,
+      "title": "L'hôtel de Biencourt et l'hôtel Epoigny.",
+      "page": 187
+    },
+    {
+      "section": 58,
+      "title": "Un magistrat d'autrefois : Louis-Clément-Bonaventure",
+      "page": 191
+    },
+    {
+      "section": 59,
+      "title": "L'hôtel Jodrillat archevêché, puis sous-préfecture.",
+      "page": 194
+    },
+    {
+      "section": 61,
+      "title": "La maison dite de Jean Cousin (1).",
+      "page": 202
+    },
+    {
+      "section": 0,
+      "title": "RUE JEAN-COUSIN",
+      "page": 202
+    },
+    {
+      "section": 62,
+      "title": "L'ancienne Caisse d'épargne.",
+      "page": 210
+    },
+    {
+      "section": 63,
+      "title": "Jusqu'au coin de la Lumière.",
+      "page": 215
+    },
+    {
+      "section": 64,
+      "title": "Le fief d'Autun.",
+      "page": 219
+    },
+    {
+      "section": 65,
+      "title": "Topographie des abords du fief d'Autun",
+      "page": 223
+    },
+    {
+      "section": 66,
+      "title": "Les détenteurs du fief d'Autun et de ses abords",
+      "page": 226
+    },
+    {
+      "section": 67,
+      "title": "Le fief d'Auliin, du XVIe siècle à la Révolution.",
+      "page": 230
+    },
+    {
+      "section": 68,
+      "title": "La Truie qui file.",
+      "page": 235
+    },
+    {
+      "section": 69,
+      "title": "Le Matelas et la seconde Truie qui file.",
+      "page": 238
+    },
+    {
+      "section": 70,
+      "title": "Le Babouin ou l'Homme sauvage",
+      "page": 241
+    },
+    {
+      "section": 71,
+      "title": "Le côté nord de la Serrurerie",
+      "page": 243
+    },
+    {
+      "section": 66,
+      "title": "Le cens était partagé entre les Célestins et le Cha",
+      "page": 247
+    },
+    {
+      "section": 72,
+      "title": "La construction d'une maison au XV7c siècle :",
+      "page": 248
+    },
+    {
+      "section": 73,
+      "title": "La Fleur de Lis.",
+      "page": 253
+    },
+    {
+      "section": 74,
+      "title": "La Vannerie.",
+      "page": 258
+    },
+    {
+      "section": 75,
+      "title": "Le côté sud de la Serrurerie et la Croix-d'Or",
+      "page": 261
+    },
+    {
+      "section": 76,
+      "title": "La Halle au prévôt.",
+      "page": 265
+    },
+    {
+      "section": 77,
+      "title": "Le Marché à la volaille et la Maison aux Piliers-",
+      "page": 268
+    },
+    {
+      "section": 78,
+      "title": "Le Marché aux Balais.",
+      "page": 271
+    },
+    {
+      "section": 0,
+      "title": "RUE MAILLARD",
+      "page": 271
+    },
+    {
+      "section": 79,
+      "title": "Quelques mots sur le protestantisme à Sens.",
+      "page": 274
+    },
+    {
+      "section": 0,
+      "title": "RUE DE CUGNIÈRES",
+      "page": 274
+    },
+    {
+      "section": 80,
+      "title": "Saint-Christophe.",
+      "page": 277
+    },
+    {
+      "section": 81,
+      "title": "La cour Véron.",
+      "page": 281
+    },
+    {
+      "section": 82,
+      "title": "L'église Saint-Romain.",
+      "page": 286
+    },
+    {
+      "section": 0,
+      "title": "RUE JOSSEY",
+      "page": 286
+    },
+    {
+      "section": 83,
+      "title": "Le testament d'Adam Fessart",
+      "page": 290
+    },
+    {
+      "section": 84,
+      "title": "Le refuge des moines de Saint-Rémy",
+      "page": 293
+    },
+    {
+      "section": 85,
+      "title": "La taverne de Saint-Rémy.",
+      "page": 299
+    },
+    {
+      "section": 86,
+      "title": "« Devant Saint-Romain.",
+      "page": 302
+    },
+    {
+      "section": 87,
+      "title": "Au levant de Saint-Romain",
+      "page": 307
+    },
+    {
+      "section": 88,
+      "title": "La Maison de Saint-Sauveur",
+      "page": 311
+    },
+    {
+      "section": 89,
+      "title": "La numérotation ancienne des maisons",
+      "page": 316
+    },
+    {
+      "section": 203,
+      "title": "Rue Saint-Maximin : 204 à 213. — Rue de l'Epée : 214 à 225. — Rue de la",
+      "page": 318
+    },
+    {
+      "section": 234,
+      "title": "Rue de la Vannerie : 235 à 248. — Rue du Cerf-cou-",
+      "page": 318
+    },
+    {
+      "section": 297,
+      "title": "Rue des Trois-Crois-",
+      "page": 318
+    },
+    {
+      "section": 310,
+      "title": "Rue du Lion-d'Oi- : 311 (Corde-",
+      "page": 318
+    },
+    {
+      "section": 353,
+      "title": "Rue de l'Epée : 354 (angle occidental de la rue de L'Ecrivain) à 367",
+      "page": 318
+    },
+    {
+      "section": 90,
+      "title": "Le Saint-Esprit, le Chef Saint-Jean",
+      "page": 320
+    },
+    {
+      "section": 91,
+      "title": "La Cour Brion, la Fleur de Lis, le Dauphin",
+      "page": 324
+    },
+    {
+      "section": 92,
+      "title": "Le Chêne Percé",
+      "page": 328
+    },
+    {
+      "section": 93,
+      "title": "Les Juifs à Sens au moyen-âge",
+      "page": 331
+    },
+    {
+      "section": 94,
+      "title": "Les Canettes et la Grande-Gibecière",
+      "page": 334
+    },
+    {
+      "section": 95,
+      "title": "La maison d'Edme-Louis Bonnerot, député à la",
+      "page": 337
+    },
+    {
+      "section": 96,
+      "title": "Le côté oriental de la Grande Juiverie. Addition à lin",
+      "page": 341
+    },
+    {
+      "section": 96,
+      "title": "Les greniers à sel",
+      "page": 345
+    },
+    {
+      "section": 0,
+      "title": "RUE NONAT-FILLEMIN",
+      "page": 345
+    },
+    {
+      "section": 97,
+      "title": "La tour de la Synagogue",
+      "page": 349
+    },
+    {
+      "section": 98,
+      "title": "Le Collège de jeunes filles",
+      "page": 353
+    },
+    {
+      "section": 100,
+      "title": "La côté méridional de la rue et la cour Guibert",
+      "page": 360
+    },
+    {
+      "section": 101,
+      "title": "L'actuel presbytère de Saint-Pierre-le-Rond",
+      "page": 364
+    },
+    {
+      "section": 0,
+      "title": "RUE DE L'ÉCRIVAIN",
+      "page": 367
+    },
+    {
+      "section": 102,
+      "title": "Le presbytère de Sainte-Colombe et la cour",
+      "page": 368
+    },
+    {
+      "section": 103,
+      "title": "L'hôtel Fauvelet de Charbonnières",
+      "page": 371
+    },
+    {
+      "section": 104,
+      "title": "Au midi de",
+      "page": 376
+    },
+    {
+      "section": 105,
+      "title": "La maison de Jean de Châlons et des Jamard",
+      "page": 379
+    },
+    {
+      "section": 106,
+      "title": "La Cour Richebois",
+      "page": 384
+    },
+    {
+      "section": 107,
+      "title": "Les maisons de la censive de ParOII",
+      "page": 388
+    },
+    {
+      "section": 108,
+      "title": "La cour des Bons-Enfants ou des Guillaumets",
+      "page": 391
+    },
+    {
+      "section": 109,
+      "title": "La succession de",
+      "page": 394
+    },
+    {
+      "section": 110,
+      "title": "La porte Sainl-Remij et la tour aux larrons",
+      "page": 398
+    },
+    {
+      "section": 111,
+      "title": "La place Saint-Pierre-le-Rond",
+      "page": 402
+    },
+    {
+      "section": 0,
+      "title": "RUE DE LA BANQUE",
+      "page": 402
+    },
+    {
+      "section": 112,
+      "title": "L'Eglise Saint-Pierre-le-Rond",
+      "page": 405
+    },
+    {
+      "section": 113,
+      "title": "L'hôtel de Chalambert",
+      "page": 408
+    },
+    {
+      "section": 114,
+      "title": "Au voisinage de la maison du Veau et du coin",
+      "page": 415
+    },
+    {
+      "section": 0,
+      "title": "RUE RIGAULT",
+      "page": 415
+    },
+    {
+      "section": 115,
+      "title": "La maison du Cheval et les Surreau",
+      "page": 420
+    },
+    {
+      "section": 116,
+      "title": "L'Election",
+      "page": 424
+    },
+    {
+      "section": 117,
+      "title": "L'Ecole des filles et l'Ecole maternelle",
+      "page": 430
+    },
+    {
+      "section": 118,
+      "title": "L'ancien Hôtel-de-Ville",
+      "page": 433
+    },
+    {
+      "section": 119,
+      "title": "Le petit Hôtel-Dieu el le bas de la nie",
+      "page": 437
+    },
+    {
+      "section": 120,
+      "title": "L'Hôtel Aublet",
+      "page": 442
+    },
+    {
+      "section": 0,
+      "title": "RUE EDOUARD-CHARTON",
+      "page": 442
+    },
+    {
+      "section": 121,
+      "title": "La Maison hantée",
+      "page": 446
+    },
+    {
+      "section": 122,
+      "title": "La maison natale d'Edouard Ch(ii-Ion",
+      "page": 448
+    },
+    {
+      "section": 123,
+      "title": "Le côté nord de la rue",
+      "page": 451
+    },
+    {
+      "section": 124,
+      "title": "ADDITIONS",
+      "page": 455
+    },
+    {
+      "section": 388,
+      "title": "(Guill.),boul., 13, 14.",
+      "page": 463
+    },
+    {
+      "section": 46,
+      "title": "(Jean d'), médecin du roi, 46,",
+      "page": 463
+    },
+    {
+      "section": 210,
+      "title": "(J.), tisser., 210, 211.",
+      "page": 463
+    },
+    {
+      "section": 334,
+      "title": "(Babelonne), ép.IRaoul deVil-",
+      "page": 463
+    },
+    {
+      "section": 189,
+      "title": "(Gilette), ép. Guill. de Monti-",
+      "page": 463
+    },
+    {
+      "section": 189,
+      "title": "(Gnillemette), ép. J. Raoul,",
+      "page": 463
+    },
+    {
+      "section": 189,
+      "title": "(Hugues), 183,184, 189.",
+      "page": 463
+    },
+    {
+      "section": 268,
+      "title": "(Jean), 184,188, 189.",
+      "page": 463
+    },
+    {
+      "section": 189,
+      "title": "(Marie), 184.",
+      "page": 463
+    },
+    {
+      "section": 189,
+      "title": "(Thibault),186,188,189, 268,",
+      "page": 463
+    },
+    {
+      "section": 262,
+      "title": "(Nie.), 256.",
+      "page": 464
+    },
+    {
+      "section": 341,
+      "title": "(J.), proc. au baill., 23, 270,",
+      "page": 464
+    },
+    {
+      "section": 341,
+      "title": "(Madel.), ép. P. Chesneau, 218.",
+      "page": 464
+    },
+    {
+      "section": 343,
+      "title": "(Nie.), seign. de Villuis, 340,",
+      "page": 464
+    },
+    {
+      "section": 358,
+      "title": "(Guill.), relig. de St-Rémy, 216,",
+      "page": 464
+    },
+    {
+      "section": 182,
+      "title": "(Ant. d'). lieut. du bailli, 117.",
+      "page": 464
+    },
+    {
+      "section": 182,
+      "title": "(Girard d'), prévôt, 14,182.",
+      "page": 464
+    },
+    {
+      "section": 300,
+      "title": "(Henri d ), 300.",
+      "page": 464
+    },
+    {
+      "section": 186,
+      "title": "(Marie d'), ép. P. Latinier,182.",
+      "page": 464
+    },
+    {
+      "section": 182,
+      "title": "(Pierre d'), prévôt, 129, 182,",
+      "page": 464
+    },
+    {
+      "section": 293,
+      "title": "(Robert), père et fils, 182, 183,",
+      "page": 464
+    },
+    {
+      "section": 281,
+      "title": "(Elisabeth),ép. Lhuissier,281.",
+      "page": 464
+    },
+    {
+      "section": 410,
+      "title": "savetier, 181, 190.",
+      "page": 464
+    },
+    {
+      "section": 293,
+      "title": "(veuve), 29.",
+      "page": 464
+    },
+    {
+      "section": 81,
+      "title": "(Colombe), 409.",
+      "page": 464
+    },
+    {
+      "section": 81,
+      "title": "(Guill.), orfèvre, 64, 82.",
+      "page": 464
+    },
+    {
+      "section": 82,
+      "title": "(Nie.), orfèvre, 81, 82.",
+      "page": 464
+    },
+    {
+      "section": 368,
+      "title": "(J. de), 368,",
+      "page": 464
+    },
+    {
+      "section": 375,
+      "title": "(J.), avoc., 56, 57.",
+      "page": 464
+    },
+    {
+      "section": 133,
+      "title": "(Nie), 10.",
+      "page": 464
+    },
+    {
+      "section": 181,
+      "title": "(Robin de), 190, 191, 198, 264.",
+      "page": 465
+    },
+    {
+      "section": 225,
+      "title": "(CI.), hôtel., 15.",
+      "page": 465
+    },
+    {
+      "section": 316,
+      "title": "(Cl.), procur., 197.",
+      "page": 465
+    },
+    {
+      "section": 209,
+      "title": "(Louise), 209, 297.",
+      "page": 465
+    },
+    {
+      "section": 71,
+      "title": "(Anne), ép. Bergeot, 405.",
+      "page": 465
+    },
+    {
+      "section": 229,
+      "title": "maître des Eaux et Forêts,",
+      "page": 465
+    },
+    {
+      "section": 411,
+      "title": "(Geneviève), ép. Leriche, 396,",
+      "page": 465
+    },
+    {
+      "section": 401,
+      "title": "(Jeanne), ép. Crosnier, 179.",
+      "page": 465
+    },
+    {
+      "section": 222,
+      "title": "(P.), clerc, 188.",
+      "page": 465
+    },
+    {
+      "section": 58,
+      "title": "(Jeanne), 58.",
+      "page": 465
+    },
+    {
+      "section": 164,
+      "title": "(Richard), 74.",
+      "page": 465
+    },
+    {
+      "section": 155,
+      "title": "(Charlotte). ép. Larcher, 134.",
+      "page": 465
+    },
+    {
+      "section": 4,
+      "title": "— , ép. Jodrillat, 162.",
+      "page": 465
+    },
+    {
+      "section": 405,
+      "title": "(Alex.-Et.), 407.",
+      "page": 465
+    },
+    {
+      "section": 19,
+      "title": "(J.), avoc., 131.",
+      "page": 465
+    },
+    {
+      "section": 342,
+      "title": "(Et. de), sgr. de Champigny,",
+      "page": 465
+    },
+    {
+      "section": 344,
+      "title": "(Germ.), chapelier, 68, 69.",
+      "page": 465
+    },
+    {
+      "section": 258,
+      "title": "(Cl.', chan., 170.",
+      "page": 465
+    },
+    {
+      "section": 311,
+      "title": "(J.-B.), avoc., 170,171, 297.",
+      "page": 465
+    },
+    {
+      "section": 357,
+      "title": "(Guill.), 160, 347, 348, 355.",
+      "page": 466
+    },
+    {
+      "section": 19,
+      "title": "(veuve), 321.",
+      "page": 466
+    },
+    {
+      "section": 80,
+      "title": ", 135.",
+      "page": 466
+    },
+    {
+      "section": 227,
+      "title": ", greffieren chefde l'Election,",
+      "page": 466
+    },
+    {
+      "section": 381,
+      "title": "(Gilbert), vigneron, 303, 323.",
+      "page": 466
+    },
+    {
+      "section": 298,
+      "title": "(Marie), veuve Perrin, 287.",
+      "page": 466
+    },
+    {
+      "section": 288,
+      "title": "(Savinien), 113.",
+      "page": 466
+    },
+    {
+      "section": 403,
+      "title": "(veuve Nie.), 396.",
+      "page": 466
+    },
+    {
+      "section": 385,
+      "title": "(Nicolas), tanneur, 48,380,385,",
+      "page": 466
+    },
+    {
+      "section": 137,
+      "title": "(Etienne de), sgr du Chesnoy,",
+      "page": 466
+    },
+    {
+      "section": 173,
+      "title": "(J. de), sgr de Beauxmouhns,",
+      "page": 466
+    },
+    {
+      "section": 373,
+      "title": "(Pierre),",
+      "page": 466
+    },
+    {
+      "section": 373,
+      "title": "(Pierre- Ch.), fils du précé-",
+      "page": 466
+    },
+    {
+      "section": 381,
+      "title": "(veuve), 170.",
+      "page": 466
+    },
+    {
+      "section": 381,
+      "title": "(Guill.), 15, 381, 382.",
+      "page": 466
+    },
+    {
+      "section": 244,
+      "title": "(Simon), bonnetier, 62",
+      "page": 466
+    },
+    {
+      "section": 18,
+      "title": "(Simon-André). garde-mar-",
+      "page": 466
+    },
+    {
+      "section": 244,
+      "title": "(Philib.), cordonnier, 51,",
+      "page": 466
+    },
+    {
+      "section": 410,
+      "title": "(Thévenin), 265.",
+      "page": 466
+    },
+    {
+      "section": 399,
+      "title": "(P.), 86, 395.",
+      "page": 466
+    },
+    {
+      "section": 397,
+      "title": "(Guill.), marclI., 397, 401.",
+      "page": 466
+    },
+    {
+      "section": 135,
+      "title": "(Nie.), not., 55.",
+      "page": 466
+    },
+    {
+      "section": 402,
+      "title": "(L.-Fr.-Charlotte),ép. de Jus-",
+      "page": 467
+    },
+    {
+      "section": 175,
+      "title": "(Marie-Charlotte), cp.",
+      "page": 467
+    },
+    {
+      "section": 175,
+      "title": "(Simon de), 32, 55, 169, 172.",
+      "page": 467
+    },
+    {
+      "section": 180,
+      "title": "(Florent), procur., 297, 298.",
+      "page": 467
+    },
+    {
+      "section": 213,
+      "title": "(J.), 124, 247, 248.",
+      "page": 467
+    },
+    {
+      "section": 264,
+      "title": "(J.-Jacq.), huiss., 179,180.",
+      "page": 467
+    },
+    {
+      "section": 203,
+      "title": "(Michel), cons. au baill., 238.",
+      "page": 467
+    },
+    {
+      "section": 142,
+      "title": "(Edme), maçon, 214.",
+      "page": 467
+    },
+    {
+      "section": 367,
+      "title": "(Gabr.), 374, 397.",
+      "page": 467
+    },
+    {
+      "section": 215,
+      "title": "(Gilles), pêcheur, 117.",
+      "page": 467
+    },
+    {
+      "section": 98,
+      "title": "(Thomas), chir.-barb., 200.",
+      "page": 467
+    },
+    {
+      "section": 391,
+      "title": "(Michelle), fille du précédent,",
+      "page": 467
+    },
+    {
+      "section": 263,
+      "title": "(Odot), 48,145.",
+      "page": 467
+    },
+    {
+      "section": 268,
+      "title": "(J.), 83.",
+      "page": 467
+    },
+    {
+      "section": 268,
+      "title": "(N.), veuve Cartault, 160.",
+      "page": 467
+    },
+    {
+      "section": 146,
+      "title": "(J.J,263.",
+      "page": 467
+    },
+    {
+      "section": 125,
+      "title": "(CI.), receveur des tailles, 120.",
+      "page": 467
+    },
+    {
+      "section": 355,
+      "title": "(Louise), ép. Crépy, 157, 373.",
+      "page": 467
+    },
+    {
+      "section": 125,
+      "title": "(Nie.), sieur d'Orsigny, 125.",
+      "page": 468
+    },
+    {
+      "section": 82,
+      "title": "(Eracle), drapier, 87.",
+      "page": 468
+    },
+    {
+      "section": 353,
+      "title": "(J.), march., 97, 98.",
+      "page": 468
+    },
+    {
+      "section": 87,
+      "title": "(Nie.), not., fils de François,",
+      "page": 468
+    },
+    {
+      "section": 362,
+      "title": "(Et.), apothic.,46, 47, 238.",
+      "page": 468
+    },
+    {
+      "section": 13,
+      "title": "(Octave), march, 375.",
+      "page": 468
+    },
+    {
+      "section": 150,
+      "title": "(Adamde),receveur des aides,",
+      "page": 468
+    },
+    {
+      "section": 359,
+      "title": "(Ch. de), 124.",
+      "page": 468
+    },
+    {
+      "section": 149,
+      "title": "(Phil. de), 348.",
+      "page": 468
+    },
+    {
+      "section": 45,
+      "title": "(H. de). 78, 79.",
+      "page": 468
+    },
+    {
+      "section": 20,
+      "title": "(Sébastien), 172, 173.",
+      "page": 468
+    },
+    {
+      "section": 297,
+      "title": "(J.-Et.), inspect. de l'Enregis-",
+      "page": 468
+    },
+    {
+      "section": 162,
+      "title": "(Marie-Marg.), ép. Berthelin,",
+      "page": 468
+    },
+    {
+      "section": 311,
+      "title": "(Phil.), avocat, 307, 311, 351.",
+      "page": 468
+    },
+    {
+      "section": 311,
+      "title": "(les), 29, 309,",
+      "page": 468
+    },
+    {
+      "section": 283,
+      "title": "Martin, 283.",
+      "page": 468
+    },
+    {
+      "section": 141,
+      "title": "(J.), vigneron, 293.",
+      "page": 468
+    },
+    {
+      "section": 401,
+      "title": "(Sébast.), 208, 397.",
+      "page": 468
+    },
+    {
+      "section": 32,
+      "title": "(J.)etsa fille dite La Brunelle,",
+      "page": 468
+    },
+    {
+      "section": 243,
+      "title": "Savin., (not.), 18,19.",
+      "page": 468
+    },
+    {
+      "section": 31,
+      "title": "(P. etColas), 120.",
+      "page": 468
+    },
+    {
+      "section": 293,
+      "title": "(Marie), 62.",
+      "page": 468
+    },
+    {
+      "section": 324,
+      "title": "(J.-Bénigne de), 194, 339.",
+      "page": 468
+    },
+    {
+      "section": 328,
+      "title": "(J.-Ch.), huissier, 87.",
+      "page": 469
+    },
+    {
+      "section": 265,
+      "title": "(J.), tonnelier, 261, 262, 265.",
+      "page": 469
+    },
+    {
+      "section": 357,
+      "title": "(Simon), 261.",
+      "page": 469
+    },
+    {
+      "section": 408,
+      "title": "(Pierre), 382.",
+      "page": 469
+    },
+    {
+      "section": 131,
+      "title": "(Thiesson de), 131.",
+      "page": 469
+    },
+    {
+      "section": 137,
+      "title": "(Jacq.), 44.",
+      "page": 469
+    },
+    {
+      "section": 138,
+      "title": "(Raoul), secrétaire du roi, 45.",
+      "page": 469
+    },
+    {
+      "section": 106,
+      "title": "(Jeanne), veuve Boivin, 87.",
+      "page": 469
+    },
+    {
+      "section": 407,
+      "title": "(P.), patissier, 172, 177, 263.",
+      "page": 469
+    },
+    {
+      "section": 346,
+      "title": "(Antoinette), ép. Moreau, 335.",
+      "page": 469
+    },
+    {
+      "section": 335,
+      "title": "(Colombe), ép. Mocquot, 334,",
+      "page": 469
+    },
+    {
+      "section": 335,
+      "title": "(Eracle), procur. du roi en",
+      "page": 469
+    },
+    {
+      "section": 351,
+      "title": "(J.), cons. au baill., 63, 153,",
+      "page": 469
+    },
+    {
+      "section": 160,
+      "title": "(Marie), ép. Thoison, 155.",
+      "page": 469
+    },
+    {
+      "section": 335,
+      "title": "(Simon), mardi., 46.",
+      "page": 469
+    },
+    {
+      "section": 338,
+      "title": "(J.), 341.",
+      "page": 469
+    },
+    {
+      "section": 379,
+      "title": "(J.), 253,377.",
+      "page": 469
+    },
+    {
+      "section": 378,
+      "title": "(Marie), 45.",
+      "page": 469
+    },
+    {
+      "section": 240,
+      "title": "(Thomas), vannier, 207,",
+      "page": 469
+    },
+    {
+      "section": 383,
+      "title": "(Guill.), 376, 377.",
+      "page": 469
+    },
+    {
+      "section": 61,
+      "title": "(Fr.), prévôt, 239,251, 277, 281,",
+      "page": 470
+    },
+    {
+      "section": 61,
+      "title": "(Jean), 61, 251, 253.",
+      "page": 470
+    },
+    {
+      "section": 278,
+      "title": "(Louise et Marie), 18.",
+      "page": 470
+    },
+    {
+      "section": 226,
+      "title": "(Colet), 186.",
+      "page": 470
+    },
+    {
+      "section": 7,
+      "title": "(Perrin), 120,122.",
+      "page": 470
+    },
+    {
+      "section": 245,
+      "title": "(J.), huiss., 20, 224.",
+      "page": 470
+    },
+    {
+      "section": 394,
+      "title": "Charles VI,",
+      "page": 470
+    },
+    {
+      "section": 93,
+      "title": "Charles VII,",
+      "page": 470
+    },
+    {
+      "section": 116,
+      "title": "Charles VIII,",
+      "page": 470
+    },
+    {
+      "section": 94,
+      "title": "Charles IX, 8,94.",
+      "page": 470
+    },
+    {
+      "section": 209,
+      "title": "(Etienne), 203, 204, 205.",
+      "page": 470
+    },
+    {
+      "section": 213,
+      "title": "(Simon),présid.àla Chambre",
+      "page": 470
+    },
+    {
+      "section": 156,
+      "title": "(Marie), ép. Boursier. 355.",
+      "page": 470
+    },
+    {
+      "section": 135,
+      "title": "(Jannet), 284, 295.",
+      "page": 470
+    },
+    {
+      "section": 105,
+      "title": "(Héloïsc de), 105, 106, 111.",
+      "page": 470
+    },
+    {
+      "section": 338,
+      "title": "(L.), 87.",
+      "page": 470
+    },
+    {
+      "section": 31,
+      "title": "(J.), 317.",
+      "page": 470
+    },
+    {
+      "section": 121,
+      "title": "(J.), 66.",
+      "page": 470
+    },
+    {
+      "section": 227,
+      "title": "(Félix), 72, 300.",
+      "page": 470
+    },
+    {
+      "section": 184,
+      "title": "(Marie), ép. Le Hongre, 280.",
+      "page": 470
+    },
+    {
+      "section": 129,
+      "title": "(Robin), 120, 122.",
+      "page": 470
+    },
+    {
+      "section": 84,
+      "title": "(Edme), not., 83, 84.",
+      "page": 470
+    },
+    {
+      "section": 202,
+      "title": "(Et.), 111.",
+      "page": 471
+    },
+    {
+      "section": 372,
+      "title": "(Marie), ép. Farinade,372.",
+      "page": 471
+    },
+    {
+      "section": 242,
+      "title": "(Macé), 176, 177.",
+      "page": 471
+    },
+    {
+      "section": 63,
+      "title": "(Catherine), 24.",
+      "page": 471
+    },
+    {
+      "section": 36,
+      "title": "(Nicolas), 24,27, 36, 49, 137.",
+      "page": 471
+    },
+    {
+      "section": 251,
+      "title": "(Cour), 31, 32, 314.",
+      "page": 471
+    },
+    {
+      "section": 138,
+      "title": "(veuve), 138,153, 155.",
+      "page": 471
+    },
+    {
+      "section": 338,
+      "title": "(Marie), ép. Laurent, 353.",
+      "page": 471
+    },
+    {
+      "section": 266,
+      "title": "(autre), 285.",
+      "page": 471
+    },
+    {
+      "section": 103,
+      "title": "(Marg.), ép. Gau, 243",
+      "page": 471
+    },
+    {
+      "section": 108,
+      "title": "(Edme), 122, 132.",
+      "page": 471
+    },
+    {
+      "section": 355,
+      "title": "(Et.), 349.",
+      "page": 471
+    },
+    {
+      "section": 355,
+      "title": "(Nie.), 349-351,",
+      "page": 471
+    },
+    {
+      "section": 402,
+      "title": "(P.), hôtelier, 284.",
+      "page": 471
+    },
+    {
+      "section": 409,
+      "title": "(Nie.), cons. au baill., fi s du",
+      "page": 471
+    },
+    {
+      "section": 409,
+      "title": "(Simon), avoc., 248.",
+      "page": 471
+    },
+    {
+      "section": 406,
+      "title": "(L.), cons. en l'élect. de Ne-",
+      "page": 471
+    },
+    {
+      "section": 335,
+      "title": "(P.), procur. au baill., 168,",
+      "page": 472
+    },
+    {
+      "section": 362,
+      "title": "(Simon),",
+      "page": 472
+    },
+    {
+      "section": 364,
+      "title": "(Marie des), 308.",
+      "page": 472
+    },
+    {
+      "section": 157,
+      "title": "(Jacq.),",
+      "page": 472
+    },
+    {
+      "section": 373,
+      "title": "(Marie), ép. L. Jodrillat, 157,",
+      "page": 472
+    },
+    {
+      "section": 161,
+      "title": "(Rob. de), 82.",
+      "page": 472
+    },
+    {
+      "section": 370,
+      "title": "(Genevièvedu), ép. J. de Balot,",
+      "page": 472
+    },
+    {
+      "section": 368,
+      "title": "(Georgette du), 37, 38.",
+      "page": 472
+    },
+    {
+      "section": 179,
+      "title": "(Jeanne), ép. Beau, 319, 323.",
+      "page": 472
+    },
+    {
+      "section": 262,
+      "title": "(Héberde), ép. Bureteau, 261.",
+      "page": 472
+    },
+    {
+      "section": 372,
+      "title": "(Jérémie), cons. au baill., 274,",
+      "page": 472
+    },
+    {
+      "section": 354,
+      "title": "(Louis), 22, 372.",
+      "page": 472
+    },
+    {
+      "section": 147,
+      "title": "(P.), 253, 278.",
+      "page": 472
+    },
+    {
+      "section": 127,
+      "title": "(J.-Bapt.),tanneur, 73.",
+      "page": 472
+    },
+    {
+      "section": 209,
+      "title": "(Marie-Anne), ép. Hardy, 209.",
+      "page": 472
+    },
+    {
+      "section": 382,
+      "title": "(J.), chirurg,-barbier,50,83,86.",
+      "page": 472
+    },
+    {
+      "section": 404,
+      "title": "(L.), apothicaire, 86, 87.",
+      "page": 472
+    },
+    {
+      "section": 280,
+      "title": "(Hubert), serrur., 225.",
+      "page": 472
+    },
+    {
+      "section": 401,
+      "title": "(Pierre), serrur., 223, 225, 227.",
+      "page": 472
+    },
+    {
+      "section": 401,
+      "title": "(Anne), ép. Gibier, 257, 332.",
+      "page": 472
+    },
+    {
+      "section": 368,
+      "title": "(Cl.), ép. Jamard, 339.",
+      "page": 472
+    },
+    {
+      "section": 368,
+      "title": "(Marg.). ép. Guyard, 367, 368.",
+      "page": 472
+    },
+    {
+      "section": 308,
+      "title": "(Vincent), président des Tré-",
+      "page": 472
+    },
+    {
+      "section": 129,
+      "title": "(Gilles), 279.",
+      "page": 473
+    },
+    {
+      "section": 56,
+      "title": "(J.), serg., 215.",
+      "page": 473
+    },
+    {
+      "section": 242,
+      "title": "(Sebast.), huiss , 178-180, 242.",
+      "page": 473
+    },
+    {
+      "section": 200,
+      "title": "(L.), not., 349, 368, 381-386.",
+      "page": 473
+    },
+    {
+      "section": 47,
+      "title": "(Marg.), 78, 79.",
+      "page": 473
+    },
+    {
+      "section": 351,
+      "title": "(J.), chirurgien, 266, 268.",
+      "page": 473
+    },
+    {
+      "section": 351,
+      "title": "(Robert), chirurg., 265, 267.",
+      "page": 473
+    },
+    {
+      "section": 279,
+      "title": "(P.), hôtelier, 225,",
+      "page": 473
+    },
+    {
+      "section": 306,
+      "title": "(Marg.-Julie), ép. Perrin, 409.",
+      "page": 473
+    },
+    {
+      "section": 294,
+      "title": "(J.), 395, 397.",
+      "page": 473
+    },
+    {
+      "section": 372,
+      "title": "(L.), 47, 372.",
+      "page": 473
+    },
+    {
+      "section": 381,
+      "title": "(H.-Marc), cons. au baill.,",
+      "page": 473
+    },
+    {
+      "section": 408,
+      "title": "(Louise - Henr. - Thérèse), ép.",
+      "page": 473
+    },
+    {
+      "section": 81,
+      "title": "(J.), menuisier, 212, 215.",
+      "page": 473
+    },
+    {
+      "section": 344,
+      "title": "(L.), chirurgien,86, 344.",
+      "page": 473
+    },
+    {
+      "section": 66,
+      "title": "(Philibert). 344.",
+      "page": 473
+    },
+    {
+      "section": 394,
+      "title": "(P.), 71.",
+      "page": 473
+    },
+    {
+      "section": 122,
+      "title": "(J.-Cl.), huiss., 178, 179,190.",
+      "page": 473
+    },
+    {
+      "section": 14,
+      "title": "(Raoul) (de Vallibus), 189,",
+      "page": 473
+    },
+    {
+      "section": 61,
+      "title": "(J. de), écuyer,",
+      "page": 473
+    },
+    {
+      "section": 369,
+      "title": "(P. de), 189.",
+      "page": 473
+    },
+    {
+      "section": 126,
+      "title": "(J.), 164.",
+      "page": 473
+    },
+    {
+      "section": 264,
+      "title": "(Colombe), ép. Ant. Jacques,",
+      "page": 474
+    },
+    {
+      "section": 136,
+      "title": "(Nie.), boulanger, 70, 71.",
+      "page": 474
+    },
+    {
+      "section": 397,
+      "title": "(Colombe), ép. Royer, 397.",
+      "page": 474
+    },
+    {
+      "section": 370,
+      "title": "(Marg.), ép. Maulmirey, 133.",
+      "page": 474
+    },
+    {
+      "section": 165,
+      "title": "(Marie), ép. Planson, 21)8.",
+      "page": 474
+    },
+    {
+      "section": 62,
+      "title": "(Eust.), 62.",
+      "page": 474
+    },
+    {
+      "section": 161,
+      "title": "(Jacq.), avoc., 159,",
+      "page": 474
+    },
+    {
+      "section": 399,
+      "title": "(Jean), avoc., 150, 342.",
+      "page": 474
+    },
+    {
+      "section": 218,
+      "title": "(P.), avoc., fils du précédent'",
+      "page": 474
+    },
+    {
+      "section": 391,
+      "title": "(Michel),apothicaire,48.",
+      "page": 474
+    },
+    {
+      "section": 318,
+      "title": "(Françoise), 55.",
+      "page": 474
+    },
+    {
+      "section": 357,
+      "title": "(L.), marchand à Gourion, 235.",
+      "page": 474
+    },
+    {
+      "section": 296,
+      "title": "(hoirs), 165.",
+      "page": 474
+    },
+    {
+      "section": 62,
+      "title": "(Ant.), cons. en l'élection, 116.",
+      "page": 474
+    },
+    {
+      "section": 149,
+      "title": "(J.), 146.",
+      "page": 474
+    },
+    {
+      "section": 283,
+      "title": "(Perrette), 277, 278.",
+      "page": 474
+    },
+    {
+      "section": 150,
+      "title": "(CL), 47,",
+      "page": 474
+    },
+    {
+      "section": 36,
+      "title": "(J.), 110.",
+      "page": 474
+    },
+    {
+      "section": 244,
+      "title": "(veuve), 314.",
+      "page": 474
+    },
+    {
+      "section": 234,
+      "title": "(Guill.), proc. en cour d'église",
+      "page": 474
+    },
+    {
+      "section": 354,
+      "title": "(J.), fils du précédent, 354.",
+      "page": 474
+    },
+    {
+      "section": 280,
+      "title": "(Marie), ép. Coquin, 353.",
+      "page": 474
+    },
+    {
+      "section": 234,
+      "title": "(P.), curé de Sainte-Colombe,",
+      "page": 474
+    },
+    {
+      "section": 171,
+      "title": "(Colot), lormier, 72.",
+      "page": 474
+    },
+    {
+      "section": 277,
+      "title": "(Olivier), proc.",
+      "page": 474
+    },
+    {
+      "section": 63,
+      "title": "(Guill.), sgr du Fay, 46.",
+      "page": 474
+    },
+    {
+      "section": 23,
+      "title": "(Et.). patiss., 12,107.",
+      "page": 475
+    },
+    {
+      "section": 346,
+      "title": "(Ange-Fr.), direct. des messa-",
+      "page": 475
+    },
+    {
+      "section": 99,
+      "title": "(CI.), tonnelier,98.",
+      "page": 475
+    },
+    {
+      "section": 22,
+      "title": "(J.), 18.",
+      "page": 475
+    },
+    {
+      "section": 97,
+      "title": "(J .-Cl.), directeur des coches",
+      "page": 475
+    },
+    {
+      "section": 99,
+      "title": "(L.-Sébast.), 69, 155.",
+      "page": 475
+    },
+    {
+      "section": 202,
+      "title": "(P.), chirurgien, 22.",
+      "page": 475
+    },
+    {
+      "section": 62,
+      "title": "(P.), 44.",
+      "page": 475
+    },
+    {
+      "section": 179,
+      "title": "(Jeanne), dp. Daiz, 372.",
+      "page": 475
+    },
+    {
+      "section": 128,
+      "title": "(veuve), 264.",
+      "page": 475
+    },
+    {
+      "section": 98,
+      "title": "(J,-Jacq.), peintre, 15.",
+      "page": 475
+    },
+    {
+      "section": 412,
+      "title": "(Ant.), cons. au baill.,331.",
+      "page": 475
+    },
+    {
+      "section": 73,
+      "title": "(Christophe), 321.",
+      "page": 475
+    },
+    {
+      "section": 332,
+      "title": "(Cl.), prieur de Montigny, 331,",
+      "page": 475
+    },
+    {
+      "section": 190,
+      "title": "(Et.), aumônier du Roi, 331.",
+      "page": 475
+    },
+    {
+      "section": 332,
+      "title": "(Guill.), chan",
+      "page": 475
+    },
+    {
+      "section": 332,
+      "title": "(Guill.), receveur des tailles,",
+      "page": 475
+    },
+    {
+      "section": 332,
+      "title": "(J.), march., 70, 190, 191, 364,",
+      "page": 475
+    },
+    {
+      "section": 368,
+      "title": "(aut.-e J.), 331.",
+      "page": 475
+    },
+    {
+      "section": 332,
+      "title": "(P.), huiss., 165.",
+      "page": 475
+    },
+    {
+      "section": 360,
+      "title": "(Savin.-Grat.), sgr de Bour-",
+      "page": 475
+    },
+    {
+      "section": 332,
+      "title": "(Savin.-Hubert),cons.aubail.,",
+      "page": 475
+    },
+    {
+      "section": 346,
+      "title": "(Ant.;, secrét. du duc d'Or-",
+      "page": 475
+    },
+    {
+      "section": 331,
+      "title": "(Guill.), 160, 161, 335.",
+      "page": 475
+    },
+    {
+      "section": 215,
+      "title": "(Col.), ép. de Rassilly, 391.",
+      "page": 475
+    },
+    {
+      "section": 405,
+      "title": "(Et.), proc. du roi en la pré-",
+      "page": 475
+    },
+    {
+      "section": 382,
+      "title": "(Et.), doyen du Chap., fils du",
+      "page": 475
+    },
+    {
+      "section": 381,
+      "title": "(Et.-L.), march., 146,147.",
+      "page": 475
+    },
+    {
+      "section": 355,
+      "title": "(Colombe), ép. Guillaumet,",
+      "page": 475
+    },
+    {
+      "section": 353,
+      "title": "(Nicole), ép. de Saint-Martin,",
+      "page": 475
+    },
+    {
+      "section": 268,
+      "title": "- (P.), 252, 255, 266, 358.",
+      "page": 476
+    },
+    {
+      "section": 393,
+      "title": "(L.), 209.",
+      "page": 476
+    },
+    {
+      "section": 40,
+      "title": "(P.), marinier.",
+      "page": 476
+    },
+    {
+      "section": 284,
+      "title": "(Jérôme), 321.",
+      "page": 476
+    },
+    {
+      "section": 203,
+      "title": "(J.), charp., 212, 214.",
+      "page": 476
+    },
+    {
+      "section": 141,
+      "title": "(Jocelin), 186,187.",
+      "page": 476
+    },
+    {
+      "section": 258,
+      "title": ". (J. ), curé de Saint-Romain,56.",
+      "page": 476
+    },
+    {
+      "section": 152,
+      "title": "(J.), 87.",
+      "page": 476
+    },
+    {
+      "section": 275,
+      "title": "(Marie-Barbe), ép. Legrand,",
+      "page": 476
+    },
+    {
+      "section": 302,
+      "title": "(Marie-Anne et Et.), 321.",
+      "page": 476
+    },
+    {
+      "section": 294,
+      "title": "(J.), 17.",
+      "page": 476
+    },
+    {
+      "section": 278,
+      "title": "(Et.), proc, de ville, 239.",
+      "page": 476
+    },
+    {
+      "section": 19,
+      "title": "(Hubert), tonnelier, 18.",
+      "page": 476
+    },
+    {
+      "section": 283,
+      "title": "(L.), curé de Saint-Pierre-le-",
+      "page": 476
+    },
+    {
+      "section": 84,
+      "title": "(Math.), 165.",
+      "page": 476
+    },
+    {
+      "section": 114,
+      "title": "(Gratien), 113.",
+      "page": 476
+    },
+    {
+      "section": 26,
+      "title": "(Jacq.), sellier, 55.",
+      "page": 476
+    },
+    {
+      "section": 381,
+      "title": "(Catherine), ép. Guérard, 372.",
+      "page": 477
+    },
+    {
+      "section": 83,
+      "title": "(Et.-Ch ), not., 87, 345.",
+      "page": 477
+    },
+    {
+      "section": 346,
+      "title": "(Fr.), charp., 321.",
+      "page": 477
+    },
+    {
+      "section": 83,
+      "title": "(P ). 66.",
+      "page": 477
+    },
+    {
+      "section": 399,
+      "title": "(P ), tanneur. 83.",
+      "page": 477
+    },
+    {
+      "section": 29,
+      "title": "(Louise), ép.",
+      "page": 477
+    },
+    {
+      "section": 320,
+      "title": "(Marg), 22.",
+      "page": 477
+    },
+    {
+      "section": 138,
+      "title": "(Phil). 199, 367, 370.",
+      "page": 477
+    },
+    {
+      "section": 397,
+      "title": "(Séhast.). 315, 317,319. 323.",
+      "page": 477
+    },
+    {
+      "section": 125,
+      "title": "(Marg.), ép. Farinade, 125.",
+      "page": 477
+    },
+    {
+      "section": 272,
+      "title": "(J. de), aumônier de Sainl-",
+      "page": 477
+    },
+    {
+      "section": 177,
+      "title": "(Anne), ép. Fauvelet, P32.",
+      "page": 477
+    },
+    {
+      "section": 332,
+      "title": "^.Daniel), chan., 170.",
+      "page": 477
+    },
+    {
+      "section": 332,
+      "title": "(Miles), avocatdu roi, 147,238.",
+      "page": 477
+    },
+    {
+      "section": 248,
+      "title": "(Nie.), chan. de Sens. 332.",
+      "page": 477
+    },
+    {
+      "section": 401,
+      "title": "(Simon), 401.",
+      "page": 477
+    },
+    {
+      "section": 302,
+      "title": "(J.), lieut.-gén. du baill., 131.",
+      "page": 477
+    },
+    {
+      "section": 280,
+      "title": "(Et.), pâtissier, 60, 373, 375.",
+      "page": 477
+    },
+    {
+      "section": 113,
+      "title": "(P.). 124.",
+      "page": 477
+    },
+    {
+      "section": 125,
+      "title": "(CI.-AnL), proc. en la maÎ-",
+      "page": 477
+    },
+    {
+      "section": 142,
+      "title": "(Michel), 165, 355.",
+      "page": 477
+    },
+    {
+      "section": 373,
+      "title": "(Laur), cons. au Parlement",
+      "page": 478
+    },
+    {
+      "section": 308,
+      "title": "(L.-Fr.), cons. au baill., 200.",
+      "page": 478
+    },
+    {
+      "section": 314,
+      "title": "(P.), avocat, 260.",
+      "page": 478
+    },
+    {
+      "section": 107,
+      "title": "(J.), (il, 70, 74, 372.",
+      "page": 478
+    },
+    {
+      "section": 119,
+      "title": "(P.), recev. des décimes, 73.",
+      "page": 478
+    },
+    {
+      "section": 13,
+      "title": "(Et ), 80.",
+      "page": 478
+    },
+    {
+      "section": 12,
+      "title": "(Jacq. et Louis), serrur., 200,",
+      "page": 478
+    },
+    {
+      "section": 4,
+      "title": "(P.), 3kl, 375.",
+      "page": 478
+    },
+    {
+      "section": 56,
+      "title": "(Guill.), élu. 19G, 215, 219, 137,",
+      "page": 478
+    },
+    {
+      "section": 401,
+      "title": "(César, Victor et ,Jules\\, 402,",
+      "page": 478
+    },
+    {
+      "section": 408,
+      "title": "(hoirs), 109, 110.",
+      "page": 478
+    },
+    {
+      "section": 396,
+      "title": "(Nie.), curé de Ste-Colombe,",
+      "page": 478
+    },
+    {
+      "section": 327,
+      "title": "(P.), hôtelier, 127, 129.",
+      "page": 478
+    },
+    {
+      "section": 80,
+      "title": "-(S-.vin.), GO.",
+      "page": 478
+    },
+    {
+      "section": 29,
+      "title": "(L.), 159.",
+      "page": 478
+    },
+    {
+      "section": 355,
+      "title": "(Ca:her.). ép. Puisaye,355,356.",
+      "page": 478
+    },
+    {
+      "section": 357,
+      "title": "(Marie), ép. Piat, 355, 35G,",
+      "page": 478
+    },
+    {
+      "section": 356,
+      "title": "(Fr.), 159, 355.",
+      "page": 478
+    },
+    {
+      "section": 159,
+      "title": "(Savin.), maçon, 296.",
+      "page": 478
+    },
+    {
+      "section": 217,
+      "title": "(Nie.), 216. 217.",
+      "page": 478
+    },
+    {
+      "section": 370,
+      "title": "(André), recev.des tailles,367.",
+      "page": 478
+    },
+    {
+      "section": 319,
+      "title": "(Fr.), 1[\\1.",
+      "page": 478
+    },
+    {
+      "section": 70,
+      "title": "(P.), menuisier,",
+      "page": 478
+    },
+    {
+      "section": 355,
+      "title": "(Jacq.), 147.",
+      "page": 478
+    },
+    {
+      "section": 355,
+      "title": "(Savin.),tanneur, 2G6.269, 270,",
+      "page": 479
+    },
+    {
+      "section": 164,
+      "title": "(J.-Bapt.), p, oc. au baill., 203,",
+      "page": 479
+    },
+    {
+      "section": 401,
+      "title": ", élu, 381.",
+      "page": 479
+    },
+    {
+      "section": 329,
+      "title": "(Marie-L.), ép. Bertrand, 121.",
+      "page": 479
+    },
+    {
+      "section": 83,
+      "title": "(J.), recev. du bail'., 215.",
+      "page": 479
+    },
+    {
+      "section": 374,
+      "title": "(Et.), 190.",
+      "page": 479
+    },
+    {
+      "section": 70,
+      "title": "(J.) avocat, 136, 153, 154.",
+      "page": 479
+    },
+    {
+      "section": 43,
+      "title": "(Lambert), 85.",
+      "page": 479
+    },
+    {
+      "section": 366,
+      "title": "(Madel.), êp. Prolin, 269.",
+      "page": 479
+    },
+    {
+      "section": 295,
+      "title": "(Nic.\\ maçon, 2",
+      "page": 479
+    },
+    {
+      "section": 5,
+      "title": "(Savin.), 87.",
+      "page": 479
+    },
+    {
+      "section": 222,
+      "title": "(J.-.Jos.), not., fils du précé-",
+      "page": 479
+    },
+    {
+      "section": 197,
+      "title": "(Col.), fille du ptrécéd., ép.",
+      "page": 479
+    },
+    {
+      "section": 352,
+      "title": "(Valentin), chan., 192.",
+      "page": 479
+    },
+    {
+      "section": 15,
+      "title": "(J.). 394.",
+      "page": 479
+    },
+    {
+      "section": 221,
+      "title": "(Elisab.), ép. Guillon, 1C0.",
+      "page": 479
+    },
+    {
+      "section": 86,
+      "title": "(J.), mercier, 79.",
+      "page": 479
+    },
+    {
+      "section": 238,
+      "title": "Jeanne-Genev.-Fr.,ép, Lcjau,",
+      "page": 479
+    },
+    {
+      "section": 193,
+      "title": "Yalentin), 41, 42.",
+      "page": 479
+    },
+    {
+      "section": 264,
+      "title": "(P.). père de la précédente,",
+      "page": 479
+    },
+    {
+      "section": 367,
+      "title": "(Jacq.), avoc.. 138, 200, 370.",
+      "page": 479
+    },
+    {
+      "section": 397,
+      "title": "(Fr.), perruquier, CO.",
+      "page": 479
+    },
+    {
+      "section": 45,
+      "title": "fJ., Jacq.. lIub. et Simon),",
+      "page": 479
+    },
+    {
+      "section": 288,
+      "title": ", 374.",
+      "page": 480
+    },
+    {
+      "section": 240,
+      "title": "(Michel), maître d'œuvre, 240,",
+      "page": 480
+    },
+    {
+      "section": 241,
+      "title": "(Thévenin), 239, 240, 242.",
+      "page": 480
+    },
+    {
+      "section": 341,
+      "title": "(Anne), ép. Chéreau, 338.",
+      "page": 480
+    },
+    {
+      "section": 335,
+      "title": "(Louise), ép. de Bullioud, 155,",
+      "page": 480
+    },
+    {
+      "section": 339,
+      "title": "(Olivier), cons. au haill., 338.",
+      "page": 480
+    },
+    {
+      "section": 339,
+      "title": "(Philippe), contrôl.au grenier",
+      "page": 480
+    },
+    {
+      "section": 340,
+      "title": "(Pierre), proc. au haill., 338-",
+      "page": 480
+    },
+    {
+      "section": 344,
+      "title": "(Pierre), contrôl. au grenier à",
+      "page": 480
+    },
+    {
+      "section": 341,
+      "title": "(Pierre), dit de Cumène, 193,",
+      "page": 480
+    },
+    {
+      "section": 351,
+      "title": "(Pierre), curé de Saint-Père-",
+      "page": 480
+    },
+    {
+      "section": 361,
+      "title": "(Robert), avocat, 338.",
+      "page": 480
+    },
+    {
+      "section": 123,
+      "title": "(Jeanne), épouse d'Ostun, 117,",
+      "page": 480
+    },
+    {
+      "section": 408,
+      "title": "(Daniel), contrôl. au grenier à",
+      "page": 480
+    },
+    {
+      "section": 317,
+      "title": "(J.), avocat, 156, 157.",
+      "page": 480
+    },
+    {
+      "section": 156,
+      "title": "(L ), directeur des aides de",
+      "page": 480
+    },
+    {
+      "section": 161,
+      "title": "(L.-Clém.-Bon.), lieut. gén. du",
+      "page": 480
+    },
+    {
+      "section": 346,
+      "title": "(Marie-Augustine), l'p.",
+      "page": 480
+    },
+    {
+      "section": 321,
+      "title": "(Marie-Franç.), ép. Desmai-",
+      "page": 480
+    },
+    {
+      "section": 226,
+      "title": "(P. et Guill.), père et",
+      "page": 480
+    },
+    {
+      "section": 375,
+      "title": "(L.), hlliss\" 172.",
+      "page": 480
+    },
+    {
+      "section": 70,
+      "title": "(J.). 80, 200, 281.",
+      "page": 481
+    },
+    {
+      "section": 2,
+      "title": "(Michel),.109,",
+      "page": 481
+    },
+    {
+      "section": 232,
+      "title": ".Fciisot), 17, 141, 144.",
+      "page": 481
+    },
+    {
+      "section": 134,
+      "title": "(J.), 32, m",
+      "page": 481
+    },
+    {
+      "section": 331,
+      "title": "(Jeanne), ép. BricIeron, 297.",
+      "page": 481
+    },
+    {
+      "section": 350,
+      "title": "(P.). avocat, 36, 129, 296, 297.",
+      "page": 481
+    },
+    {
+      "section": 279,
+      "title": "(Eudes et Roh. de), 75.",
+      "page": 481
+    },
+    {
+      "section": 66,
+      "title": "(Perrette), 179.",
+      "page": 481
+    },
+    {
+      "section": 80,
+      "title": "(J.), 326",
+      "page": 481
+    },
+    {
+      "section": 237,
+      "title": "(J.). boulanger, 16.",
+      "page": 481
+    },
+    {
+      "section": 93,
+      "title": "(Guill.), 131.",
+      "page": 481
+    },
+    {
+      "section": 0,
+      "title": "(Marie-Anne), 179.",
+      "page": 481
+    },
+    {
+      "section": 354,
+      "title": "(lsaacl,70, 71.",
+      "page": 482
+    },
+    {
+      "section": 354,
+      "title": "(Michelle), 274.",
+      "page": 482
+    },
+    {
+      "section": 342,
+      "title": "(Thibault), 135,154, 160.",
+      "page": 482
+    },
+    {
+      "section": 241,
+      "title": "(Marie), 64.",
+      "page": 482
+    },
+    {
+      "section": 385,
+      "title": "(Théven.), 271.",
+      "page": 482
+    },
+    {
+      "section": 84,
+      "title": "(L.-Cl.), avoc., 134,142, 240,241.",
+      "page": 482
+    },
+    {
+      "section": 413,
+      "title": "(P.), 413.",
+      "page": 482
+    },
+    {
+      "section": 332,
+      "title": "(G.), cons. au baill., 174, 331.",
+      "page": 482
+    },
+    {
+      "section": 343,
+      "title": ", veuve César, 145.",
+      "page": 482
+    },
+    {
+      "section": 344,
+      "title": "(J.), sergent, 48.",
+      "page": 482
+    },
+    {
+      "section": 342,
+      "title": "(Thib.). 141, 145, 188, 333, 334,",
+      "page": 482
+    },
+    {
+      "section": 391,
+      "title": "(Charles), proc. au haill., 170,",
+      "page": 482
+    },
+    {
+      "section": 172,
+      "title": "(J.-Alex.).",
+      "page": 482
+    },
+    {
+      "section": 209,
+      "title": "(Anne-Antoin.),ép. Murot, 269.",
+      "page": 482
+    },
+    {
+      "section": 268,
+      "title": "(CoL), ép, Bourhonne, 329.",
+      "page": 482
+    },
+    {
+      "section": 329,
+      "title": "(Et.), 202.",
+      "page": 482
+    },
+    {
+      "section": 83,
+      "title": "(Ant.), 224,",
+      "page": 482
+    },
+    {
+      "section": 412,
+      "title": "(J.), 412.",
+      "page": 483
+    },
+    {
+      "section": 65,
+      "title": "(L.). prévôt, 396.",
+      "page": 483
+    },
+    {
+      "section": 399,
+      "title": "(Jeanne), ép. Dubois, 399.",
+      "page": 483
+    },
+    {
+      "section": 213,
+      "title": "(Marg.), ép. Boutet, 345.",
+      "page": 483
+    },
+    {
+      "section": 48,
+      "title": "(veuve , 202.",
+      "page": 483
+    },
+    {
+      "section": 283,
+      "title": "(Guill. et Pierre), 111,112.",
+      "page": 483
+    },
+    {
+      "section": 356,
+      "title": "(Col.), ép. Boivin, 397, 401.",
+      "page": 483
+    },
+    {
+      "section": 77,
+      "title": "(J.), march., 107.",
+      "page": 483
+    },
+    {
+      "section": 56,
+      "title": "(Oudart), 378.",
+      "page": 483
+    },
+    {
+      "section": 389,
+      "title": "(Guichard), pêcheur, 292.",
+      "page": 483
+    },
+    {
+      "section": 237,
+      "title": "(Phil.), direct,",
+      "page": 483
+    },
+    {
+      "section": 11,
+      "title": "(Marg.), ép. St-Pierre, 151.",
+      "page": 483
+    },
+    {
+      "section": 209,
+      "title": "(Regnault), médecin, 264.",
+      "page": 483
+    },
+    {
+      "section": 321,
+      "title": "(Fiacre), 314.",
+      "page": 483
+    },
+    {
+      "section": 57,
+      "title": "(J.-Bapt.), officier de la du-",
+      "page": 483
+    },
+    {
+      "section": 134,
+      "title": "(L.), avocat, 56.",
+      "page": 483
+    },
+    {
+      "section": 274,
+      "title": "(Colin), tonnelier, 281.",
+      "page": 483
+    },
+    {
+      "section": 151,
+      "title": "(François), 240.",
+      "page": 483
+    },
+    {
+      "section": 269,
+      "title": "(Nie.), avocat, ICI. 103. 1C4.",
+      "page": 484
+    },
+    {
+      "section": 58,
+      "title": "(Thomas), 203.",
+      "page": 484
+    },
+    {
+      "section": 317,
+      "title": "(nohin), 1:19.",
+      "page": 484
+    },
+    {
+      "section": 139,
+      "title": "(Felisot i, 139",
+      "page": 484
+    },
+    {
+      "section": 402,
+      "title": "(.1.), dit de Soissons. mardi.,",
+      "page": 484
+    },
+    {
+      "section": 402,
+      "title": "(Jacq.), 212, 21n.",
+      "page": 484
+    },
+    {
+      "section": 100,
+      "title": "(Marion), ép. de Bragelogne,",
+      "page": 484
+    },
+    {
+      "section": 90,
+      "title": "Louis VII, 90, 182. — LouisVIII,",
+      "page": 484
+    },
+    {
+      "section": 290,
+      "title": "Louis IX. 92, 290.—",
+      "page": 484
+    },
+    {
+      "section": 95,
+      "title": "Louis XIV, 95.",
+      "page": 484
+    },
+    {
+      "section": 5,
+      "title": "(Guill. ), prévôt, 38, 74, 372.",
+      "page": 484
+    },
+    {
+      "section": 223,
+      "title": "(Hubert), fIls du précédent,",
+      "page": 484
+    },
+    {
+      "section": 212,
+      "title": "(J.), perruquier, 2C2, 397.",
+      "page": 484
+    },
+    {
+      "section": 142,
+      "title": "(J.), hourg., 129.",
+      "page": 484
+    },
+    {
+      "section": 311,
+      "title": "- .\"notaire, 30, 74.",
+      "page": 484
+    },
+    {
+      "section": 147,
+      "title": "(P.). )ibrairc, 70, 71.",
+      "page": 484
+    },
+    {
+      "section": 5,
+      "title": "(Simon), couturier, 86.",
+      "page": 484
+    },
+    {
+      "section": 50,
+      "title": "(CL), 9.",
+      "page": 484
+    },
+    {
+      "section": 328,
+      "title": "(Touss.), recev.",
+      "page": 484
+    },
+    {
+      "section": 19,
+      "title": "(Madel.), 197.",
+      "page": 484
+    },
+    {
+      "section": 294,
+      "title": "(J. du), 75.",
+      "page": 485
+    },
+    {
+      "section": 83,
+      "title": "(P.), 87.",
+      "page": 485
+    },
+    {
+      "section": 131,
+      "title": "(P.), 277,278, 283.",
+      "page": 485
+    },
+    {
+      "section": 242,
+      "title": "(veuve), 50.",
+      "page": 485
+    },
+    {
+      "section": 279,
+      "title": "(Antoinette)",
+      "page": 485
+    },
+    {
+      "section": 245,
+      "title": "(Baltazar), 87.",
+      "page": 485
+    },
+    {
+      "section": 283,
+      "title": "(Elisabeth.),",
+      "page": 485
+    },
+    {
+      "section": 332,
+      "title": "(Et.), 74.",
+      "page": 485
+    },
+    {
+      "section": 63,
+      "title": "(Gratien), not., 149, 150, 192,",
+      "page": 485
+    },
+    {
+      "section": 362,
+      "title": "(Guill.), 117, 138.",
+      "page": 485
+    },
+    {
+      "section": 149,
+      "title": "(Jacq.), serrurier, 209.",
+      "page": 485
+    },
+    {
+      "section": 323,
+      "title": "(L.), coutelier, 29.",
+      "page": 485
+    },
+    {
+      "section": 178,
+      "title": "(Marie), ép. Morillon, 209.",
+      "page": 485
+    },
+    {
+      "section": 279,
+      "title": "(Simon), 71.",
+      "page": 485
+    },
+    {
+      "section": 238,
+      "title": "(Françoise), 137.",
+      "page": 485
+    },
+    {
+      "section": 257,
+      "title": "(Savin.), 87, 202.",
+      "page": 485
+    },
+    {
+      "section": 149,
+      "title": "(Cécile), 131.",
+      "page": 485
+    },
+    {
+      "section": 136,
+      "title": "(Jean), 121, 289.",
+      "page": 485
+    },
+    {
+      "section": 135,
+      "title": "(Marie), 133.",
+      "page": 485
+    },
+    {
+      "section": 154,
+      "title": "(Rémy et J.), marchands,",
+      "page": 485
+    },
+    {
+      "section": 86,
+      "title": "(Jacquin), 239, 240, 251.",
+      "page": 485
+    },
+    {
+      "section": 408,
+      "title": "(Madeleine), ép. Béraudon,",
+      "page": 486
+    },
+    {
+      "section": 20,
+      "title": "(Savin.), chir.-barb., 22, 59,",
+      "page": 486
+    },
+    {
+      "section": 150,
+      "title": "(Edme), avoc., 247.",
+      "page": 486
+    },
+    {
+      "section": 401,
+      "title": "(J.), 50.",
+      "page": 486
+    },
+    {
+      "section": 437,
+      "title": "(Potent.), 136.",
+      "page": 486
+    },
+    {
+      "section": 112,
+      "title": "(Girard), 121, 130.",
+      "page": 486
+    },
+    {
+      "section": 213,
+      "title": "(Madel.), 55.",
+      "page": 486
+    },
+    {
+      "section": 242,
+      "title": "(J.), élu, 171-173.",
+      "page": 486
+    },
+    {
+      "section": 45,
+      "title": "iMarg.), 46, 47.",
+      "page": 486
+    },
+    {
+      "section": 335,
+      "title": "(L.), proc. du roi en l'élect.,",
+      "page": 486
+    },
+    {
+      "section": 335,
+      "title": "(Olivier), avoc., 167.",
+      "page": 486
+    },
+    {
+      "section": 87,
+      "title": "(Cl.), ép. Grassin, 308.",
+      "page": 486
+    },
+    {
+      "section": 308,
+      "title": "(veuve), 36.",
+      "page": 486
+    },
+    {
+      "section": 189,
+      "title": "(Denise dé), ép. Grassin, 260.",
+      "page": 486
+    },
+    {
+      "section": 349,
+      "title": "(Nie. de), avocat, 260.",
+      "page": 486
+    },
+    {
+      "section": 285,
+      "title": "(Grég.), menuis., 34.",
+      "page": 486
+    },
+    {
+      "section": 335,
+      "title": "(Françoise-M.), ép. Cartault,",
+      "page": 486
+    },
+    {
+      "section": 335,
+      "title": "(Guill., Et. et Gilles), 15.",
+      "page": 486
+    },
+    {
+      "section": 374,
+      "title": "(Jacq.), 328.",
+      "page": 486
+    },
+    {
+      "section": 264,
+      "title": "(Jean), 207.",
+      "page": 486
+    },
+    {
+      "section": 391,
+      "title": "(Madel.), 335.",
+      "page": 486
+    },
+    {
+      "section": 228,
+      "title": "(P.), proc.",
+      "page": 487
+    },
+    {
+      "section": 253,
+      "title": "(Garn. de), 251.",
+      "page": 487
+    },
+    {
+      "section": 22,
+      "title": "(Guill.), apoth., 74.",
+      "page": 487
+    },
+    {
+      "section": 72,
+      "title": "(Jeanne de), 110.",
+      "page": 487
+    },
+    {
+      "section": 252,
+      "title": "(Nie. de), 326.",
+      "page": 487
+    },
+    {
+      "section": 55,
+      "title": "(Denis), 117, 126.",
+      "page": 487
+    },
+    {
+      "section": 133,
+      "title": "(Richard), 123, 124.",
+      "page": 487
+    },
+    {
+      "section": 82,
+      "title": "(R.), marclI., 82, 83, 87.",
+      "page": 487
+    },
+    {
+      "section": 264,
+      "title": "(Col.), ép. Soutin, 370.",
+      "page": 487
+    },
+    {
+      "section": 370,
+      "title": "(Nic.-Zorob.), proc.au bail!.,",
+      "page": 487
+    },
+    {
+      "section": 367,
+      "title": "(veuve), 408.",
+      "page": 487
+    },
+    {
+      "section": 86,
+      "title": "(Marie); 128.",
+      "page": 487
+    },
+    {
+      "section": 300,
+      "title": "(Thib.), 300.",
+      "page": 487
+    },
+    {
+      "section": 202,
+      "title": "(Cl.-Et.), vitrier, 30, 315.",
+      "page": 487
+    },
+    {
+      "section": 222,
+      "title": "(J. I'), 181, 264.",
+      "page": 487
+    },
+    {
+      "section": 205,
+      "title": "(Fr.), 216.",
+      "page": 487
+    },
+    {
+      "section": 244,
+      "title": "(L.), 217.",
+      "page": 487
+    },
+    {
+      "section": 356,
+      "title": "(Jacques), 354.",
+      "page": 487
+    },
+    {
+      "section": 202,
+      "title": "(Colot), 65, 76, 78.",
+      "page": 487
+    },
+    {
+      "section": 175,
+      "title": "(P.), 382.",
+      "page": 487
+    },
+    {
+      "section": 218,
+      "title": "(L.), not., 380.",
+      "page": 488
+    },
+    {
+      "section": 69,
+      "title": "(J.-et Regn.), 186, 187.",
+      "page": 488
+    },
+    {
+      "section": 127,
+      "title": "(Jacq.), proc., sgr de",
+      "page": 488
+    },
+    {
+      "section": 149,
+      "title": "(L.), avoc.,121, 122,132.",
+      "page": 488
+    },
+    {
+      "section": 48,
+      "title": "(Laurent), curé",
+      "page": 488
+    },
+    {
+      "section": 355,
+      "title": "(Marg.), ép. La Chaussée, 48.",
+      "page": 488
+    },
+    {
+      "section": 107,
+      "title": "(J.), march., 41,135, 345, 347.",
+      "page": 488
+    },
+    {
+      "section": 165,
+      "title": "(P.), vigneron, 135.",
+      "page": 488
+    },
+    {
+      "section": 351,
+      "title": "(Et.), maçon, 34.",
+      "page": 488
+    },
+    {
+      "section": 380,
+      "title": "(Joseph), avoc., 407, 408, 409.",
+      "page": 488
+    },
+    {
+      "section": 409,
+      "title": "(Louis-Jos.),inspect.desforêts",
+      "page": 488
+    },
+    {
+      "section": 410,
+      "title": "(Marie-Julie), ép. Poncelet,",
+      "page": 488
+    },
+    {
+      "section": 409,
+      "title": "(Nic.-P.), orfèvre, 409.",
+      "page": 488
+    },
+    {
+      "section": 410,
+      "title": "(P.). huissier, 71,179, 264.",
+      "page": 488
+    },
+    {
+      "section": 410,
+      "title": "(Vincent), 287.",
+      "page": 488
+    },
+    {
+      "section": 280,
+      "title": "(Edme), 159, 355.",
+      "page": 488
+    },
+    {
+      "section": 400,
+      "title": "(Nie.), apothic., 10, 11, 14, 63,",
+      "page": 488
+    },
+    {
+      "section": 83,
+      "title": "(Fr.), boucher, 233.",
+      "page": 488
+    },
+    {
+      "section": 361,
+      "title": "(Hubert), vitrier, 227, 234.",
+      "page": 488
+    },
+    {
+      "section": 86,
+      "title": "(J.), barbier, 78, 80.",
+      "page": 488
+    },
+    {
+      "section": 253,
+      "title": "(Noël), vitrier, 233.",
+      "page": 488
+    },
+    {
+      "section": 281,
+      "title": "• (Herbelet), 190,191.",
+      "page": 488
+    },
+    {
+      "section": 356,
+      "title": "(L.), charcutier, 20.",
+      "page": 488
+    },
+    {
+      "section": 129,
+      "title": "(Perrin), 45.",
+      "page": 489
+    },
+    {
+      "section": 12,
+      "title": "(Savin.), promoteur en cour",
+      "page": 489
+    },
+    {
+      "section": 172,
+      "title": "(P.), commiss. des tailles, 270,",
+      "page": 489
+    },
+    {
+      "section": 272,
+      "title": "(Sébast.), avoc., 149, 211, 263.",
+      "page": 489
+    },
+    {
+      "section": 86,
+      "title": "(Bapt,), grenetiér, 127, 239.",
+      "page": 489
+    },
+    {
+      "section": 305,
+      "title": "(Nie.), march. à Vill.-l'Arch.,",
+      "page": 489
+    },
+    {
+      "section": 23,
+      "title": "(Cosme), 221, 410.",
+      "page": 489
+    },
+    {
+      "section": 403,
+      "title": "(J.), tanneur, 218,",
+      "page": 489
+    },
+    {
+      "section": 142,
+      "title": "(Guillemin), maçon, 181, 242,",
+      "page": 489
+    },
+    {
+      "section": 244,
+      "title": "(J.), 219.",
+      "page": 489
+    },
+    {
+      "section": 328,
+      "title": "(Edme), pâtissier, 21.",
+      "page": 489
+    },
+    {
+      "section": 225,
+      "title": ".(Madel.), 396, 399, 401.",
+      "page": 489
+    },
+    {
+      "section": 374,
+      "title": "(Marg.), ép. Dargent, 328.",
+      "page": 489
+    },
+    {
+      "section": 374,
+      "title": "(Nie.), 60, 374.",
+      "page": 489
+    },
+    {
+      "section": 113,
+      "title": "(Col. et Paule), 330-332.",
+      "page": 489
+    },
+    {
+      "section": 171,
+      "title": "(Maiie), veuve Moret, 288.",
+      "page": 489
+    },
+    {
+      "section": 186,
+      "title": "(Milon), 227.",
+      "page": 489
+    },
+    {
+      "section": 338,
+      "title": "(Hubert de), 117.",
+      "page": 489
+    },
+    {
+      "section": 239,
+      "title": "(Nie. et Fr. de), tanneurs, 73.",
+      "page": 489
+    },
+    {
+      "section": 69,
+      "title": "(Jacq.), march. de bois, 140,",
+      "page": 489
+    },
+    {
+      "section": 107,
+      "title": ", professeur, 265.",
+      "page": 489
+    },
+    {
+      "section": 285,
+      "title": "(J.), élu, 400, 403.",
+      "page": 489
+    },
+    {
+      "section": 401,
+      "title": "(Thomas), avoc., fils de Jean,",
+      "page": 489
+    },
+    {
+      "section": 351,
+      "title": "(Guillemin de), 159.",
+      "page": 489
+    },
+    {
+      "section": 408,
+      "title": "(P.), 383.",
+      "page": 490
+    },
+    {
+      "section": 29,
+      "title": "(Edme et Louise), 138.",
+      "page": 490
+    },
+    {
+      "section": 317,
+      "title": "(Barbe), veuve Camuzat, 320,",
+      "page": 490
+    },
+    {
+      "section": 32,
+      "title": "(Michel), chan., 56.",
+      "page": 490
+    },
+    {
+      "section": 122,
+      "title": "(Jacq.), proc., 151.",
+      "page": 490
+    },
+    {
+      "section": 151,
+      "title": "(veuve), 171.",
+      "page": 490
+    },
+    {
+      "section": 320,
+      "title": "(Guill.), fils",
+      "page": 490
+    },
+    {
+      "section": 356,
+      "title": "(P.), 107, 292, 295.",
+      "page": 490
+    },
+    {
+      "section": 14,
+      "title": "(Jacq.), march. à Pont, 295.",
+      "page": 490
+    },
+    {
+      "section": 189,
+      "title": "(Thevenin), 272.",
+      "page": 490
+    },
+    {
+      "section": 318,
+      "title": "(P.), 110, 112, 113.",
+      "page": 490
+    },
+    {
+      "section": 28,
+      "title": "(J. et Jacq.), vignerons, 272,",
+      "page": 490
+    },
+    {
+      "section": 277,
+      "title": "(veuve), 318.",
+      "page": 490
+    },
+    {
+      "section": 345,
+      "title": "(P.), avoc., 277.",
+      "page": 490
+    },
+    {
+      "section": 296,
+      "title": "(René), potier d'étain, 410.",
+      "page": 490
+    },
+    {
+      "section": 317,
+      "title": "(Jacq.), 120.",
+      "page": 490
+    },
+    {
+      "section": 14,
+      "title": "(J.-Georges), manufacturier,",
+      "page": 490
+    },
+    {
+      "section": 392,
+      "title": "(J.), maçon, frère d'Etienne,",
+      "page": 490
+    },
+    {
+      "section": 321,
+      "title": "(J.), charpentier, 21, 294, 296.",
+      "page": 490
+    },
+    {
+      "section": 347,
+      "title": "(Col.), ép.",
+      "page": 491
+    },
+    {
+      "section": 344,
+      "title": "(Et.), not., 151, 176, 262, 318.",
+      "page": 491
+    },
+    {
+      "section": 345,
+      "title": "(Savin.), 343, 344.",
+      "page": 491
+    },
+    {
+      "section": 412,
+      "title": "(Marg.), ép. Rob.",
+      "page": 491
+    },
+    {
+      "section": 273,
+      "title": "(Colombe),ép. Artault, 247.",
+      "page": 491
+    },
+    {
+      "section": 357,
+      "title": "(J.), 380, 382, 388.",
+      "page": 491
+    },
+    {
+      "section": 274,
+      "title": "(J.), procur., 146.",
+      "page": 491
+    },
+    {
+      "section": 161,
+      "title": "(P.), 382.",
+      "page": 491
+    },
+    {
+      "section": 73,
+      "title": "(Romaine et Cather.), 146.",
+      "page": 491
+    },
+    {
+      "section": 272,
+      "title": "(Zorobabel), proc. au prési-",
+      "page": 491
+    },
+    {
+      "section": 124,
+      "title": "(J.), procur., 241, 243.",
+      "page": 491
+    },
+    {
+      "section": 248,
+      "title": "(P.), 179.",
+      "page": 491
+    },
+    {
+      "section": 307,
+      "title": "(L.-René de),",
+      "page": 491
+    },
+    {
+      "section": 272,
+      "title": "(Thomas), cordonn.,221.",
+      "page": 491
+    },
+    {
+      "section": 196,
+      "title": "(Christ.-Colomban de), 196.",
+      "page": 491
+    },
+    {
+      "section": 136,
+      "title": "(Cl.), avocat, 243.",
+      "page": 491
+    },
+    {
+      "section": 74,
+      "title": "(Heuriet), 48.",
+      "page": 491
+    },
+    {
+      "section": 397,
+      "title": "(Jacq.),curé de S. Romain, fils",
+      "page": 491
+    },
+    {
+      "section": 357,
+      "title": "(J.-Bapt.), avoc., 179, 180, 263.",
+      "page": 491
+    },
+    {
+      "section": 73,
+      "title": "(Marguer.), ép. Rigollet",
+      "page": 491
+    },
+    {
+      "section": 274,
+      "title": "(Phil.), proc. du roi au baill.,",
+      "page": 491
+    },
+    {
+      "section": 205,
+      "title": "(Phil.), ép. Colin, 397.",
+      "page": 491
+    },
+    {
+      "section": 48,
+      "title": "(Rob.),",
+      "page": 491
+    },
+    {
+      "section": 297,
+      "title": "(Savin.),pêcheur, 20.",
+      "page": 491
+    },
+    {
+      "section": 17,
+      "title": "(J.), médecin, 46, 404.",
+      "page": 492
+    },
+    {
+      "section": 121,
+      "title": "(Laur.), avoc., 403, 404.",
+      "page": 492
+    },
+    {
+      "section": 288,
+      "title": "(Marie-Anne), 380.",
+      "page": 492
+    },
+    {
+      "section": 296,
+      "title": "(J.), 287.",
+      "page": 492
+    },
+    {
+      "section": 357,
+      "title": "(Marie, J. et Anne), 150, 151,",
+      "page": 492
+    },
+    {
+      "section": 382,
+      "title": "(Nie.), avoc. du roi en l'élect ,",
+      "page": 492
+    },
+    {
+      "section": 153,
+      "title": "(Fr.), gouvern. des pages, 153,",
+      "page": 492
+    },
+    {
+      "section": 227,
+      "title": "(Gilles de), 32.",
+      "page": 492
+    },
+    {
+      "section": 385,
+      "title": "(J.), 253, 278, 282.",
+      "page": 492
+    },
+    {
+      "section": 268,
+      "title": "(P. de), 267, 271.",
+      "page": 492
+    },
+    {
+      "section": 404,
+      "title": "(Geneviève),",
+      "page": 492
+    },
+    {
+      "section": 332,
+      "title": "(Georges), 147.",
+      "page": 492
+    },
+    {
+      "section": 130,
+      "title": "(J. de), lieut.génér. du baill.,",
+      "page": 492
+    },
+    {
+      "section": 50,
+      "title": "(L.), proc. au baill., 142.",
+      "page": 492
+    },
+    {
+      "section": 309,
+      "title": "(Pascal), fils de Louis, 142.",
+      "page": 492
+    },
+    {
+      "section": 215,
+      "title": "(Cl.),",
+      "page": 492
+    },
+    {
+      "section": 404,
+      "title": "(Françoise), ép.",
+      "page": 492
+    },
+    {
+      "section": 281,
+      "title": "(Guill.), mé(lecin, 56.",
+      "page": 493
+    },
+    {
+      "section": 262,
+      "title": "(J.), boulanger, 78, 78, 80.",
+      "page": 493
+    },
+    {
+      "section": 41,
+      "title": "(J.), 24, 308.",
+      "page": 493
+    },
+    {
+      "section": 301,
+      "title": "(Marguerite),24.",
+      "page": 493
+    },
+    {
+      "section": 370,
+      "title": "(J.), avoc. du roi au baill.,",
+      "page": 493
+    },
+    {
+      "section": 412,
+      "title": "(J.), contrôl. au grenier à sel",
+      "page": 493
+    },
+    {
+      "section": 378,
+      "title": "(Laur.), chan. de Rouen, fils",
+      "page": 493
+    },
+    {
+      "section": 379,
+      "title": "(Nie. 1), 186, 188, 189, 334, 361,",
+      "page": 493
+    },
+    {
+      "section": 377,
+      "title": "(Nie. II),",
+      "page": 493
+    },
+    {
+      "section": 370,
+      "title": "(Pasquet), tonnelier, 293.",
+      "page": 493
+    },
+    {
+      "section": 66,
+      "title": "(P.-Hardouin), imprimeur,53",
+      "page": 493
+    },
+    {
+      "section": 226,
+      "title": "(Elisab.), ép. Delion, 227.",
+      "page": 493
+    },
+    {
+      "section": 263,
+      "title": "(autre J.), serg., 168, 171, 260-",
+      "page": 493
+    },
+    {
+      "section": 239,
+      "title": "(Charlotte), 149.",
+      "page": 493
+    },
+    {
+      "section": 147,
+      "title": "(Jérôme), doyen du Chap.,",
+      "page": 493
+    },
+    {
+      "section": 148,
+      "title": "(Marie), 122, 132.",
+      "page": 493
+    },
+    {
+      "section": 375,
+      "title": "<CJ.-Oliv.), mardi., 351.",
+      "page": 493
+    },
+    {
+      "section": 380,
+      "title": "(J.), march.,",
+      "page": 493
+    },
+    {
+      "section": 107,
+      "title": "(J.-B.-Cl.t, recev. des octrois,",
+      "page": 493
+    },
+    {
+      "section": 375,
+      "title": "(Jeanne), 374, 375.",
+      "page": 493
+    },
+    {
+      "section": 401,
+      "title": "(C1.), serg., 243, 244.",
+      "page": 493
+    },
+    {
+      "section": 146,
+      "title": "(Madel.), veuve Morain,",
+      "page": 493
+    },
+    {
+      "section": 82,
+      "title": "(Perrette), 27.",
+      "page": 493
+    },
+    {
+      "section": 70,
+      "title": "(Gabr.), 274.",
+      "page": 494
+    },
+    {
+      "section": 41,
+      "title": "(J.), 341, 3t5.",
+      "page": 494
+    },
+    {
+      "section": 392,
+      "title": "(Savin.), 155.",
+      "page": 494
+    },
+    {
+      "section": 232,
+      "title": "(Denis), serrur., 318.",
+      "page": 494
+    },
+    {
+      "section": 351,
+      "title": "(J.), cons. au baill., 224, 210,",
+      "page": 494
+    },
+    {
+      "section": 338,
+      "title": "(P.), cons. au baill., 225, 239,",
+      "page": 494
+    },
+    {
+      "section": 196,
+      "title": "(Gérard), 18.",
+      "page": 494
+    },
+    {
+      "section": 76,
+      "title": "(Raoul de la), 77-79.",
+      "page": 494
+    },
+    {
+      "section": 63,
+      "title": "(P.), chan., 10, 11, 12.",
+      "page": 494
+    },
+    {
+      "section": 66,
+      "title": "(J.), huilier, 172,173.",
+      "page": 494
+    },
+    {
+      "section": 121,
+      "title": "(Guill.), tonnelier, 138.",
+      "page": 494
+    },
+    {
+      "section": 375,
+      "title": "(Edme), fils du suivant, 375,",
+      "page": 494
+    },
+    {
+      "section": 391,
+      "title": "(Fr.), lieu1.-génér. du baill.,",
+      "page": 494
+    },
+    {
+      "section": 401,
+      "title": "(Jacq.),",
+      "page": 494
+    },
+    {
+      "section": 402,
+      "title": "(Moïse), avoc., fils du précé-",
+      "page": 494
+    },
+    {
+      "section": 227,
+      "title": "(Coline de), ép. Barbier, 220.",
+      "page": 494
+    },
+    {
+      "section": 220,
+      "title": "(Dreux de), recev.",
+      "page": 494
+    },
+    {
+      "section": 141,
+      "title": "(J. de), 271, 272.",
+      "page": 495
+    },
+    {
+      "section": 150,
+      "title": "(Cather.), ép. Violette, 351.",
+      "page": 495
+    },
+    {
+      "section": 356,
+      "title": "(J.), tonnelier, 211.",
+      "page": 495
+    },
+    {
+      "section": 351,
+      "title": "(Marie). ép. Poirat, 60, 374.",
+      "page": 495
+    },
+    {
+      "section": 283,
+      "title": "(Nie. de), 282, 293, 294.",
+      "page": 495
+    },
+    {
+      "section": 205,
+      "title": "(Marie de), ép. de Vieilchastel,",
+      "page": 495
+    },
+    {
+      "section": 170,
+      "title": "(P.), cons. au bail!., 192, 336,",
+      "page": 495
+    },
+    {
+      "section": 346,
+      "title": "(demoiselle), 361.",
+      "page": 495
+    },
+    {
+      "section": 402,
+      "title": "(P.), mardi., sgr de Paron,",
+      "page": 495
+    },
+    {
+      "section": 364,
+      "title": "(Tristande), 36, 61.",
+      "page": 495
+    },
+    {
+      "section": 203,
+      "title": "(Miles de), cons. au Parle-",
+      "page": 495
+    },
+    {
+      "section": 384,
+      "title": "(Marg. de), ép. Duthier, 277,",
+      "page": 495
+    },
+    {
+      "section": 413,
+      "title": "(P. de), 333, 334, 412, 413.",
+      "page": 495
+    },
+    {
+      "section": 329,
+      "title": "(Hugues), maître écrivain, 31,",
+      "page": 495
+    },
+    {
+      "section": 329,
+      "title": "(Marie-Anne), veuve Foacier,",
+      "page": 495
+    },
+    {
+      "section": 1,
+      "title": "Les",
+      "page": 497
+    },
+    {
+      "section": 2,
+      "title": "La porte d'Yonne",
+      "page": 497
+    },
+    {
+      "section": 3,
+      "title": "De la porte d'Yonne à la Trinité",
+      "page": 497
+    },
+    {
+      "section": 4,
+      "title": "La maison des Deux-Barbeaux",
+      "page": 497
+    },
+    {
+      "section": 5,
+      "title": "Saint-Christophe et le Chapeau-Rouge ....",
+      "page": 497
+    },
+    {
+      "section": 7,
+      "title": "La maison de Jacques d'Ableiges ou le Grand-",
+      "page": 497
+    },
+    {
+      "section": 9,
+      "title": "Du Moulin à vent à la Croix-d'Or",
+      "page": 497
+    },
+    {
+      "section": 10,
+      "title": "La maison du Sauvage et ses abords ....",
+      "page": 497
+    },
+    {
+      "section": 11,
+      "title": "Gonthier Col et son",
+      "page": 497
+    },
+    {
+      "section": 12,
+      "title": "La Levrière ou la Levrette",
+      "page": 497
+    },
+    {
+      "section": 13,
+      "title": "La ruelle des Jacobins",
+      "page": 497
+    },
+    {
+      "section": 11,
+      "title": "La manufacture de velours d'Utrecht",
+      "page": 497
+    },
+    {
+      "section": 15,
+      "title": "La maison du Croissant",
+      "page": 497
+    },
+    {
+      "section": 16,
+      "title": "1 /église Sainte-Colombe du Carrouge",
+      "page": 497
+    },
+    {
+      "section": 22,
+      "title": "Le puits des Treize-Prêtres",
+      "page": 497
+    },
+    {
+      "section": 23,
+      "title": "Le berceau des Tarbé",
+      "page": 497
+    },
+    {
+      "section": 1,
+      "title": "La maison de Siméon de Provenchères",
+      "page": 497
+    },
+    {
+      "section": 27,
+      "title": "Le coin occidental des Bourses",
+      "page": 498
+    },
+    {
+      "section": 28,
+      "title": "La Hure ou la Maison des Ilerbelins",
+      "page": 498
+    },
+    {
+      "section": 29,
+      "title": "Le",
+      "page": 498
+    },
+    {
+      "section": 30,
+      "title": "Sainte-Barbe et la Croix-de-Fer",
+      "page": 498
+    },
+    {
+      "section": 32,
+      "title": "Les Percherons el. la Pomme-de-Pin",
+      "page": 498
+    },
+    {
+      "section": 33,
+      "title": "Les Balduc et le Bachot-d'Argent",
+      "page": 498
+    },
+    {
+      "section": 31,
+      "title": "Le coin du Mouton",
+      "page": 498
+    },
+    {
+      "section": 35,
+      "title": "La maison des Béguines et les",
+      "page": 498
+    },
+    {
+      "section": 30,
+      "title": "Les passages iL Sens des rois et reines de France.",
+      "page": 498
+    },
+    {
+      "section": 37,
+      "title": "Le Plat-d'Etain et Saint-Maurice",
+      "page": 498
+    },
+    {
+      "section": 38,
+      "title": "Le bureau des coches d'eau ........",
+      "page": 498
+    },
+    {
+      "section": 39,
+      "title": "La chapelle royale et l'ancien bailliage ....",
+      "page": 498
+    },
+    {
+      "section": 0,
+      "title": "Le palais de justice",
+      "page": 498
+    },
+    {
+      "section": 1,
+      "title": "La censive d'Eudes des Barres et les étables du",
+      "page": 498
+    },
+    {
+      "section": 2,
+      "title": "De la Grande-Rue à la Galère",
+      "page": 498
+    },
+    {
+      "section": 43,
+      "title": "La",
+      "page": 498
+    },
+    {
+      "section": 44,
+      "title": "Le Lion d'argent et l'Etoile",
+      "page": 498
+    },
+    {
+      "section": 45,
+      "title": "Les prisons du roi et les maisons du commandeur",
+      "page": 498
+    },
+    {
+      "section": 40,
+      "title": "La croix, la place et l'église Saint-Maximin ..",
+      "page": 498
+    },
+    {
+      "section": 47,
+      "title": "La cour des Comte et les Deux-Lions",
+      "page": 498
+    },
+    {
+      "section": 48,
+      "title": "La « hucherie devant Saint-Mesrriin",
+      "page": 498
+    },
+    {
+      "section": 49,
+      "title": "L'Huis",
+      "page": 498
+    },
+    {
+      "section": 50,
+      "title": "Le Bout-du-Monde, la nielle du Puits-Picard et la",
+      "page": 498
+    },
+    {
+      "section": 51,
+      "title": "Les maisons de l'Epée et l'école aux Juifs ...130",
+      "page": 498
+    },
+    {
+      "section": 54,
+      "title": "Les maisons de Vilain et Jean Dalement ...",
+      "page": 498
+    },
+    {
+      "section": 56,
+      "title": "La",
+      "page": 498
+    },
+    {
+      "section": 57,
+      "title": "L'hôtel",
+      "page": 498
+    },
+    {
+      "section": 58,
+      "title": "Lu magistrat d'autrefois",
+      "page": 499
+    },
+    {
+      "section": 60,
+      "title": "13e l'hôtel Jodrillat à la rue de l'Ecrivain...",
+      "page": 499
+    },
+    {
+      "section": 61,
+      "title": "La maison dite de Jean Cousin .......",
+      "page": 499
+    },
+    {
+      "section": 62,
+      "title": "L'ancienne Caisse d'Epargne ........",
+      "page": 499
+    },
+    {
+      "section": 63,
+      "title": "Jusqu'au coin de la Lumière",
+      "page": 499
+    },
+    {
+      "section": 64,
+      "title": "Le fief d'Autun",
+      "page": 499
+    },
+    {
+      "section": 5,
+      "title": "Topographie des abords du fief d'Autun à la fin",
+      "page": 499
+    },
+    {
+      "section": 66,
+      "title": "Les détenteurs du fief d'Autun et ses abords aux",
+      "page": 499
+    },
+    {
+      "section": 7,
+      "title": "Le fief d'Autun du XVI\" siècle à la Révolution",
+      "page": 499
+    },
+    {
+      "section": 8,
+      "title": "La Truie qui file",
+      "page": 499
+    },
+    {
+      "section": 9,
+      "title": "Le Matelas et la seconde Truie qui file....",
+      "page": 499
+    },
+    {
+      "section": 70,
+      "title": "Le Babouin ou l'Homme-Sauvage",
+      "page": 499
+    },
+    {
+      "section": 71,
+      "title": "Le côté nord de la Serrurerie",
+      "page": 499
+    },
+    {
+      "section": 72,
+      "title": "La construction d'une maison au XVIe siècle",
+      "page": 499
+    },
+    {
+      "section": 73,
+      "title": "La Fleur de lis",
+      "page": 499
+    },
+    {
+      "section": 74,
+      "title": "La",
+      "page": 499
+    },
+    {
+      "section": 75,
+      "title": "Le côté sud de la Serrurerie et la Croix-d'Or..",
+      "page": 499
+    },
+    {
+      "section": 77,
+      "title": "Le marché à la volaille et la maison aux Piliers.",
+      "page": 499
+    },
+    {
+      "section": 78,
+      "title": "Le marché aux, balais",
+      "page": 499
+    },
+    {
+      "section": 79,
+      "title": "Quelques mots sur le protestantisme à Sens ..",
+      "page": 499
+    },
+    {
+      "section": 80,
+      "title": "Saint-Christophe",
+      "page": 499
+    },
+    {
+      "section": 81,
+      "title": "La cour Véron",
+      "page": 499
+    },
+    {
+      "section": 82,
+      "title": "L'église Saint-Rorriain",
+      "page": 499
+    },
+    {
+      "section": 84,
+      "title": "Le refuge des moines de Saint-Rémy",
+      "page": 500
+    },
+    {
+      "section": 85,
+      "title": "La taverne de Saint-Rémy",
+      "page": 500
+    },
+    {
+      "section": 86,
+      "title": "Devant Saint-Romain. Addition à l'histoire de la",
+      "page": 500
+    },
+    {
+      "section": 87,
+      "title": "Au levant de Saint-Romain",
+      "page": 500
+    },
+    {
+      "section": 89,
+      "title": "La numérotation ancienne des maisons....",
+      "page": 500
+    },
+    {
+      "section": 90,
+      "title": "Le Saint-Esprit, le Chef Saint-Jean et les Anges",
+      "page": 500
+    },
+    {
+      "section": 92,
+      "title": "Le Chêne-Perce",
+      "page": 500
+    },
+    {
+      "section": 93,
+      "title": "Les Juifs à Sens au moyen-âge",
+      "page": 500
+    },
+    {
+      "section": 94,
+      "title": "Les Canettes et la Grande-Gibecière",
+      "page": 500
+    },
+    {
+      "section": 95,
+      "title": "La maison d'Edme-Louis 80nnerot, député à la",
+      "page": 500
+    },
+    {
+      "section": 96,
+      "title": "Les greniers à sel",
+      "page": 500
+    },
+    {
+      "section": 97,
+      "title": "La tour de la Synagogue",
+      "page": 500
+    },
+    {
+      "section": 98,
+      "title": "Le collège de jeunes filles",
+      "page": 500
+    },
+    {
+      "section": 99,
+      "title": "La cour Josselin ou cour Brûlée, et le cimetière",
+      "page": 500
+    },
+    {
+      "section": 100,
+      "title": "Le côté méridional de la rue et la cour Guibert",
+      "page": 500
+    },
+    {
+      "section": 102,
+      "title": "Le presbytère de Sainte-Colombe et la cour de la",
+      "page": 500
+    },
+    {
+      "section": 103,
+      "title": "L'hôtel Fauvclet de Charbonnières",
+      "page": 500
+    },
+    {
+      "section": 105,
+      "title": "La maison de Jean de Châlons et des Jamard ..",
+      "page": 500
+    },
+    {
+      "section": 106,
+      "title": "La cour Richebois",
+      "page": 501
+    },
+    {
+      "section": 107,
+      "title": "Les maisons de la censive de Paron",
+      "page": 501
+    },
+    {
+      "section": 108,
+      "title": "La cour des Bons-Enfants ou des Guillaumets..",
+      "page": 501
+    },
+    {
+      "section": 109,
+      "title": "La succession de la Guillaumette",
+      "page": 501
+    },
+    {
+      "section": 110,
+      "title": "La porte de Saint-Rémy et la tour aux larrons",
+      "page": 501
+    },
+    {
+      "section": 111,
+      "title": "La",
+      "page": 501
+    },
+    {
+      "section": 12,
+      "title": "L'église Saint-Pierre-le-Rond",
+      "page": 501
+    },
+    {
+      "section": 113,
+      "title": "L'hôtel",
+      "page": 501
+    },
+    {
+      "section": 19,
+      "title": "Au voisinage de la maison du Veau et du coin de",
+      "page": 501
+    },
+    {
+      "section": 115,
+      "title": "La maison du Cheval et les Surreau",
+      "page": 501
+    },
+    {
+      "section": 117,
+      "title": "L'école des filles et l'école maternelle",
+      "page": 501
+    },
+    {
+      "section": 8,
+      "title": "L'ancien hôtel de ville",
+      "page": 501
+    },
+    {
+      "section": 120,
+      "title": "L'hôtel Aublet",
+      "page": 501
+    },
+    {
+      "section": 121,
+      "title": "La maison hantée",
+      "page": 501
+    },
+    {
+      "section": 123,
+      "title": "Le côté nord de la rue",
+      "page": 501
+    }
+  ]
+}

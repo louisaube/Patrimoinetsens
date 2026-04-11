@@ -35,7 +35,7 @@ const NAV_ITEMS = [
   },
   {
     label: "Explorer",
-    href: "/",
+    href: "/explorer",
     icon: Search,
   },
   {
@@ -115,7 +115,7 @@ export default function MainLayout({
         <nav className="flex-1 space-y-1 p-3 overflow-y-auto">
           {NAV_ITEMS.map((item) => {
             const isActive =
-              item.href === "/" ? pathname === "/" : pathname.startsWith(item.href)
+              pathname.startsWith(item.href)
             return (
               <Link
                 key={item.href}
@@ -286,7 +286,7 @@ export default function MainLayout({
         <nav className="fixed bottom-0 inset-x-0 z-40 flex border-t border-slate-200 bg-white md:hidden">
           {NAV_ITEMS.map((item) => {
             const isActive =
-              item.href === "/" ? pathname === "/" : pathname.startsWith(item.href)
+              pathname.startsWith(item.href)
             return (
               <div key={item.href} className="flex-1 flex justify-center">
                 <NavItem

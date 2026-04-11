@@ -9,6 +9,8 @@ import NextAuth from 'next-auth'
 import { DrizzleAdapter } from '@auth/drizzle-adapter'
 import Google from 'next-auth/providers/google'
 import Resend from 'next-auth/providers/resend'
+import Credentials from 'next-auth/providers/credentials'
+import { eq } from 'drizzle-orm'
 import { db } from '@/lib/db'
 import { users, accounts, sessions, verificationTokens } from '@/lib/db/schema'
 
@@ -38,6 +40,41 @@ if (process.env.AUTH_RESEND_KEY) {
     Resend({
       apiKey: process.env.AUTH_RESEND_KEY,
       from: process.env.EMAIL_FROM ?? 'noreply@patrimoine-sens.fr',
+    })
+  )
+}
+
+// Dev-only : credentials provider pour tester sans clés OAuth/email
+if (process.env.NODE_ENV === 'development' && db) {
+  providers.push(
+    Credentials({
+      name: 'Dev Login',
+      credentials: {
+        email: { label: 'Email', type: 'email', placeholder: 'dev@patrimoine-sens.fr' },
+      },
+      async authorize(credentials) {
+        const email = credentials?.email as string | undefined
+        if (!email) return null
+
+        // Cherche ou crée l'utilisateur dev
+        const [existing] = await db!
+          .select()
+          .from(users)
+          .where(eq(users.email, email))
+          .limit(1)
+
+        if (existing) {
+          return { id: existing.id, email: existing.email, name: existing.name }
+        }
+
+        // Auto-création en dev
+        const [created] = await db!
+          .insert(users)
+          .values({ email, name: email.split('@')[0] })
+          .returning()
+
+        return { id: created.id, email: created.email, name: created.name }
+      },
     })
   )
 }

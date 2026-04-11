@@ -6,7 +6,7 @@
 // =============================================================================
 
 import { NextRequest, NextResponse } from 'next/server'
-import { eq, sql, desc, and, gte, lte } from 'drizzle-orm'
+import { eq, sql, desc, and, gte, lte, ilike, or } from 'drizzle-orm'
 import type { SQL } from 'drizzle-orm'
 import { db } from '@/lib/db'
 import { heritageItems, contributions } from '@/lib/db/schema'
@@ -27,14 +27,17 @@ export async function GET(request: NextRequest): Promise<NextResponse> {
     const category = searchParams.get('category')
     const periodStart = searchParams.get('periodStart')
     const periodEnd = searchParams.get('periodEnd')
+    const query = searchParams.get('q')
 
     const conditions: SQL[] = [eq(heritageItems.status, 'publie')]
 
+    if (query && query.trim()) {
+      const term = `%${query.trim()}%`
+      conditions.push(ilike(heritageItems.title, term))
+    }
     if (category) {
       conditions.push(eq(heritageItems.category, category as (typeof heritageItems.category)['_']['data']))
     }
-    // Filter: items whose period_start falls within [periodStart, periodEnd]
-    // This finds items "that began in this era" — most intuitive for historical browsing
     if (periodStart) {
       conditions.push(gte(heritageItems.periodStart, parseInt(periodStart, 10)))
     }

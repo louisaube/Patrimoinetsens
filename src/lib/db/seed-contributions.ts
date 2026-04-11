@@ -106,56 +106,244 @@ export const seedContributions = [
   },
 
   // =========================================================================
-  // PALAIS SYNODAL (item 2)
+  // PALAIS SYNODAL (item 2) — 7 contributions
   // =========================================================================
+
+  // Denis / Palais synodal — Synthèse historique
   {
     id: 'f6666666-0002-0002-0002-000000000002',
     heritageItemId: 'e5555555-0002-0002-0002-000000000002',
     authorId: DENIS,
     contributionType: 'historique' as const,
-    title: "Le Palais synodal : salle de réunion des évêques",
-    body: "Le Palais synodal a été construit au XIIIe siècle pour que les évêques de la province de Sens puissent se réunir. Sa grande salle, avec sa charpente en bois, est l'une des mieux conservées de France. Au XIXe siècle, l'architecte Viollet-le-Duc (le même qui a restauré Notre-Dame de Paris) l'a restauré entre 1863 et 1875. Il a refait le toit avec des tuiles vernissées colorées, typiques de la Bourgogne. Aujourd'hui, le bâtiment fait partie des musées de Sens.",
+    title: "Le Palais synodal : sept siècles en un bâtiment",
+    body: "L'archevêque Gauthier Cornut (en poste de 1222 à 1241) fait bâtir le Palais synodal à deux pas de la cathédrale, côté sud. Le mot « synodal » vient du grec synodos, « assemblée » : c'est la salle où les évêques de la province ecclésiastique de Sens se réunissent pour délibérer. Or la province de Sens est alors immense — elle couvre sept diocèses (territoires placés sous l'autorité d'un évêque) : Paris, Chartres, Meaux, Orléans, Auxerre, Nevers et Troyes. L'archevêque de Sens, primat des Gaules (c'est-à-dire le plus haut dignitaire de l'Église de France), préside ces assemblées. Le palais est donc à la mesure de ce pouvoir : une salle d'environ 500 m², haute de 12 mètres sous plafond, l'une des plus vastes salles civiles de l'Occident médiéval.\n\nClassé Monument Historique dès 1862 — la même année que l'abbaye Saint-Jean voisine —, le bâtiment a traversé la Révolution (il sert alors de tribunal, puis de grenier), la restauration spectaculaire de Viollet-le-Duc (1863-1875), et deux guerres mondiales. Il appartient aujourd'hui à l'État et accueille les expositions temporaires des Musées de Sens.",
     sources: [
-      'Viollet-le-Duc, Eugène. "Dictionnaire raisonné de l\'architecture." Paris, 1854-1868.',
+      'Viollet-le-Duc, Eugène. "Dictionnaire raisonné de l\'architecture française du XIe au XVIe siècle." Paris, 1854-1868, tome VII, article « Salle synodale ».',
+      'Ministère de la Culture, base Mérimée, notice PA00113883.',
+      'Bataille, Alain et al. "Yonne." Éditions Bonneton, 1992, p. 35.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    furtherReading: "Pour une analyse architecturale détaillée, voir Viollet-le-Duc (1854-1868), tome VII, qui consacre un long article à la salle synodale de Sens et en publie des relevés complets. Le Congrès Archéologique de France (1958, session Auxerre-Sens) donne une synthèse in situ. Les Bulletins de la Société Archéologique de Sens (1846-1900, disponibles sur Gallica) contiennent les procès-verbaux des premières fouilles et restaurations.",
+    period: '1222–1875',
+    audioUrl: null,
+  },
+
+  // Denis / Palais synodal — Architecture
+  {
+    id: 'f6666666-0002-0002-0002-000000000010',
+    heritageItemId: 'e5555555-0002-0002-0002-000000000002',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Architecture : la grande salle et sa charpente",
+    body: "La salle synodale occupe tout l'étage du palais. Elle mesure environ trente mètres de long sur quinze de large — un rectangle immense pour le XIIIe siècle. La lumière entre par de grandes fenêtres ogivales (en forme d'arc brisé) percées sur les deux murs longs, divisées en deux lancettes (deux ouvertures verticales séparées par un meneau, le fin pilier de pierre central). Le sol est en dalles de pierre calcaire.\n\nLa charpente en bois — une charpente en berceau brisé (comme une coque de navire renversée, mais avec une arête au sommet) — est l'une des mieux conservées de cette époque en France. Elle repose sur des entraits (poutres horizontales qui empêchent les murs de s'écarter sous le poids du toit) visibles depuis la salle. Ce système est dit « en fermes apparentes » : on voit la structure, elle n'est pas cachée par un plafond.\n\nAu rez-de-chaussée, sous la grande salle, se trouvaient les cachots de l'officialité (le tribunal ecclésiastique de l'archevêque). Deux niveaux, deux fonctions : justice en bas, délibération en haut.",
+    sources: [
+      'Viollet-le-Duc, Eugène. "Dictionnaire raisonné de l\'architecture." Paris, 1854-1868, tome VII.',
+      'Congrès Archéologique de France, 116e session, Auxerre-Sens, 1958.',
       'Ministère de la Culture, base Mérimée, notice PA00113883.',
     ],
-    period: '1240–1875',
+    furtherReading: "Viollet-le-Duc a publié des relevés complets de la charpente dans le Dictionnaire raisonné (tome VII, planches XXXII-XXXV). Ces dessins techniques, réalisés avant la restauration, sont la meilleure source sur l'état médiéval de la structure. Les entraits datés par dendrochronologie (analyse des cernes de croissance du bois) confirment une construction entre 1235 et 1245.",
+    period: 'XIIIe siècle',
+    audioUrl: null,
+  },
+
+  // Denis / Palais synodal — Rôle ecclésiastique
+  {
+    id: 'f6666666-0002-0002-0002-000000000011',
+    heritageItemId: 'e5555555-0002-0002-0002-000000000002',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Rôle : la salle où Sens commandait à Paris",
+    body: "Jusqu'en 1622, l'archevêque de Sens est le métropolitain (le supérieur hiérarchique) de l'évêque de Paris. Ce n'est pas un titre honorifique : il convoque des conciles, tranche des disputes entre diocèses, juge les affaires ecclésiastiques en appel. La salle synodale est le lieu où ce pouvoir s'exerce concrètement.\n\nUn synode provincial réunit les évêques suffragants (les évêques subordonnés à l'archevêque) pour légiférer sur la discipline du clergé, la liturgie (l'ensemble des cérémonies du culte), et les affaires de leurs diocèses. On y juge aussi les procès en appel de l'officialité — le tribunal ecclésiastique qui siège au rez-de-chaussée du même bâtiment.\n\nLe plus célèbre de ces conciles sénonais est celui de 1140, où l'archevêque Henri Sanglier préside le procès de Pierre Abélard, le philosophe scolastique (un penseur qui cherchait à concilier la foi chrétienne et la raison, une démarche jugée dangereuse par Bernard de Clairvaux). Abélard est condamné comme hérétique. Ce concile se tient avant la construction du palais actuel — probablement dans la cathédrale elle-même — mais il illustre le type d'assemblées que la salle synodale accueillera ensuite.\n\nEn 1622, Paris est érigé en archevêché autonome : Sens perd sa suprématie sur la capitale. Le palais synodal perd sa raison d'être originelle.",
+    sources: [
+      'Cailleaux, Denis. "La province ecclésiastique de Sens au Moyen Âge." in Bulletin SAS, 2005.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+      'Ministère de la Culture, base Mérimée, notice PA00113883.',
+    ],
+    period: '1140–1622',
+    audioUrl: null,
+  },
+
+  // Denis / Palais synodal — Restauration Viollet-le-Duc
+  {
+    id: 'f6666666-0002-0002-0002-000000000012',
+    heritageItemId: 'e5555555-0002-0002-0002-000000000002',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Viollet-le-Duc à Sens (1863-1875) : restaurer ou réinventer ?",
+    body: "En 1840, Prosper Mérimée — l'écrivain qui a inventé Carmen, mais aussi l'inspecteur des Monuments Historiques — visite Sens et s'alarme de l'état du palais synodal. Le bâtiment sert alors de grenier à sel et de caserne. Les fenêtres sont murées, la charpente pourrit, la façade menace de s'effondrer.\n\nEn 1863, Eugène Viollet-le-Duc reçoit la commande de restauration. C'est le même architecte qui a restauré Notre-Dame de Paris, Carcassonne, Vézelay. Sa méthode est celle de la « restauration stylistique » : rétablir l'édifice dans un état complet qui peut n'avoir jamais existé, en achevant ce que les constructeurs médiévaux n'avaient pas fini.\n\nÀ Sens, Viollet-le-Duc refait entièrement le toit. Il le couvre de tuiles vernissées polychromes (des tuiles émaillées de plusieurs couleurs — vert, jaune, brun, noir) disposées en losanges, dans le style bourguignon que l'on retrouve à Beaune et Dijon. Il restitue les cinq statues de la façade — dont Gauthier Cornut et Saint Louis — d'après des descriptions anciennes. Il rouvre les fenêtres ogivales, reconstruit les meneaux brisés, et installe une galerie néogothique (une galerie construite au XIXe siècle dans le style du XIIIe).\n\nCe travail a été critiqué dès l'époque : les archéologues reprochaient à Viollet-le-Duc d'inventer plus qu'il ne restaurait. Le débat reste ouvert. Ce qui est certain : sans son intervention, le bâtiment aurait disparu.",
+    sources: [
+      'Viollet-le-Duc, Eugène. "Dictionnaire raisonné de l\'architecture." Paris, 1854-1868.',
+      'Mérimée, Prosper. "Notes d\'un voyage dans le midi de la France" et correspondance administrative.',
+      'Bulletin de la Société Archéologique de Sens, vol. VIII, 1866 (compte-rendu des travaux).',
+      'Bercé, Françoise. "Les premiers monuments historiques de France." Picard, 2000.',
+    ],
+    furtherReading: "La question « restauration vs réinvention » chez Viollet-le-Duc fait l'objet d'une abondante bibliographie. Pour Sens spécifiquement, les archives de la Commission des Monuments Historiques (AN, série F/21) conservent les devis, dessins et correspondances du chantier. Les Bulletins SAS de 1863-1875 documentent les découvertes faites pendant les travaux (fragments de statues médiévales, restes de peintures murales). Lire aussi Bercé (2000) pour le contexte national de la politique de restauration.",
+    period: '1863–1875',
+    audioUrl: null,
+  },
+
+  // Denis / Palais synodal — Usage actuel
+  {
+    id: 'f6666666-0002-0002-0002-000000000013',
+    heritageItemId: 'e5555555-0002-0002-0002-000000000002',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Aujourd'hui : musée et expositions temporaires",
+    body: "Depuis le début du XXe siècle, le palais synodal fait partie de l'ensemble muséal de Sens, avec le palais archiépiscopal (le logement de l'archevêque, aujourd'hui musée permanent) et les jardins de l'Orangerie. La grande salle accueille les expositions temporaires des Musées de Sens.\n\nChaque été depuis 2015, des artistes contemporains y exposent : Pierre Soulages en 2016, Arnaud Cohen en 2015. Le contraste entre les voûtes médiévales et l'art contemporain fait partie de l'identité du lieu.\n\nAu rez-de-chaussée, les anciens cachots de l'officialité conservent leurs graffitis de prisonniers — des inscriptions gravées dans la pierre par les détenus du tribunal ecclésiastique, certaines datant du XIIIe siècle. Ces traces sont parmi les plus anciennes de ce type en France.\n\nLe bâtiment est propriété de l'État, classé Monument Historique depuis 1862. Il est ouvert au public (entrée par le musée, 5 rue Rigault). Le toit polychrome de Viollet-le-Duc, visible depuis la rue, est l'un des motifs les plus photographiés de Sens.",
+    sources: [
+      'Musées de Sens. "Palais synodal." musees-sens.fr.',
+      'Ministère de la Culture, base Mérimée, notice PA00113883.',
+    ],
+    period: 'XXe–XXIe siècle',
+    audioUrl: null,
+  },
+
+  // Bernard / Palais synodal — Récit
+  {
+    id: 'f6666666-0002-0002-0002-000000000014',
+    heritageItemId: 'e5555555-0002-0002-0002-000000000002',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Le jour où Sens jugeait le monde",
+    body: "Il faut imaginer la scène. Nous sommes en 1240, un matin de novembre. La salle est immense — trente mètres de long, le plafond si haut qu'on peine à distinguer les poutres dans la pénombre. Les sept évêques de la province sont assis sur des stalles de bois, en demi-cercle. L'archevêque de Sens trône au centre. On l'appelle le primat des Gaules : c'est, en théorie, le chef de l'Église de France, et l'évêque de Paris est son subordonné.\n\nLes disputes qu'on tranche ici ne sont pas des querelles de clocher. Quand un abbé de Meaux conteste la dîme (l'impôt ecclésiastique, un dixième des récoltes) avec son évêque, c'est à Sens qu'on vient plaider. Quand un chanoine de Chartres est accusé d'hérésie (une doctrine jugée contraire à la foi officielle), c'est ici qu'on le juge. Et en bas, au rez-de-chaussée, les cachots sont pleins.\n\nCe qui frappe, quand on entre dans la salle aujourd'hui, c'est le silence. Un silence de pierre. On entend ses propres pas. Et on se dit : dans cette pièce, pendant quatre siècles, des hommes ont décidé du sort de provinces entières — et Paris devait obéir.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: 'XIIIe–XVIIe siècle',
     audioUrl: null,
   },
 
   // =========================================================================
-  // MAISON D'ABRAHAM (item 3)
+  // MAISON D'ABRAHAM (item 3) — 4 contributions
   // =========================================================================
+
+  // Denis / Maison Abraham — Synthèse historique
+  {
+    id: 'f6666666-0003-0003-0003-000000000010',
+    heritageItemId: 'e5555555-0003-0003-0003-000000000003',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La Maison d'Abraham : cinq siècles sur un coin de rue",
+    body: "La Maison dite d'Abraham se dresse à l'angle de la rue de la République et de la rue Jean-Cousin, au cœur de la vieille ville de Sens. C'est une maison à pans de bois (une structure en colombages — des poutres de chêne formant l'ossature des murs, les intervalles étant remplis de torchis ou de briques). Elle date du XVIe siècle, probablement des années 1530-1540.\n\nSon nom vient de l'Arbre de Jessé (la généalogie du Christ selon l'Évangile de Matthieu) sculpté sur le poteau cornier — le poteau d'angle qui porte tout le poids de l'étage en surplomb. Ce poteau représente la Vierge Marie entourée de huit rois d'Israël, ses ancêtres : c'est l'un des plus beaux exemples de sculpture sur bois de la Renaissance en Bourgogne.\n\nLa maison est aussi connue sous le nom de « Maison des Quatre Vents », sans doute parce qu'elle se trouve à un carrefour exposé. Elle a été construite pour Nicolas Mégissier, un notable local. Classée Monument Historique en 1923 (notice PA00113876), elle est propriété privée mais visible de la rue.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113876.',
+      'Bulletin de la Société Archéologique de Sens, vol. XXVI, 1911.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    furtherReading: "L'Arbre de Jessé est un thème iconographique courant dans l'art médiéval et Renaissance : on le retrouve dans les vitraux de Chartres, de Saint-Denis et de Sens même (verrière nord de la cathédrale). La version sculptée sur bois de la Maison d'Abraham est cependant rare — la plupart des Arbres de Jessé sont peints ou gravés, rarement taillés en ronde-bosse sur un poteau porteur. Voir le Bulletin SAS de 1911 pour les relevés de la sculpture avant sa restauration.",
+    period: '1530–1540',
+    audioUrl: null,
+  },
+
+  // Denis / Maison Abraham — L'accident de 1970
+  {
+    id: 'f6666666-0003-0003-0003-000000000011',
+    heritageItemId: 'e5555555-0003-0003-0003-000000000003',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "1970 : le camion, la catastrophe évitée et la restauration",
+    body: "En 1970, un camion a percuté le poteau cornier de la Maison d'Abraham. L'accident a failli être fatal au bâtiment : sans ce poteau, tout l'étage en encorbellement (la partie qui avance au-dessus de la rue, en surplomb par rapport au rez-de-chaussée) aurait pu s'effondrer.\n\nLa restauration a été confiée aux Monuments Historiques. Le poteau a été démonté, chaque élément sculpté a été consolidé, et l'ensemble a été remonté à l'identique. Les parties trop abîmées ont été remplacées par du chêne neuf, sculpté d'après des photographies et des moulages pris avant l'accident.\n\nCe n'est pas la première fois que la maison a été sauvée de justesse. Au XIXe siècle, le percement de la rue de la République (alors appelée « Grande Rue ») avait menacé plusieurs maisons médiévales du quartier. L'inscription aux Monuments Historiques en 1923 a protégé celle-ci de la démolition.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113876.',
+      'Bulletin de la Société Archéologique de Sens, procès-verbaux 1970-1972.',
+    ],
+    period: '1970',
+    audioUrl: null,
+  },
+
+  // Bernard / Maison Abraham — Récit (réécrit enrichi)
   {
     id: 'f6666666-0049-0049-0049-000000000049',
     heritageItemId: 'e5555555-0003-0003-0003-000000000003',
     authorId: BERNARD,
     contributionType: 'recit' as const,
-    title: "La Maison d'Abraham : le camion, Flaubert et l'Arbre de Jessé",
-    body: "La Maison d'Abraham, rue de la République, est célèbre pour son poteau d'angle sculpté. On y voit un Arbre de Jessé : la Vierge Marie entourée de huit rois d'Israël, ses ancêtres. En 1970, un camion a renversé ce poteau. On a frôlé la catastrophe — il a fallu le restaurer pierre par pierre. La maison porte aussi le nom de « Maison des Quatre Vents ». C'est Nicolas Mégissier qui l'a fait construire au XVIe siècle. Un détail littéraire : Gustave Flaubert a séjourné à Sens en 1864, à l'Hôtel de l'Écu, pour documenter « L'Éducation sentimentale ». La tradition locale associe la Maison d'Abraham à cette visite, bien qu'aucun passage du roman ne décrive explicitement l'édifice. Le roman mentionne le collège de Sens comme cadre des souvenirs de jeunesse des personnages.",
+    title: "Flaubert, l'Arbre de Jessé et le camion fou",
+    body: "Il faut lever les yeux. On passe cent fois devant la Maison d'Abraham sans la voir — elle est à l'angle de la rue de la République, coincée entre deux vitrines. Et pourtant, si vous levez les yeux, vous voyez un poteau de bois sculpté comme un retable d'église : huit rois couronnés, la Vierge au sommet, des volutes de feuillage entre chaque figure. C'est un Arbre de Jessé — la généalogie du Christ, sculptée dans du chêne il y a cinq cents ans.\n\nEn 1970, un camion de livraison a percuté ce poteau. La moitié de la rue a retenu son souffle. Sans ce pilier, le premier étage se serait effondré sur le trottoir. On l'a restauré, pièce par pièce, comme un puzzle de bois vieux de quatre siècles.\n\nUn détail littéraire : Gustave Flaubert a séjourné à Sens en 1864, à l'Hôtel de l'Écu, pour documenter « L'Éducation sentimentale ». La tradition locale associe la Maison d'Abraham à cette visite — bien qu'aucun passage du roman ne décrive explicitement l'édifice. Ce qui est sûr : le collège de Sens apparaît dans le roman comme le cadre des souvenirs de jeunesse de Frédéric Moreau. Flaubert a marché dans ces rues.",
     sources: [
       'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
       'Bulletin de la Société Archéologique de Sens, vol. XXVI, 1911.',
     ],
-    period: 'XVIe siècle',
+    period: 'XVIe siècle — 1970',
+    audioUrl: null,
+  },
+
+  // Marie / Maison Abraham — Observation terrain
+  {
+    id: 'f6666666-0003-0003-0003-000000000012',
+    heritageItemId: 'e5555555-0003-0003-0003-000000000003',
+    authorId: MARIE,
+    contributionType: 'observation' as const,
+    title: "État du poteau cornier — relevé février 2026",
+    body: "Visite du 12 février 2026. Le poteau cornier sculpté est en bon état général. Les parties restaurées après l'accident de 1970 sont visibles (bois plus clair sur les figures du bas). Quelques fissures superficielles sur le fût, rien de structurel. La peinture de protection a noirci par endroits — un ravalement serait souhaitable. Le panneau d'information touristique au pied du poteau est illisible (décoloré par le soleil). Pas de graffiti. Photos prises avec GPS.",
+    sources: null,
+    period: null,
     audioUrl: null,
   },
 
   // =========================================================================
-  // MARCHÉ COUVERT (item 4)
+  // MARCHÉ COUVERT (item 4) — 4 contributions
   // =========================================================================
+
+  // Denis / Marché couvert — Synthèse historique
+  {
+    id: 'f6666666-0004-0004-0004-000000000010',
+    heritageItemId: 'e5555555-0004-0004-0004-000000000004',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Le marché couvert de Sens : fer, verre et tuiles vernissées",
+    body: "Le marché couvert de Sens a été construit en 1882 par l'architecte Alexandre Lefort fils, sur l'emplacement de l'ancienne halle aux grains. C'est un bâtiment de style Baltard — du nom de Victor Baltard, l'architecte des Halles centrales de Paris (1854-1874) — caractérisé par une structure métallique apparente, de grandes verrières et une ventilation naturelle par le toit.\n\nLa halle mesure environ 50 mètres de long sur 20 de large. La charpente métallique repose sur des colonnes de fonte. Le toit, détail remarquable, est couvert de tuiles vernissées polychromes disposées en losanges — le même motif bourguignon que celui du Palais synodal voisin, restauré par Viollet-le-Duc vingt ans plus tôt. C'est un clin d'œil délibéré : Alexandre Lefort fils a repris le motif utilisé par son propre père, l'architecte Charles Lefort, qui avait travaillé avec Viollet-le-Duc sur le chantier du Palais synodal.\n\nInscrit à l'Inventaire Supplémentaire des Monuments Historiques en 1975 (notice PA00113881), le marché fonctionne toujours : c'est le marché du mardi et du vendredi.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113881.',
+      'SenoN.org, "Marché couvert." senon.org/wordpress/monuments/.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    furtherReading: "Le modèle des halles Baltard a influencé des dizaines de marchés couverts en France entre 1860 et 1900. Celui de Sens est l'un des mieux conservés du département. La filiation Viollet-le-Duc → Charles Lefort → Alexandre Lefort fils illustre la transmission d'un vocabulaire architectural local — les tuiles vernissées bourguignonnes — d'un chantier à l'autre. Les archives municipales de Sens conservent les plans originaux d'Alexandre Lefort fils (AMSens, série M).",
+    period: '1882',
+    audioUrl: null,
+  },
+
+  // Denis / Marché couvert — Architecture
+  {
+    id: 'f6666666-0004-0004-0004-000000000011',
+    heritageItemId: 'e5555555-0004-0004-0004-000000000004',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Architecture : la halle de fer et le modèle Baltard",
+    body: "La structure du marché couvert illustre la révolution architecturale du XIXe siècle : le remplacement de la pierre par le fer et le verre. Les colonnes de fonte (du fer moulé, plus résistant à la compression que l'acier) portent des arcs en métal qui soutiennent la toiture. Ce système permet de dégager un vaste espace intérieur sans murs porteurs ni piliers massifs — idéal pour la circulation des marchands et des clients.\n\nLes verrières latérales laissent entrer la lumière naturelle. Le toit à deux pentes est percé d'un lanterneau (une bande de fenêtres au sommet du toit) qui assure la ventilation — indispensable pour évacuer les odeurs dans un marché alimentaire.\n\nLe bâtiment s'inscrit dans la lignée des Halles de Baltard à Paris, construites sous Napoléon III. Mais là où Baltard utilisait des pavillons séparés, Lefort a choisi une halle unique — plus modeste, adaptée à une ville de 25 000 habitants. Le résultat est un espace à la fois fonctionnel et élégant, qui a survécu à la démolition des Halles de Paris en 1971.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113881.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: '1882',
+    audioUrl: null,
+  },
+
+  // Bernard / Marché couvert — Récit (enrichi)
   {
     id: 'f6666666-0005-0005-0005-000000000005',
     heritageItemId: 'e5555555-0004-0004-0004-000000000004',
     authorId: BERNARD,
     contributionType: 'recit' as const,
     title: "Le marché du samedi : mémoire vivante des Sénonais",
-    body: "Ma grand-mère m'emmenait au marché couvert chaque samedi matin depuis que j'avais quatre ans. Elle connaissait chaque marchand par son prénom. Ce marché existe depuis toujours, bien avant la halle de fer qu'on voit aujourd'hui. Quand on a construit la structure métallique dans les années 1880, les anciens trouvaient ça horrible. Aujourd'hui, ce sont ces mêmes piliers qu'on photographie. L'architecte Lefort s'est inspiré des Halles de Baltard à Paris. Un détail amusant : le toit reprend les losanges colorés du Palais synodal juste à côté — un clin d'œil du fils Lefort à son père.",
+    body: "Ma grand-mère m'emmenait au marché couvert chaque samedi matin depuis que j'avais quatre ans. Elle connaissait chaque marchand par son prénom. Le boucher Moreau, la fromagère de Vézelay, le poissonnier qui criait plus fort que tous les autres — chacun avait sa place attitrée, transmise de père en fils.\n\nCe marché existe depuis toujours, bien avant la halle de fer qu'on voit aujourd'hui. Au Moyen Âge, le marché se tenait en plein air, sur la place. Quand on a construit la structure métallique dans les années 1880, les anciens trouvaient ça horrible — « une gare à la place d'une place », disaient-ils. Aujourd'hui, ce sont ces mêmes piliers de fonte qu'on photographie.\n\nL'architecte Alexandre Lefort fils s'est inspiré des Halles de Baltard à Paris — les célèbres « pavillons » de fer et de verre que Zola appelait « le ventre de Paris ». Un détail amusant : le toit reprend les losanges colorés du Palais synodal juste à côté. Ce n'est pas un hasard : le père de l'architecte, Charles Lefort, avait travaillé avec Viollet-le-Duc sur la restauration du Palais. Le fils a repris le motif du père — un clin d'œil familial inscrit dans les tuiles.",
     sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
       'Ministère de la Culture, base Mérimée, notice PA00113881.',
-      'SenoN.org, "Marché couvert." senon.org/wordpress/monuments/.',
     ],
-    period: '1882',
+    period: '1882 — aujourd\'hui',
+    audioUrl: null,
+  },
+
+  // Marie / Marché couvert — Observation
+  {
+    id: 'f6666666-0004-0004-0004-000000000012',
+    heritageItemId: 'e5555555-0004-0004-0004-000000000004',
+    authorId: MARIE,
+    contributionType: 'observation' as const,
+    title: "État de la halle — relevé mars 2026",
+    body: "Visite du 8 mars 2026, jour de marché. Structure métallique en bon état, repeinte récemment (gris clair). Quelques tuiles vernissées manquantes sur le versant sud — on voit le bois de charpente en dessous. Les verrières latérales sont encrassées mais intactes. Le lanterneau au sommet du toit est opérationnel — bonne ventilation. Sol bétonné, propre. L'éclairage électrique a été refait (LED). Les étals sont en inox, modernes. Le bâtiment est vivant et utilisé. Photos prises avec GPS.",
+    sources: null,
+    period: null,
     audioUrl: null,
   },
 

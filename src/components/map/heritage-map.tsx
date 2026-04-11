@@ -82,12 +82,12 @@ const ARCHAEOLOGICAL_PLANS: Record<string, ImageOverlayConfig> = {
     url: "/data/plans/sens-haut-empire-iiie.jpg",
     label: "Agedincum, extension max. ~160 ha, début IIIe s. — sur cadastre actuel (Gallia 78-1, Bourillon et al.)",
     // Sur fond cadastral de Sens — emprise centrée sur le centre-ville
-    // L'Yonne est à gauche (~15% du plan), la barre d'échelle = 500m
+    // Calage : alignement Yonne plan ↔ Yonne OSM, cathédrale comme point central
     coordinates: [
-      [3.2700, 48.2050],  // top-left (NW)
-      [3.3000, 48.2050],  // top-right (NE)
-      [3.3000, 48.1880],  // bottom-right (SE)
-      [3.2700, 48.1880],  // bottom-left (SW)
+      [3.2660, 48.2055],  // top-left (NW)
+      [3.2960, 48.2055],  // top-right (NE)
+      [3.2960, 48.1885],  // bottom-right (SE)
+      [3.2660, 48.1885],  // bottom-left (SW)
     ],
   },
   lateantique: {
@@ -95,10 +95,10 @@ const ARCHAEOLOGICAL_PLANS: Record<string, ImageOverlayConfig> = {
     label: "Senones, Antiquité tardive IVe-Ve s. — enceinte fortifiée sur cadastre actuel (Gallia 78-1)",
     // Même emprise que le plan Haut-Empire (même article, mêmes auteurs)
     coordinates: [
-      [3.2700, 48.2050],
-      [3.3000, 48.2050],
-      [3.3000, 48.1880],
-      [3.2700, 48.1880],
+      [3.2660, 48.2055],
+      [3.2960, 48.2055],
+      [3.2960, 48.1885],
+      [3.2660, 48.1885],
     ],
   },
   medieval: {
