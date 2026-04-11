@@ -3063,7 +3063,7 @@
         {
           "year": 1793,
           "title": "La Terreur à Sens",
-          "text": "La guillotine est installée à Champbertrand. L'archevêque Loménie de Brienne, ancien ministre des Finances de Louis XVI, meurt en prison à Sens. Les églises sont transformées en « temples de la Raison ». On rebaptise les rues — la rue de l'Archevêché devient rue de la Liberté.",
+          "text": "La Mgr L'Hermite de Champbertrand est conduit a l'echafaud. L'archevêque Loménie de Brienne, ancien ministre des Finances de Louis XVI, meurt en prison à Sens. Les églises sont transformées en « temples de la Raison ». On rebaptise les rues — la rue de l'Archevêché devient rue de la Liberté.",
           "location": {
             "lat": 48.194,
             "lng": 3.283,
@@ -3120,6 +3120,20 @@
           "sources": [
             "INSEE, recensements 1793-2023.",
             "Cassini/EHESS, donnees historiques."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1794,
+          "title": "Mgr L'Hermite de Champbertrand guillotine : la fin d'un monde",
+          "text": "En 1794, Monseigneur L'Hermite de Champbertrand est conduit a l'echafaud. La famille L'Hermite, seigneurs de Champbertrand (la grande ferme au sud de Sens, 170 hectares aujourd'hui), avait produit un ecclesiastique qui avait refuse de plier devant la Revolution. Son domaine sera probablement vendu comme bien national. Des siecles plus tard, les Leblanc-Duvernoy racheteront Champbertrand. Aujourd'hui, c'est une exploitation agricole (EARL de Champbertrand, famille Aube) --- mais le nom du seigneur guillotine reste attache a la terre.",
+          "location": {
+            "lat": 48.194,
+            "lng": 3.283,
+            "label": "Champbertrand --- domaine L'Hermite"
+          },
+          "sources": [
+            "Daguin, G. '1793 Monseigneur de Champbertrand est guillotine.' histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null
         },
