@@ -3925,6 +3925,21 @@
           "heritageItemId": null
         },
         {
+          "year": 1915,
+          "title": "Deux freres Lorne tues en un an : Artois et Verdun",
+          "text": "Rene Lorne, 31 ans, sous-lieutenant au 74e Regiment d'infanterie, est tue le 7 juin 1915 a Neuville-Saint-Vaast (Artois). Son frere Maurice, 28 ans, sergent au 96e Regiment d'infanterie, tombe le 1er aout 1916 a Thiaumont, devant Douaumont (Verdun). Deux fils du docteur Remond Lorne de Sens, tues en un an sur les deux champs de bataille les plus meurtriers de la Grande Guerre. Leur famille, venue de Boeurs-en-Othe comme laboureurs, avait donne a Sens un antiquaire (Alfred, fondateur du musee), un medecin (Remond), et maintenant deux morts pour la France.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Sens --- famille Lorne, deux freres tues 14-18"
+          },
+          "sources": [
+            "Genealogie Lorne (Geneanet).",
+            "Memoire des hommes."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1918,
           "title": "Le jeune Brasillach arrive a Sens : son professeur s'appelle Gabriel Marcel",
           "text": "En mars 1918, la famille Brasillach s'installe a Sens. Le jeune Robert fait ses etudes au lycee de la rue Thenard. Son professeur de philosophie n'est autre que Gabriel Marcel --- le futur grand philosophe existentialiste. A 18 ans, en 1927, Brasillach publie un roman-feuilleton sous pseudonyme dans La Tribune de l'Yonne (49 episodes). Il deviendra redacteur en chef de Je suis partout, journal fasciste et collaborationniste. Fusille le 6 fevrier 1945. De Gaulle refuse la grace malgre une petition signee par Camus, Valery et Claudel. Un enfant de Sens devenu l'un des ecrivains les plus controverses du XXe siecle.",
