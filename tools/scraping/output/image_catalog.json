@@ -1,6 +1,6 @@
 {
   "generated": "2026-04-08T15:54:13",
-  "totalImages": 239,
+  "totalImages": 241,
   "sources": {
     "commons": 81,
     "gallica": 90,
@@ -4017,6 +4017,46 @@
         "sens"
       ],
       "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "width": 1576,
+      "height": 2303,
+      "mime": "image/jpeg",
+      "description": "Intérieur de la cathédrale de Sens, par Jean-Baptiste-Camille Corot. Huile sur toile, 1874. Musée du Louvre, salle 952."
+    },
+    {
+      "id": "commons_corot_sens_rf2225_cornisset",
+      "source": "commons",
+      "title": "Corot — Vue de l intérieur de la cathédrale de Sens (RF 2225, Louvre)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Corot_-_Vue_de_l%27int%C3%A9rieur_de_la_cath%C3%A9drale_de_Sens._RF_2225.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Corot_-_Vue_de_l%27int%C3%A9rieur_de_la_cath%C3%A9drale_de_Sens._RF_2225.jpg/400px-Corot_-_Vue_de_l%27int%C3%A9rieur_de_la_cath%C3%A9drale_de_Sens._RF_2225.jpg",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "corot",
+        "peinture",
+        "louvre",
+        "sens"
+      ],
+      "relatedHeritageItemId": "e5555555-0106-0106-0106-000000000106",
+      "width": 1009,
+      "height": 1500,
+      "mime": "image/jpeg",
+      "description": "Vue de l intérieur de la cathédrale Saint-Étienne de Sens, par Jean-Baptiste-Camille Corot. Huile sur toile, vers 1874. Musée du Louvre, RF 2225."
+    },
+    {
+      "id": "commons_corot_sens_023_cornisset",
+      "source": "commons",
+      "title": "Corot — Intérieur de la cathédrale de Sens (Louvre, salle 952)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jean-Baptiste-Camille_Corot_023.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jean-Baptiste-Camille_Corot_023.jpg/400px-Jean-Baptiste-Camille_Corot_023.jpg",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "corot",
+        "peinture",
+        "louvre",
+        "sens"
+      ],
+      "relatedHeritageItemId": "e5555555-0106-0106-0106-000000000106",
       "width": 1576,
       "height": 2303,
       "mime": "image/jpeg",

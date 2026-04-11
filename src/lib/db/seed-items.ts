@@ -1415,7 +1415,7 @@ export const seedHeritageItems = [
   {
     id: 'e5555555-0106-0106-0106-000000000106',
     createdBy: DENIS,
-    title: 'Famille Salleron — bourgeoisie sénonaise et alliances Cornisset',
+    title: 'Famille Cornisset-Salleron — la belle-famille sénonaise de Corot',
     category: 'personnalite' as const,
     status: 'publie' as const,
     latitude: 48.1977,

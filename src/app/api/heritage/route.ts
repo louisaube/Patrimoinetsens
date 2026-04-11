@@ -52,6 +52,11 @@ export async function GET(request: NextRequest): Promise<NextResponse> {
       conditions.push(lte(heritageItems.periodStart, parseInt(periodEnd, 10)))
     }
 
+    // Deux stratégies selon qu'on cherche dans le texte ou non
+    // Avec recherche texte : le LEFT JOIN filtre les contributions, faussant le count.
+    // On utilise une sous-requête pour le count total.
+    const useFullTextSearch = !!(query && query.trim())
+
     const items = await db!
       .select({
         id: heritageItems.id,
@@ -66,7 +71,9 @@ export async function GET(request: NextRequest): Promise<NextResponse> {
         periodEnd: heritageItems.periodEnd,
         createdAt: heritageItems.createdAt,
         updatedAt: heritageItems.updatedAt,
-        contributionCount: sql<number>`count(${contributions.id})::int`,
+        contributionCount: useFullTextSearch
+          ? sql<number>`(SELECT count(*)::int FROM contributions WHERE contributions.heritage_item_id = ${heritageItems.id})`
+          : sql<number>`count(${contributions.id})::int`,
       })
       .from(heritageItems)
       .leftJoin(contributions, eq(contributions.heritageItemId, heritageItems.id))
