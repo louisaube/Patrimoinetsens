@@ -2589,11 +2589,12 @@
       ]
     },
     {
-      "id": "VI",
-      "title": "Révolution et industrie",
-      "period": "1789 — 1914",
-      "periodLabel": "Époque contemporaine",
+      "id": "VIa",
+      "title": "La Revolution et l'Empire",
+      "period": "1789 --- 1814",
+      "periodLabel": "Revolution",
       "summary": "Au printemps 1789, chaque paroisse du Senonais couche sur le papier ce qui ne va pas. Le vigneron paie tellement de taxes qu'il lui reste 2% de marge. Le sel coute une journee de travail pour huit jours. Les chemins sont des bourbiers. Paron, a cote de Sens, est trop pauvre pour un maitre d'ecole. Mais ces paysans pensent : Fontaine-la-Gaillarde invente la sante publique gratuite, Dixmont raisonne comme un economiste, Foucherolles ecrit un proto-habeas corpus. Pendant ce temps, la ville de Sens se bat contre le libre-echange avec l'Angleterre et revendique d'etre capitale de province. Puis vient la Revolution : les couvents ferment, la guillotine s'installe a Champbertrand, les corps du Dauphin sont traines dans les rues. Et la modernite arrive : le train (1849), le marche couvert (1882), Mallarme au lycee, le phylloxera qui tue les vignes. En un siecle, Sens passe de l'Ancien Regime a la Republique.",
+      "essay": "Au printemps 1789, 60 000 cahiers de doleances remontent vers Versailles. Le bailliage de Sens n'echappe pas a l'exercice. Ce qui frappe a la lecture, c'est la moderation. On est loin du Dauphine, ou des assemblees illegales defient le roi. On est loin de la Bretagne, ou noblesse et tiers etat s'affrontent violemment. A Sens, on ne parle pas de renverser quoi que ce soit. On demande des ajustements. Le ton est celui de paysans qui connaissent leurs chiffres et qui expliquent posement pourquoi ca ne marche plus.\n\nLe fil rouge, c'est l'impot qui empeche de travailler. Le vigneron paie tellement de droits sur son vin qu'il lui reste 2% de marge. La gabelle fixe le sel a 14 sous la livre --- une journee de travail pour huit jours de sel. La dime pese plus lourd que tous les impots royaux reunis.\n\nLa ville de Sens a d'autres soucis. Avec ses 9 tanneries et ses manufactures, c'est un petit pole industriel. Le traite de libre-echange avec l'Angleterre (1786) a inonde la France de textiles anglais moins chers. La mondialisation, en 1789, a deja ses perdants. Autour de la ville, c'est un autre univers : les chemins de Brannay sont des bourbiers, les enfants de Paron grandissent sans ecole, les malades de Villadin n'ont ni bouillon ni medecin.\n\nEt pourtant, ces paysans pensent. Fontaine-la-Gaillarde propose un systeme de sante publique gratuite, deux siecles avant la Securite sociale. Foucherolles redige un texte qui ressemble a un habeas corpus. Subligny exige des seigneurs qu'ils montrent leurs titres. Paron va plus loin : 'Nous ne devons rien au seigneur.'\n\nCe qui distingue le Senonais, au fond, ce n'est ni la revolte ni la resignation. C'est un pragmatisme enracine. Ces gens ne citent pas Rousseau. Ils comptent, ils mesurent, ils comparent. Ce ne sont pas des ideologues : ce sont des praticiens qui ont touche le fond et qui, avec une dignite remarquable, expliquent pourquoi.",
       "color": "#B91C1C",
       "events": [
         {
@@ -3296,7 +3297,17 @@
           ],
           "heritageItemId": null,
           "longText": null
-        },
+        }
+      ]
+    },
+    {
+      "id": "VIb",
+      "title": "Le siecle de l'industrie",
+      "period": "1815 --- 1913",
+      "periodLabel": "XIXe siecle",
+      "summary": "Apres la tourmente revolutionnaire, Sens se reconstruit. Le train arrive en 1849 et change tout. Le marche couvert (1882) remplace l'Hotel-Dieu. Mallarme enseigne au lycee. Le phylloxera tue les vignes. Mimard invente Manufrance. Lucien Cornet modernise la ville pendant 29 ans. La SAS fouille le sous-sol et decouvre des mosaiques romaines. C'est le siecle ou Sens passe de la ville close medievale a la ville ouverte moderne.",
+      "color": "#92400E",
+      "events": [
         {
           "year": 1815,
           "title": "Le roi ne figure pas dans le bréviaire de l’archevêque…De la restauration à Jules Ferry (1815-1880)",
@@ -3898,8 +3909,7 @@
           "heritageItemId": null,
           "longText": null
         }
-      ],
-      "essay": "Au printemps 1789, 60 000 cahiers de doleances remontent vers Versailles. Le bailliage de Sens n'echappe pas a l'exercice. Ce qui frappe a la lecture, c'est la moderation. On est loin du Dauphine, ou des assemblees illegales defient le roi. On est loin de la Bretagne, ou noblesse et tiers etat s'affrontent violemment. A Sens, on ne parle pas de renverser quoi que ce soit. On demande des ajustements. Le ton est celui de paysans qui connaissent leurs chiffres et qui expliquent posement pourquoi ca ne marche plus.\n\nLe fil rouge, c'est l'impot qui empeche de travailler. Le vigneron paie tellement de droits sur son vin qu'il lui reste 2% de marge. La gabelle fixe le sel a 14 sous la livre --- une journee de travail pour huit jours de sel. La dime pese plus lourd que tous les impots royaux reunis.\n\nLa ville de Sens a d'autres soucis. Avec ses 9 tanneries et ses manufactures, c'est un petit pole industriel. Le traite de libre-echange avec l'Angleterre (1786) a inonde la France de textiles anglais moins chers. La mondialisation, en 1789, a deja ses perdants. Autour de la ville, c'est un autre univers : les chemins de Brannay sont des bourbiers, les enfants de Paron grandissent sans ecole, les malades de Villadin n'ont ni bouillon ni medecin.\n\nEt pourtant, ces paysans pensent. Fontaine-la-Gaillarde propose un systeme de sante publique gratuite, deux siecles avant la Securite sociale. Foucherolles redige un texte qui ressemble a un habeas corpus. Subligny exige des seigneurs qu'ils montrent leurs titres. Paron va plus loin : 'Nous ne devons rien au seigneur.'\n\nCe qui distingue le Senonais, au fond, ce n'est ni la revolte ni la resignation. C'est un pragmatisme enracine. Ces gens ne citent pas Rousseau. Ils comptent, ils mesurent, ils comparent. Ce ne sont pas des ideologues : ce sont des praticiens qui ont touche le fond et qui, avec une dignite remarquable, expliquent pourquoi."
+      ]
     },
     {
       "id": "VII",
