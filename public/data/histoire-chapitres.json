@@ -1268,6 +1268,21 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010110.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010110.jpg"
         },
         {
+          "year": 1230,
+          "title": "Les Saint-Phalle de Cudot : de l'empereur de Constantinople a Niki",
+          "text": "Vers 1230, la petite-fille de Pierre de Courtenay, empereur de Constantinople, epouse Andre de Saint-Phalle --- apportant la seigneurie de Cudot (25 km de Sens) dans cette famille de noblesse chevaleresque attestee depuis 1197. Les Saint-Phalle garderont le chateau de Cudot pendant 761 ans, jusqu'en 1991. Sainte Alpais de Cudot (morte en 1211), la mystique qui ne mangeait plus, est liee a cette terre. Sept siecles plus tard, la famille produira Niki de Saint Phalle (1930-2002), l'artiste aux Nanas geantes --- la Senonaise la plus celebre du XXe siecle.",
+          "location": {
+            "lat": 48.08,
+            "lng": 3.12,
+            "label": "Cudot --- chateau des Saint-Phalle"
+          },
+          "sources": [
+            "Wikipedia, Saint-Phalle.",
+            "Gallica, Essai genealogique sur la maison de Saint-Phalle (Gougenot Des Mousseaux)."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1234,
           "title": "Le mariage de Saint Louis",
           "text": "Le 27 mai 1234, le roi Louis IX — vingt ans — épouse Marguerite de Provence — quatorze ans — dans la cathédrale de Sens. Pas à Paris, pas à Reims : à Sens. Parce que l'archevêque de Sens est le supérieur de l'évêque de Paris.",
@@ -1638,6 +1653,21 @@
           "longText": null
         },
         {
+          "year": 1474,
+          "title": "Tristan de Salazar : 45 ans d'archeveche, le transept, et 'l'epi ne te hate pas'",
+          "text": "Tristan de Salazar devient archeveque de Sens en 1474. Il y restera 45 ans --- un record absolu. Fils de Jean de Salazar, 'gentilhomme a la cape trouee, leger d'argent non moins que de scrupules', et de Marguerite de la Tremoille (fille naturelle de Georges de la Tremoille), Tristan est un batisseur : il finance la construction du transept de la cathedrale par l'architecte Martin Chambiges --- les murs de verre qui inondent la nef de lumiere. A 78 ans, il accompagne Louis XII a la prise de Genes. A 80 ans, il assiste au concile de Pise-Milan. Il meurt a 88 ans. Son monument funeraire dans la cathedrale porte l'inscription cryptique 'epi, ne te hate pas' --- ne muris pas trop vite.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Cathedrale --- monument Salazar, transept"
+          },
+          "sources": [
+            "Daguin, G. 'Curiosites de la cathedrale (2).'",
+            "Bulletin SAS, 1880 et 1892 (armoiries Salazar)."
+          ],
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+        },
+        {
           "year": 1493,
           "title": "A partir de 1493, on trouve des traces de cet établissement...",
           "text": "Vers 1493, l'Hôtel de l'Écu apparaît dans les archives sénonaises. Pendant des siècles, ce bâtiment servira de résidence aux administrateurs de l'Hôtel-Dieu. Son histoire illustre comment le patrimoine de Sens se transforme au fil des époques : d'un hospice médiéval naît un lieu de pouvoir.",
@@ -1714,6 +1744,20 @@
           "heritageItemId": "e5555555-0017-0017-0017-000000000017",
           "image": "/images/histoire/sas_1880_jean_cousin.jpg",
           "longText": null
+        },
+        {
+          "year": 1513,
+          "title": "Chateau de Fleurigny : la chapelle attribuee a Jean Cousin",
+          "text": "En 1513, Francois Leclerc acquiert le chateau de Fleurigny (commune de Thorigny-sur-Oreuse), construit sur une ile entouree d'eau. La chapelle Renaissance (1532), a l'extremite est, est attribuee a Jean Cousin --- le grand peintre senonais. Les coffres de la voute presentent des decorations vegetales pendantes d'une qualite exceptionnelle. Le chateau est classe Monument Historique. C'est l'un des rares batiments ou l'on peut peut-etre voir du Jean Cousin architecte, pas seulement peintre.",
+          "location": {
+            "lat": 48.22,
+            "lng": 3.35,
+            "label": "Chateau de Fleurigny --- chapelle Jean Cousin"
+          },
+          "sources": [
+            "Wikipedia, Chateau de Fleurigny."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1525,
@@ -1804,6 +1848,20 @@
           ],
           "heritageItemId": null,
           "longText": "es Gaulois Sénonais ap- paraissent activement les premiers sur la scène du monde. Dans le siècle même oit tout l'Orient s'agite et recueille ses forces comme pour s'apprêter à répandre ses flots de lumière jusqu'aux confins de l'Occident, où Jérusalem renaît, où les Perses impor- tent sur les rives de l'Hellespont, la culture intellectuelle de la haute Asie, où Pisistrate ouvre aux Athéniens la carrière de la poésie et des beaux arts, dans laquelle ils doiventjeter un incom- parable éclat, où une colonie de Phocéens s'établit auxBouches- du-Rhône, où Rome, par l'expulsion des Tarquins, fonde sa future grandeur, les Gaulois Sénonais refluent vers le berceau du genre humain et courent au-devant des foyers de civilisation dont les révélations sont destinées à se résumer, à se continuer sur leur propre territoire."
+        },
+        {
+          "year": 1548,
+          "title": "Chateau de Vallery : le Marechal de France fait venir l'architecte du Louvre",
+          "text": "Le 16 avril 1548, Jacques d'Albon de Saint-Andre, Marechal de France et favori d'Henri II, achete le chateau de Vallery (30 km de Sens). Il le fait reconstruire par Pierre Lescot --- l'architecte du roi, le meme qui reconstruit le Louvre. Facades couvertes de marbre rouge et noir. Jardins Renaissance en seize carres autour d'un bassin. Apres l'assassinat du Marechal en 1562, le chateau passe aux princes de Conde pour deux siecles. Aujourd'hui, on y celebre des mariages --- dans un decor concu pour un roi.",
+          "location": {
+            "lat": 48.16,
+            "lng": 3.08,
+            "label": "Chateau de Vallery --- Lescot/Conde"
+          },
+          "sources": [
+            "Wikipedia, Chateau de Vallery."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1549,
@@ -2285,6 +2343,20 @@
           "heritageItemId": "e5555555-0013-0013-0013-000000000013"
         },
         {
+          "year": 1728,
+          "title": "Le Chevalier d'Eon nait a Tonnerre : l'espion le plus celebre de l'Yonne",
+          "text": "Le 5 octobre 1728, Charles-Genevieve d'Eon de Beaumont nait a Tonnerre (60 km de Sens). Agent secret de Louis XV, il negocie l'alliance avec la Russie, elabore un plan d'invasion de l'Angleterre, et vit les 33 dernieres annees de sa vie en se presentant comme une femme. A sa mort a Londres en 1810, les medecins decouvrent un corps anatomiquement masculin. Le Chevalier (ou la Chevaliere) d'Eon est la personne transgenre la plus celebre de l'histoire de France --- et un(e) enfant de l'Yonne.",
+          "location": {
+            "lat": 47.86,
+            "lng": 3.97,
+            "label": "Tonnerre --- Chevalier d'Eon"
+          },
+          "sources": [
+            "Wikipedia, Chevalier d'Eon."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1742,
           "title": "Le maitre-autel de Servandoni : des colonnes volees a Louis XIV",
           "text": "En 1742, le celebre decorateur italo-francais Servandoni installe le nouveau maitre-autel de la cathedrale, surmonte d'un baldaquin soutenu par quatre colonnes de marbre rouge. Detail savoureux : ces colonnes proviennent du monument a Louis XIV de la Place des Victoires a Paris, demonte quelques annees plus tot. Le baldaquin est inspire de celui de Saint-Pierre de Rome par le Bernin. Sens recycle le prestige royal pour orner sa cathedrale.",
@@ -2482,6 +2554,22 @@
           ],
           "heritageItemId": "e5555555-0013-0013-0013-000000000013",
           "longText": "Enfin, les derniers sont couverts, quelquefois jusqu'aux sommets de leurs plus hautes montagnes, de débris anguleux de roches dont on ne retrouve les analogues que dans les chaînes élevées où les grands fleuves prennent leur source. C'est dans ces contrées géologiques, ou tout au moins proche de ces contrées, que l'on doit rechercher les monuments celtiques en pierre. Ceux de Montaphilan satisfont déjà complétement à cette con- dition. Placés sur la rive droite de l'Orvin, presque à mi-côte d'une montagne, ils sont formés de blocs de grès qui paraissent avoir été choisis parmi les plus grands que l'on ait pu trouver sur les flancs ou sur le sommet de cette montagne où ils sont en grand nombre."
+        },
+        {
+          "year": 1791,
+          "title": "Louis-Hardouin Tarbe : du fils d'imprimeur au ministre du roi",
+          "text": "Louis-Hardouin Tarbe (1753-1806), fils aine des 15 enfants de l'imprimeur Pierre Hardouin Tarbe, devient ministre des Contributions et Revenus publics de Louis XVI du 29 mai 1791 au 24 mars 1792. Un fils d'imprimeur senonais au gouvernement du roi --- en pleine Revolution. Son frere Theodore reprend l'imprimerie et constitue un 'cabinet' extraordinaire : 12 000 volumes, 213 manuscrits, 4 800 autographes, 7 900 monnaies, 325 tableaux. A sa mort en 1848, tout est vendu aux encheres. Le Cours Tarbe a Sens porte le nom de Louis-Hardouin.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Cours Tarbe --- famille d'imprimeurs"
+          },
+          "sources": [
+            "Wikipedia, Louis-Hardouin Tarbe.",
+            "Persee, 'Un cabinet d'amateur : la collection de Theodore Tarbe.'",
+            "Assemblee nationale, fiche depute."
+          ],
+          "heritageItemId": null
         }
       ]
     },
@@ -3498,6 +3586,21 @@
           ],
           "heritageItemId": null,
           "longText": "Dans les annees 1880-1890, un insecte minuscule -- le phylloxera -- detruit le vignoble francais. Le Senonais n'est pas epargne. Avant le phylloxera, les coteaux autour de Sens etaient couverts de vignes. Le vin senonais n'etait pas grand -- c'etait un vin de pays, acide et leger -- mais il faisait vivre des centaines de familles.\n\nLe phylloxera est un puceron americain arrive en France vers 1860 via des plants importes. Il attaque les racines de la vigne europeenne, qui n'a aucune defense contre lui. En quelques annees, des regions entieres sont devastees. Le Senonais perd ses vignes entre 1885 et 1895.\n\nLa solution existe -- greffer les cepages francais sur des porte-greffes americains resistants -- mais elle est couteuse et technique. Les grands domaines bordelais et bourguignons s'en remettent. Les petits vignerons du Senonais, eux, abandonnent. Ils n'ont pas les moyens de replanter.\n\nC'est un tournant economique majeur pour la region. Quand le vignoble disparait, l'economie locale perd un de ses piliers. Les terres a vignes sont converties en cultures cerealieres ou en paturages. Les familles vigneronnes migrent vers les villes ou se reconvertissent. La physionomie du paysage senonais change definitivement.\n\nAujourd'hui, il ne reste presque rien du vignoble senonais. Quelques micro-cuvees confidentielles, quelques toponymes (les Vignes, le Clos) et le souvenir d'un temps ou Sens avait son vin."
+        },
+        {
+          "year": 1891,
+          "title": "Alfred Lorne fonde le musee de Sens : la maison demolie pour l'Hotel de Ville",
+          "text": "En 1891, Alfred Lorne fait une donation qui fonde effectivement le musee municipal de Sens --- collections d'archeologie et d'art rassemblees dans l'ancien Hotel Vezou. La famille Lorne possede aussi une maison au coin de la rue de la Republique et de la place Drapes. En 1899-1900, le conseil municipal vote sa demolition pour construire l'Hotel de Ville actuel (inaugure le 3 avril 1904, style Renaissance francaise). Son pere Clement avait achete en 1832 le domaine de Noslon --- l'ancienne residence d'ete des archeveques, en ruines. Aujourd'hui, les Vergers de Noslon (Vincent Lorne) perpetuent la tradition agricole sur le site archiepiscopal.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Hotel de Ville --- ancien emplacement Lorne"
+          },
+          "sources": [
+            "Wikipedia, Noslon.",
+            "Musees de Sens, historique des collections."
+          ],
+          "heritageItemId": "e5555555-0012-0012-0012-000000000012"
         },
         {
           "year": 1893,
