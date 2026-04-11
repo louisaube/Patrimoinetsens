@@ -30,6 +30,9 @@ tools/scraping/output/gallica-ocr/julliot_pages/
 # Plans Gallica haute résolution (PDFs originaux et extractions)
 public/data/plans/gallica/*.pdf
 
+# ChromaDB (trop lourd pour GitHub, régénérable via build_rag_index.py)
+tools/rag/chroma_db/
+
 # Cache Python
 __pycache__/
 *.pyc
