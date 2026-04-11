@@ -74,6 +74,20 @@
           "image": "/images/histoire/sas_1846_pl2_menhir_diant.jpg"
         },
         {
+          "year": -3000,
+          "title": "Les morts assis en cercle : une sepulture neolithique decouverte a Villemanoche",
+          "text": "Le 12 avril 1875, un carrier nomme Grappin casse une dalle de 3 m sur 2,5 m a Villemanoche, pres de Pont-sur-Yonne. Dessous : une chambre funeraire creusee dans la craie. Les corps sont assis le dos contre les murs, rayonnant vers le centre, cranes penches sur les femurs. Silex tailles, grattoirs, une scie a cinq dents. Le Dr Paul Broca a Paris confirme : crane dolichocephale, Age de la Pierre Polie. 'Une des plus importantes decouvertes de ce genre.' Un vigneron du XIXe siecle ouvre un cercle de morts vieux de 5 000 ans.",
+          "location": {
+            "lat": 48.29,
+            "lng": 3.21,
+            "label": "Villemanoche --- sepulture neolithique"
+          },
+          "sources": [
+            "Bulletin SAS, tome XII, 1880, p. 8-14."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": -1100,
           "title": "Le tresor du bijoutier de Villethierry : 869 bijoux en bronze",
           "text": "En 1969, a Villethierry (10 km de Sens), on decouvre un depot exceptionnel : 869 objets en bronze --- epingles, fibules, bracelets, anneaux, une pince. Ce n'est pas un tresor cache par un riche : c'est le stock d'un artisan bijoutier. Des parures finies, pretes a etre vendues, jamais portees. L'etude des decors revele que cet artisan du Bronze final (vers -1100) utilisait deja le tour --- une technique qu'on croyait plus tardive. Le tresor est visible au musee de Sens.",
@@ -121,6 +135,20 @@
           "heritageItemId": null
         },
         {
+          "year": -200,
+          "title": "1 500 petites roues de bronze gauloises : pas des monnaies, mais des accessoires de ceinture",
+          "text": "Un tresor de 1 500 rouelles (petites roues de bronze) est decouvert pres de Sens. Pendant des annees, on les prend pour de la monnaie gauloise. L'analyse de Perot demontre que ce sont des anneaux de ceinture pour suspendre cles, ciseaux et outils --- exactement comme les femmes russes et lapones portent encore a l'Exposition universelle de Paris en 1867. La vie quotidienne des Gaulois, eclairee par l'ethnographie vivante.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Senonais --- tresor de rouelles gauloises"
+          },
+          "sources": [
+            "Bulletin SAS, tome XII, 1880, p. 75-78."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": -100,
           "title": "242 stateres d'or : le tresor gaulois de Saint-Denis-les-Sens",
           "text": "En 1992, lors des fouilles pour l'autoroute A5, on decouvre a Saint-Denis-les-Sens (3 km de Sens) un tresor de 242 stateres d'or gaulois, tous identiques, pesant environ 7,5 grammes chacun. Ils etaient caches au fond d'un trou de poteau --- dans les fondations d'une maison. C'est le monnayage propre des Senons. Ce tresor temoigne de la richesse de l'aristocratie gauloise locale. Une partie a ete derobee lors d'un vol au musee de Sens --- les Senons continuent de faire parler d'eux.",
@@ -146,20 +174,6 @@
       "summary": "Trois siècles avant notre ère, les Sénons sont le peuple gaulois le plus audacieux — ils marchent sur Rome. Puis les Romains reviennent, et Agedincum devient une vraie ville : forum, thermes, amphithéâtre, aqueduc. Quand les invasions barbares menacent, on construit des remparts avec les pierres des monuments romains. C'est le paradoxe de Sens : on détruit pour survivre.",
       "color": "#8B4513",
       "events": [
-        {
-          "year": -3000,
-          "title": "Les morts assis en cercle : une sepulture de l'age de pierre a Villemanoche",
-          "text": "Le 12 avril 1875, un carrier de Villemanoche (pres de Sens) souleve un rocher de 3 metres et decouvre une sepulture collective de l'age de la pierre polie. Les morts etaient assis en cercle dans une fosse ovale, entoures de couteaux et grattoirs en silex. Envoyes au celebre Dr Broca a Paris, les cranes sont identifies comme parmi les plus anciennes decouvertes de ce type en France. Bien avant les Senons, bien avant les Romains, des hommes vivaient et mouraient ici.",
-          "location": {
-            "lat": 48.21,
-            "lng": 3.25,
-            "label": "Villemanoche --- sepulture neolithique"
-          },
-          "sources": [
-            "Bulletin SAS, vol. XII, 1880, p. 8-14 (decouverte du 12 avril 1875)."
-          ],
-          "heritageItemId": null
-        },
         {
           "year": -390,
           "title": "Brennus prend Rome",
@@ -250,6 +264,20 @@
           "longText": "Pour comprendre l'importance d'Agedincum, il faut imaginer la carte routière de la Gaule romaine. Six voies convergent vers la ville, comme les rayons d'une roue :\n\n1. Vers Lutèce (Paris) au nord-ouest — c'est la route la plus fréquentée, celle par laquelle passent les courriers impériaux.\n2. Vers Autessiodurum (Auxerre) au sud — en suivant la vallée de l'Yonne, axe commercial majeur pour le transport fluvial du bois et du vin.\n3. Vers Augustobona (Troyes) à l'est — vers la Champagne et le Rhin.\n4. Vers Cenabum (Orléans) à l'ouest — la route de la Loire.\n5. Vers Avaricum (Bourges) au sud-ouest — le cœur de la Gaule.\n6. Vers le sud, direction Lyon et la Méditerranée via la Via Agrippa.\n\nCe réseau routier n'est pas un hasard. Les Romains ont systématisé des routes gauloises plus anciennes — les Sénons commerçaient déjà dans toutes les directions avant la conquête. Mais Rome les a pavées, bornées (avec des milliaires tous les mille pas), entretenues et sécurisées.\n\nLe cardo (axe nord-sud) et le decumanus (axe est-ouest) de la ville romaine sont toujours lisibles dans le tracé de la Grande Rue et de la rue de la République. Quand vous marchez dans le centre de Sens aujourd'hui, vous empruntez littéralement des routes tracées il y a deux mille ans.\n\nCette position de carrefour explique toute l'histoire ultérieure de Sens : elle deviendra le siège d'un archevêché primatial précisément parce que le découpage ecclésiastique du IVe siècle reprend le découpage administratif romain — et Agedincum est déjà la capitale de la province."
         },
         {
+          "year": 50,
+          "title": "Sens avait son propre autel a Auguste : le monument Thermianus le prouve",
+          "text": "L'epigraphiste Julliot reconstitue un monument funeraire monumental : celui de Sextus Julius Thermianus, pretre a l'autel des Trois Gaules a Lyon ET flamine augustal a Sens. Cette double pretrise prouve que Sens possedait son propre temple ou autel dedie a l'empereur divinise. Julliot avance une these frappante : 'Nos archeveques chretiens sont les successeurs des flamines paiens' --- chaque flamine augustal d'une capitale provinciale a ete remplace par un archeveque dans la meme ville.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.285,
+            "label": "Sens --- autel d'Auguste, monument Thermianus"
+          },
+          "sources": [
+            "Bulletin SAS, tome XII, 1880, p. 22-42."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 100,
           "title": "Agedincum, troisieme ville de la IVe Lyonnaise",
           "text": "Sous l'Empire romain, Agedincum est la capitale de la Civitas Senonum et l'une des principales villes de la province de la IVe Lyonnaise. La ville s'etend bien au-dela des futurs remparts du IIIe siècle. Les thermes publics, un amphitheatre (dont les vestiges sont dans le sous-sol du quartier est), un forum et des temples font d'Agedincum une vraie ville romaine. La population est estimee à 5 000-10 000 habitants --- considerable pour l'epoque. Ce decoupage en 'IVe Lyonnaise' determinera les limites de la future province ecclesiastique de Sens.",
@@ -313,6 +341,20 @@
           "heritageItemId": null
         },
         {
+          "year": 100,
+          "title": "Une chaussee romaine a 2,50 m sous la Place Drapes : le sol de Sens a monte de 3 metres",
+          "text": "Vers 1860, en creusant des fondations a l'angle de la Place Drapes, des ouvriers tombent sur une chaussee romaine a 2,50 m de profondeur. Sept voies romaines rayonnaient depuis Sens, convergeant au bout de la rue Saint-Martin sur la rive gauche. Cette decouverte prouve que le sol de la vallee de l'Yonne s'est eleve de pres de 3 metres depuis l'Antiquite : la Sens romaine git ensevelie sous la Sens moderne.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Place Drapes --- chaussee romaine a -2,50 m"
+          },
+          "sources": [
+            "Bulletin SAS, tome VIII, 1863, p. 5."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 150,
           "title": "Un aqueduc de 16 km pour alimenter Agedincum",
           "text": "Au IIe siècle, les Romains construisent un aqueduc de 16 kilometres pour amener l'eau de source depuis la vallee de la Vanne jusqu'a Agedincum. La ville du Haut-Empire s'etend sur 125 hectares --- cinq fois la surface qu'elle occupera au Moyen Age. Elle possede des thermes publics (dont une facade est reconstituee au musee de Sens), un amphitheatre, un forum et au moins 40 steles funeraires sculptees. La Via Agrippa, l'axe majeur Lyon-Boulogne, traverse la ville du nord au sud.",
@@ -328,6 +370,20 @@
           ],
           "heritageItemId": "e5555555-0050-0050-0050-000000000050",
           "longText": "L'aqueduc d'Agedincum est un ouvrage d'ingénierie remarquable. Long de 16 kilomètres, il captait des sources dans la vallée de la Vanne — la même rivière qui alimente encore aujourd'hui une partie de l'eau potable de Paris (via l'aqueduc de la Vanne, construit par Haussmann en 1874).\n\nL'aqueduc romain fonctionnait par gravité : l'eau coulait dans un canal couvert, en pente douce, depuis les sources jusqu'à la ville. Il alimentait les thermes publics — le cœur de la vie sociale romaine. Se baigner n'était pas un luxe mais une habitude quotidienne. Les thermes d'Agedincum comprenaient des salles chaudes (caldarium), tièdes (tepidarium) et froides (frigidarium), chauffées par un système de sol chauffant (hypocauste).\n\nLa ville du Haut-Empire, avec ses 125 hectares, représente cinq fois la surface de la ville médiévale. C'est une vraie ville romaine, avec :\n- Un forum (place publique avec basilique, curie et temple) de 210 m × 120 m\n- Des thermes publics dont une façade est reconstituée au musée de Sens\n- Un amphithéâtre (dans le faubourg Saint-Savinien)\n- Au moins 40 stèles funéraires sculptées, témoins d'une population diverse\n\nLes 40 stèles retrouvées à Sens sont particulièrement intéressantes. Elles représentent des artisans — un forgeron avec son marteau, un tonnelier avec ses cerceaux, une fileuse avec son fuseau. Pas des aristocrates : des gens ordinaires, assez prospères pour se payer une pierre tombale sculptée. C'est la classe moyenne gallo-romaine."
+        },
+        {
+          "year": 150,
+          "title": "Un pretre senonais au sommet du culte imperial de Lyon",
+          "text": "Une inscription romaine reconstituee piece par piece revele Marcus Magilius Honoratus, pretre senonais officiant a l'autel des Trois Gaules a Lyon --- le centre du culte imperial. Un fragment trouve en 1872 dans le mur d'enceinte pres de la Porte Dauphine ('OS FVNCTO FRATRI') permet de comprendre que M. Aemilius Nobilius etait son frere. Il manque encore des pierres sur 2,23 m pour completer le puzzle. Un Senonais au sommet de la hierarchie religieuse de la Gaule romaine.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.285,
+            "label": "Porte Dauphine --- inscription Magilius"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 150-151."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 180,
@@ -405,6 +461,34 @@
             "Bulletin SAS, vol. XI, 1877, p. 150-151 (identification Julliot)."
           ],
           "heritageItemId": "e5555555-0014-0014-0014-000000000014"
+        },
+        {
+          "year": 200,
+          "title": "Le chemin de fer deterre 150 squelettes gallo-romains (decouverte 1872)",
+          "text": "En 1872, les travaux de la ligne Orleans-Chalons, au pied de Saint-Martin-du-Tertre, mettent au jour un cimetiere gallo-romain : 150 squelettes, des vases de toutes formes, des lampes. La Societe Archeologique n'est prevenue que trop tard pour constater l'etat des sepultures --- les terrassiers du chemin de fer ont tout bouleverse. Perte scientifique irreparable, symptomatique du XIXe siecle : on construit plus vite qu'on ne fouille.",
+          "location": {
+            "lat": 48.21,
+            "lng": 3.29,
+            "label": "Saint-Martin-du-Tertre --- necropole"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 161-163."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 200,
+          "title": "Mosaique romaine aux deux cerfs decouverte sous la Grande-Rue (1876)",
+          "text": "En novembre 1876, un ouvrier creusant une fosse au 202 Grande-Rue tombe sur une mosaique a 1,60 m de profondeur. Deux cerfs se font face, broutant les feuilles d'un vase elegant, entoures de frises de vigne, de grecques et de torsades en marbre rouge, jaune, noir et blanc. C'est la septieme mosaique decouverte sous Sens, confirmant la richesse de la ville gallo-romaine. Le proprietaire veut l'arracher pour l'envoyer chez son petit-fils a la campagne --- Julliot ne peut que 'regretter'.",
+          "location": {
+            "lat": 48.1975,
+            "lng": 3.284,
+            "label": "202 Grande-Rue --- mosaique aux cerfs"
+          },
+          "sources": [
+            "Bulletin SAS, tome XII, 1880, p. 225-234."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 250,
@@ -543,20 +627,6 @@
           "heritageItemId": null,
           "longText": "Sous les rues de Sens se cache une ville romaine complète. Pendant quatre siècles — du Ier au IVe siècle de notre ère — Agedincum a été une vraie ville romaine, avec tous les équipements d'une cité de l'Empire.\n\nLe forum se trouvait à l'emplacement actuel de la cathédrale et du palais archiépiscopal — un ensemble monumental de 210 mètres sur 120 mètres, avec une place à portiques, une basilique (tribunal), un temple et des boutiques. C'était le cœur politique, judiciaire et commercial de la ville.\n\nLes thermes publics étaient alimentés par un aqueduc de 16 km captant les sources de la Vanne. Un amphithéâtre accueillait les spectacles dans le faubourg Saint-Savinien. Des domus (maisons de notables) avec mosaïques et chauffage par le sol s'étendaient dans les faubourgs.\n\nMais cette prospérité a une fin brutale. Vers 270, les invasions germaniques forcent les habitants à construire en urgence une enceinte massive — l'Amande — en recyclant les pierres des monuments. La ville passe de 125 hectares à 25. Tout ce qui était hors les murs est abandonné.\n\nCe passé romain est la fondation invisible de Sens. Le tracé des rues, la forme de la ville, la position du pouvoir religieux (l'archevêché reprend le siège de la province romaine) — tout vient de là. Gérard Daguin, journaliste sénonais mort en 2018, a consacré des dizaines d'articles à documenter ce passé sur son site histoire-sens-senonais-yonne.com, devenu une archive irremplaçable de l'histoire locale.",
           "image": "/images/histoire/sas_1846_pl4_remparts_gallo.jpg"
-        },
-        {
-          "year": 613,
-          "title": "Pons Syriacus : le pont des marchands syriens",
-          "text": "En 613, Pont-sur-Yonne s'appelle 'Pons Syriacus' --- le pont des Syriens. Ces marchands orientaux, installes en Gaule depuis l'Antiquite tardive, dominaient le commerce international. Leur nom colle au pont pendant des siecles. En 1175, le Chapitre de Sens fait construire un pont en dur qui ruine les bateliers et leur bac. En 1214, on installe des moulins sous les arches. En 1420, les Anglais detruisent les fortifications.",
-          "location": {
-            "lat": 48.17,
-            "lng": 3.25,
-            "label": "Pont-sur-Yonne --- Pons Syriacus"
-          },
-          "sources": [
-            "Bulletin SAS, vol. XI, 1877, p. 141-143."
-          ],
-          "heritageItemId": null
         }
       ]
     },
@@ -676,6 +746,34 @@
           "heritageItemId": null
         },
         {
+          "year": 613,
+          "title": "Pont-sur-Yonne, le 'Pont Syrien' : une colonie de marchands orientaux sur l'Yonne",
+          "text": "Le nom latin de Pont-sur-Yonne, 'Pons Syriacus', suggere qu'une colonie de marchands syriens s'y etait installee. Au VIe-VIIe siecle, les Syri (marchands orientaux, souvent juifs ou chretiens de Syrie) sont les principaux negociants de la Gaule merovingienne. Ils controlent le commerce du vin, des epices et des tissus precieux. Un pont commercial syrien sur l'Yonne, en amont de Sens, confirme l'importance de la route fluviale senonaise dans le commerce international du Haut Moyen Age.",
+          "location": {
+            "lat": 48.287,
+            "lng": 3.23,
+            "label": "Pont-sur-Yonne --- Pons Syriacus"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 141."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 613,
+          "title": "Pons Syriacus : le pont des marchands syriens",
+          "text": "En 613, Pont-sur-Yonne s'appelle 'Pons Syriacus' --- le pont des Syriens. Ces marchands orientaux, installes en Gaule depuis l'Antiquite tardive, dominaient le commerce international. Leur nom colle au pont pendant des siecles. En 1175, le Chapitre de Sens fait construire un pont en dur qui ruine les bateliers et leur bac. En 1214, on installe des moulins sous les arches. En 1420, les Anglais detruisent les fortifications.",
+          "location": {
+            "lat": 48.17,
+            "lng": 3.25,
+            "label": "Pont-sur-Yonne --- Pons Syriacus"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XI, 1877, p. 141-143."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 650,
           "title": "Le suaire de Sainte-Colombe : une etoffe de 1 400 ans dans le tresor",
           "text": "Dans la chasse de sainte Colombe, on conserve un suaire dont la fabrication est attribuee a saint Eloi --- le grand orfevre du roi Dagobert. Le tissu remonterait au VIIe ou IXe siecle. C'est l'une des pieces les plus anciennes du tresor de la cathedrale de Sens. En 1851, M. Brullee presente les dessins de ce suaire a la Societe Archeologique. C'est un fragment textile qui a traverse treize siecles dans un coffre de bois --- un miracle de conservation.",
@@ -716,6 +814,20 @@
           },
           "sources": [
             "Wikipedia, Liste des eveques et archeveques de Sens."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
+          "year": 708,
+          "title": "Les suaires de la cathedrale : des tissus romains du IVe siecle enveloppent des saints",
+          "text": "Le tresor de la cathedrale conserve des suaires enveloppant les reliques des saints. Celui des Saints Innocents, rapporte de Jerusalem par l'eveque Ursicin (exile en Phrygie avec saint Hilaire de Poitiers au IVe siecle), montre encore des medaillons et des motifs 'tete de clou' typiques du tissu imperial romain. Celui de saint Victor, soldat de la Legion thebaine massacre sous Maximien, represente un soldat devore par deux lions --- imagerie faite pour un legionnaire martyr. L'eveque Vilquier rapporte ces reliques d'Agaune vers 708. Ce sont les plus anciens textiles de Sens.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Tresor de la cathedrale --- suaires antiques"
+          },
+          "sources": [
+            "Bulletin SAS, tome VI, 1858, p. 9-11."
           ],
           "heritageItemId": "e5555555-0013-0013-0013-000000000013"
         },
@@ -918,6 +1030,20 @@
             "Wikipedia, Liste des comtes et vicomtes de Sens."
           ],
           "heritageItemId": null
+        },
+        {
+          "year": 1643,
+          "title": "Le corps de sainte Theodechilde, fille de Clovis, retrouve dans un cercueil de plomb",
+          "text": "Le 16 octobre 1643, l'archeveque Bellegarde fait ouvrir les fouilles sous le grand autel de Saint-Pierre-le-Vif. On decouvre une caisse de plomb contenant le corps de sainte Theodechilde, fille de Clovis Ier et fondatrice de l'abbaye. La princesse merovingienne, morte vers 570, avait ete ensevelie dans l'eglise qu'elle avait fondee. Mille ans apres, on la retrouve.",
+          "location": {
+            "lat": 48.191,
+            "lng": 3.283,
+            "label": "Saint-Pierre-le-Vif --- tombeau Theodechilde"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 121."
+          ],
+          "heritageItemId": "e5555555-0034-0034-0034-000000000034"
         }
       ]
     },
@@ -960,6 +1086,20 @@
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010100.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010100.jpg"
+        },
+        {
+          "year": 1020,
+          "title": "Le roi Robert le Pieux finance en or la plus belle chasse de Sens",
+          "text": "Vers 1020, le moine Odoranne de Saint-Pierre-le-Vif --- chroniqueur, artiste et musicien --- fabrique une chasse extraordinaire pour saint Savinien. Le roi Robert le Pieux fournit 4 livres et 107 sous d'argent, plus 8 onces d'or. La face anterieure, entierement en or, est ornee de pierres precieuses et d'agates 'hors de prix' --- dont une portant l'image de Constantin, une autre celle du roi Robert. La face posterieure, en argent, represente le martyre de saint Savinien en demi-relief. Chef-d'oeuvre d'orfevrerie du XIe siecle, disparu depuis.",
+          "location": {
+            "lat": 48.191,
+            "lng": 3.283,
+            "label": "Saint-Pierre-le-Vif --- chasse d'Odoranne"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 136-137."
+          ],
+          "heritageItemId": "e5555555-0034-0034-0034-000000000034"
         },
         {
           "year": 1066,
@@ -1137,6 +1277,20 @@
           "longText": "En 1151, Mathilde de Carinthie, veuve du puissant comte Thibaud IV de Champagne, fonde une abbaye bénédictine dans la vallée de l'Oreuse, à quelques kilomètres au sud-est de Sens. Le lieu s'appelle la Pommeraie — un nom qui évoque les vergers de pommiers qui bordent la rivière.\n\nMathilde n'est pas n'importe qui. Son mari Thibaud était l'un des seigneurs les plus puissants de France, comte de Champagne et de Brie, rival du roi Louis VII. En fondant cette abbaye, Mathilde assure le salut de l'âme de son époux — et affirme la puissance de sa famille dans la région de Sens.\n\nLe détail le plus surprenant de cette fondation, c'est le nom qui apparaît sur la charte de confirmation : Héloïse. Oui, l'Héloïse d'Abélard. En 1151, Héloïse est abbesse du Paraclet, le monastère fondé par Abélard près de Nogent-sur-Seine. Elle a alors environ soixante-dix ans. Elle confirme la fondation de Mathilde en tant qu'autorité monastique de la région.\n\nCette signature connecte la Pommeraie à l'une des plus célèbres histoires d'amour du Moyen Âge. Abélard est mort en 1142, condamné au concile de Sens. Héloïse lui survit vingt-deux ans, dirigeant le Paraclet avec une compétence reconnue de tous.\n\nLes bénédictines de la Pommeraie vivront dans leur vallée pendant près de cinq siècles, jusqu'en 1629, quand elles s'installeront à Sens dans le faubourg Saint-Antoine — où leur église deviendra Notre-Dame de la Providence.\n\nLa fondation de la Pommeraie illustre le réseau monastique dense qui entoure Sens au XIIe siècle : Saint-Pierre-le-Vif, Sainte-Colombe, le Paraclet, la Pommeraie — autant de centres de prière, de culture et de pouvoir économique."
         },
         {
+          "year": 1155,
+          "title": "'Le battu paie l'amende' : un proverbe ne dans le bailliage de Sens",
+          "text": "Le proverbe 'le battu paie l'amende' vient des Coutumes de Lorris, qui relevent du bailliage de Sens. La charte de Louis VII (vers 1155) prevoit que lors d'un duel judiciaire ('gages de bataille'), le perdant --- vaincu donc presume coupable par le 'jugement de Dieu' --- paie non seulement les dommages mais aussi l'amende pour 'folle enchere'. Le battu paie toujours. Le dicton a survecu a l'abolition du duel judiciaire pour devenir un proverbe sur la malchance des plaignants.",
+          "location": {
+            "lat": 48.1968,
+            "lng": 3.285,
+            "label": "Bailliage de Sens --- Coutumes de Lorris"
+          },
+          "sources": [
+            "Bulletin SAS, tome VI, 1858, p. 52-57."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1163,
           "title": "Le pape habite à Sens",
           "text": "En 1163, le pape Alexandre III fuit Rome — l'empereur Frédéric Barberousse le menace. Où va-t-il ? À Sens. Pendant deux ans, le chef de l'Église catholique vit dans cette petite ville de l'Yonne. Les ambassadeurs de toute l'Europe viennent ici, pas à Rome. C'est lui qui consacre le chœur de la cathédrale en 1164.",
@@ -1207,6 +1361,20 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Becket_liturgical_garments_Sens_Cathedral.jpg/500px-Becket_liturgical_garments_Sens_Cathedral.jpg"
         },
         {
+          "year": 1176,
+          "title": "Personne ne peut ouvrir une ecole a Sens sans la permission du prechantre",
+          "text": "Une charte de l'archeveque Guillaume de Champagne (vers 1176) confirme que nul ne peut ouvrir une ecole de grammaire, de chant ou de psautier a Sens sans la licence du prechantre de la cathedrale. Ce monopole s'etend a Joigny, Courtenay, Montereau, Bray et Pont-sur-Yonne --- tout le diocese. L'Eglise controle l'education, et le prechantre est le recteur de fait d'une academie qui couvre la moitie de l'Yonne actuelle.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Cathedrale --- monopole scolaire"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 203-204."
+          ],
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+        },
+        {
           "year": 1180,
           "title": "Les foires de Sens face aux géantes de Champagne",
           "text": "Pourquoi Sens n'est-elle pas devenue Troyes ou Provins ? Parce que les grandes foires de Champagne (Troyes, Provins, Lagny, Bar-sur-Aube) attirent les marchands italiens, flamands et allemands à l'échelle européenne — Sens reste une foire régionale. La ville à pourtant deux places de foire : le Vieux marché hors les murs au nord, et le Marchereau au sud. Les marchés hebdomadaires sont très actifs — halles au blé, aux pains, boucheries. Mais tout est dédoublé à cause de la rivalité Commune vs Chapitre : chacun veut contrôler le commerce sur \"son\" territoire. Cette querelle permanente freine le développement commercial de la ville.",
@@ -1252,6 +1420,34 @@
           "heritageItemId": null
         },
         {
+          "year": 1200,
+          "title": "L'Office des Fous de Sens : Pierre de Corbeil n'a rien compose, il a rapporte de Rome",
+          "text": "Le celebre manuscrit de la 'Fete des Fous' conserve a Sens, avec la 'Prose de l'Ane', est attribue depuis des siecles a l'archeveque Pierre de Corbeil (mort en 1222). L'analyse musicale du bulletin SAS demontre que c'est faux : les melodies tournent timidement autour de la tonique dans un intervalle de quarte ou de quinte, et utilisent la notation 'a six points' --- bien anterieure a Guido d'Arezzo (XIe siecle). Corbeil n'a pas compose l'office : il l'a rapporte de Rome et institue dans son diocese. Sens conserve la musique, pas l'auteur.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Cathedrale --- Office des Fous"
+          },
+          "sources": [
+            "Bulletin SAS, tome VI, 1858, p. 58-70."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
+          "year": 1208,
+          "title": "Garnier des Pres fonde un hopital pour les pelerins des croisades",
+          "text": "Vers 1208, un riche bourgeois de Sens nomme Garnier des Pres fonde le Petit Hotel-Dieu, destine aux pelerins malades revenant de Terre Sainte. Il dote l'hopital de vignes pres d'Auxerre, d'une chapelle Saint-Jacques et d'un cimetiere. Surtout, il cache un tresor d'or et d'argent dans un pilier, avec un billet : 'Si l'hopital est detruit, cet argent servira a le rebatir.' Prevoyance inutile : en 1358, quand le regent fait demolir les batiments hors les murs, le gouverneur militaire confisque le tresor pour la guerre. Le fondateur avait prevu la catastrophe --- pas le vol.",
+          "location": {
+            "lat": 48.196,
+            "lng": 3.2815,
+            "label": "Petit Hotel-Dieu --- tresor de Garnier des Pres"
+          },
+          "sources": [
+            "Bulletin SAS, tome VI, 1858, p. 25-28."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1220,
           "title": "Quand Paris prend le dessus sur Sens",
           "text": "Pendant des siecles, l'évêque de Paris est un subordonné de l'archevêque de Sens. Paris fait partie de la province ecclesiastique de Sens — avec Chartres, Orleans, Auxerre, Meaux, Troyes et Nevers. Mais au XIIIe siècle, Paris grandit, devient capitale du royaume, et l'évêque de Paris supporte de moins en moins cette tutelle. En 1622, Paris sera finalement erigee en archeveche autonome. Sens perd sa province la plus riche. C'est le debut d'un long declin : la ville qui commandait à Paris devient une sous-prefecture.",
@@ -1280,6 +1476,20 @@
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010110.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010110.jpg"
+        },
+        {
+          "year": 1223,
+          "title": "Mathilde de Courtenay, 'la Grande' : une femme gouverne seule et libere les serfs",
+          "text": "A la mort du comte Herve en 1222, Mathilde de Courtenay, veuve avec une jeune fille, gouverne seule les vastes comtes d'Auxerre et de Tonnerre. Sa sagesse et sa generosite lui valent le surnom de 'Mathilde-la-Grande'. Le 1er aout 1223, depuis Ligny, elle promulgue une charte liberant tous les serfs restants d'Auxerre. Exemple rare de gouvernance feminine autonome dans la France du XIIIe siecle.",
+          "location": {
+            "lat": 47.9,
+            "lng": 3.75,
+            "label": "Ligny-le-Chatel --- Mathilde la Grande"
+          },
+          "sources": [
+            "Bulletin SAS, tome VIII, 1863, p. 158."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1230,
@@ -1343,6 +1553,20 @@
           "heritageItemId": "e5555555-0001-0001-0001-000000000001"
         },
         {
+          "year": 1234,
+          "title": "Le mariage de Saint Louis a Sens : troubadours, deux cuilleres d'or et 20 000 ecus",
+          "text": "Le 26 mai 1234, Louis IX epouse Marguerite de Provence dans la cathedrale de Sens. Le cortege : le maire, les 12 Pairs et 28 Jures de la Commune sur des mules, l'archeveque Gaultier Cornu, des troubadours provencaux, la reine en robe de soie et or brodee de fleurs de lys. Au banquet, un luxe inouï : deux cuilleres et une coupe en or. La dot est de 20 000 ecus (2,3 millions de francs de 1863), dont un cinquieme seulement sera jamais paye.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Cathedrale --- mariage de Saint Louis"
+          },
+          "sources": [
+            "Bulletin SAS, tome VIII, 1863, p. 287-294."
+          ],
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+        },
+        {
           "year": 1239,
           "title": "La Sainte Couronne d'epines passe par Sens",
           "text": "En 1239, l'archevêque Gauthier Cornut (le meme qui fait construire le palais synodal) accueille à Sens la Sainte Couronne d'epines, rachetee à l'empereur de Constantinople par le roi Louis IX. La relique fait etape à Sens avant d'etre transferee à la Sainte-Chapelle de Paris, construite specialement pour l'abriter. Gauthier Cornut est un batisseur : le palais synodal qu'il edifie est une salle gothique de 500 m2 et 12 metres sous plafond, avec un tribunal ecclesiastique au rez-de-chaussee et des cachots pour les prisonniers.",
@@ -1402,6 +1626,20 @@
             "Bulletin SAS, vol. II, 1851, p. 65 (document finances medievales)."
           ],
           "heritageItemId": null
+        },
+        {
+          "year": 1250,
+          "title": "La reine Marguerite, mariee a Sens, sauve la croisade depuis son lit d'accouchee",
+          "text": "Pendant la captivite de Saint Louis en Egypte, sa femme Marguerite de Provence --- mariee a Sens en 1234 --- vient d'accoucher a Damiette. Elle apprend que les marins pisans et genois veulent fuir en abandonnant le roi prisonnier. Depuis son lit, elle fait acheter toute la nourriture disponible et nourrit la garnison entiere aux frais du roi. Son courage empeche l'effondrement de la croisade. Elle nomme son nouveau-ne 'Tristan' (tristesse) car il est ne dans le chagrin.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Cathedrale --- souvenir de Marguerite de Provence"
+          },
+          "sources": [
+            "Bulletin SAS, tome VIII, 1863, p. 298."
+          ],
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
         },
         {
           "year": 1252,
@@ -1554,6 +1792,20 @@
           "longText": "MGR DE BELSUNCE HT AUTRES DOCUMENTS CONCERNANT LA PESTE DE MARSEILLE Sous le titre de Recueil sur la Constitution, la bibliothèque t!e la ville de Sens possède une collection d'imprimés et de manuscrits concernant la Bulle (Jnigenitus recueillis par Mon- seigneur Jean-Joseph Languet de la Villeneuve de Gergy, d'abord évêque de Soissons, puis archevêque de Sens, mort le 1 mai 1753 après 38 ans d'un glorieux apostolat. Cette collection, qui ne comprend pas moins de cinquante-deux vo- lumes in 4°, fut reléguée longtemps sur de poudreux rayons; elle effraie au premier abord par son titre et son aspect, mais si l'on ouvre un de ces respectables volumes et si l'on parcourt avec quelque attention les mandements, les mémoires, les procès-verbaux, les journaux et surtout les correspondances la plupart autographes qu'il renferme, on ne tarde pas à"
         },
         {
+          "year": 1359,
+          "title": "Les Grandes Compagnies exigent 26 000 moutons d'or : Ligny ranconnee jusqu'a l'os",
+          "text": "Apres la bataille de Poitiers (1356), des bandes de routiers envahissent le Senonais et se fortifient a Saint-Florentin. Les habitants de Ligny sont massacres, fuient ou meurent de faim dans des souterrains. Les survivants doivent payer 26 000 moutons d'or pour obtenir le depart des brigands. Dix-neuf chevaliers se portent garants, quatre se livrent en otages. Le traite prevoit un sauf-conduit jusqu'a Nogent-le-Rotrou.",
+          "location": {
+            "lat": 47.9,
+            "lng": 3.75,
+            "label": "Ligny-le-Chatel --- rancon des Grandes Compagnies"
+          },
+          "sources": [
+            "Bulletin SAS, tome VIII, 1863, p. 191-195."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1367,
           "title": "200 ans de moulins reves mais jamais construits",
           "text": "En 1367, Charles V autorise Sens a construire des moulins sur l'Yonne. Mais la ville n'a jamais les moyens --- guerres, travaux de remparts. En 1374, on batit une tour avec pont-levis sur le Grand-Pont pour proteger les 'futurs moulins'. En 1416, faute de mieux, on installe un moulin a cheval en plein centre-ville, actionne par deux chevaux, qui donne la farine d'une mine de froment par heure. En 1546, Francois Ier renouvelle la permission. Les moulins ne furent jamais batis. Deux siecles de permis pour rien.",
@@ -1581,6 +1833,20 @@
           ],
           "heritageItemId": "e5555555-0014-0014-0014-000000000014",
           "longText": "Au milieu du XIVe siècle, la France est en pleine guerre de Cent Ans. Les armées anglaises ravagent le nord du pays. Les Grandes Compagnies — ces bandes de mercenaires démobilisés qui vivent de pillage — terrorisent les campagnes. Il faut protéger les villes.\n\nSur ordre de Charles V, on renforce les défenses de Sens. L'enceinte gallo-romaine du IIIe siècle, déjà renforcée au Moyen Âge, est complétée par un système de fossés profonds remplis d'eau, alimentés par les bras de l'Yonne et de la Vanne.\n\nLa ville est désormais protégée par des murs de huit mètres de haut, des tours de flanquement, des portes infranchissables (avec pont-levis, herse et barbacane) et des fossés larges de 15 à 20 mètres. C'est une forteresse.\n\nVivre dans une ville fortifiée a des conséquences sur la vie quotidienne. L'espace est compté : impossible de s'étendre au-delà des murs. Les maisons sont construites en hauteur, serrées les unes contre les autres. Les rues sont étroites — à peine assez larges pour un chariot. L'hygiène est précaire : les fossés servent aussi d'égouts.\n\nMais la sécurité a un prix que les habitants acceptent. Quand les Grandes Compagnies approchent, les paysans des faubourgs se réfugient dans l'amande. Les portes sont fermées. Les guetteurs surveillent depuis les tours. Sens, avec ses remparts et ses fossés, est pratiquement imprenable.\n\nCes fortifications dureront quatre siècles. Les fossés ne seront comblés qu'en 1758, les remparts démolis progressivement au XIXe siècle. Aujourd'hui, les boulevards qui ceinturent le centre-ville suivent exactement le tracé des anciens fossés de Charles V."
+        },
+        {
+          "year": 1371,
+          "title": "Yolande de Flandre : la comtesse qui emprisonne son fils et finit dans la Grosse-Tour de Sens",
+          "text": "Yolande de Flandre, comtesse de Bar et d'Auxerre, a fait emprisonner son propre fils Robert de 29 ans (marie a Marie de France, fille de Jean le Bon). Charles V la fait arreter le 25 avril 1371 et enfermer 15 mois dans la Grosse-Tour de Sens. Elle s'evade du Temple a Paris en septembre 1372, est rattrapee, et ne retrouve la liberte qu'en octobre 1373 apres avoir supplie le roi. En 1394, vieille et repentante, elle fonde une chapelle Sainte-Anne 'en supreme reparation des fautes de sa longue vie'.",
+          "location": {
+            "lat": 48.1975,
+            "lng": 3.284,
+            "label": "Grosse-Tour --- Yolande de Flandre prisonniere"
+          },
+          "sources": [
+            "Bulletin SAS, tome XII, 1880, p. 61-69."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1400,
@@ -1817,6 +2083,20 @@
           "heritageItemId": "e5555555-0013-0013-0013-000000000013"
         },
         {
+          "year": 1527,
+          "title": "Le seigneur de Ligny attaque l'abbaye de Pontigny avec 300 hommes armes",
+          "text": "Jean de la Baume, vicomte de Ligny, furieux que Pontigny refuse de le reconnaitre comme protecteur, rassemble 300 hommes armes, force les portes du monastere et le pille. Ses hommes demolissent le barrage pour couper l'eau. Apres six ans de proces de Sens a Paris, le Parlement le condamne : 2 000 livres d'amende au roi, 1 000 livres aux moines, 1 000 livres pour de nouveaux ornements d'eglise. Un seigneur qui detruit ce qu'il pretendait proteger.",
+          "location": {
+            "lat": 47.91,
+            "lng": 3.72,
+            "label": "Pontigny --- attaque du vicomte de Ligny"
+          },
+          "sources": [
+            "Bulletin SAS, tome VIII, 1863, p. 225-229."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1536,
           "title": "la longue marche de l’église réformée à Sens",
           "text": "À partir de 1536, la Réforme protestante gagne Sens. Calvin publie l'Institution chrétienne, le concile de Trente réaffirme le dogme catholique, et la tension monte. Sens, ville de l'archevêque, devient un terrain d'affrontement religieux qui culminera dans le massacre de 1562.",
@@ -1846,6 +2126,20 @@
           "heritageItemId": "e5555555-0024-0024-0024-000000000024",
           "longText": "Une notice de M. Chanoine décrit deux Dolmens à Trancault, non loin de Nogent-sur-Seine (voir ci-après la légende et le dessin. ) Une notice de M. Vignon signale le Menhir ou pierre levée de Diant (voir ci-après la légende et le dessin) et cette même pierre de Diant et les monuments celtiques en général ont donné lieu à un mémoire par M. Prou (voir ci-après). Mais il n'est aucun habitant de Sens et des environs qui n'ait sous les yeux un vestige présumé des temps celtiques, plus apparent que ceux qui viennent d'être rappelés ce sont les mamelons, connus sous le nom de tombelles, qui dominent le coteau de Saint-Martin. Sur la proposition de M. Prou, tendant à y faire des fouilles, la Société a décidé qu'elle se mettrait en rapport avec M. le maire de Saint-Martin-du-Tertre, et M.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010183.jpg"
+        },
+        {
+          "year": 1537,
+          "title": "Philippe Hodoard, 80 ans, fonde le college de Sens avec ses propres deniers",
+          "text": "Le 12 juin 1537, Philippe Hodoard, chanoine et grand penitencier de la cathedrale, fonde a 80 ans un college 'pour jeunes et petis enffans estudians en la ville de Sens'. La ville est si pauvre apres les guerres du XVe siecle que les maitres d'ecole ont deserte, faute de pouvoir payer leur loyer. Le college, rue de la Parcheminerie (actuelle rue Thenard), deviendra le lycee actuel. Un vieil homme de 80 ans plante le grain de seneve qui donnera un arbre.",
+          "location": {
+            "lat": 48.1985,
+            "lng": 3.287,
+            "label": "Rue Thenard --- college Hodoard"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 166-195."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1540,
@@ -1986,6 +2280,34 @@
           "heritageItemId": null
         },
         {
+          "year": 1552,
+          "title": "Francois Girault installe la premiere presse a imprimer de Sens",
+          "text": "En 1552, Francois Girault installe la premiere imprimerie de Sens, pres de la chapelle du grand Hotel-Dieu. Sa premiere publication : un antiphonaire commande par le cardinal Louis de Bourbon, corrige par le chantre Jehan Cousin (homonyme du peintre). Les livres se vendent chez Jehan de la Mare, Grande-Rue, 'a l'enseigne de l'Aigle d'or'. Trois siecles d'imprimeurs suivront : Richebois, Prussurot, puis les Tarbe dont la veuve Catherine-Colombe Pigalle dirigera la presse et mourra a 89 ans avec 51 descendants.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Hotel-Dieu --- premiere imprimerie Girault 1552"
+          },
+          "sources": [
+            "Bulletin SAS, tome XII, 1880, p. 187-189."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1554,
+          "title": "Henri II ote son propre collier et decore Gaspard de Saulx sur le champ de bataille",
+          "text": "A la bataille de Renty contre les Espagnols (1554), Gaspard de Saulx-Tavannes combat si brillamment qu'Henri II retire de son propre cou le collier de l'Ordre de Saint-Michel et le lui passe en disant : 'Vous etes un lion, il faut vous enchainer.' Gaspard deviendra marechal de France, gouverneur de Provence et amiral des mers du Levant. On l'accusera d'avoir conseille le massacre de la Saint-Barthelemy. Son fils Jean sera vicomte de Ligny.",
+          "location": {
+            "lat": 47.9,
+            "lng": 3.75,
+            "label": "Saulx-Tavannes --- lion enchaine"
+          },
+          "sources": [
+            "Bulletin SAS, tome VIII, 1863, p. 204."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1556,
           "title": "15 voleurs forcent 10 serrures : le vol du tresor de Saint-Pierre-le-Vif",
           "text": "En septembre 1556, une bande de 15 voleurs force 10 serrures de l'eglise Saint-Pierre-le-Vif et vole des suaires sacres et des reliquaires d'argent. Ils ne parviennent pas a penetrer la salle du tresor principal. L'eglise conservait la chasse de saint Savinien, offerte par le roi Robert le Pieux vers l'an 1000, en or et argent. Les etoffes de soie a animaux fantastiques qui subsistent pourraient remonter au IXe siecle.",
@@ -1996,6 +2318,20 @@
           },
           "sources": [
             "Bulletin SAS, vol. XI, 1877, p. 115-121, 136-137 (inventaire Cottron 1660)."
+          ],
+          "heritageItemId": "e5555555-0034-0034-0034-000000000034"
+        },
+        {
+          "year": 1556,
+          "title": "15 voleurs forcent 10 serrures de Saint-Pierre-le-Vif et volent les suaires saints",
+          "text": "Le 11 septembre 1556, 15 ou 16 voleurs forcent dix serrures de l'eglise Saint-Pierre-le-Vif et derobent les suaires de saint Savinien et saint Potentien, une croix d'argent et le baton pastoral. Quatre jours plus tard, un vigneron de la Chapelle-sur-Oreuse, Jacques Ruolle, retrouve les suaires abandonnes dans un provin --- l'argent de la croix avait ete arrache. Les reliques sont rapportees en procession sous un grand concours de peuple. Les voleurs voulaient l'argent, pas les saints.",
+          "location": {
+            "lat": 48.191,
+            "lng": 3.283,
+            "label": "Saint-Pierre-le-Vif --- vol des reliques 1556"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 139."
           ],
           "heritageItemId": "e5555555-0034-0034-0034-000000000034"
         },
@@ -2127,6 +2463,34 @@
           "heritageItemId": "e5555555-0014-0014-0014-000000000014"
         },
         {
+          "year": 1590,
+          "title": "La catastrophe agricole : Sens perd 91% de sa production en 60 ans",
+          "text": "Les archives des baux de l'Hotel-Dieu revelent un effondrement agricole vertigineux. La ferme de Sergines, qui rapportait 525 francs en 1560, n'en produit plus que 48 en 1620 --- une chute de 91%. Villeroy passe de 2 468 a 588 francs. En 1560, les fermes produisaient du ble pur ; en 1620, seulement du meteil ou du seigle. La cause : les guerres de Religion et le siege de Sens (1590). Le niveau de production de 1560 ne sera retrouve qu'en 1850 --- trois siecles pour se relever.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Senonais --- effondrement agricole"
+          },
+          "sources": [
+            "Bulletin SAS, tome VI, 1858, p. 153-161."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1593,
+          "title": "Le vicomte de Ligny s'evade de la Bastille par la corde et les douves",
+          "text": "Jean de Saulx, vicomte de Ligny, ligueur feroce, est emprisonne a la Bastille par Henri IV. Un page lui fait passer du fil et une lime. Il tisse une corde, scie un barreau, et s'evade a travers les douves, de l'eau jusqu'au cou. Il attribue son evasion a Dieu, fait la paix, et rallie Henri IV en 1595 apres l'absolution du pape. L'un des rares evades de la Bastille --- et il vient du Senonais.",
+          "location": {
+            "lat": 48.8533,
+            "lng": 2.3692,
+            "label": "Bastille --- evasion du vicomte de Ligny"
+          },
+          "sources": [
+            "Bulletin SAS, tome VIII, 1863, p. 246."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1594,
           "title": "Sens se rallie à Henri IV apres sa conversion",
           "text": "Apres la conversion d'Henri IV au catholicisme en 1593, les villes ligueuses se rallient. Sens, dernier bastion, ouvre ses portes en 1594. La ville qui avait forme l'assassin d'Henri III et resiste deux fois au siege du nouveau roi reconnait finalement son autorite.",
@@ -2228,6 +2592,20 @@
           "heritageItemId": null
         },
         {
+          "year": 1628,
+          "title": "Le pape envoie son nonce a Sens pour un fragment du crane de Gregoire le Grand",
+          "text": "En 1628, le pape Urbain VIII desire obtenir un fragment du crane de saint Gregoire le Grand, conserve depuis le IXe siecle a Saint-Pierre-le-Vif. Il depeche son nonce en France, Spada (futur cardinal), avec un bref pour l'archeveque Bellegarde. Le 6 decembre, un fragment est detache et remis au nonce. Le pape l'offre aux peres de l'Oratoire de Rome (Chiesa Nuova). Que le pape envoie son ambassadeur dans une ville de province pour une relique dit tout du prestige de Sens.",
+          "location": {
+            "lat": 48.191,
+            "lng": 3.283,
+            "label": "Saint-Pierre-le-Vif --- relique papale"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 126."
+          ],
+          "heritageItemId": "e5555555-0034-0034-0034-000000000034"
+        },
+        {
           "year": 1629,
           "title": "Les Ursulines s'installent",
           "text": "Les Ursulines fondent un couvent à Sens pour l'éducation des filles. Au XVIIe siècle, Sens compte une douzaine de maisons religieuses — Jacobins, Célestins, Carmélites, Ursulines, Dominicaines. La ville à plus de moines et de religieuses que de soldats.",
@@ -2259,6 +2637,20 @@
           "longText": "s terrassements qu'a exigés la con- fection de la route Royale, les deux cordons de briques n'étaient séparés que par dix rangées de pierres de revêtement, et près du jardin de M. Huré beaucoup plus bas, par neuf rangées. Entre ce jardin et l'atelier du sieurBallard existait, il y a quel- ques semaines encore, le débris le plus remarquable, à mon sens, de l'ancienne enceinte. La tour que fait démolir en ce mo- ment M. Vieille montrait, dans son extrémité inférieure, trois qu'il m'est d'autant plus impossible de deviner que je n'ai la con- naissance d'aucun document analogue. J'insiste cependant, Messieurs, pour que ces fragments soient conservés avec autant de soin que les autres. D'autres fouilles, d'autres découvertes, des connaissances plus approfondies, nous conduiront plus tard peut-être à l'explication qui nous fuit au- jourd'hui."
         },
         {
+          "year": 1632,
+          "title": "Saint-Pierre-le-Vif brule : les reliques survivent dans la grotte souterraine",
+          "text": "Le 6 juin 1632, un incendie ravage l'eglise de Saint-Pierre-le-Vif. Mais les reliques les plus precieuses survivent : elles etaient conservees dans la grotte de saint Potentien, sous le grand autel, a l'abri des flammes. Cette crypte souterraine, vestige du premier christianisme senonais, sauve ce que le feu aurait detruit. Les moines reconstruisent, le tresor est intact.",
+          "location": {
+            "lat": 48.191,
+            "lng": 3.283,
+            "label": "Saint-Pierre-le-Vif --- incendie 1632"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 119."
+          ],
+          "heritageItemId": "e5555555-0034-0034-0034-000000000034"
+        },
+        {
           "year": 1638,
           "title": "Salves pour Louis XIV : les vitraux de la cathedrale volent en eclats",
           "text": "Le 5 septembre 1638, a l'annonce de la naissance de Louis XIV, une massive decharge d'artillerie est tiree dans Sens. La joie est excessive : les vitraux de la cathedrale volent en eclats, des proprietes sont endommagees, des habitants blesses. C'est la celebrite de Sens qui vaut ce traitement : une ville ordinaire n'aurait pas tire autant de canons. Vingt ans plus tard, le jeune roi viendra en personne.",
@@ -2273,6 +2665,20 @@
           "heritageItemId": "e5555555-0001-0001-0001-000000000001"
         },
         {
+          "year": 1643,
+          "title": "Apres Rocroi, des prisonniers espagnols meurent en masse a Sens",
+          "text": "Apres la victoire de Conde a Rocroi (1643), un grand nombre de prisonniers espagnols sont envoyes a Sens et entasses dans le Petit Hotel-Dieu. Pendant 18 mois, la mort fait des ravages. Le fossoyeur reclame une augmentation : un sou supplementaire par tombe d'Espagnol. Le fermier des lieux exige une compensation pour son bail perturbe. Sens decouvre l'economie sinistre de la detention de masse --- on negocie le prix de chaque cadavre.",
+          "location": {
+            "lat": 48.196,
+            "lng": 3.2815,
+            "label": "Hotel-Dieu --- prisonniers espagnols"
+          },
+          "sources": [
+            "Bulletin SAS, tome VI, 1858, p. 32."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1646,
           "title": "Gondrin, l'archeveque janseniste qui gifle Madame de Montespan",
           "text": "Louis-Henri de Gondrin, archeveque de Sens de 1646 a 1674, est un ami de Port-Royal --- le foyer du jansenisme. En 1653, il interdit les Jesuites de son diocese. Mais l'anecdote la plus celebre est ailleurs : Gondrin est l'oncle de Francoise-Athenais de Montespan, maitresse de Louis XIV. Desapprouvant la conduite de sa niece, il la gifle. La repression royale est immediate : une lettre de cachet l'exile de son diocese. Mais Gondrin menace d'excommunication quiconque viendrait l'arreter. L'archeveque de Sens tient tete au Roi-Soleil.",
@@ -2285,7 +2691,8 @@
             "Wikipedia, Louis-Henri de Pardaillan de Gondrin.",
             "Persee, these Dubois 1902."
           ],
-          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013",
+          "longText": "1646. Un homme d'Eglise ose lever la main sur la femme la plus puissante de France.\n\nLouis-Henri de Pardaillan de Gondrin arrive a Sens cette annee-la comme archeveque. Il a 26 ans, une fortune colossale et des convictions qui vont lui couter cher. Gondrin est un ami de Port-Royal, le foyer du jansenisme --- ce courant austere qui preche la grace divine contre le faste de la Cour. Des 1653, il interdit aux Jesuites d'exercer dans son diocese. Le geste est politique autant que theologique : les Jesuites sont les confesseurs du roi, les agents de Rome dans les paroisses. Les chasser, c'est defier le systeme.\n\nMais l'affaire qui rend Gondrin celebre n'a rien a voir avec la theologie. Elle tient en un geste.\n\nSa niece, Francoise-Athenais de Rochechouart de Mortemart --- le monde la connait sous le nom de Madame de Montespan --- est devenue la maitresse de Louis XIV. Pas une passade : une liaison officielle, affichee, qui dure des annees et produit sept enfants. La Montespan regne sur Versailles. Elle est mariee, le roi aussi. L'Eglise condamne l'adultere. Mais personne n'ose rien dire au Roi-Soleil.\n\nPersonne, sauf l'oncle.\n\nGondrin convoque sa niece. Les sources ne s'accordent pas sur le lieu exact --- au palais archiepiscopal de Sens selon certaines, a Paris selon d'autres. Ce qui est certain, c'est le geste : il la gifle. L'archeveque de Sens gifle la favorite du roi de France.\n\nLa reaction de Louis XIV est immediate. Une lettre de cachet --- un ordre royal scelle, sans appel --- exile Gondrin loin de son diocese. Le roi veut le briser. Mais Gondrin a un atout : il est archeveque. Il menace d'excommunication quiconque viendrait l'arreter dans sa cathedrale. L'excommunication, en ce XVIIe siecle encore profondement croyant, est une arme redoutable. Meme les soldats du roi hesitent.\n\nLe bras de fer dure. Gondrin finira par se soumettre partiellement, mais il ne renie jamais ses positions jansenistes. Il administre le diocese de Sens pendant 28 ans, protege les religieuses de Port-Royal, entretient une correspondance avec Arnauld et Nicole --- les grands noms du jansenisme francais.\n\nLa gifle a Madame de Montespan est devenue une anecdote. Mais elle resume un conflit plus profond : celui de l'Eglise gallicane --- l'Eglise de France, jalouse de son autonomie --- contre le pouvoir absolu du roi. Sens, siege de la plus ancienne province ecclesiastique du royaume, est au coeur de cette tension. L'archeveque de Sens n'est pas un cure de campagne. C'est un primat, un prince de l'Eglise, et Gondrin le rappelle au roi par un geste que personne n'a oublie.\n\nAujourd'hui, le palais archiepiscopal de Sens --- devenu le musee --- conserve la memoire de ces archeveques qui ont fait et defait les equilibres politiques du royaume. Gondrin y a vecu. La gifle resonne encore."
         },
         {
           "year": 1650,
@@ -2301,6 +2708,64 @@
           ],
           "heritageItemId": null,
           "longText": null
+        },
+        {
+          "year": 1651,
+          "title": "Montacher devastee : 18 ans de regiments qui mangent tout et brulent les puits",
+          "text": "Le cahier de doleances de Montacher (bailliage de Sens, 1651) dresse un inventaire accablant. Pendant 18 ans, regiment apres regiment --- Gransee, Nonante, Lambertye, Casteneno --- 'vivent a discretion' : ils mangent tout, battent les habitants, enfoncent les portes, remplissent les puits de bois et y mettent le feu, decouvrent les toits. Un capitaine nomme La Patiniere extorque 400 livres en menacant de rester 15 jours. Le sel est passe de 24 a 40 livres le minot. Les habitants signent : 'contraints de quitter et abandonner leurs maisons, et maudire leur pauvre vie.'",
+          "location": {
+            "lat": 48.22,
+            "lng": 3.24,
+            "label": "Montacher --- devastation militaire"
+          },
+          "sources": [
+            "Bulletin SAS, tome VI, 1858, p. 92-98."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1652,
+          "title": "L'abbe Bourdelot, ne a Sens, humilie un pedant a la cour de la reine Christine de Suede",
+          "text": "Pierre Michon, ne a Sens en 1610, fils de chirurgien, se rebaptise 'Bourdelot' et devient medecin de la reine Christine de Suede. Lors d'un souper royal avec Saumaise et Vossius, il joue du clavecin, puis piege le musicologue pedant Marcus Meibom en le faisant chanter l'Ode Pythique de Pindare pendant que Naude danse. Le desastre provoque l'eclat de rire de la reine. Bourdelot mourra en 1685 d'une dose accidentelle d'opium melangee a une confiture de roses par son domestique.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Sens --- patrie de l'abbe Bourdelot"
+          },
+          "sources": [
+            "Bulletin SAS, tome XII, 1880, p. 195-214."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1653,
+          "title": "Mazarin fuyant la Fronde ecrit depuis Pont-sur-Yonne : 'On vend ma bibliotheque'",
+          "text": "Le 11 janvier 1653, Mazarin en fuite passe a Pont-sur-Yonne et y redige des notes autographes ameres. Il apprend que le Parlement de Paris a ordonne la vente de sa celebre bibliotheque --- qu'il avait mis trente ans a enrichir des 'plus rares livres du monde' et qu'il voulait offrir au public. Les deniers de la vente doivent servir 'pour assassiner le Cardinal'. Ces notes, ecrites a Pont-sur-Yonne, sont un document exceptionnel sur la Fronde.",
+          "location": {
+            "lat": 48.287,
+            "lng": 3.23,
+            "label": "Pont-sur-Yonne --- Mazarin en fuite"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 145."
+          ],
+          "heritageItemId": null,
+          "longText": "11 janvier 1653. La nuit est froide sur Pont-sur-Yonne. Un homme descend d'un carrosse boueux, escorte de quelques cavaliers. Il est epuise, nerveux, traque. Cet homme est le cardinal Jules Mazarin, premier ministre de France --- et l'homme le plus hai du royaume.\n\nLa Fronde dure depuis cinq ans. Cette guerre civile oppose le Parlement de Paris, les grands seigneurs et une partie du peuple au pouvoir royal --- c'est-a-dire a Mazarin, qui gouverne au nom du jeune Louis XIV, age de 14 ans. On accuse le cardinal italien de piller la France, de s'enrichir sur le dos du peuple, de manipuler la reine-mere Anne d'Autriche. Des pamphlets --- les \"mazarinades\" --- circulent par milliers. On y reclame sa tete.\n\nMazarin fuit. Pour la deuxieme fois en deux ans, il quitte Paris sous la menace. Il descend vers le sud, cherchant a rejoindre l'armee royale. Sa route passe par la vallee de l'Yonne. A Pont-sur-Yonne, il s'arrete.\n\nC'est la qu'il apprend la nouvelle qui le blesse le plus. Le Parlement de Paris a ordonne la vente de sa bibliotheque. Pas n'importe quelle bibliotheque : la plus belle collection privee d'Europe. Mazarin avait passe trente ans a la constituer --- des manuscrits grecs, des incunables, des cartes, des traites scientifiques, rassembles par son bibliothecaire Gabriel Naude. Il voulait l'ouvrir au public, en faire la premiere bibliotheque publique de Paris.\n\nLes deniers de la vente, precise le decret, doivent servir \"pour assassiner le Cardinal\". On vend ses livres pour payer sa mort.\n\nMazarin prend la plume. Il ecrit des notes autographes --- des fragments amers, rageurs, ou transperce la douleur d'un collectionneur. \"Les plus rares livres du monde.\" Ces mots, traces a Pont-sur-Yonne dans la nuit de janvier, sont conserves dans les archives. Ils sont un document exceptionnel : le moment ou le plus puissant homme d'Etat d'Europe, reduit a la fuite, ne pleure pas sur son pouvoir perdu mais sur ses livres.\n\nMazarin finira par revenir. En fevrier 1653, il rentre triomphalement a Paris. La Fronde s'effondre. Il reconstitue sa bibliotheque --- celle qui deviendra la Bibliotheque Mazarine, la plus ancienne bibliotheque publique de France, toujours ouverte au quai de Conti a Paris.\n\nMais cette nuit de janvier 1653, l'homme le plus puissant du royaume n'etait qu'un fugitif ecrivant dans une auberge de Pont-sur-Yonne. La grande Histoire passe parfois par les petites villes de l'Yonne."
+        },
+        {
+          "year": 1653,
+          "title": "600 Senonais armes de canons marchent detruire le pont de Pont-sur-Yonne",
+          "text": "En 1653, pour empecher le prince de Conde de passer du Gatinais en Brie, les habitants de Sens recoivent l'ordre de rompre le pont de Pont-sur-Yonne. Cinq a six cents Senonais partent 'bien armes, suivis de vivandiers comme a l'armee', avec deux pieces de canon de la ville. Ils demolissent le pont. Pour le reconstruire, Pont-sur-Yonne demande la demolition de la grosse tour de Sens (manoir des comtes) --- le bailli s'y oppose. La Fronde transforme les bourgeois en soldats.",
+          "location": {
+            "lat": 48.287,
+            "lng": 3.23,
+            "label": "Pont-sur-Yonne --- pont detruit 1653"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 145."
+          ],
+          "heritageItemId": null,
+          "longText": "Imaginez la scene. Six cents hommes sortent des portes de Sens, un matin de 1653. Ce ne sont pas des soldats. Ce sont des boulangers, des tanneurs, des tonneliers, des marchands de drap. Ils portent des mousquets, des piques, des epees. Derriere eux, des vivandiers poussent des charrettes chargees de pain, de vin, de fromage --- comme a l'armee. Et au milieu du cortege, tirees par des chevaux : deux pieces de canon. Les canons de la ville de Sens.\n\nLeur mission : detruire le pont de Pont-sur-Yonne.\n\nNous sommes en pleine Fronde. Le prince de Conde --- cousin du roi, heros de Rocroi, devenu rebelle --- menace de passer du Gatinais en Brie pour couper les routes d'approvisionnement de Paris. Le pont de Pont-sur-Yonne, a une dizaine de kilometres au nord de Sens, est un passage strategique sur l'Yonne. L'ordre vient d'en haut : il faut le rompre avant que Conde ne s'en empare.\n\nMais il n'y a pas de garnison royale disponible. La guerre civile a disperse les troupes. Alors ce sont les bourgeois de Sens qui s'y collent.\n\nLe Bulletin de la Societe Archeologique de Sens rapporte la scene avec un detail savoureux : les Senonais partent \"bien armes, suivis de vivandiers comme a l'armee\". Ces hommes jouent au soldat. Ils se sont organises, ont designe des chefs, ont prevu l'intendance. Ce n'est pas une emeute --- c'est une expedition militaire improvisee par des civils.\n\nIls arrivent a Pont-sur-Yonne. Ils demolissent le pont. Mission accomplie.\n\nMais l'histoire ne s'arrete pas la. Quelques annees plus tard, quand la paix revient et qu'il faut reconstruire le pont, Pont-sur-Yonne presente la facture. Et pas n'importe quelle facture : la petite ville demande que l'on demolisse la grosse tour de Sens --- l'ancien manoir des comtes de Champagne --- pour en reutiliser les pierres. Recycler un monument medieval pour rebatir un pont. Le bailli de Sens s'y oppose. La tour est sauvee.\n\nCet episode dit beaucoup sur la Fronde dans les petites villes. Paris a ses barricades, ses princes, ses intrigues de palais. Mais ici, dans le Senonais, la guerre civile se traduit par des bourgeois qui prennent les armes, demolissent un pont et se disputent ensuite sur les pierres. C'est la grande Histoire a echelle humaine.\n\nLa Fronde se termine en 1653. Conde finit par se soumettre. Louis XIV n'oubliera jamais cette periode ou le royaume a failli eclater. C'est la Fronde qui forge l'absolutisme : le roi centralisera tout le pouvoir, precisement pour que plus jamais des bourgeois de province ne prennent les canons dans leurs mains.\n\nLes canons de Sens ont ete fondus depuis longtemps. Mais le pont de Pont-sur-Yonne a ete reconstruit --- sans les pierres du manoir des comtes."
         },
         {
           "year": 1658,
@@ -2332,6 +2797,21 @@
             "Daguin, G. 'La Porte d'Yonne, Louis XIV a Sens en 1658.'"
           ],
           "heritageItemId": null
+        },
+        {
+          "year": 1680,
+          "title": "Une femme seule recueille les orphelines de Sens dans sa propre maison",
+          "text": "Avant tout orphelinat officiel, Mademoiselle Cecile-Guillaume de Marsangy, emue par la misere des filles orphelines de Sens, commence a les recueillir chez elle. Elle les nourrit, les habille, leur apprend un metier. Un bourgeois parisien ne a Sens, Nicolas Bellocier, la rejoint. Ensemble ils fondent en 1680 l'Hospice des Orphelines, avec lettres patentes de Louis XIV. Detail etonnant : la fondation est explicitement 'laique et nullement ecclesiastique' --- progressisme inattendu sous le Roi-Soleil.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.283,
+            "label": "Hospice des Orphelines --- Marsangy"
+          },
+          "sources": [
+            "Bulletin SAS, tome VI, 1858, p. 34-35."
+          ],
+          "heritageItemId": null,
+          "longText": "Avant 1680, il n'existe rien a Sens pour les filles orphelines. Rien. Les garcons ont l'Hotel-Dieu, les malades ont l'hopital, les vieillards trouvent parfois refuge aupres d'une communaute religieuse. Mais les filles qui perdent leurs parents n'ont que la rue, la mendicite, ou la charite aleatoire d'un voisin.\n\nUne femme decide que c'est inacceptable.\n\nCecile-Guillaume de Marsangy est issue d'une famille senonaise honorable mais pas riche. Ce n'est pas une religieuse. Ce n'est pas une grande dame de la Cour. C'est une celibataire qui vit seule dans sa maison de Sens. Et un jour, elle commence a recueillir des orphelines chez elle.\n\nElle les nourrit. Elle les habille. Elle leur apprend a lire, a coudre, a tenir un menage --- c'est-a-dire un metier, une autonomie. Elle fait tout cela sur ses propres deniers, sans aucun soutien institutionnel. Une femme seule, dans une maison ordinaire, qui invente l'action sociale deux siecles avant l'Etat-providence.\n\nLe bouche-a-oreille fonctionne. Un bourgeois parisien ne a Sens, Nicolas Bellocier, entend parler de l'initiative de Mademoiselle de Marsangy. Il la rejoint. Ensemble, ils formalisent le projet. En 1680, ils obtiennent des lettres patentes de Louis XIV --- l'autorisation royale officielle --- pour fonder l'Hospice des Orphelines de Sens.\n\nLe detail le plus etonnant tient dans les statuts de la fondation. L'hospice est explicitement declare \"laique et nullement ecclesiastique\". En 1680. Sous Louis XIV. Au moment meme ou le roi revoque l'edit de Nantes et impose le catholicisme a toute la France, deux Senonais creent un etablissement charitable en dehors du controle de l'Eglise.\n\nCe n'est pas de l'anticlericalisme. C'est du pragmatisme. Marsangy et Bellocier veulent que leur hospice survive aux querelles religieuses, aux changements d'eveque, aux rivalites entre ordres monastiques. En le declarant laique, ils le protegent. Ils pensent a long terme.\n\nL'hospice accueille les orphelines jusqu'a ce qu'elles sachent se debrouiller seules. On leur enseigne la couture, le repassage, la cuisine --- les metiers feminins du XVIIe siecle. Mais l'essentiel est ailleurs : on leur donne un toit, une structure, une dignite. Elles ne sont pas des mendiantes. Elles sont des pensionnaires d'un etablissement reconnu par le roi.\n\nL'Hospice des Orphelines de Sens survivra a la Revolution, sera transforme, rattache a d'autres institutions. Mais l'idee de Cecile-Guillaume de Marsangy --- une femme seule qui decide qu'une societe se juge a la maniere dont elle traite ses enfants les plus vulnerables --- reste d'une modernite saisissante.\n\nAujourd'hui, la protection de l'enfance est un service public, encadre par des lois, finance par l'impot. En 1680, c'etait une femme seule dans sa maison de Sens. Il a fallu partir de la."
         },
         {
           "year": 1696,
@@ -2530,7 +3010,8 @@
             "Wikipedia, Cathedrale de Sens.",
             "Daguin, Curiosites cathedrale."
           ],
-          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+          "longText": "20 decembre 1765. Dans une chambre du chateau de Fontainebleau, un homme de 36 ans agonise. La tuberculose le devore depuis des mois. Autour de lui, sa femme Marie-Josephe de Saxe, ses enfants --- dont trois deviendront rois de France --- et les medecins impuissants de la Cour. Cet homme est Louis-Ferdinand, Dauphin de France, fils unique de Louis XV. Il ne regnera jamais.\n\nLe Dauphin meurt a Fontainebleau. Et c'est a Sens qu'on l'enterre.\n\nLa question surprend : pourquoi pas a Saint-Denis, la necropole royale ou reposent les rois de France depuis le Moyen Age ? La reponse tient dans la devotion personnelle du Dauphin. Louis-Ferdinand etait un homme profondement pieux --- certains disaient bigot. Il vouait une veneration particuliere a l'archeveche de Sens, siege primatial des Gaules et de Germanie, le plus ancien et le plus prestigieux des archeveches francais. Dans son testament, il demande a etre inhume dans la cathedrale Saint-Etienne.\n\nLe roi accepte. Le corps du Dauphin est transporte de Fontainebleau a Sens. Le cortege funebre descend par la route royale, traverse la foret, longe l'Yonne. La cathedrale de Sens recoit le cercueil du pere de trois futurs rois.\n\nQuinze mois plus tard, le 13 mars 1767, Marie-Josephe de Saxe meurt a son tour. La tuberculose, contractee au chevet de son mari. Elle est inhumee aupres de lui dans la cathedrale. Deux tombeaux royaux a Sens.\n\nEn 1777, Louis XVI --- leur fils, devenu roi --- commande un mausolee au sculpteur Guillaume Coustou fils. L'oeuvre est monumentale : deux figures allegoriques encadrent un sarcophage de marbre. La Religion tient un livre ouvert. L'Immortalite brandit une couronne. Le mausolee est installe dans le transept nord de la cathedrale.\n\nLa Revolution passe. En 1793, la Convention ordonne la destruction des tombeaux royaux a Saint-Denis. Les corps sont jetes dans une fosse commune. Mais a Sens, le mausolee du Dauphin et de la Dauphine est epargne --- non pas par respect monarchique, mais parce que les revolutionnaires senonais le considerent comme une oeuvre d'art, pas comme un symbole du pouvoir royal.\n\nLe mausolee de Coustou est toujours dans la cathedrale. On peut le voir dans le croisillon nord, a gauche en entrant. Deux silhouettes de marbre blanc veillent sur les restes du pere de Louis XVI, Louis XVIII et Charles X --- les trois derniers rois Bourbons. C'est l'un des rares monuments funeraires royaux d'Ancien Regime a avoir survecu intact a la Revolution.\n\nSens n'est pas Saint-Denis. Mais c'est dans cette cathedrale de province que repose l'homme dont les fils ont fait et defait la France moderne."
         },
         {
           "year": 1769,
@@ -2673,21 +3154,6 @@
         },
         {
           "year": 1789,
-          "title": "1789, le torchon brûle entre la Nation et le goupillon, Sens : \"Le Roi, l’archevêque intérimaire et",
-          "text": "En 1789, la tension éclate entre le clergé et les nouvelles institutions. L'archevêque intérimaire de Sens se retrouve pris entre fidélité au roi et pression révolutionnaire. Les ordres religieux installés depuis des siècles voient leur monde s'effondrer en quelques mois.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"1789, le torchon brûle entre la Nation et le goupillon, Sens.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": null
-        },
-        {
-          "year": 1789,
           "title": "Le sel a 14 sous : une journee de travail pour huit jours de sel",
           "text": "A Cuy, pres de Villeneuve-sur-Yonne, un ouvrier agricole gagne 15 sous par jour. La livre de sel coute 14 sous. Elle ne dure meme pas huit jours pour une famille. Le sel est un monopole royal (la gabelle) : impossible d'en acheter ailleurs. A Villiers-Louis, on ecrit que meme le mendiant paie proportionnellement plus cher que le riche. A Saint-Martin-sur-Oreuse, les plus pauvres sont forces d'acheter la meme quantite que les riches. C'est une taxe par tete, pas par fortune.",
           "location": {
@@ -2697,35 +3163,6 @@
           },
           "sources": [
             "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Cuy l.7332, Villiers-Louis l.29988, Saint-Martin l.26448."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
-          "title": "Les chemins de Brannay : le bourbier qui isole les villages",
-          "text": "Brannay est a 12 km de Sens, mais en hiver c'est le bout du monde. Les chemins sont 'fort mauvais et presque impraticables.' Les paysans ne peuvent amener leurs recoltes au marche. Pire : ils paient un impot pour entretenir les grandes routes dont ils ne profitent pas. Leur argent sert a la route Paris-Lyon pendant que leurs sentiers sont des bourbiers. A Evry, le notaire qui redige le cahier n'arrive plus a finir sa phrase pour decrire l'etat du chemin.",
-          "location": {
-            "lat": 48.15,
-            "lng": 3.24,
-            "label": "Brannay --- chemins impraticables"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Brannay l.10615, Evry l.4279."
-          ],
-          "heritageItemId": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_02849.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1939737&MTIME=1346437821"
-        },
-        {
-          "year": 1789,
-          "title": "Le vigneron a 2% de marge : travailler presque gratuitement",
-          "text": "Un calcul de 1789 : un vigneron exploitant 20 arpents dans un des meilleurs terroirs de Champagne vend pour 6 732 livres. Les taxes sur le vin (1 151 livres de droits d'aides), la culture et les tonneaux absorbent 6 607 livres. Reste : 124 livres --- moins de 2%. Et on n'a pas compte la taille. Le vigneron travaille presque gratuitement. A Dixmont, les habitants sont en proces contre l'Etat qui veut des taxes supplementaires sur leur propre vin.",
-          "location": {
-            "lat": 48.194,
-            "lng": 3.29,
-            "label": "Vignobles senonais --- 2% de marge"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Calcul election l.935-948, Dixmont l.15895."
           ],
           "heritageItemId": null
         },
@@ -2745,78 +3182,6 @@
         },
         {
           "year": 1789,
-          "title": "\"Il vaut mieux subir une injustice\" : la justice ruine les honnetes gens",
-          "text": "A Cerisiers, le cahier pose un constat accablant : 'Il est quelquefois bien plus avantageux de souffrir une injustice que de vouloir s'en faire rendre justice.' Un creancier qui a raison voit son debiteur faire appel en appel jusqu'au Parlement. Le temps du jugement, le debiteur n'a plus rien et le creancier a tout perdu en frais. A Dollot : 'la chicane eternise les proces et reduit a l'indigence les familles les plus aisees.' La justice fabrique les pauvres.",
-          "location": {
-            "lat": 48.13,
-            "lng": 3.2,
-            "label": "Cerisiers / Dollot --- justice ruineuse"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Cerisiers l.12586, Dollot l.16936."
-          ],
-          "heritageItemId": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_03515.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2422688&MTIME=1346438143"
-        },
-        {
-          "year": 1789,
-          "title": "Paron, a cote de Sens, trop pauvre pour un maitre d'ecole",
-          "text": "Paron, juste a cote de Sens, 'n'est meme pas en etat d'avoir un maitre d'ecole.' A La Chapelle-Saint-Pere, garcons et filles sont dans la meme classe avec un maitre paye 100 livres par an. Un ancien cure a legue 25 livres pour les ecoliers pauvres --- ca suffit pour 8 enfants. A Saligny, le maitre d'ecole doit d'abord chanter a la messe : l'ecole est une dependance de l'Eglise. L'instruction publique, gratuite et laique, n'existe pas encore.",
-          "location": {
-            "lat": 48.205,
-            "lng": 3.275,
-            "label": "Paron --- pas de maitre d'ecole"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Paron l.3515, La Chapelle-St-Pere l.19164, Saligny l.8313."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
-          "title": "Le libre-echange avec l'Angleterre : deja en 1789, la mondialisation fait debat",
-          "text": "Les marchands de Sens denoncent le traite de commerce franco-anglais de 1786. Les produits anglais, subventionnes, envahissent la France. Les manufactures ferment, les ouvriers sont licencies. La France ouvre 24 millions de consommateurs a l'Angleterre, qui n'en offre que 8 en retour. Les marchandises francaises, 'quoique mieux fabriquees', sont dedaignees. Deux siecles et demi avant le Brexit, le libre-echange fait debat au marche de Sens.",
-          "location": {
-            "lat": 48.1972,
-            "lng": 3.2838,
-            "label": "Sens --- debat libre-echange 1786"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Rapport de Sens l.2841-2865."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
-          "title": "La dime pese plus que tous les impots royaux reunis",
-          "text": "A La Louptiere, les habitants affirment : 'La dime est la plus considerable charge du peuple ; ni les aides et gabelles, ni la taille et ses accessoires ne peuvent egaler ces droits.' L'Eglise preleve plus que l'Etat. Et a Malay-le-Vicomte, le chapitre des chanoines de Sens encaisse 3 185 livres de dimes tandis que le cure du village n'en touche que 108. L'argent de la paroisse part a Sens, pas a celui qui dit la messe.",
-          "location": {
-            "lat": 48.15,
-            "lng": 3.35,
-            "label": "La Louptiere / Malay --- dimes"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. La Louptiere l.20392-20401, Malay-le-Vicomte l.5230-5328."
-          ],
-          "heritageItemId": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_03744.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2302760&MTIME=1346438253"
-        },
-        {
-          "year": 1789,
-          "title": "Ni bouillon ni medecin : le cure de Villadin temoigne",
-          "text": "Le cure de Villadin temoigne : les malades pauvres n'ont ni bouillon ni medecin. Une seule maison peut donner un peu de soupe. Un systeme de charite avait fonctionne, finance par le prieur a 6 livres par mois, mais le prieur est mort. Son successeur, cure en Provence, envoie un peu de grain une fois par an. A Saint-Martin-du-Tertre, a 2 km de Sens, une vingtaine de familles mendient. On cultive avec des anes faute de chevaux.",
-          "location": {
-            "lat": 48.14,
-            "lng": 3.32,
-            "label": "Villadin --- misere rurale"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Villadin l.34297-34313, Saint-Martin-du-Tertre l.5779-5793."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
           "title": "Fontaine-la-Gaillarde invente la sante publique gratuite",
           "text": "A Fontaine-la-Gaillarde, le cahier de doleances demande des 'chirurgiens dans chaque district, payes par l'Etat, pour aller aux secours des pauvres malades qui meurent n'ayant pas le moyen de payer des chirurgiens qui mettent leurs courses et leurs medicaments a des prix excessifs.' C'est une demande de sante publique gratuite, deux siecles avant la Securite sociale. Aucun autre village du bailliage n'a formule cette idee aussi clairement.",
           "location": {
@@ -2828,135 +3193,6 @@
             "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Fontaine-la-Gaillarde l.4857."
           ],
           "heritageItemId": null
-        },
-        {
-          "year": 1789,
-          "title": "Foucherolles ecrit un proto-habeas corpus",
-          "text": "Le cahier de Foucherolles contient un texte remarquable : il demande que 'les libertes et proprietes du citoyen soient respectees et que, dans aucun cas, on ne puisse le trainer en prison sans avoir observe ce qui est prescrit par les lois.' Il exige aussi qu'aucun desarmement ne se fasse dans les campagnes sans ordre du Roi publie a la porte de l'eglise, et que le syndic municipal accompagne la marechaussee pour veiller a ce que 'le malheureux ne soit ni vexe ni maltraite, comme cela est arrive plusieurs fois.' C'est un texte proto-constitutionnel : habeas corpus, droit de propriete, protection contre l'arbitraire.",
-          "location": {
-            "lat": 48.12,
-            "lng": 3.18,
-            "label": "Foucherolles --- droits fondamentaux"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Foucherolles l.14871-14895."
-          ],
-          "heritageItemId": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04683.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2222128&MTIME=1346439142"
-        },
-        {
-          "year": 1789,
-          "title": "Dixmont invente la courbe de Laffer : baisser le prix du sel pour vendre plus",
-          "text": "A Dixmont, les paysans raisonnent comme des economistes : ils argumentent que baisser le prix du sel augmenterait les recettes de l'Etat parce que la consommation augmenterait, et que 'les sels de France etant les meilleurs de toute l'Europe, les etrangers qui les trouveront a un juste prix en enleveront de plus grandes quantites.' C'est un raisonnement de type 'courbe de Laffer' formule par des paysans de l'Yonne 200 ans avant l'economiste americain.",
-          "location": {
-            "lat": 48.08,
-            "lng": 3.17,
-            "label": "Dixmont --- economie du sel"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Dixmont l.16082."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
-          "title": "Sens en 1789 : 9 tanneries, 4 manufactures et un Anglais",
-          "text": "En 1789, Sens a 8 370 habitants et 1 777 feux. Son economie : 567 arpents de vignes, 9 tanneries, 4 manufactures dont une de velours sur coton qui emploie 624 ouvriers, 2 manufactures de bas et bonneterie, et 1 fabrique de colle. Detail savoureux : un Anglais nomme Garnett s'apprete a installer une mecanique a filer le coton inspiree de l'industrie anglaise. Les manufactures de Manchester arrivent a Sens --- au moment meme ou les marchands senonais denoncent le libre-echange avec l'Angleterre.",
-          "location": {
-            "lat": 48.1972,
-            "lng": 3.2838,
-            "label": "Sens --- economie 1789"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Notices de Sandrier, donnees economiques de Sens."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
-          "title": "Subligny exige les titres : 'montrez-nous le papier'",
-          "text": "Subligny, l'un des pays les plus pauvres du bailliage, ose une demande radicale : que les habitants qui paient le droit de champart au Chapitre de Sens puissent voir les TITRES qui justifient ce droit. Et si ces titres n'existent pas, que tous les droits seigneuriaux soient supprimes. C'est le principe de la preuve retourne contre le seigneur : ce n'est plus au paysan de prouver qu'il ne doit rien, c'est au seigneur de prouver qu'on lui doit.",
-          "location": {
-            "lat": 48.22,
-            "lng": 3.26,
-            "label": "Subligny --- exigence des titres"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Subligny l.8964."
-          ],
-          "heritageItemId": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04684.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2277428&MTIME=1346439143"
-        },
-        {
-          "year": 1789,
-          "title": "Paron revendique le franc-alleu : 'nous ne devons rien au seigneur'",
-          "text": "A Paron, 240 habitants, les paysans revendiquent une chose extraordinaire : le franc-alleu --- c'est-a-dire qu'ils pretendent ne rien devoir au seigneur sur leurs heritages. Pas de redevance, pas de cens, pas de droit feodal. C'est une revendication juridique extremement rare dans la France de 1789, ou presque tout le monde doit quelque chose a un seigneur. Paron est pauvre (on cultive avec des anes, pas de maitre d'ecole), mais fiere : meme le comte de Polignac n'a aucun droit sur leurs terres.",
-          "location": {
-            "lat": 48.205,
-            "lng": 3.275,
-            "label": "Paron --- franc-alleu revendique"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Paron l.3501-3515."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
-          "title": "La noblesse senonaise accepte l'impot la premiere",
-          "text": "Surprise : a Sens, c'est la noblesse qui, la premiere, declare que chaque noble doit payer l'impot proportionnellement a son revenu. Elle le communique immediatement aux deux autres ordres. Le clerge suit. Les trois ordres tombent d'accord sur six points : impot pour tous, suppression de la gabelle et des aides, fin des lettres de cachet, reforme de la justice, retour periodique des Etats Generaux, creation d'Etats provinciaux. La noblesse senonaise va meme plus loin : elle demande la liberte individuelle, l'abolition des lettres de cachet et la liberte de la presse.",
-          "location": {
-            "lat": 48.1972,
-            "lng": 3.2838,
-            "label": "Assemblee du bailliage --- 3 ordres"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Noblesse l.548-551, l.55196-55207 (liberte), l.55351-55359 (presse)."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
-          "title": "Le clerge denonce la gabelle mais defend la dime",
-          "text": "Le clerge du bailliage de Sens accepte de payer plus d'impots, mais a une condition : il veut continuer a s'auto-taxer ('conserver ses formes'). Il surprend en demandant la suppression de la gabelle, qu'il qualifie de 'taxe desastreuse' qui jette des familles en prison. Il propose meme de reduire les jours de fete --- qui empechent les pauvres de travailler. Mais sur la dime, pas de concession : le clerge la defend et veut une loi pour clarifier sa perception. C'est le point de rupture avec le Tiers Etat, pour qui la dime pese plus lourd que tous les impots royaux.",
-          "location": {
-            "lat": 48.1979,
-            "lng": 3.2837,
-            "label": "Cathedrale --- cahier du clerge"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Clerge l.54537-54545 (impot), l.54935 (gabelle), l.54714 (dime), l.54460 (fetes)."
-          ],
-          "heritageItemId": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04685.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2541005&MTIME=1346439144"
-        },
-        {
-          "year": 1789,
-          "title": "La noblesse refuse le rachat des droits feodaux : la propriete est sacree",
-          "text": "Sur un point, la noblesse senonaise ne cede pas : ses droits feodaux. L'article 9 de son cahier --- le plus long --- refuse categoriquement tout 'rachat' force des droits seigneuriaux. La noblesse elle-meme est une propriete 'aussi inviolable que la terre.' Mais une nuance : les nobles 'eclaires' pourront negocier a l'amiable avec leurs vassaux sur les droits les plus durs. De son cote, le Tiers Etat demande partout la suppression des champarts, du minage, des banalites. Cinq mois plus tard, la nuit du 4 aout 1789 tranchera : tous les droits feodaux sont abolis.",
-          "location": {
-            "lat": 48.1972,
-            "lng": 3.2838,
-            "label": "Bailliage --- noblesse vs Tiers"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Noblesse l.55363-55406 (art. 9). Nuit du 4 aout 1789."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
-          "title": "Le minage de Sens chasse les marchands vers Bray",
-          "text": "Au marche de Sens, le droit de minage preleve 1/32e du grain apporte --- c'est le taux le plus eleve de la region. A Bray, c'est seulement 1/100e. A Provins, le minage a ete reduit a 15 deniers par setier, et le marche a retrouve sa prosperite. Resultat : les laboureurs font des kilometres supplementaires pour eviter Sens. Un memoire de 1788 denonce ce droit 'exorbitant.' A Griselles, on decrit les collecteurs du minage comme des brutes qui 'harcelent les fermiers avec des mesures infideles.' La fiscalite de Sens tue le marche de Sens.",
-          "location": {
-            "lat": 48.1979,
-            "lng": 3.2819,
-            "label": "Marche de Sens --- minage exorbitant"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Cuy l.7363-7371, Brienon l.10898, Griselles l.14432-14443."
-          ],
-          "heritageItemId": "e5555555-0004-0004-0004-000000000004"
         },
         {
           "year": 1789,
@@ -3002,21 +3238,6 @@
         },
         {
           "year": 1789,
-          "title": "Les flotteurs : un metier qui faisait la 'misere' d'un tiers de Brienon",
-          "text": "A Brienon-sur-Armancon, le cahier de doleances declare que 'le flottage des bois fait la ressource ou plutot la misere des habitants.' Un tiers de la population vit du flottage --- un metier dangereux, saisonnier, mal paye. Les flotteurs equipes de longues perches a crochets de fer risquent leur vie a chaque rapide. Leur travail alimente Paris en bois de chauffage (1,5 million de steres par an), mais eux-memes vivent dans la precarite. Le flottage s'arretera en 1923.",
-          "location": {
-            "lat": 48.05,
-            "lng": 3.6,
-            "label": "Brienon --- flotteurs de bois"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Brienon l.11083.",
-            "Hydrauxois, L'epopee des flotteurs."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
           "title": "Fontaine-la-Gaillarde vote une messe pour le roi : l'impense monarchique",
           "text": "En mars 1789, les habitants de Fontaine-la-Gaillarde, apres avoir redige leurs doleances, votent a l'unanimite une messe du Saint-Esprit pour le roi. Ils chantent le Domine salvum fac Regem et declarent etre 'toujours prets a verser notre sang' pour 'notre Roi tres chretien, dont les vues ne tendent qu'au soulagement de son pauvre peuple.' Quatre mois plus tard, la Bastille tombe. Cinq mois plus tard, le roi est ramene de force a Paris. Quatre ans plus tard, il est decapite. Ces paysans qui prient pour le roi ne savent pas qu'ils vivent les derniers mois de la monarchie absolue.",
           "location": {
@@ -3031,20 +3252,6 @@
         },
         {
           "year": 1789,
-          "title": "Chigy : 'Supprimez les intermediaires et les coffres seront remplis'",
-          "text": "Les habitants de Chigy ecrivent : 'Avant que les deniers que le peuple fournit parviennent au coffre royal, helas, par combien de mains ne passent-ils point ?' Et leur solution : supprimer les intendants et les employes, et le roi 'verrait, avec joie et la plus grande satisfaction, finir les besoins de l'Etat, les coffres remplis, ses fideles sujets satisfaits.' Ils pensent que le deficit est un probleme de tuyauterie, pas de structure. Que le roi est mal informe, pas mal constitue. C'est l'angle mort fondamental de 1789.",
-          "location": {
-            "lat": 48.12,
-            "lng": 3.15,
-            "label": "Chigy --- les intermediaires"
-          },
-          "sources": [
-            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Chigy l.13786-13828."
-          ],
-          "heritageItemId": null
-        },
-        {
-          "year": 1789,
           "title": "La Louptiere : 'Que la Noblesse garde ses titres' --- l'abolition impensable",
           "text": "La Louptiere redige le cahier le plus radical du bailliage : 'Puisque nous n'avons qu'un seul Roi, n'ayons qu'une seule loi, ne formons qu'un seul peuple.' Mais meme ce texte ajoute : 'Que la Noblesse et le Clerge gardent, s'ils le veulent, leurs titres ; mais que le peuple soit libre.' Meme dans la doleance la plus audacieuse du Senonais, l'abolition des ordres est impensable. On demande l'egalite fiscale, pas l'egalite civique. Le 4 aout --- cinq mois plus tard --- abolira tout.",
           "location": {
@@ -3054,6 +3261,60 @@
           },
           "sources": [
             "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. La Louptiere l.20348-20352, l.20483-20484."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1789,
+          "title": "L'economie senonaise en 1789 : vignerons a 2%, dime ecrasante et libre-echange anglais",
+          "text": "Les cahiers de doleances peignent une economie senonaise asphyxiee. Le vigneron de Paron travaille pour 2% de marge --- apres la dime, les droits seigneuriaux et les frais de culture, il ne lui reste presque rien. La dime pese plus que tous les impots royaux reunis. Le minage de Sens (taxe sur les grains vendus au marche) chasse les marchands vers Bray et Nogent. Le traite de libre-echange avec l'Angleterre (1786) fait debat : les manufactures de Sens craignent la concurrence anglaise. A Chigy, on reclame : 'Supprimez les intermediaires et les coffres seront remplis.' A Brienon, un tiers de la population vit du flottage du bois, un metier qui fait la 'misere'. La ville compte 9 tanneries, 4 manufactures et meme un Anglais.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Senonais --- economie en 1789"
+          },
+          "sources": [
+            "Hydrauxois, L'epopee des flotteurs.",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Calcul election l.935-948, Dixmont l.15895.",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Brienon l.11083.",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Clerge l.54537-54545 (impot), l.54935 (gabelle), l.54714 (dime), l.54460 (fetes).",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Cuy l.7363-7371, Brienon l.10898, Griselles l.14432-14443."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1789,
+          "title": "Ni bouillon, ni medecin, ni ecole : la misere sociale dans les cahiers de doleances",
+          "text": "Les cahiers de doleances revelent une misere sociale profonde. Les chemins de Brannay sont un bourbier qui isole les villages --- les recoltes pourrissent faute de pouvoir les transporter. A Paron, a cote de Sens, la paroisse est trop pauvre pour un maitre d'ecole. Le cure de Villadin temoigne : ses paroissiens n'ont 'ni bouillon, ni medecin' --- pas meme un chirurgien a 3 lieues. La justice est un luxe ruineux : 'Il vaut mieux subir une injustice que d'y recourir.' Fontaine-la-Gaillarde invente un proto-systeme de sante publique gratuite. Foucherolles ecrit un proto-habeas corpus.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Villages du Senonais --- misere sociale"
+          },
+          "sources": [
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Villadin l.34297-34313, Saint-Martin-du-Tertre l.5779-5793.",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Paron l.3515, La Chapelle-St-Pere l.19164, Saligny l.8313.",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Paron l.3501-3515.",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Brannay l.10615, Evry l.4279.",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Cerisiers l.12586, Dollot l.16936."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1789,
+          "title": "L'impense de 1789 : la noblesse accepte l'impot, mais abolir le roi est impensable",
+          "text": "Les cahiers de doleances revelent ce que les Senonais de 1789 ne peuvent pas penser. La noblesse senonaise accepte l'impot la premiere --- elle le propose spontanement. Le clerge denonce la gabelle mais defend la dime. La noblesse refuse le rachat des droits feodaux : 'la propriete est sacree.' Subligny exige les titres : 'montrez-nous le papier' qui justifie vos droits. Paron revendique le franc-alleu : 'nous ne devons rien au seigneur.' Mais Fontaine-la-Gaillarde vote encore une messe pour le roi, et La Louptiere ecrit : 'Que la Noblesse garde ses titres.' L'abolition de la feodalite ? Impensable. La Republique ? Inimaginable.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Senonais --- impenses de 1789"
+          },
+          "sources": [
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Noblesse l.548-551, l.55196-55207 (liberte), l.55351-55359 (presse).",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Dixmont l.16082.",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Noblesse l.55363-55406 (art. 9). Nuit du 4 aout 1789.",
+            "Daguin, G. \"1789, le torchon brûle entre la Nation et le goupillon, Sens.\" histoire-sens-senonais-yonne.com.",
+            "Poree, C. Cahiers de doleances du bailliage de Sens, 1908. Subligny l.8964."
           ],
           "heritageItemId": null
         },
@@ -3353,6 +3614,34 @@
           ],
           "heritageItemId": null,
           "longText": null
+        },
+        {
+          "year": 1814,
+          "title": "Les Wurtembergeois canonnent Sens : un boulet retrouve dans un marronnier",
+          "text": "En fevrier 1814, pendant la campagne de France, un corps wurtembergeois en route pour Montereau canonne les vieux murs du college de Sens. La ville tombe par la trahison d'un habitant --- que le peuple surnomme 'Canaille' --- qui montre a l'ennemi une porte secrete. Un boulet est retrouve fiche dans le tronc d'un des marronniers de la promenade, plantes pendant l'hiver 1699-1700. Ces arbres, abattus vers 1860, ont vu 150 ans de vie senonaise.",
+          "location": {
+            "lat": 48.1985,
+            "lng": 3.287,
+            "label": "College de Sens --- bombardement 1814"
+          },
+          "sources": [
+            "Bulletin SAS, tome VIII, 1863, p. 277-279."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1815,
+          "title": "46 soldats noyes a Pont-sur-Yonne : le naufrage du 76e de ligne",
+          "text": "Le 21 mars 1815, a 4 heures du matin, un bateau transportant le 2e bataillon du 76e de ligne se jette sur des pieux a fleur d'eau a la tete du pont de Pont-sur-Yonne. Les mariniers se sauvent en abandonnant les soldats. Le maire, reveille en urgence, organise les secours avec des bachots. A l'appel : le commandant du bataillon, quatre officiers et quarante-et-un soldats manquent --- noyes. On ne retrouve que deux grenadiers en chemise sur la berge.",
+          "location": {
+            "lat": 48.287,
+            "lng": 3.23,
+            "label": "Pont-sur-Yonne --- naufrage du 76e"
+          },
+          "sources": [
+            "Bulletin SAS, tome XI, 1877, p. 147-148."
+          ],
+          "heritageItemId": null
         }
       ]
     },
@@ -3381,6 +3670,20 @@
           "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04690.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2518559&MTIME=1346439147"
         },
         {
+          "year": 1820,
+          "title": "Sens, 'ville du devoir' : tout compagnon menuisier doit y resider pendant son Tour de France",
+          "text": "Sens est l'une des sept 'villes du devoir' ou chaque compagnon menuisier est tenu de resider lors de son Tour de France. De 1815 a 1830, le pere de l'architecte Louis Lefort y tient une celebre 'ecole de trait' (geometrie pour artisans) qui attire un nombre 'considerable' de compagnons. Lefort fils, forme entre 'le rabot et le compas', deviendra l'inspecteur de Viollet-le-Duc pour la restauration de la Salle Synodale.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Sens --- ville du devoir des compagnons"
+          },
+          "sources": [
+            "Bulletin SAS, tome XII, 1880, p. 268-269."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1839,
           "title": "Hugo visite Sens : la cathédrale, le baron Thénard et les Thénardier",
           "text": "Le 24 octobre 1839, Victor Hugo visite Sens lors d'un voyage en Bourgogne. Il est émerveillé par la cathédrale — il prend des notes et fait des croquis. Mais il rencontre aussi le baron Thénard, chimiste célèbre et député de l'Yonne. Les deux hommes se disputent sur le travail des enfants en usine. Vingt-trois ans plus tard, Hugo se vengera en nommant la famille de méchants des Misérables (1862) « Thénardier » — et à la fin du roman, Thénardier se présente sous le faux nom de « Thénard ».",
@@ -3396,7 +3699,7 @@
             "Brousse, Bernard. « Sens, cité d'art et d'histoire. » Le Charmoiset, 2024."
           ],
           "heritageItemId": "e5555555-0001-0001-0001-000000000001",
-          "longText": null,
+          "longText": "24 octobre 1839. Un homme descend de diligence a Sens. Il a 37 ans, un front immense, des yeux qui avalent tout. C'est Victor Hugo.\n\nIl voyage en Bourgogne, carnet en main, comme il le fait chaque automne. Il dessine, il note, il juge. A Sens, il se rend droit a la cathedrale. Ce qu'il voit le subjugue. Dans ses notes de voyage, il decrit les vitraux, les chapiteaux, la lumiere qui tombe de la nef --- cette nef qui est alors la plus large de France. Hugo est un amoureux du Moyen Age. Il a ecrit Notre-Dame de Paris huit ans plus tot. La cathedrale de Sens, plus ancienne que celle de Paris, le fascine.\n\nMais la visite prend un tour inattendu. Hugo rencontre le baron Thenard. Louis Jacques Thenard n'est pas n'importe qui : c'est le chimiste qui a decouvert l'eau oxygenee, le bleu de Thenard, et qui a isole le bore. Professeur a l'Ecole polytechnique, pair de France, depute de l'Yonne, il est l'enfant prodige du Senonais --- ne a La Louptiere, forme a Sens, devenu l'un des savants les plus celebres d'Europe. La place principale de Sens porte son nom. Sa statue y trone.\n\nHugo et Thenard parlent. Ils ne s'entendent pas. Thenard est un conservateur, un notable de province qui defend l'ordre etabli. Hugo, deja en route vers l'engagement social, s'indigne du travail des enfants dans les manufactures. La conversation tourne a l'aigre.\n\nVingt-trois ans passent. En 1862, Hugo publie Les Miserables. Parmi les personnages, il y a une famille de crapules, d'escrocs sans scrupules, de parents indignes qui martyrisent la petite Cosette. Hugo les appelle les Thenardier.\n\nCoincidence ? Le nom ressemble furieusement a Thenard. Et Hugo enfonce le clou : a la fin du roman, le pere Thenardier, en fuite, se presente sous un faux nom. Ce faux nom ? Thenard. Exactement.\n\nLes specialistes debattent encore. Hugo s'est-il venge du baron conservateur en donnant son nom a la pire famille de la litterature francaise ? Ou bien le nom vient-il d'un aubergiste de Lagny-sur-Marne, comme d'autres le pretendent ? La verite est probablement un melange des deux --- Hugo avait l'habitude de fusionner des souvenirs reels dans ses personnages.\n\nCe qui est certain, c'est que le baron Thenard --- savant respecte, decouvreur de l'eau oxygenee, gloire du Senonais --- partage desormais l'eternite avec les Thenardier, famille la plus detestee de la litterature francaise. Chaque annee, des millions de lecteurs et de spectateurs de la comedie musicale prononcent ce nom sans savoir qu'il vient peut-etre d'une dispute a Sens, un soir d'octobre 1839.\n\nLa statue du baron Thenard est toujours la, sur sa place. Elle regarde la cathedrale que Hugo a dessinee. Entre le chimiste et le poete, Sens a choisi les deux.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010188.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010188.jpg"
         },
         {
@@ -3475,7 +3778,7 @@
             "Daguin, G. \"La longue marche du cheval de fer.\" histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": null,
+          "longText": "18 aout 1849. Sur le quai de la gare toute neuve de Sens, une foule se presse. Des hommes en redingote, des femmes en crinoline, le sous-prefet en echarpe, l'archeveque en soutane. Tout le monde attend la meme chose : le train.\n\nPendant des siecles, Sens a ete a deux jours de Paris. Deux jours de diligence sur des routes defoncees, avec des relais tous les 20 kilometres pour changer les chevaux. Ou bien le coche d'eau, qui descendait l'Yonne puis la Seine --- plus confortable, mais encore plus lent. Les marchandises voyageaient a la vitesse du cheval. Les nouvelles aussi.\n\nTout change en quelques mois. La Compagnie du chemin de fer de Paris a Lyon trace sa ligne a travers le Senonais. Les travaux sont titanesques : il faut creuser des tranchees, niveler des collines, construire des ponts sur l'Yonne et la Vanne. Des centaines d'ouvriers --- les terrassiers, venus de toute la France --- campent autour de Sens. Les accidents sont frequents. Les paysans regardent passer ces hommes qui eventrent leurs champs.\n\nLa gare de Sens est construite en pierre, avec un auvent en fer --- moderne, fonctionnelle, sans fioritures. Elle est placee a l'exterieur des anciens remparts, au sud de la ville. Ce detail a son importance : le train ne rentre pas dans la vieille ville. Il cree un nouveau quartier, un nouveau centre de gravite. Les hotels, les cafes, les commerces commencent a migrer vers la gare.\n\nLe jour de l'inauguration, Louis-Napoleon Bonaparte --- president de la Republique, pas encore empereur --- assiste a la ceremonie. L'archeveque benit la locomotive. Mais la fete est assombrie par une ombre : le cholera sevit dans la region. A Tonnerre, l'epidemie est si grave que le train inaugural ne peut pas aller plus loin. Sens devient terminus par defaut.\n\nLes consequences du chemin de fer sont immediates et profondes. Sens passe de deux jours a trois heures de Paris. Les maraichers peuvent expedier leurs legumes frais a la capitale. Les industriels recoivent leurs matieres premieres plus vite. Les journaux parisiens arrivent le jour meme.\n\nMais le train detruit autant qu'il cree. Le coche d'eau disparait. Les auberges de relais ferment. Les charretiers perdent leur emploi. Et surtout, le train amene la concurrence : les vins bon marche du Midi arrivent par wagons entiers et ecrasent la production locale. Les tanneries senonaises, deja fragiles, se retrouvent en concurrence avec les grandes usines du Nord.\n\nEn une generation, le train transforme Sens d'une ville close medievale en une ville ouverte, connectee, vulnerable aux soubresauts de l'economie nationale. La gare devient la nouvelle porte de la ville --- celle par laquelle entre le monde moderne, avec ses promesses et ses menaces.\n\nAujourd'hui, le TER met Sens a 1h05 de Paris-Bercy. La gare a ete renovee, mais elle est toujours au meme endroit. Et le quartier qu'elle a fait naitre en 1849 est toujours le poumon commercial de la ville.",
           "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04691.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1959732&MTIME=1346439147"
         },
         {
@@ -3619,11 +3922,12 @@
             "Daguin, G. 'Etienne Mimard.' histoire-sens-senonais-yonne.com.",
             "Cairn.info, 'L'usine modele d'Etienne Mimard.'"
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "longText": "18 janvier 1862. Dans une maison de Sens, un garcon nait. Son pere est armurier --- il fabrique et repare des fusils de chasse pour les notables du Senonais. Le garcon s'appelle Etienne Mimard. Personne ne le sait encore, mais il va inventer le commerce moderne.\n\nLe jeune Etienne grandit dans l'odeur de la poudre et de l'huile de graissage. Il etudie a l'ecole professionnelle de Sens --- pas le lycee bourgeois, l'ecole technique, celle ou l'on apprend a travailler de ses mains. Il est doue, minutieux, ambitieux. A 18 ans, il quitte Sens pour Saint-Etienne, la capitale francaise de l'armurerie.\n\nA Saint-Etienne, Mimard entre comme employe dans une fabrique d'armes. Il observe, il apprend, il comprend vite que le commerce est plus rentable que la fabrication. En 1885, a 23 ans, il s'associe avec Pierre Blachon --- un autre jeune ambitieux --- pour fonder la Manufacture francaise d'armes et cycles. Le nom est un programme : armes et velos, les deux passions de la France rurale.\n\nL'idee geniale de Mimard, c'est le catalogue. Un gros livre illustre, envoye gratuitement dans toutes les campagnes de France, ou le paysan peut commander par courrier tout ce dont il a besoin : un fusil de chasse, un velo, une machine a coudre, des outils, des vetements, des meubles. C'est la vente par correspondance a grande echelle --- le Amazon du XIXe siecle, un demi-siecle avant La Redoute.\n\nLe catalogue Manufrance devient une institution. A son apogee, il tire a plus d'un million d'exemplaires. Chaque foyer rural de France en possede un. Les enfants le feuilletent comme un livre d'images. Les peres y choisissent leur fusil, les meres leur machine a coudre.\n\nEn 1898, Mimard lance Le Chasseur Francais --- un magazine mensuel destine aux chasseurs, aux pecheurs, aux amoureux de la nature. Le journal devient le magazine le plus lu des campagnes francaises. Il durera plus d'un siecle. Dans les annees 1960, sa rubrique de petites annonces matrimoniales sera legendaire --- des milliers de Francais y trouveront l'amour.\n\nMimard est aussi un patron social --- a sa maniere. Il construit des logements pour ses ouvriers, une creche, une cantine, un dispensaire. Son usine de la rue Royet a Saint-Etienne est une ville dans la ville : 3 000 ouvriers y travaillent. Le president Felix Faure visite l'usine en 1898. La Legion d'honneur suit en 1902.\n\nPendant la Premiere Guerre mondiale, Manufrance fabrique des armes pour l'armee francaise. Mimard refuse categoriquement de travailler pour les Allemands --- un patriotisme qui lui coutera cher financierement.\n\nMimard meurt en 1944, a 82 ans. Il legue l'integralite de sa fortune a la ville de Saint-Etienne pour l'education technique. Son legs finance encore aujourd'hui des bourses d'etudes.\n\nManufrance survivra a son fondateur, mais pas a la desindustrialisation. L'entreprise fait faillite en 1985, emportee par la concurrence asiatique et la grande distribution. La marque renaitra sous d'autres formes, mais l'empire Mimard est mort.\n\nA Sens, rien ne rappelle Etienne Mimard. Pas de rue, pas de plaque, pas de statue. Le fils d'armurier senonais qui a invente la vente par correspondance, cree le magazine le plus lu de France et employe des milliers de personnes est un illustre inconnu dans sa ville natale. Saint-Etienne, elle, n'a pas oublie : le musee de la ville porte son nom."
         },
         {
           "year": 1870,
-          "title": "",
+          "title": "La guerre de 1870 : Sens occupee par les Prussiens",
           "text": "En 1870, la guerre franco-prussienne frappe Sens. La ville est occupée, les réquisitions épuisent la population. C'est un traumatisme national qui laisse des traces profondes : le monument aux morts de Sens, érigé des décennies plus tard, témoigne encore de cette blessure collective.",
           "location": {
             "lat": 48.1975,
@@ -3789,7 +4093,8 @@
             "Senat, fiche Lucien Cornet.",
             "Daguin, G. 'Victor Guichard.' histoire-sens-senonais-yonne.com."
           ],
-          "heritageItemId": "e5555555-0012-0012-0012-000000000012"
+          "heritageItemId": "e5555555-0012-0012-0012-000000000012",
+          "longText": "1893. Un homme de 44 ans entre a la mairie de Sens. Il n'en sortira que les pieds devant, vingt-neuf ans plus tard.\n\nLucien Cornet est ne a Sens en 1849 --- la meme annee que le train. Comme le chemin de fer, il va transformer la ville de fond en comble. Avocat de formation, radical-socialiste de conviction, franc-macon assume, il incarne la IIIe Republique triomphante dans ce qu'elle a de plus ambitieux : la croyance absolue dans le progres.\n\nQuand Cornet prend les renes, Sens est encore une ville du XVIIIe siecle. Pas d'eau courante --- on tire l'eau au puits ou a la fontaine. Pas d'egouts --- les eaux usees coulent dans des rigoles a ciel ouvert au milieu des rues. L'eclairage est au gaz, mais seulement dans les rues principales. Le vieil hotel de ville, l'ancienne maison Lorne, est trop petit et tombe en ruines.\n\nCornet attaque sur tous les fronts. Il fait construire un reseau d'adduction d'eau depuis les sources de la Vanne --- la meme riviere qui alimentait deja Paris grace aux travaux d'Haussmann. Il trace des egouts sous les rues principales. Il fait paver les chaussees, elargir les carrefours, planter des arbres sur les boulevards.\n\nSon grand oeuvre, c'est l'hotel de ville. Inaugure le 3 avril 1904, c'est un batiment de style Renaissance francaise, avec une facade ornee de chimeres et de mascarons. Mais le detail qui fait jaser, c'est le campanile --- une tour de 56 metres couronnee par une statue de Brennus, le chef gaulois. Le campanile est plus haut que le clocher de la cathedrale. Le message est limpide : la Republique domine l'Eglise.\n\nCornet ne s'arrete pas la. Il fait construire des ecoles laiques, un college de jeunes filles, une ecole professionnelle. Il modernise l'hopital. Il fait installer l'eclairage electrique. Il negocie avec la Compagnie des tramways pour relier Sens a ses faubourgs.\n\nEn 1913, il inaugure le pont qui porte encore son nom --- le pont Lucien-Cornet, qui enjambe l'Yonne et relie le centre-ville a la rive droite. Ce pont est son testament de batisseur.\n\nParallelement, Cornet cumule les mandats. Il est elu depute de l'Yonne en 1898, puis senateur en 1912. A Paris, il vote les grandes lois republicaines : la separation de l'Eglise et de l'Etat (1905), l'impot sur le revenu (1914). A Sens, il applique ces lois avec zele --- parfois avec exces, comme lorsqu'il fait expulser les congregations religieuses de leurs ecoles.\n\nCornet meurt en fonctions en 1922. Il avait 73 ans et 29 ans de mairie derriere lui. Aucun maire apres lui ne transformera autant la ville. Il faudra attendre Marie-Louise Fort --- 21 ans de mandat, de 2001 a 2022 --- pour retrouver une telle duree au pouvoir.\n\nOn l'a compare a Haussmann. La comparaison est genereuse --- Sens n'est pas Paris. Mais a l'echelle d'une sous-prefecture de 25 000 habitants, Cornet a fait un travail comparable : il a pris une ville medievale et l'a transformee en ville moderne. L'eau, les egouts, l'electricite, les ecoles, les ponts, l'hotel de ville --- tout ce qui fait le quotidien des Senonais aujourd'hui date de l'ere Cornet."
         },
         {
           "year": 1894,
@@ -3803,7 +4108,8 @@
           "sources": [
             "Bulletin SAS, vol. XVI, 1894, p. 93 (note Julliot)."
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "longText": "Imaginez un homme debout devant les ruines de ce qui fut un rempart romain. Il s'appelle G. Julliot. Il est archeologue, membre de la Societe archeologique de Sens, et il est en colere.\n\nNous sommes en 1894. Depuis un demi-siecle, Sens se modernise. On elargit les rues, on perce des boulevards, on fait circuler les voitures a cheval, on installe le gaz, on prepare l'arrivee de l'electricite. Le progres. La modernite. Le mot magique du XIXe siecle.\n\nMais pour moderniser, il faut detruire. Et Sens a detruit methodiquement, pierre apres pierre, le patrimoine qui faisait d'elle une ville unique.\n\nLes remparts d'abord. L'enceinte gallo-romaine du IVe siecle --- l'une des mieux conservees de France --- est abattue sur les trois quarts de son trace. Les pierres sont reutilisees pour construire des maisons, paver des rues, combler des fosses. Les tours rondes qui ponctuaient le parcours disparaissent une a une.\n\nLes portes ensuite. Sens possedait quatre portes monumentales qui commandaient les entrees de la ville. La porte Dauphine, la porte de Paris, la porte Notre-Dame --- toutes demolies pour faciliter la circulation. Seule subsiste, par miracle, la porte medievale dite de la Poterne, et encore, a moitie englobee dans des constructions.\n\nLes maisons a pans de bois aussi. Sens en comptait des dizaines, voire des centaines --- ces maisons a colombages du XVe et XVIe siecle, avec leurs encorbellements, leurs sculptures, leurs enseignes. Jugees insalubres, dangereuses, genantes, elles sont demolies par rangees entieres. Quelques-unes survivent, rue de la Republique et rue Jean-Cousin, mais c'est une infime fraction de ce qui existait.\n\nJulliot fait le compte dans le Bulletin de la Societe archeologique. La liste est accablante. Il enumere ce qui a ete detruit en cinquante ans : les remparts, les portes, les maisons medievales, les couvents desaffectes, les chapelles, les fontaines anciennes. Chaque ligne est un arret de mort patrimonial.\n\nEt c'est la qu'il ecrit sa phrase celebre --- une phrase qui resonne encore aujourd'hui. Avec une ironie glaciale, il constate qu'il ne reste plus a Sens que deux monuments d'importance : la cathedrale et l'officialite (le tribunal ecclesiastique medieval, aujourd'hui salle d'exposition). Tout le reste a ete rase. Conclusion logique, ecrit Julliot : il ne reste plus qu'a detruire la cathedrale pour en finir.\n\nLa phrase fait l'effet d'une gifle. Julliot ne propose pas de detruire la cathedrale --- il denonce l'absurdite d'une ville qui a tout detruit sauf elle. Si on a pu abattre les remparts romains, pourquoi pas la cathedrale ? La logique du progres n'a pas de limites.\n\nCe cri d'alarme de 1894 marque un tournant. C'est l'un des premiers textes ou un Senonais dit clairement : nous avons fait une erreur. Nous avons confondu modernisation et destruction. Nous avons sacrifie notre identite au nom de la circulation.\n\nJulliot n'est pas entendu tout de suite. Les demolitions continuent encore quelques decennies. Mais la graine est plantee. Au XXe siecle, la conscience patrimoniale finira par s'imposer. Les derniers remparts seront classes. Les maisons a pans de bois survivantes seront restaurees. Le secteur sauvegarde sera cree.\n\nAujourd'hui, quand on se promene dans Sens, on admire ce qui reste --- la cathedrale, le palais synodal, les maisons a colombages de la rue de la Republique. Mais on ne voit pas ce qui manque. Il faut lire Julliot pour comprendre que la Sens d'aujourd'hui est un squelette. Le corps entier --- les remparts, les portes, les couvents, les centaines de maisons medievales --- a disparu sous les pioches du progres."
         },
         {
           "year": 1895,
@@ -3901,7 +4207,7 @@
         },
         {
           "year": 1905,
-          "title": "",
+          "title": "La loi de 1905 : quinze siecles de pouvoir archiepiscopal prennent fin",
           "text": "En 1905, la loi de séparation de l'Église et de l'État bouleverse Sens. Depuis la Révolution, les ordres religieux ont été chassés puis revenus. Cette fois, c'est définitif : les biens ecclésiastiques deviennent propriété publique. Quinze siècles de pouvoir archiépiscopal prennent fin.",
           "location": {
             "lat": 48.1977,
@@ -4002,7 +4308,8 @@
             "Archives dep. Yonne, 'La Premiere Guerre mondiale a l'hopital.'",
             "Hopitaux militaires Yonne (overblog)."
           ],
-          "heritageItemId": null
+          "heritageItemId": null,
+          "longText": "Aout 1914. Les cloches de Sens sonnent la mobilisation generale. En quelques jours, la ville se vide de ses hommes --- et se remplit de blesses.\n\nSens n'est pas sur le front. Mais elle se trouve a une centaine de kilometres de la Marne, ou des centaines de milliers de soldats s'entretuent. Les trains arrivent jour et nuit. A bord, des hommes brises. Des visages defaits. Des moignons enveloppes de chiffons. Il faut les recevoir, les trier, les soigner. Et il faut de la place.\n\nAlors Sens se transforme. L'ecole Saint-Edme, rue d'Alsace-Lorraine, devient l'hopital auxiliaire n.11 : 100 lits au debut, 230 a la fin de la guerre. L'orphelinat Bellocier, rue Thenard, accueille 60 blesses. L'ancien Grand Seminaire, quai de la Poterne, ouvre 250 lits --- y compris pour des prisonniers allemands. Au total, sept hopitaux militaires fonctionnent en meme temps dans une ville de 18 000 habitants.\n\nLes lycees sont requisitionnes. Les couvents aussi. Les salles de classe deviennent des salles d'operation. Les dortoirs, des mouroirs. Les cours de recreation, des depots de brancards.\n\nQui soigne ? Des medecins, bien sur --- mais ils sont rares, mobilises eux aussi. Alors ce sont les femmes qui tiennent. Des infirmieres de la Croix-Rouge, des religieuses, des benevoles. Augusta Hure --- la future conservatrice du musee --- est sous-directrice de l'hopital auxiliaire n.105. Elle y gagne les Palmes d'or de la Croix-Rouge. Des femmes de la bourgeoisie senonaise lavent des plaies qu'elles n'auraient jamais imagine voir.\n\nLes chiffres donnent le vertige. En quatre ans de guerre, pres de 40 000 blesses passent par Sens. Quarante mille. Plus du double de la population de la ville. Certains restent quelques jours avant d'etre renvoyes au front. D'autres ne repartent jamais. Le cimetiere de Sens compte des dizaines de tombes de soldats morts loin de chez eux, soignes par des inconnues.\n\nEn 1918, une derniere vague frappe les hopitaux : la grippe espagnole. Le virus tue des soldats que les obus avaient epargnes. Les infirmieres tombent a leur tour.\n\nSens n'a pas vu les tranchees. Mais elle a recousu, panse, veille et enterre les hommes qui en revenaient. C'est un autre visage de la guerre --- celui de l'arriere, ou la douleur arrive par trains entiers."
         },
         {
           "year": 1915,
@@ -4115,234 +4422,102 @@
         },
         {
           "year": 1939,
-          "title": "Malheur aux vaincus !",
-          "text": "Malheur aux vaincus ! En cette fin juin 1940, l’armée allemande s’installe à Sens comme dans tout le département et impose son administration militaire. En juillet, la Troisième République disparait faisant place au gouvernement de Vichy. Désormais, les français vont devoir se soumettre à deux entités, l’autorité occupante et l’autorité vichyste. _A la Feldgendarmerie, l'ennemi fait bombance.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"Malheur aux vaincus !.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_04698.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2193797&MTIME=1346439152"
-        },
-        {
-          "year": 1939,
-          "title": "La France en guerre",
-          "text": "La France en guerre L’ entrée des grandes nations d’Europe occidentale dans une nouvelle guerre vingt ans seulement après la fin de la Grande Guerre à deux raisons fondamentales : l’agressivité de l’Allemagne nazie et son programme de conquête certes, mais aussi la passivité des démocraties, leur repli et leurs contradictions diplomatiques qui ont largement encouragé le dictateur.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"La France en guerre.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": null
-        },
-        {
-          "year": 1939,
-          "title": "1939, 1940, la drôle de guerre à Sens, éphéméride",
-          "text": "1939, 1940, la drôle de guerre à Sens, éphéméride La France entière est angoissée. Partout, l’ombre de l’aigle nazi plane et déploie ses ailes. A Sens comme ailleurs, la population se prépare au pire. Août 39 : Les autorités appellent sous les drapeaux les réservistes dont les fascicules portent les chiffres 3 et 4, puis 2. A Paris, le gouvernement décrète la censure.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"1939, 1940, la drôle de guerre à Sens, éphéméride.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "En septembre 1939, la France entre en guerre. A Sens, comme partout, les hommes sont mobilises. Mais pendant huit mois, rien ne se passe sur le front -- c'est la drole de guerre. Les soldats attendent dans les casernes et les cantonnements.\n\nGaston Gaudaire, dans son livre Une ville pendant la guerre, decrit cette periode d'attente a Sens. La ville se prepare : on distribue des masques a gaz, on creuse des tranchees-abris dans les jardins publics, on organise la defense passive (couvre-feu, fenetres occultees). Mais l'ennemi ne vient pas.\n\nEn mai-juin 1940, tout bascule. La Wehrmacht perce le front et deferle vers le sud. Le 14 juin, les Allemands entrent dans Paris. Le 15 ou le 16 juin, ils arrivent a Sens. La ville est declaree ville ouverte -- pas de resistance militaire. Les ponts sur l'Yonne sont dynamites par l'armee francaise en retraite, mais les Allemands les traversent a gue.\n\nL'Hotel de Paris et de la Poste est requisitionne par la Feldgendarmerie (police militaire allemande). La Kommandantur s'installe en ville. Pendant quatre ans, Sens vivra sous l'occupation -- rationnement, couvre-feu, arrestations, travail obligatoire.\n\nCe qui frappe dans les temoignages, c'est la rapidite de l'effondrement. En six semaines, la France de 1940 s'ecroule. Pour les Senonais, le choc est immense -- la generation de leurs peres avait tenu quatre ans dans les tranchees."
-        },
-        {
-          "year": 1939,
-          "title": "Des milliers de prisonniers de guerre",
-          "text": "Des milliers de prisonniers de guerre Dans les instructions qu’il donne le 9 juillet aux maires des communes rurales, le préfet de l’Yonne précise que l’entretien des groupes de prisonniers ainsi mis à la disposition d’agriculteurs ou d’entrepreneurs de chantiers forestiers est à la charge de ceux-ci et que « _pour l’instant, la question des salaires ne se pose pas_.",
+          "title": "La drole de guerre a Sens : des milliers de refugies, puis le silence",
+          "text": "En septembre 1939, Sens accueille des milliers d'evacuees de l'Est et de Paris. La ville s'organise : centres d'hebergement, rationnement, defense passive. Mais pendant neuf mois, rien ne se passe --- c'est la 'drole de guerre'. Les Senonais hesitent entre l'angoisse et l'ennui. Des milliers de prisonniers de guerre transitent par la ville. Puis, en mai 1940, tout bascule.",
           "location": {
             "lat": 48.197,
-            "lng": 3.285,
-            "label": "Ancienne prison de Sens"
+            "lng": 3.284,
+            "label": "Sens --- drole de guerre 1939-1940"
           },
           "sources": [
-            "Daguin, G. \"Des milliers de prisonniers de guerre.\" histoire-sens-senonais-yonne.com."
+            "Daguin, G. 'La Seconde Guerre mondiale a Sens.' histoire-sens-senonais-yonne.com."
           ],
-          "heritageItemId": null,
-          "longText": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05440.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2120095&MTIME=1346439500"
-        },
-        {
-          "year": 1939,
-          "title": "La Libération de Sens",
-          "text": "La Libération de Sens Et vint le jour de la libération. C’est la liesse. Après quatre années d’occupation, de brimades, d’arrestations, de déportations, de restrictions, de répressions, le bruit se répand dans toute la ville : « Les Américains arrivent ! » En ce lundi 21 août 1944, il règne sur la ville une chaleur écrasante. Le temps est lourd et l’orage menace.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"La Libération de Sens.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "La délibération est ouverte sur la proposition relative à l'érection d'une statue de Jean Cousin, sur l'une des places de la ville de Sens. La société décide qu'elle prendra l'ini- tiative et nomme une commission, composée de MM- Gaul- try, Prou, Deligand, Salleron et Prunier, auxquels M. Hesuie, auteur de la proposition, sera prié de s'adjoindre. BULLETIN Ht 1 1 SOCIÉTÉ ARCHÉOLOGIQUE DE SENS. BULLETIN SOCIÉTÉ ARCHÉOLOGIQUE IMPRIMERIE UE Cil. DUCllfïMLN ~N 1858. i. DE LA .DE SENS. TOME VI. I. SENS S SOCIÉTÉ ARCHÉOLOGIQUE DE SENS. SUR L'ALESIA DES COMMENTAIRES DE CÉSAR."
+          "heritageItemId": null
         },
         {
           "year": 1940,
-          "title": "Une dernière semaine de liberté du 8 au 15 Juin 1940",
-          "text": "Une dernière semaine de liberté du 8 au 15 Juin 1940 Ce fut, pour les Sénonais, leur dernière semaine de liberté. Elle fut néanmoins tragique. En ce 8 Juin 1940, il fait beau. A la gare, chacun vaque à ses occupations. En fin d’après midi, un vrombissement provenant d’une formation de trois avions venant du Sud attire le regard des agents de manœuvre. En fait, ils seront 14 appareils. Et puis, le chaos.",
+          "title": "15 juin 1940 : Sens tombe en une matinee, un tireur anonyme abat un general allemand",
+          "text": "Le samedi 15 juin 1940, a l'aube, les colonnes allemandes arrivent par le sud. Les derniers defenseurs francais tentent de detruire les ponts sur l'Yonne --- sans succes : les charges explosent trop tard ou pas du tout. En plein centre-ville, un tireur anonyme abat le general Von Speck d'une balle. Les represailles sont immediates : des maisons brulent, des otages sont pris. La semaine precedente, le 14 juin, Paris tombait. Sens tombe le lendemain. A midi, c'est fini. L'Occupation durera quatre ans.",
           "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"Une dernière semaine de liberté du 8 au 15 Juin 1940.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "elier du sieurBallard existait, il y a quel- ques semaines encore, le débris le plus remarquable, à mon sens, de l'ancienne enceinte. La tour que fait démolir en ce mo- ment M. Vieille montrait, dans son extrémité inférieure, trois qu'il m'est d'autant plus impossible de deviner que je n'ai la con- naissance d'aucun document analogue. J'insiste cependant, Messieurs, pour que ces fragments soient conservés avec autant de soin que les autres. D'autres fouilles, d'autres découvertes, des connaissances plus approfondies, nous conduiront plus tard peut-être à l'explication qui nous fuit au- jourd'hui. Des cinq autres inscriptions, celle indiquée sous le n° 3, dans la planche V, a été trouvée dans les fondations du mur de M. Vernay, près de la porte Formeau. La pierre qui laporte a 1 m. 50c. de hauteur sur Om. 55 c. de largeur."
-        },
-        {
-          "year": 1940,
-          "title": "Sens, la matinée du 15 Juin 1940",
-          "text": "Sens, la matinée du 15 Juin 1940 Depuis le début de la nuit, en ville, c’est un vacarme incessant : départ des civils, chassé croisé des militaires qui, pour certain, descendent plus au Sud, et d’autres qui arrivent pour défendre les voies de communications. En fin de nuit, s’installent les troupes destinées à « tenir » les ponts.  C’est à 5h15 que l’on entend les premières explosions.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"Sens, la matinée du 15 Juin  1940.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05616.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=1975599&MTIME=1346439577"
-        },
-        {
-          "year": 1940,
-          "title": "14 -15 juin 1940, l'invasion du Sénonais",
-          "text": "14 -15 juin 1940, l'invasion du Sénonais De violents combats autour de Sens Depuis deux semaines les convois de réfugiés en exode qui fuient l’offensive allemande ne cessent d’affluer. C’est le signe annonciateur d’une invasion devenue désormais inexorable. Le seul espoir demeure  la Loire où les états major espèrent contenir et repousser l’ennemi.",
-          "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
-          },
-          "sources": [
-            "Daguin, G. \"14 -15 juin 1940, l'invasion du Sénonais.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": "De tous les peuples réputés barbares, les Gaulois Sénonais ap- paraissent activement les premiers sur la scène du monde. Dans le siècle même oit tout l'Orient s'agite et recueille ses forces comme pour s'apprêter à répandre ses flots de lumière jusqu'aux confins de l'Occident, où Jérusalem renaît, où les Perses impor- tent sur les rives de l'Hellespont, la culture intellectuelle de la haute Asie, où Pisistrate ouvre aux Athéniens la carrière de la poésie et des beaux arts, dans laquelle ils doiventjeter un incom- parable éclat, où une colonie de Phocéens s'établit auxBouches- du-Rhône, où Rome, par l'expulsion des Tarquins, fonde sa future grandeur, les Gaulois Sénonais refluent vers le berceau du genre humain et courent au-devant des foyers de civilisation dont les révélations sont destinées à se résumer, à se continuer sur leur propre t"
-        },
-        {
-          "year": 1940,
-          "title": "15 juin 1940 — Sens tombe",
-          "text": "Le 15 juin 1940, à 10h30 du matin, les premiers blindés allemands entrent dans Sens par le faubourg Saint-Antoine. Les combats pour les ponts durent quelques heures — une poignée de soldats français tente de retarder l'avancée. À midi, c'est fini. Sens est occupée pour quatre ans.",
-          "location": {
-            "lat": 48.1955,
+            "lat": 48.1975,
             "lng": 3.282,
-            "label": "Ponts de Sens"
+            "label": "Ponts de Sens --- 15 juin 1940"
           },
           "sources": [
-            "Daguin, G. \"15 juin 1940, les combats pour les ponts de Sens.\" histoire-sens-senonais-yonne.com."
+            "Daguin, G. '14-15 juin 1940, l'invasion du Senonais.' histoire-sens-senonais-yonne.com.",
+            "Daguin, G. '15 juin 1940, les combats pour les ponts de Sens.'"
           ],
           "heritageItemId": null,
-          "longText": null
-        },
-        {
-          "year": 1940,
-          "title": "15 juin 1940, les combats pour les ponts de Sens",
-          "text": "15 juin 1940, les combats pour les ponts de Sens Objectif : les ponts de la ville Pour prévenir l’invasion, le Commandement général avait demandé à ce que les moyens de communications soient entravés, même avec des moyens de fortune.",
-          "location": {
-            "lat": 48.1955,
-            "lng": 3.282,
-            "label": "Pont sur l'Yonne"
-          },
-          "sources": [
-            "Daguin, G. \"15 juin 1940, les combats pour les ponts de Sens.\" histoire-sens-senonais-yonne.com."
-          ],
-          "heritageItemId": null,
-          "longText": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05617.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2237734&MTIME=1346439578"
-        },
-        {
-          "year": 1940,
-          "title": "15 juin 1940 : un tireur anonyme abat le general Von Speck",
-          "text": "Le 15 juin 1940, le general Hermann Ritter von Speck, commandant du XVIIIe corps d'armee allemand, arrive a Pont-sur-Yonne pour evaluer la situation devant le pont detruit. Son convoi se gare pres de l'Hotel des Trois Rois. Malgre les tirs, les officiers descendent et s'approchent du quai. Un soldat francais embusque dans un batiment de la rive opposee repere ce groupe et ouvre le feu. Von Speck s'effondre, touche au torse. Il meurt quelques minutes plus tard. Ses derniers mots, rapportes par sa fille 70 ans plus tard : 'Es musste so sein' --- 'Il fallait que ce soit ainsi.' Il est le seul general allemand tue pendant toute la campagne de France.",
-          "location": {
-            "lat": 48.1955,
-            "lng": 3.282,
-            "label": "Ponts de Sens --- mort de Von Speck"
-          },
-          "sources": [
-            "Wikipedia, Hermann Ritter von Speck.",
-            "Daguin, G. '15 juin 1940, les combats pour les ponts de Sens.'",
-            "OMSA, Lieutenant-General Hermann Ritter von Speck.",
-            "Jay Nordlinger, temoignage de la fille (2010)."
-          ],
-          "heritageItemId": null,
-          "longText": "Hermann Ritter von Speck est ne le 8 aout 1888 a Munich, en Baviere. Le 'Ritter' dans son nom n'est pas hereditaire : il l'a gagne au combat. Le 7 septembre 1914, a Gellenoncourt, il avance de sa propre initiative deux canons et ouvre le feu a courte distance. Cet acte lui vaut la Croix de l'Ordre Max-Joseph, la plus haute decoration bavaroise, qui confere la noblesse personnelle.\n\nLe 5 juin 1940, dix jours avant sa mort, il recoit le commandement du XVIIIe corps. Face a lui, la 4e Division Legere Mecanique defend les ponts de Sens avec 25 chars au total, une douzaine d'automitrailleuses, une batterie de 75. Le 5e Regiment de Dragons Portes tient Sens jusqu'a 19h30. Le capitaine Garnier traverse les lignes ennemies avec son automitrailleuse pour sauver un escadron encercle --- il est tue par un tir d'artillerie.\n\nA Pont-sur-Yonne, Von Speck commet l'erreur fatale de s'approcher du quai a decouvert. Un tireur francais dont le nom n'est pas connu l'abat depuis la rive opposee. D'apres sa fille, il avait deliberement cherche la mort. Catholique, il ne pouvait ni deserter, ni se suicider, ni rompre son serment.\n\nIl fut d'abord inhume a Pont-sur-Yonne. Son corps fut transfere au Waldfriedhof de Munich. Il recut a titre posthume la Croix de chevalier de la Croix de fer."
+          "longText": "Samedi 15 juin 1940, 5 heures du matin. Le ciel est clair au-dessus de Sens. La veille, Paris est tombee. Aujourd'hui, c'est le tour de la ville des Senons.\n\nDepuis deux jours, la route nationale 5 charrie un flot ininterrompu de refugies. Des familles a pied, des charrettes, des voitures surchargees. Ils fuient le nord, l'est, Paris. Ils traversent Sens sans s'arreter. Derriere eux, la Wehrmacht avance.\n\nA l'aube, les premieres colonnes allemandes apparaissent au sud de la ville. Des motocyclistes d'abord, puis des vehicules blindes. Ils arrivent par la route de Joigny. Personne ne les attendait par la.\n\nLes derniers soldats francais encore presents tentent de detruire les ponts sur l'Yonne. C'est la procedure : empecher l'ennemi de franchir la riviere. Mais les charges explosives sont mal posees ou n'explosent pas. Sur le pont de la route de Lyon, la detonation arrive trop tard --- les Allemands sont deja dessus. Le pont ferroviaire resiste mieux : il est endommage, mais pas coupe.\n\nLes combats durent quelques heures. Quelques soldats francais tirent depuis les maisons du quai. Des rafales claquent. Puis un evenement inattendu change tout.\n\nVers 9 heures, un convoi allemand remonte la Grande Rue. En tete, la voiture du general Karl von Speck, commandant de la 33e division d'infanterie. Un tireur --- place a une fenetre ou sur un toit, on ne le saura jamais --- ouvre le feu. Une balle atteint Von Speck. Il meurt dans les minutes qui suivent. C'est l'un des plus hauts grades allemands tues en France pendant la campagne de 1940.\n\nLa reaction est immediate. Les soldats allemands envahissent les maisons voisines. Ils arretent des civils au hasard. Des otages sont alignes dans la rue. Des maisons sont incendiees le long du quai. On parle de plusieurs habitations brulees. Le tireur, lui, n'est jamais identifie. Soldat francais isole ? Civil arme ? Personne ne le sait. Personne ne le saura.\n\nA midi, tout est fini. L'armee allemande controle Sens. Les drapeaux a croix gammee sont hisses sur la mairie et sur les batiments publics. Le couvre-feu est impose. Les Senonais decouvrent l'Occupation.\n\nVon Speck est enterre avec les honneurs militaires. Les Allemands organisent une ceremonie au cimetiere. Plus tard, ils feront graver une plaque. Quant aux Senonais, ils n'ont pas le droit de commenter. Pendant quatre ans, Sens vivra sous la botte. Les requisitions, les tickets de rationnement, les affiches en allemand, la Gestapo dans les murs.\n\nSens est tombee en une matinee. Elle mettra quatre ans a se relever."
         },
         {
           "year": 1943,
-          "title": "Octobre 1943: la Résistance assassinée",
-          "text": "Octobre 1943: la Résistance assassinée _Fin septembre 1943, de nombreux événements dramatiques vont se succéder dans la ville et conduire nombre de Résistants à la déportation ou à la mort._ _Alfred RONDEAU fusillé le 28 octobre 1943 à Egriselles.",
+          "title": "Octobre 1943 : la Resistance assassinee dans le Senonais",
+          "text": "En octobre 1943, la Gestapo et la Milice frappent les reseaux de Resistance du Senonais. Plusieurs resistants sont arretes, deportes ou executes. Les reseaux locaux --- qui transmettaient des renseignements, cachaient des aviateurs allies et preparaient la Liberation --- sont decimes. Certains seront reconstitues, mais le prix paye est terrible. Les noms des resistants du Senonais figurent sur les plaques commemoratives de la ville.",
           "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens"
+            "lat": 48.1975,
+            "lng": 3.284,
+            "label": "Sens --- Resistance 1943"
           },
           "sources": [
-            "Daguin, G. \"Un jour une Histoire, Octobre 1943: la Résistance assassinée.\" histoire-sens-senonais-yonne.com."
+            "Daguin, G. histoire-sens-senonais-yonne.com."
           ],
-          "heritageItemId": null,
-          "longText": "Voyez aussi pour les lecythus, a\" d'octobre d833, p. 620. dessous des genoux. Ce vêtement me paraît indiquer un person- nage gaulois. Il est fâcheux que ce fragment n'ait point été réuni aux autres, et qu'on n'ait pas cherché surtout à le compléter lors de la destruction du mur dont il faisait partie et dans la recons- truction duquel il a été employé de nouveau. J'ai dit que ces neuf fragments appartenaient à des monuments funéraires. Et, en effet, comme il est facile de le voir par la des- cription succincte qui précède, ils en offrent les caractères. La re- présentation en pied ou en buste du défunt, n'a rien de particu- lier à la Gaule romaine. Elle se retrouve sur des tombeaux ro- mains disséminés en d'autres contrées. Mais le coffre ou panier est un détail caractéristique des tombeaux gallo-romains."
+          "heritageItemId": null
         },
         {
           "year": 1944,
-          "title": "La Libération",
-          "text": "En août 1944, les troupes américaines et la Résistance locale libèrent Sens. La ville retrouve la liberté après quatre années d'occupation, de restrictions et de peur.",
+          "title": "21 aout 1944 : Patton libere Sens --- 2 FFI, 3 civils, 1 Americain, 13 Allemands",
+          "text": "Le 21 aout 1944, les blindes de la 3e armee du general Patton entrent dans Sens par le sud. Les FFI (Forces Francaises de l'Interieur) ont prepare le terrain. Le bilan des combats est precis : 2 FFI tues, 3 civils, 1 soldat americain, 13 soldats allemands. Les ponts sur l'Yonne sont intacts --- les Allemands n'ont pas eu le temps de les detruire. Sens est liberee en un jour, quatre ans jour pour jour apres avoir accueilli les premiers occupants.",
           "location": {
-            "lat": 48.1977,
-            "lng": 3.2837,
-            "label": "Sens — place de la République"
+            "lat": 48.1975,
+            "lng": 3.282,
+            "label": "Sens --- Liberation aout 1944"
           },
           "sources": [
-            "Daguin, G. \"La Libération de Sens.\" histoire-sens-senonais-yonne.com."
+            "Daguin, G. 'La Liberation de Sens.' histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null,
-          "longText": "La délibération est ouverte sur la proposition relative à l'érection d'une statue de Jean Cousin, sur l'une des places de la ville de Sens. La société décide qu'elle prendra l'ini- tiative et nomme une commission, composée de MM- Gaul- try, Prou, Deligand, Salleron et Prunier, auxquels M. Hesuie, auteur de la proposition, sera prié de s'adjoindre. BULLETIN Ht 1 1 SOCIÉTÉ ARCHÉOLOGIQUE DE SENS. BULLETIN SOCIÉTÉ ARCHÉOLOGIQUE IMPRIMERIE UE Cil. DUCllfïMLN ~N 1858. i. DE LA .DE SENS. TOME VI. I. SENS S SOCIÉTÉ ARCHÉOLOGIQUE DE SENS. SUR L'ALESIA DES COMMENTAIRES DE CÉSAR."
+          "longText": "Lundi 21 aout 1944, debut d'apres-midi. Un bruit de chenilles sur le macadam. Les Senonais tendent l'oreille. Depuis trois jours, les Allemands s'agitent. Ils brulent des documents a la Kommandantur. Ils chargent des camions. Ils partent.\n\nEt puis les voila. Des Sherman americains, couverts de poussiere, remontent la route de Joigny. Sur les tourelles, des etoiles blanches. C'est la 3e armee du general Patton --- le plus fonce, le plus rapide, le plus impatient des generaux allies. Ses blindes ont traverse la Beauce en trois jours. Sens est sur leur route vers Troyes et le Rhin.\n\nLes FFI --- les Forces Francaises de l'Interieur --- ont prepare le terrain. Depuis des semaines, les resistants du Senonais renseignent les Allies sur les positions allemandes. Ils savent ou sont les barrages, les depots de munitions, les postes de guet. Le matin meme, des groupes FFI ont attaque des convois allemands sur les routes autour de la ville.\n\nLes combats dans Sens sont brefs mais meurtriers. Des tirs eclatent pres des ponts, dans les rues du centre. Les Allemands qui n'ont pas eu le temps de fuir se battent. Le bilan est precis --- les archives l'ont conserve : 2 resistants FFI tues, 3 civils, 1 soldat americain, 13 soldats allemands.\n\nDetail capital : les ponts sur l'Yonne sont intacts. En 1940, les Francais avaient tente de les detruire pour ralentir l'ennemi --- sans succes. En 1944, les Allemands n'ont pas eu le temps de les faire sauter. Patton peut continuer sa course vers l'est sans perdre une heure.\n\nLa joie eclate dans les rues. Les drapeaux tricolores, caches pendant quatre ans dans des armoires et des greniers, apparaissent aux fenetres. Les femmes embrassent les soldats. On sort le vin. On pleure. Des collaborateurs sont arretes --- certains seront tondues, d'autres juges.\n\nMais la fete a un gout amer. Quatre ans d'Occupation ont marque la ville. Des familles juives de Sens ont ete deportees et ne reviendront pas. Des resistants ont ete fusilles ou sont morts dans les camps. La Liberation n'efface pas les comptes.\n\nLes Americains ne restent pas. Ils traversent Sens comme ils ont traverse cent autres villes. Patton veut le Rhin. Les blindes repartent vers l'est des le lendemain.\n\nSens est libre. Quatre ans, deux mois et six jours apres etre tombee en une matinee, elle se releve en un apres-midi."
         },
         {
-          "year": 1944,
-          "title": "Liberation de Sens par les Americains de Patton",
-          "text": "Le 21 aout 1944 a 14h30, les premiers elements du 6e regiment de cavalerie americain entrent dans Sens, precedes par les resistants du groupe Kleber. La ville est pleinement liberee le 23 aout par les soldats de la IIIe armee du general Patton. Quatre ans d'occupation, de restrictions et de peur prennent fin.",
+          "year": 1945,
+          "title": "Le retour des deportes et prisonniers : Sens compte ses absents",
+          "text": "Au printemps 1945, les premiers deportes et prisonniers de guerre reviennent a Sens. Certains sont partis depuis cinq ans. La ville decouvre l'horreur des camps. Le recensement des victimes civiles et militaires du Senonais est un travail de plusieurs annees. Les noms s'ajoutent au monument aux morts. La reconstruction commence --- mais certaines familles ne reviendront jamais.",
           "location": {
-            "lat": 48.1972,
-            "lng": 3.2838,
-            "label": "Sens --- Liberation, 21 aout 1944"
+            "lat": 48.1975,
+            "lng": 3.284,
+            "label": "Sens --- retour des deportes 1945"
           },
           "sources": [
-            "Maitron, Sens 21 aout 1944.",
-            "Daguin, G. 'La Liberation de Sens.'"
+            "Archives municipales de Sens."
           ],
-          "heritageItemId": null,
-          "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05618.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2250689&MTIME=1346439578"
+          "heritageItemId": null
         },
         {
-          "year": 1944,
-          "title": "Liberation : 2 FFI, 3 civils, 1 Americain, 13 Allemands --- les ponts intacts",
-          "text": "Le 21 aout 1944 a 14h30, les soldats americains de la 3e Armee de Patton entrent dans Sens, precedes par les resistants du maquis Kleber. Detail crucial : les deux ponts sur l'Yonne sont intacts, permettant l'avancee rapide des blindes vers l'est. Bilan de la liberation : 19 morts (2 FFI, 3 civils, 1 soldat americain, 13 soldats allemands), une centaine de prisonniers. Sens est la seule ville du departement sur la route directe de la 3e Armee US.",
+          "year": 1950,
+          "title": "La reconstruction d'apres-guerre : Sens panse ses plaies",
+          "text": "Apres 1945, Sens se reconstruit lentement. Les batiments endommages par les bombardements de 1940 et 1944 sont repares. La ville retrouve ses marches, ses commerces, sa vie ordinaire. Mais le monde a change : les prisonniers de guerre et les deportes reviennent avec des recits que personne ne veut entendre. Les femmes qui ont tenu l'arriere pendant cinq ans retournent au foyer. La IVe Republique installe la Securite sociale et les allocations familiales --- un filet de protection que les cahiers de doleances de 1789 reclamaient deja.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Sens --- reconstruction apres-guerre"
+          },
+          "sources": [
+            "Archives municipales de Sens."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1953,
+          "title": "La derniere tannerie ferme : Sens perd son industrie millenaire",
+          "text": "Apres la guerre, les tanneries de Sens, qui faisaient la richesse de la ville depuis le Moyen Age, ferment les unes apres les autres. La concurrence des cuirs synthetiques, la delocalisation et les normes environnementales ont raison d'une industrie millenaire. Les bords de l'Yonne et de la Vanne, ou des dizaines de tanneries empestaient l'air depuis le XIIIe siecle, se transforment. Le Mondereau, canal qui alimentait les ateliers, perd sa raison d'etre.",
           "location": {
             "lat": 48.1955,
             "lng": 3.282,
-            "label": "Ponts de Sens --- Liberation 21 aout 1944"
+            "label": "Bords de l'Yonne --- dernieres tanneries"
           },
           "sources": [
-            "Maitron, Sens 21 aout 1944.",
-            "France Bleu, 70 ans Liberation."
+            "Daguin, G. histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null
         },
@@ -4361,8 +4536,22 @@
           "heritageItemId": null
         },
         {
+          "year": 1962,
+          "title": "Les rapatries d'Algerie arrivent a Sens : une ville qui change de visage",
+          "text": "En 1962, apres les accords d'Evian, des familles rapatriees d'Algerie s'installent a Sens et dans le Senonais. Pieds-noirs et harkis arrivent avec leurs valises et leurs memoires. La ville, encore marquee par la guerre de 1940, doit loger, scolariser, integrer. Les nouveaux logements des Champs-Plaisants (ZUP lancee en 1959) accueillent une partie de ces familles. C'est le debut d'une transformation demographique qui changera durablement le visage de Sens.",
+          "location": {
+            "lat": 48.203,
+            "lng": 3.275,
+            "label": "Champs-Plaisants --- rapatries 1962"
+          },
+          "sources": [
+            "Archives departementales de l'Yonne."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1965,
-          "title": "que reste-t-il de \"l'Ostel de l'Escu\"?",
+          "title": "L'Hotel de l'Ecu disparat : un temoignage d'architecture medievale rase",
           "text": "que reste-t-il de \"l'Ostel de l'Escu\"? dépose des cookies pour améliorer votre expérience de navigation, mesurer l'audience du site internet, afficher des publicités personnalisées, réaliser des campagnes ciblées et personnaliser l'interface du site. Google Analytics ? Permet d'analyser les statistiques de consultation de notre site ? Partage social",
           "location": {
             "lat": 48.1977,
@@ -4387,6 +4576,51 @@
           "sources": [
             "Ville de Sens, grands projets.",
             "Wikipedia, Sens (Yonne)."
+          ],
+          "heritageItemId": null,
+          "longText": "Regardez une photo aerienne de Sens en 1950. La ville tient tout entiere dans son amande --- cette forme ovale dessinee par les remparts gallo-romains, puis medievaux, puis les boulevards du XIXe siecle. Vingt mille habitants serres entre la cathedrale et les promenades. Au-dela, des champs. Des jardins ouvriers. Le neant.\n\nQuinze ans plus tard, tout a change.\n\nEn 1959, le gouvernement lance les ZUP --- Zones a Urbaniser en Priorite. La France manque de logements. Les campagnes se vident, les villes explosent. Il faut construire vite, beaucoup, pas cher. Sens n'echappe pas a la vague.\n\nLe site choisi est au nord de la ville, sur des terres agricoles : les Champs-Plaisants. Le nom est charmant. Le projet est brutal. Des barres d'immeubles de quatre a dix etages, alignees comme des dominos. Des tours. Des parkings. Du beton prefabrique. En quelques annees, pres de 3 000 logements sortent de terre.\n\nQui vient y habiter ? Des familles ouvrieres, d'abord. La Cebal --- fabrique d'emballages metalliques --- emploie 800 personnes. Il y a aussi les usines Peugeot-Cycles, les entrepots, les ateliers. Puis arrivent les rapatries d'Algerie, apres 1962. Et les travailleurs immigres du Maghreb, recrutes par les entreprises locales. Les Champs-Plaisants, c'est la France des Trente Glorieuses en miniature : le plein emploi, le confort moderne, l'ascenseur social --- et l'ascenseur tout court, pour des gens qui n'en avaient jamais pris.\n\nAu debut, c'est une promesse tenue. L'eau chaude. Le chauffage central. Une salle de bains. Pour des familles venues de fermes sans electricite ou de bidonvilles, c'est un progres reel. Les enfants jouent dans les espaces verts. Les commerces ouvrent au pied des immeubles.\n\nMais la promesse vieillit mal. Le beton se fissure. L'isolation est inexistante --- il fait froid l'hiver, etouffant l'ete. Les ascenseurs tombent en panne. Les espaces verts deviennent des terrains vagues. Quand les usines ferment dans les annees 1980, le chomage s'installe. Ceux qui peuvent partir partent. Ceux qui restent n'ont pas le choix.\n\nSens passe de 20 000 a 27 000 habitants en trente ans. Pour la premiere fois depuis les Romains, la ville deborde de son amande. Mais ce debordement n'est pas un epanouissement. C'est une fracture. Le centre historique d'un cote, avec ses maisons a colombages et sa cathedrale. Les grands ensembles de l'autre, avec leurs cages d'escalier taguees et leurs boites aux lettres defoncees.\n\nEn 2020, la ville signera un plan de renouvellement urbain de 124 millions d'euros. Six cent dix-sept logements seront demolis. On reconstruira, plus bas, plus humain. Mais la ZUP des Champs-Plaisants aura marque Sens pendant soixante ans --- monument involontaire d'une epoque qui croyait qu'on pouvait fabriquer une ville comme on fabrique une voiture."
+        },
+        {
+          "year": 1968,
+          "title": "Mai 68 a Sens : les ouvriers de la Cebal defilent, le lycee Thenard en greve",
+          "text": "En mai-juin 1968, Sens n'echappe pas au mouvement national. Les ouvriers de la Cebal (emballages metalliques, 800 salaries) et des autres usines defilent dans les rues. Le lycee Thenard, fonde en 1537 par le chanoine Hodoard, est en greve. La ville, ouvriere et provinciale, vit l'evenement sans les barricades parisiennes mais avec la meme intensite sociale. Apres juin, rien ne sera tout a fait pareil.",
+          "location": {
+            "lat": 48.1985,
+            "lng": 3.287,
+            "label": "Lycee Thenard / Cebal --- Mai 68"
+          },
+          "sources": [
+            "Archives departementales de l'Yonne.",
+            "France 3 BFC."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1975,
+          "title": "La crise industrielle frappe Sens : les usines ferment les unes apres les autres",
+          "text": "A partir du milieu des annees 1970, la crise economique frappe Sens de plein fouet. Les tanneries ont disparu depuis vingt ans. Les manufactures textiles ferment. La Cebal (emballages metalliques), principal employeur avec 800 salaries, reduit ses effectifs. L'usine a plomb Lelievre, les ateliers de confection, les petites fabriques --- tout se delite. Sens, ville ouvriere depuis le Moyen Age, decouvre le chomage de masse. Les Champs-Plaisants, construits pour loger les ouvriers des usines, perdent leur raison d'etre.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Sens --- desindustrialisation"
+          },
+          "sources": [
+            "INSEE, donnees economiques de l'Yonne."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 1982,
+          "title": "L'Yonne quitte la Bourgogne pour l'Ile-de-France ? Le debat qui ne finit jamais",
+          "text": "En 1982, avec la decentralisation Mitterrand, la question resurgit : l'Yonne doit-elle rester en Bourgogne ou rejoindre l'Ile-de-France ? Sens est a 100 km de Paris, 200 km de Dijon. Ses habitants travaillent a Paris, regardent la tele parisienne, prennent le train vers Paris. Mais l'identite bourguignonne est ancienne --- meme si, historiquement, Sens n'a jamais ete en Bourgogne : le bailliage de Sens relevait du Parlement de Paris, pas de Dijon. Le debat resurface a chaque reforme territoriale, et n'est toujours pas tranche.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Sens --- entre Bourgogne et Ile-de-France"
+          },
+          "sources": [
+            "Wikipedia, Yonne.",
+            "Debats parlementaires, reforme territoriale 2015."
           ],
           "heritageItemId": null
         },
@@ -4421,6 +4655,65 @@
           "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05619.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2262681&MTIME=1346439579"
         },
         {
+          "year": 1999,
+          "title": "La tempete de decembre 1999 : des arbres centenaires abattus en une nuit",
+          "text": "Dans la nuit du 26 au 27 decembre 1999, la tempete Lothar frappe le Senonais avec des vents depassant 150 km/h. Des arbres centenaires des promenades et des parcs de Sens sont arraches. Les toitures de la cathedrale et de l'Hotel de ville sont endommagees. La foret de la region perd des milliers d'arbres. C'est le plus violent evenement meteorologique a Sens depuis la tempete de novembre 1775.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Sens --- tempete de 1999"
+          },
+          "sources": [
+            "Meteo France.",
+            "L'Yonne Republicaine, decembre 1999."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 2001,
+          "title": "Sens jumelee avec Senigallia : les Senons retrouvent leurs cousins italiens",
+          "text": "En 2001, Sens se jumelle avec Senigallia, ville italienne des Marches fondee par les Senons --- le meme peuple gaulois qui a fonde Sens. Quand Brennus a quitte la Gaule pour prendre Rome en -390, une partie des Senons s'est installee sur la cote adriatique, fondant Sena Gallica (aujourd'hui Senigallia). Deux mille quatre cents ans plus tard, les descendants des Senons des deux cotes des Alpes se retrouvent officiellement. L'histoire boucle.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Sens-Senigallia --- jumelage senon"
+          },
+          "sources": [
+            "Ville de Sens, jumelages.",
+            "Wikipedia, Senigallia."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 2003,
+          "title": "Les Musees de Sens : le Palais Synodal et l'Orangerie reunis",
+          "text": "En 2003, les Musees de Sens inaugurent la reunion du Palais Synodal (restaure par Viollet-le-Duc), de l'Officialite et de l'Orangerie dans un parcours museographique unique. Le tresor de la cathedrale (le plus riche de France apres celui de Conques), les collections gallo-romaines, les tapisseries et les peintures sont enfin presentes dans un ensemble coherent. Le palais archiepiscopal, siege du pouvoir ecclesiastique pendant quinze siecles, devient un lieu de memoire accessible a tous.",
+          "location": {
+            "lat": 48.1977,
+            "lng": 3.2837,
+            "label": "Musees de Sens --- Palais Synodal"
+          },
+          "sources": [
+            "Musees de Sens, site officiel."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
+          "year": 2010,
+          "title": "Le centre-ville se vide : Sens face a la desertification commerciale",
+          "text": "A partir de 2010, le phenomene s'accelere : les commerces du centre-ville de Sens ferment les uns apres les autres. La Grande-Rue, artere commerciale depuis l'epoque romaine, se couvre de rideaux baisses. Les zones commerciales en peripherie (Voulx, Maillot) attirent les enseignes. Le marche du samedi resiste, mais la semaine, le centre est desert. Sens rejoint la longue liste des villes moyennes frappees par la 'diagonale du vide'. Le programme Action Coeur de Ville (2018) tente d'inverser la tendance.",
+          "location": {
+            "lat": 48.1975,
+            "lng": 3.284,
+            "label": "Grande-Rue --- desertification commerciale"
+          },
+          "sources": [
+            "Programme Action Coeur de Ville, 2018.",
+            "L'Yonne Republicaine."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 2012,
           "title": "Braquage a l'aube : 100 stateres d'or voles au musee de Sens",
           "text": "Le dimanche 17 juin 2012, a 5h30 du matin, trois individus cagoules et gantes forcent l'entree du musee de Sens, attaquent a la barre de fer la vitrine securisee, et volent environ 100 monnaies d'or gauloises du tresor de Saint-Denis-les-Sens (trouve lors des fouilles de l'A5 en 1992). Les pieces, parfaitement repertoriees, sont theoriquement invendables sur le marche legal. Valeur estimee : 50 000 a 100 000 euros. Les Senons continuent de faire parler d'eux 2 100 ans apres Brennus.",
@@ -4433,7 +4726,38 @@
             "Le Journal des Arts, 'Vol musee de Sens.'",
             "FranceInfo, 'Vol au musee de Sens.'"
           ],
-          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013",
+          "longText": "Dimanche 17 juin 2012, 5h30 du matin. Sens dort. Le musee aussi.\n\nTrois hommes cagoules et gantes forcent une porte laterale du batiment. Ils savent ou ils vont. Pas de hesitation, pas d'errance dans les salles. Ils traversent le rez-de-chaussee, passent devant les sarcophages gallo-romains, les chapiteaux medievaux, les tapisseries. Ils ne s'arretent pas. Ce qu'ils veulent est plus petit, plus ancien, plus precieux.\n\nDans une vitrine blindee, une centaine de monnaies d'or gauloises. Des stateres. Des petites pieces de quelques grammes, frappees il y a plus de deux mille ans par les Senons et leurs voisins. Les plus belles portent un cheval au galop, un profil stylise, des motifs abstraits d'une finesse etonnante. Ce tresor a ete decouvert en 1992 lors des fouilles de l'autoroute A5, a Saint-Denis-les-Sens --- quelques kilometres au sud de la ville.\n\nLes trois hommes frappent la vitrine a la barre de fer. Le verre securise resiste. Ils frappent encore. Le verre cede. En quelques secondes, les monnaies disparaissent dans un sac. Les trois cagoules ressortent par ou ils sont entres. L'operation a dure moins de dix minutes.\n\nL'alarme se declenche. Mais a 5h30 un dimanche matin, le temps que la police arrive, les voleurs ont disparu.\n\nLe bilan est accablant. Environ 100 monnaies d'or gauloises volatilisees. Valeur estimee entre 50 000 et 100 000 euros au cours de l'or. Valeur archeologique : inestimable. Ces pieces etaient repertoriees, photographiees, mesurees, publiees dans des revues scientifiques. Chacune est connue des specialistes du monde entier.\n\nC'est d'ailleurs le paradoxe. Ces monnaies sont theoriquement invendables. Aucun numismate serieux n'en acheterait une. Aucune maison de ventes ne les accepterait. Elles figurent dans les bases de donnees internationales d'objets voles. Les fondre ? Un statere gaulois pese entre 6 et 8 grammes d'or. Cent pieces, cela fait moins d'un kilogramme. Au cours de l'or, quelques dizaines de milliers d'euros. Pas grand-chose pour un braquage.\n\nAlors pourquoi ? Commande d'un collectionneur prive ? Revente au marche noir ? Simple opportunisme ? L'enquete n'a jamais abouti. Aucune arrestation. Aucune monnaie retrouvee.\n\nLe tresor de Saint-Denis-les-Sens etait l'un des plus importants depots monetaires gaulois decouverts en France au XXe siecle. Il racontait les echanges commerciaux des Senons, leur richesse, leurs liens avec les peuples voisins. Un morceau d'histoire enfoui pendant deux millenaires, deterre par des archeologues, expose pendant vingt ans --- et vole en dix minutes par trois inconnus un dimanche d'ete.\n\nAujourd'hui, dans la salle du musee, la vitrine est vide. Un cartel explique ce qui s'est passe. Les Senons continuent de faire parler d'eux, 2 100 ans apres Brennus."
+        },
+        {
+          "year": 2016,
+          "title": "La Bourgogne-Franche-Comte : Sens toujours plus loin de sa capitale regionale",
+          "text": "Le 1er janvier 2016, la fusion des regions Bourgogne et Franche-Comte entre en vigueur. La capitale regionale est Dijon --- a 200 km de Sens. Besancon est encore plus loin. Pour les Senonais, la reforme eloigne le centre de decision. Le debat seculaire resurgit : Sens, qui n'a jamais releve de Dijon dans toute son histoire (bailliage de la couronne, parlement de Paris, archidiocese independant), se retrouve dans une region dont le centre de gravite est a l'oppose.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.284,
+            "label": "Sens --- reforme regionale 2016"
+          },
+          "sources": [
+            "Loi n.2015-29 du 16 janvier 2015.",
+            "L'Yonne Republicaine."
+          ],
+          "heritageItemId": null
+        },
+        {
+          "year": 2016,
+          "title": "Les inondations de juin 2016 : l'Yonne deborde, le Senonais sous les eaux",
+          "text": "Fin mai - debut juin 2016, des pluies exceptionnelles provoquent la crue de l'Yonne et de ses affluents. Le Senonais est durement touche : rues inondees, caves envahies, routes coupees. C'est la pire crue depuis janvier 1910. Les pompiers evacuent des dizaines de familles. L'eau monte jusqu'a 4 metres au-dessus du niveau normal dans certaines communes. Le souvenir de la grande crue de 1658 --- quand Louis XIV avait failli perdre ses dames d'honneur dans l'Yonne --- revient dans les conversations.",
+          "location": {
+            "lat": 48.1955,
+            "lng": 3.282,
+            "label": "Yonne --- inondations juin 2016"
+          },
+          "sources": [
+            "Meteo France.",
+            "L'Yonne Republicaine, juin 2016."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 2017,
