@@ -2582,6 +2582,21 @@
       "color": "#B91C1C",
       "events": [
         {
+          "year": 1777,
+          "title": "Louis Jacques Thenard : le baron chimiste, eleve du college de Sens",
+          "text": "Louis Jacques Thenard (1777-1857), ne a La Louptiere pres de Sens, est eleve du college de Sens avant de monter a Paris. Il y decouvre l'eau oxygenee (1818), identifie le bore avec Gay-Lussac, et ecrit un Traite de chimie qui fait reference pendant 40 ans. Baron, depute de l'Yonne, pair de France, chancelier de l'Universite, membre de l'Academie des sciences --- tout ca pour un fils de paysan de La Louptiere forme au college de Sens. Une rue, un lycee et un cratere lunaire portent son nom.",
+          "location": {
+            "lat": 48.1985,
+            "lng": 3.287,
+            "label": "College de Sens --- eleve Thenard"
+          },
+          "sources": [
+            "Wikipedia, Louis Jacques Thenard.",
+            "SenoN.Org, personnalites."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1789,
           "title": "Les doléances des Sénonais",
           "text": "Le 1er février 1789, le Tiers État de Sens se réunit à l'hôtel de ville. Le maire, M. Sallot de Varennes, lit un discours remarquable. Les Sénonais ne demandent pas seulement la fin des impôts injustes — ils revendiquent un siège direct aux États Généraux, comme « bonne ville » depuis Charles V (1367). Plus audacieux encore : ils veulent que Sens devienne la capitale d'États provinciaux pour toute la partie sud de la Généralité de Paris, devant Melun, Fontainebleau, Provins ou Montereau. Pendant que les villages voisins — Paron, Saint-Clément — comptent leurs moutons et se plaignent des dîmes, Sens joue dans la cour des grandes villes.",
@@ -3176,6 +3191,21 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Becket_liturgical_garments_Sens_Cathedral.jpg/500px-Becket_liturgical_garments_Sens_Cathedral.jpg"
         },
         {
+          "year": 1812,
+          "title": "Simon Horsin-Deon : le fils de tanneur qui restaure le Louvre",
+          "text": "Simon Horsin-Deon nait a Sens le 23 juillet 1812 dans une famille de tanneurs etablie depuis 1675. En 1806, sa mere Marguerite Deon avait epouse Pierre Louis Horsin, d'une vieille famille de vitriers senonais. Simon entre aux Beaux-Arts en 1831, puis en 1849 il est nomme restaurateur des Musees nationaux --- le premier a ce poste. Il travaille au Louvre de 1849 a 1861, restaure des tableaux a Toulouse, Rennes, Semur-en-Auxois. En 1851, il publie 'De la conservation et de la restauration des tableaux' --- un traite plus celebre a l'etranger qu'en France. Les Deon sont tanneurs depuis 1675 ; leur petit-fils devient gardien des chefs-d'oeuvre.",
+          "location": {
+            "lat": 48.1925,
+            "lng": 3.281,
+            "label": "Quartier des tanneurs --- famille Deon"
+          },
+          "sources": [
+            "Wikipedia, Simon Horsin-Deon.",
+            "Archive.org, 'De la conservation et de la restauration des tableaux.'"
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1814,
           "title": "Napoléon et le mamelouk Ali",
           "text": "Louis-Étienne Saint-Denis, né à Versailles mais élevé à Sens, est le fidèle « mamelouk Ali » de Napoléon — son valet de chambre qui le suivra jusqu'à Sainte-Hélène. En mars 1814, les armées alliées approchent de Sens. Napoléon traverse la ville pour la dernière fois.",
@@ -3303,6 +3333,22 @@
           "heritageItemId": null,
           "image": "/images/histoire/sas_1846_pl5_inscriptions_latines.jpg",
           "longText": "A mesure que les fondations sont mises à jour, le problème change de face, et le résultat de ces investigations sera, selon toute pro- babilité, l'objet capital de la plus prochaine publication de la Société. On retire de ces ruines quelques médailles dont la descrip- tion aujourd'hui serait prématurée. D'autres monuments de l'art numismatique, appartenant à pour les recueillirautant que possible dans leur intégrité, et pour créer à Sens un musée lapidaire, qui pourrait devenir l'un des plus beaux titres d'honneur d'une administration intelligente et éclairée le Bureau a substitué au projet de résolution de M."
+        },
+        {
+          "year": 1848,
+          "title": "Victor Guichard : du corsaire au depute, une dynastie senonaise",
+          "text": "En 1848, Victor Guichard (1803-1884) est elu maire de Sens apres la chute de Louis-Philippe, puis depute de l'Yonne. Mais la famille Guichard est bien plus ancienne : son pere Guillaume etait depute aux Cinq-Cents pendant la Revolution, et un ancetre fut corsaire. Victor s'installe dans l'Yonne pour gerer les domaines familiaux et devient un agronome respecte. Son fils Jules participera a la construction du canal de Suez, deviendra conseiller general puis senateur de l'Yonne. Sa fille Suzanne epousera un depute de la Seine puis senateur. Les Guichard : un chanoine, un corsaire, un revolutionnaire, un agronome, un senateur --- le roman d'une famille senonaise sur cinq generations.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Hotel de ville --- maire Guichard"
+          },
+          "sources": [
+            "Wikipedia, Victor Guichard.",
+            "Assemblee nationale, fiche depute.",
+            "Daguin, G. 'Victor Guichard, maire, depute mais avant tout paysan.'"
+          ],
+          "heritageItemId": "e5555555-0012-0012-0012-000000000012"
         },
         {
           "year": 1849,
@@ -3446,6 +3492,22 @@
           ],
           "heritageItemId": null,
           "longText": null
+        },
+        {
+          "year": 1862,
+          "title": "Etienne Mimard nait a Sens : le futur inventeur de Manufrance",
+          "text": "Le 18 janvier 1862, Etienne Mimard nait a Sens, fils d'un armurier. Il etudie a l'ecole professionnelle de la ville. A Saint-Etienne, il fonde avec Pierre Blachon la Manufacture francaise d'armes et cycles --- qui deviendra Manufrance. Son catalogue de vente par correspondance atteint 1 million d'exemplaires. Il cree Le Chasseur Francais, le magazine le plus lu des campagnes. Le president Felix Faure visite son usine en 1898. Legion d'honneur en 1902. Pendant la guerre, il refuse de fabriquer des armes pour les Allemands. Il legue toute sa fortune a Saint-Etienne pour l'education technique. Un fils d'armurier senonais qui a invente le commerce moderne.",
+          "location": {
+            "lat": 48.1977,
+            "lng": 3.2837,
+            "label": "Sens --- naissance d'Etienne Mimard"
+          },
+          "sources": [
+            "Wikipedia, Etienne Mimard.",
+            "Daguin, G. 'Etienne Mimard.' histoire-sens-senonais-yonne.com.",
+            "Cairn.info, 'L'usine modele d'Etienne Mimard.'"
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1870,
