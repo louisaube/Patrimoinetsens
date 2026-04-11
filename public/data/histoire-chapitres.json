@@ -220,6 +220,20 @@
           "heritageItemId": null
         },
         {
+          "year": 20,
+          "title": "Les Senonais dressent un monument a Gaius Caesar, petit-fils de Jules",
+          "text": "En 1825, des ouvriers qui creusent un abreuvoir au bord de l'Yonne a Sens tombent sur une enorme pierre gravee. L'inscription revele que les Senonais de l'Antiquite avaient dresse un monument en l'honneur de Gaius Caesar, petit-fils adoptif de Jules Cesar. Pendant des decennies, on l'a attribuee a tort a Tibere. La cite de Sens rendait hommage aux maitres de Rome --- preuve de l'integration des elites senones dans l'Empire.",
+          "location": {
+            "lat": 48.1955,
+            "lng": 3.282,
+            "label": "Yonne --- inscription Gaius Caesar"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XVI, 1894, p. 107."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 50,
           "title": "Six voies romaines convergent vers Agedincum",
           "text": "Apres la conquete, Agedincum (Sens) devient un noeud routier majeur de la Gaule romaine. Six voies se croisent ici : vers Lutece (Paris), Autessiodurum (Auxerre), Augustobona (Troyes), Cenabum (Orleans), Avaricum (Bourges) et vers le sud. La ville se couvre de monuments : forum, thermes, amphitheatre (dont les traces ont ete retrouvees dans le sous-sol). Les rues actuelles de Sens suivent encore le trace du cardo (nord-sud) et du decumanus (est-ouest) romains.",
@@ -1540,6 +1554,20 @@
           "longText": "MGR DE BELSUNCE HT AUTRES DOCUMENTS CONCERNANT LA PESTE DE MARSEILLE Sous le titre de Recueil sur la Constitution, la bibliothèque t!e la ville de Sens possède une collection d'imprimés et de manuscrits concernant la Bulle (Jnigenitus recueillis par Mon- seigneur Jean-Joseph Languet de la Villeneuve de Gergy, d'abord évêque de Soissons, puis archevêque de Sens, mort le 1 mai 1753 après 38 ans d'un glorieux apostolat. Cette collection, qui ne comprend pas moins de cinquante-deux vo- lumes in 4°, fut reléguée longtemps sur de poudreux rayons; elle effraie au premier abord par son titre et son aspect, mais si l'on ouvre un de ces respectables volumes et si l'on parcourt avec quelque attention les mandements, les mémoires, les procès-verbaux, les journaux et surtout les correspondances la plupart autographes qu'il renferme, on ne tarde pas à"
         },
         {
+          "year": 1367,
+          "title": "200 ans de moulins reves mais jamais construits",
+          "text": "En 1367, Charles V autorise Sens a construire des moulins sur l'Yonne. Mais la ville n'a jamais les moyens --- guerres, travaux de remparts. En 1374, on batit une tour avec pont-levis sur le Grand-Pont pour proteger les 'futurs moulins'. En 1416, faute de mieux, on installe un moulin a cheval en plein centre-ville, actionne par deux chevaux, qui donne la farine d'une mine de froment par heure. En 1546, Francois Ier renouvelle la permission. Les moulins ne furent jamais batis. Deux siecles de permis pour rien.",
+          "location": {
+            "lat": 48.1955,
+            "lng": 3.282,
+            "label": "Grand-Pont --- moulins jamais construits"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XVI, 1894, p. 100-106."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1370,
           "title": "Charles V fait creuser les fosses : Sens devient imprenable",
           "text": "Au milieu du XIVe siècle, sur ordre de Charles V, on creuse des fosses autour de l'enceinte de Sens. La ville est desormais protegee par des murs de huit metres de haut, des portes infranchissables, des poternes bien gardees et des fosses remplis d'eau. Le voyageur qui arrive à Sens decouvre une forteresse. Les fosses ne seront combles qu'a partir de 1758 --- les boulevards actuels suivent leur trace. Louis XII fera agrandir les fosses. Les derniers pans de muraille sont encore visibles le long des boulevards exterieurs.",
@@ -1818,6 +1846,20 @@
           "heritageItemId": "e5555555-0024-0024-0024-000000000024",
           "longText": "Une notice de M. Chanoine décrit deux Dolmens à Trancault, non loin de Nogent-sur-Seine (voir ci-après la légende et le dessin. ) Une notice de M. Vignon signale le Menhir ou pierre levée de Diant (voir ci-après la légende et le dessin) et cette même pierre de Diant et les monuments celtiques en général ont donné lieu à un mémoire par M. Prou (voir ci-après). Mais il n'est aucun habitant de Sens et des environs qui n'ait sous les yeux un vestige présumé des temps celtiques, plus apparent que ceux qui viennent d'être rappelés ce sont les mamelons, connus sous le nom de tombelles, qui dominent le coteau de Saint-Martin. Sur la proposition de M. Prou, tendant à y faire des fouilles, la Société a décidé qu'elle se mettrait en rapport avec M. le maire de Saint-Martin-du-Tertre, et M.",
           "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010183.jpg"
+        },
+        {
+          "year": 1540,
+          "title": "La Maison d'Abraham : l'inscription '1204' est un faux",
+          "text": "La celebre 'Maison d'Abraham' cache un mensonge vieux de plusieurs siecles. L'inscription '1204' peinte a cote de l'Arbre de Jesse est une invention d'un proprietaire qui voulait vieillir sa maison ! En realite, elle date d'environ 1540 et fut probablement batie par un certain Nicolas Megissier --- un tanneur dont on retrouve les outils (couteaux a double manche, moule a tannee) sculptes sur la facade. Son vrai nom : la Maison des Torches, car depuis 1324, le proprietaire devait fournir chaque annee des torches au couvent des Jacobins.",
+          "location": {
+            "lat": 48.1958,
+            "lng": 3.2831,
+            "label": "Maison d'Abraham --- fausse date"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XVI, 1894, p. 91-95."
+          ],
+          "heritageItemId": "e5555555-0003-0003-0003-000000000003"
         },
         {
           "year": 1542,
@@ -3170,6 +3212,20 @@
           "heritageItemId": "e5555555-0034-0034-0034-000000000034"
         },
         {
+          "year": 1794,
+          "title": "La Terreur au chateau de Passy : 17 accuses de Sens a l'echafaud",
+          "text": "Le 10 mai 1794, 24 personnes sont jugees en meme temps que Madame Elisabeth, soeur de Louis XVI. Dix-sept d'entre elles ont ete arretees a Sens ou dans le district --- au chateau de Passy, a Brienne. Parmi elles, les Megret de Serilly (tresorier de la guerre), les Lomenie, les Montmorin. Mais une jeune femme echappe au filet : Pauline de Beaumont, fille de Montmorin, jugee trop malade pour valoir le deplacement. Les agents l'abandonnent sur la route. Elle survivra --- et deviendra celebre comme amie de Chateaubriand.",
+          "location": {
+            "lat": 48.16,
+            "lng": 3.25,
+            "label": "Chateau de Passy --- arrestations 1794"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XVI, 1894, p. 135-145."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1796,
           "title": "L'Auberge de la Ville de Paris : deux siecles d'hospitalite",
           "text": "En 1796, l'Auberge de la Ville de Paris ouvre ses portes. Relais de poste et de diligences, elle deviendra en 1840 l'Hotel de Paris, puis en 1936 l'Hotel de Paris et de la Poste. La famille Godard le dirige pendant 40 ans. Pendant plus de deux siecles, c'est un point de repere central de la vie senonaise --- jusqu'a sa demolition en 2021, devant une foule d'habitants attristes. Un hotel quatre etoiles (l'Epona Hotel) est construit sur le meme site.",
@@ -3734,6 +3790,20 @@
             "Daguin, G. 'Victor Guichard.' histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0012-0012-0012-000000000012"
+        },
+        {
+          "year": 1894,
+          "title": "L'archeologue Julliot : 'Il ne reste plus qu'a detruire la cathedrale'",
+          "text": "En 1894, l'archeologue G. Julliot pousse un cri d'alarme. Sous pretexte d'elargir les rues, Sens a rase ses remparts romains, abattu ses portes medievales et demoli presque toutes ses maisons a pans de bois. Avec une ironie amere, il ecrit qu'il ne reste plus qu'a detruire l'officialite et la cathedrale --- tout le reste a deja disparu. C'est la naissance de la conscience patrimoniale a Sens : on detruit depuis un siecle, et enfin quelqu'un dit 'stop'.",
+          "location": {
+            "lat": 48.1977,
+            "lng": 3.2837,
+            "label": "Sens --- cri d'alarme patrimoine"
+          },
+          "sources": [
+            "Bulletin SAS, vol. XVI, 1894, p. 93 (note Julliot)."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1895,
