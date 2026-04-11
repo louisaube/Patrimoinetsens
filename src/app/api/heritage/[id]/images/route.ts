@@ -28,10 +28,11 @@ interface ImageCatalog {
 }
 
 // Cache le catalogue en mémoire (rechargé au redémarrage du serveur)
+// En dev, on recharge à chaque requête pour voir les changements du pipeline
 let catalogCache: CatalogImage[] | null = null
 
 function loadCatalog(): CatalogImage[] {
-  if (catalogCache) return catalogCache
+  if (catalogCache && process.env.NODE_ENV !== 'development') return catalogCache
 
   const catalogPath = join(process.cwd(), 'tools', 'scraping', 'output', 'image_catalog.json')
 

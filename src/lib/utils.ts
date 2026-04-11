@@ -20,6 +20,7 @@ export function categoryLabel(category: HeritageCategory | string): string {
     edifice_religieux: "Édifice religieux",
     mobilier_urbain: "Mobilier urbain",
     patrimoine_naturel: "Patrimoine naturel",
+    personnalite: "Personnalité & lignée",
     autre: "Autre",
   }
   return labels[category] ?? category
@@ -70,6 +71,7 @@ export function categoryColor(category: HeritageCategory | string): string {
     edifice_religieux: "#1e40af",
     mobilier_urbain: "#1e3a5f",
     patrimoine_naturel: "#14532d",
+    personnalite: "#7c3aed",
     autre: "#78716c",
   }
   return colors[category] ?? "#78716c"

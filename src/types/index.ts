@@ -6,6 +6,7 @@ export type HeritageCategory =
   | "edifice_religieux"
   | "mobilier_urbain"
   | "patrimoine_naturel"
+  | "personnalite"
   | "autre"
 
 export type ContributionType =

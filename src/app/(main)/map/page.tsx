@@ -14,6 +14,7 @@ const CATEGORY_COLORS: Record<HeritageCategory, string> = {
   edifice_religieux: "bg-blue-100 text-blue-800",
   mobilier_urbain: "bg-blue-100 text-blue-800",
   patrimoine_naturel: "bg-green-100 text-green-800",
+  personnalite: "bg-purple-100 text-purple-800",
   autre: "bg-stone-100 text-stone-800",
 }
 
@@ -22,6 +23,7 @@ const LEGEND_ITEMS: HeritageCategory[] = [
   "edifice_religieux",
   "mobilier_urbain",
   "patrimoine_naturel",
+  "personnalite",
 ]
 
 const ALL_CATEGORIES: Array<{ value: HeritageCategory; label: string }> = [

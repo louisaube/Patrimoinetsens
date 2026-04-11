@@ -1,8 +1,8 @@
 {
   "generated": "2026-04-08T15:54:13",
-  "totalImages": 237,
+  "totalImages": 239,
   "sources": {
-    "commons": 79,
+    "commons": 81,
     "gallica": 90,
     "archives_yonne": 68
   },
@@ -34,7 +34,7 @@
       "tags": [
         "sens"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0006-0006-0006-000000000006",
       "width": 371,
       "height": 512,
       "mime": "image/jpeg",
@@ -51,7 +51,7 @@
         "porte",
         "sens"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0006-0006-0006-000000000006",
       "width": 425,
       "height": 512,
       "mime": "image/jpeg",
@@ -102,7 +102,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 370,
       "height": 512,
       "mime": "image/jpeg",
@@ -119,7 +119,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 495,
       "height": 512,
       "mime": "image/jpeg",
@@ -136,7 +136,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 358,
       "height": 512,
       "mime": "image/jpeg",
@@ -153,7 +153,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 706,
       "height": 512,
       "mime": "image/jpeg",
@@ -170,7 +170,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 705,
       "height": 512,
       "mime": "image/jpeg",
@@ -187,7 +187,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 705,
       "height": 512,
       "mime": "image/jpeg",
@@ -204,7 +204,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 370,
       "height": 512,
       "mime": "image/jpeg",
@@ -221,7 +221,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 371,
       "height": 512,
       "mime": "image/jpeg",
@@ -238,7 +238,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 419,
       "height": 512,
       "mime": "image/jpeg",
@@ -255,7 +255,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 372,
       "height": 512,
       "mime": "image/jpeg",
@@ -272,7 +272,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 370,
       "height": 512,
       "mime": "image/jpeg",
@@ -289,7 +289,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 413,
       "height": 512,
       "mime": "image/jpeg",
@@ -306,7 +306,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 435,
       "height": 512,
       "mime": "image/jpeg",
@@ -323,7 +323,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 442,
       "height": 512,
       "mime": "image/jpeg",
@@ -340,7 +340,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 705,
       "height": 512,
       "mime": "image/jpeg",
@@ -357,7 +357,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 567,
       "height": 512,
       "mime": "image/jpeg",
@@ -374,7 +374,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 705,
       "height": 512,
       "mime": "image/jpeg",
@@ -391,7 +391,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 707,
       "height": 512,
       "mime": "image/jpeg",
@@ -408,7 +408,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 714,
       "height": 512,
       "mime": "image/jpeg",
@@ -425,7 +425,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 403,
       "height": 512,
       "mime": "image/jpeg",
@@ -442,7 +442,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 299,
       "height": 512,
       "mime": "image/jpeg",
@@ -459,7 +459,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 363,
       "height": 512,
       "mime": "image/jpeg",
@@ -476,7 +476,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 370,
       "height": 512,
       "mime": "image/jpeg",
@@ -493,7 +493,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 710,
       "height": 512,
       "mime": "image/jpeg",
@@ -510,7 +510,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 369,
       "height": 512,
       "mime": "image/jpeg",
@@ -527,7 +527,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 370,
       "height": 512,
       "mime": "image/jpeg",
@@ -544,7 +544,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 710,
       "height": 512,
       "mime": "image/jpeg",
@@ -561,7 +561,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 353,
       "height": 512,
       "mime": "image/jpeg",
@@ -578,7 +578,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 334,
       "height": 512,
       "mime": "image/jpeg",
@@ -595,7 +595,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 702,
       "height": 512,
       "mime": "image/jpeg",
@@ -612,7 +612,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 674,
       "height": 512,
       "mime": "image/jpeg",
@@ -629,7 +629,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 361,
       "height": 512,
       "mime": "image/jpeg",
@@ -870,7 +870,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 334,
       "height": 512,
       "mime": "image/jpeg",
@@ -887,7 +887,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 768,
       "height": 497,
       "mime": "image/jpeg",
@@ -904,7 +904,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 372,
       "height": 512,
       "mime": "image/jpeg",
@@ -921,7 +921,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 363,
       "height": 512,
       "mime": "image/jpeg",
@@ -938,7 +938,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 387,
       "height": 512,
       "mime": "image/jpeg",
@@ -955,7 +955,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 713,
       "height": 512,
       "mime": "image/jpeg",
@@ -972,7 +972,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 240,
       "height": 600,
       "mime": "image/jpeg",
@@ -989,7 +989,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 374,
       "height": 512,
       "mime": "image/jpeg",
@@ -1006,7 +1006,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 342,
       "height": 512,
       "mime": "image/jpeg",
@@ -1023,7 +1023,7 @@
         "cathedrale",
         "sens"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5",
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 534,
       "height": 480,
       "mime": "image/png",
@@ -1071,7 +1071,7 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/De_Paris_a_la_Mediterranee_1_1874_%28145834853%29.jpg/500px-De_Paris_a_la_Mediterranee_1_1874_%28145834853%29.jpg",
       "license": "Public domain",
       "tags": [],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
       "width": 2258,
       "height": 3037,
       "mime": "image/jpeg",
@@ -1291,7 +1291,7 @@
       "tags": [
         "sens"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0010-0010-0010-000000000010",
       "width": 384,
       "height": 512,
       "mime": "image/jpeg",
@@ -1307,7 +1307,7 @@
       "tags": [
         "sens"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0010-0010-0010-000000000010",
       "width": 688,
       "height": 512,
       "mime": "image/jpeg",
@@ -1323,7 +1323,7 @@
       "tags": [
         "sens"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0010-0010-0010-000000000010",
       "width": 385,
       "height": 512,
       "mime": "image/jpeg",
@@ -1361,7 +1361,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0013-0013-0013-000000000013",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f7",
       "ark": "bpt6k298584k",
       "pageNum": 7,
@@ -1380,7 +1380,7 @@
         "gravure",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0045-0045-0045-000000000045",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f11",
       "ark": "bpt6k298584k",
       "pageNum": 11,
@@ -1399,7 +1399,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0071-0071-0071-000000000071",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f21",
       "ark": "bpt6k298584k",
       "pageNum": 21,
@@ -1437,7 +1437,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0014-0014-0014-000000000014",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f42",
       "ark": "bpt6k298584k",
       "pageNum": 42,
@@ -1456,7 +1456,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0047-0047-0047-000000000047",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f46",
       "ark": "bpt6k298584k",
       "pageNum": 46,
@@ -1474,7 +1474,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0014-0014-0014-000000000014",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f47",
       "ark": "bpt6k298584k",
       "pageNum": 47,
@@ -1493,7 +1493,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0014-0014-0014-000000000014",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f51",
       "ark": "bpt6k298584k",
       "pageNum": 51,
@@ -1511,7 +1511,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0049-0049-0049-000000000049",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f54",
       "ark": "bpt6k298584k",
       "pageNum": 54,
@@ -1530,7 +1530,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0016-0016-0016-000000000016",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f57",
       "ark": "bpt6k298584k",
       "pageNum": 57,
@@ -1549,7 +1549,7 @@
         "gravure",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0044-0044-0044-000000000044",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f61",
       "ark": "bpt6k298584k",
       "pageNum": 61,
@@ -1568,7 +1568,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0040-0040-0040-000000000040",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f65",
       "ark": "bpt6k298584k",
       "pageNum": 65,
@@ -1587,7 +1587,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f66",
       "ark": "bpt6k298584k",
       "pageNum": 66,
@@ -1605,7 +1605,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0002-0002-0002-000000000002",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f73",
       "ark": "bpt6k298584k",
       "pageNum": 73,
@@ -1623,7 +1623,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0002-0002-0002-000000000002",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f84",
       "ark": "bpt6k298584k",
       "pageNum": 84,
@@ -1641,7 +1641,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0044-0044-0044-000000000044",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f87",
       "ark": "bpt6k298584k",
       "pageNum": 87,
@@ -1659,7 +1659,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0014-0014-0014-000000000014",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f91",
       "ark": "bpt6k298584k",
       "pageNum": 91,
@@ -1678,7 +1678,7 @@
         "plan",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "d93f166b-5071-54ba-a0e0-023976fa2fbc",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f93",
       "ark": "bpt6k298584k",
       "pageNum": 93,
@@ -1697,7 +1697,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0045-0045-0045-000000000045",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f95",
       "ark": "bpt6k298584k",
       "pageNum": 95,
@@ -1716,7 +1716,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0013-0013-0013-000000000013",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f96",
       "ark": "bpt6k298584k",
       "pageNum": 96,
@@ -1734,7 +1734,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0002-0002-0002-000000000002",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f103",
       "ark": "bpt6k298584k",
       "pageNum": 103,
@@ -1752,7 +1752,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0002-0002-0002-000000000002",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f104",
       "ark": "bpt6k298584k",
       "pageNum": 104,
@@ -1771,7 +1771,7 @@
         "plan",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f110",
       "ark": "bpt6k298584k",
       "pageNum": 110,
@@ -1789,7 +1789,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0003-0003-0003-000000000003",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f111",
       "ark": "bpt6k298584k",
       "pageNum": 111,
@@ -1807,7 +1807,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0052-0052-0052-000000000052",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f114",
       "ark": "bpt6k298584k",
       "pageNum": 114,
@@ -1826,7 +1826,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "d93f166b-5071-54ba-a0e0-023976fa2fbc",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298584k/f129",
       "ark": "bpt6k298584k",
       "pageNum": 129,
@@ -1844,7 +1844,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0040-0040-0040-000000000040",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298585z/f25",
       "ark": "bpt6k298585z",
       "pageNum": 25,
@@ -1863,7 +1863,7 @@
         "plan",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298585z/f56",
       "ark": "bpt6k298585z",
       "pageNum": 56,
@@ -1882,7 +1882,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0014-0014-0014-000000000014",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f7",
       "ark": "bpt6k298589g",
       "pageNum": 7,
@@ -1901,7 +1901,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0014-0014-0014-000000000014",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f11",
       "ark": "bpt6k298589g",
       "pageNum": 11,
@@ -1919,7 +1919,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0014-0014-0014-000000000014",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f13",
       "ark": "bpt6k298589g",
       "pageNum": 13,
@@ -1937,7 +1937,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "3709bc5b-95d3-57f7-9839-0d917729af42",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f16",
       "ark": "bpt6k298589g",
       "pageNum": 16,
@@ -1955,7 +1955,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "d93f166b-5071-54ba-a0e0-023976fa2fbc",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f40",
       "ark": "bpt6k298589g",
       "pageNum": 40,
@@ -1974,7 +1974,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0024-0024-0024-000000000024",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f62",
       "ark": "bpt6k298589g",
       "pageNum": 62,
@@ -2011,7 +2011,7 @@
         "gravure",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "057c0c81-6890-5e70-b82a-401149799091",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f89",
       "ark": "bpt6k298589g",
       "pageNum": 89,
@@ -2048,7 +2048,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0066-0066-0066-000000000066",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298589g/f126",
       "ark": "bpt6k298589g",
       "pageNum": 126,
@@ -2067,7 +2067,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0026-0026-0026-000000000026",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985925/f50",
       "ark": "bpt6k2985925",
       "pageNum": 50,
@@ -2085,7 +2085,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "57131c64-5c7d-5618-80bb-a6d6d7477d51",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985925/f59",
       "ark": "bpt6k2985925",
       "pageNum": 59,
@@ -2103,7 +2103,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0004-0004-0004-000000000004",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985925/f61",
       "ark": "bpt6k2985925",
       "pageNum": 61,
@@ -2122,7 +2122,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0002-0002-0002-000000000002",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985925/f82",
       "ark": "bpt6k2985925",
       "pageNum": 82,
@@ -2141,7 +2141,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0066-0066-0066-000000000066",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985925/f83",
       "ark": "bpt6k2985925",
       "pageNum": 83,
@@ -2160,7 +2160,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "057c0c81-6890-5e70-b82a-401149799091",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f34",
       "ark": "bpt6k2985959",
       "pageNum": 34,
@@ -2180,7 +2180,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0016-0016-0016-000000000016",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f39",
       "ark": "bpt6k2985959",
       "pageNum": 39,
@@ -2199,7 +2199,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "3fa7e313-b153-56b1-b24c-91d1665abc7e",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f42",
       "ark": "bpt6k2985959",
       "pageNum": 42,
@@ -2256,7 +2256,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0040-0040-0040-000000000040",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f77",
       "ark": "bpt6k2985959",
       "pageNum": 77,
@@ -2275,7 +2275,7 @@
         "gravure",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0062-0062-0062-000000000062",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f88",
       "ark": "bpt6k2985959",
       "pageNum": 88,
@@ -2333,7 +2333,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f183",
       "ark": "bpt6k2985959",
       "pageNum": 183,
@@ -2371,7 +2371,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0010-0010-0010-000000000010",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f186",
       "ark": "bpt6k2985959",
       "pageNum": 186,
@@ -2389,7 +2389,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f208",
       "ark": "bpt6k2985959",
       "pageNum": 208,
@@ -2407,7 +2407,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0017-0017-0017-000000000017",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f225",
       "ark": "bpt6k2985959",
       "pageNum": 225,
@@ -2425,7 +2425,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f226",
       "ark": "bpt6k2985959",
       "pageNum": 226,
@@ -2443,7 +2443,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "d93f166b-5071-54ba-a0e0-023976fa2fbc",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f229",
       "ark": "bpt6k2985959",
       "pageNum": 229,
@@ -2462,7 +2462,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "057c0c81-6890-5e70-b82a-401149799091",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f231",
       "ark": "bpt6k2985959",
       "pageNum": 231,
@@ -2480,7 +2480,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f232",
       "ark": "bpt6k2985959",
       "pageNum": 232,
@@ -2498,7 +2498,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0003-0003-0003-000000000003",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f239",
       "ark": "bpt6k2985959",
       "pageNum": 239,
@@ -2517,7 +2517,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0019-0019-0019-000000000019",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f240",
       "ark": "bpt6k2985959",
       "pageNum": 240,
@@ -2536,7 +2536,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0038-0038-0038-000000000038",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f244",
       "ark": "bpt6k2985959",
       "pageNum": 244,
@@ -2555,7 +2555,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0038-0038-0038-000000000038",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f248",
       "ark": "bpt6k2985959",
       "pageNum": 248,
@@ -2574,7 +2574,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0013-0013-0013-000000000013",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f254",
       "ark": "bpt6k2985959",
       "pageNum": 254,
@@ -2593,7 +2593,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0002-0002-0002-000000000002",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f258",
       "ark": "bpt6k2985959",
       "pageNum": 258,
@@ -2612,7 +2612,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0003-0003-0003-000000000003",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f263",
       "ark": "bpt6k2985959",
       "pageNum": 263,
@@ -2630,7 +2630,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0015-0015-0015-000000000015",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k2985959/f271",
       "ark": "bpt6k2985959",
       "pageNum": 271,
@@ -2666,7 +2666,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0014-0014-0014-000000000014",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f45",
       "ark": "bpt6k298598f",
       "pageNum": 45,
@@ -2684,7 +2684,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0023-0023-0023-000000000023",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f57",
       "ark": "bpt6k298598f",
       "pageNum": 57,
@@ -2703,7 +2703,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0002-0002-0002-000000000002",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f59",
       "ark": "bpt6k298598f",
       "pageNum": 59,
@@ -2722,7 +2722,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0010-0010-0010-000000000010",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f62",
       "ark": "bpt6k298598f",
       "pageNum": 62,
@@ -2741,7 +2741,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f70",
       "ark": "bpt6k298598f",
       "pageNum": 70,
@@ -2760,7 +2760,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0010-0010-0010-000000000010",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f73",
       "ark": "bpt6k298598f",
       "pageNum": 73,
@@ -2780,7 +2780,7 @@
         "gravure",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0010-0010-0010-000000000010",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f79",
       "ark": "bpt6k298598f",
       "pageNum": 79,
@@ -2799,7 +2799,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0034-0034-0034-000000000034",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f83",
       "ark": "bpt6k298598f",
       "pageNum": 83,
@@ -2818,7 +2818,7 @@
         "gravure",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0010-0010-0010-000000000010",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f88",
       "ark": "bpt6k298598f",
       "pageNum": 88,
@@ -2837,7 +2837,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0034-0034-0034-000000000034",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f89",
       "ark": "bpt6k298598f",
       "pageNum": 89,
@@ -2855,7 +2855,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f97",
       "ark": "bpt6k298598f",
       "pageNum": 97,
@@ -2874,7 +2874,7 @@
         "planche",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0016-0016-0016-000000000016",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f116",
       "ark": "bpt6k298598f",
       "pageNum": 116,
@@ -2893,7 +2893,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0019-0019-0019-000000000019",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f127",
       "ark": "bpt6k298598f",
       "pageNum": 127,
@@ -2912,7 +2912,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0003-0003-0003-000000000003",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f136",
       "ark": "bpt6k298598f",
       "pageNum": 136,
@@ -2931,7 +2931,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0060-0060-0060-000000000060",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f150",
       "ark": "bpt6k298598f",
       "pageNum": 150,
@@ -2950,7 +2950,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f170",
       "ark": "bpt6k298598f",
       "pageNum": 170,
@@ -2969,7 +2969,7 @@
         "plan",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f240",
       "ark": "bpt6k298598f",
       "pageNum": 240,
@@ -2987,7 +2987,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0040-0040-0040-000000000040",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f259",
       "ark": "bpt6k298598f",
       "pageNum": 259,
@@ -3005,7 +3005,7 @@
         "gallica",
         "sas"
       ],
-      "relatedHeritageItemId": null,
+      "relatedHeritageItemId": "e5555555-0013-0013-0013-000000000013",
       "gallicaPageUrl": "https://gallica.bnf.fr/ark:/12148/bpt6k298598f/f267",
       "ark": "bpt6k298598f",
       "pageNum": 267,
@@ -3196,7 +3196,7 @@
         "Sens",
         "archives"
       ],
-      "relatedHeritageItemId": null
+      "relatedHeritageItemId": "e5555555-0011-0011-0011-000000000011"
     },
     {
       "id": "yonne_ba65e1d69d31",
@@ -3350,7 +3350,7 @@
         "Sens",
         "archives"
       ],
-      "relatedHeritageItemId": null
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033"
     },
     {
       "id": "yonne_7ce631b9d260",
@@ -3364,7 +3364,7 @@
         "Sens",
         "archives"
       ],
-      "relatedHeritageItemId": null
+      "relatedHeritageItemId": "e5555555-0033-0033-0033-000000000033"
     },
     {
       "id": "yonne_1a70bda58342",
@@ -3546,7 +3546,7 @@
         "Sens",
         "archives"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5"
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001"
     },
     {
       "id": "yonne_ef25f28c9141",
@@ -3574,7 +3574,7 @@
         "Sens",
         "archives"
       ],
-      "relatedHeritageItemId": null
+      "relatedHeritageItemId": "e5555555-0002-0002-0002-000000000002"
     },
     {
       "id": "yonne_7168b437e63f",
@@ -3588,7 +3588,7 @@
         "Sens",
         "archives"
       ],
-      "relatedHeritageItemId": "ff7e8636-593e-5f7c-8c1f-1a2d9525c9a5"
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001"
     },
     {
       "id": "yonne_ce0d5a25ca1c",
@@ -3981,6 +3981,46 @@
         "archives"
       ],
       "relatedHeritageItemId": null
+    },
+    {
+      "id": "commons_corot_sens_rf2225",
+      "source": "commons",
+      "title": "Corot — Vue de l intérieur de la cathédrale de Sens (RF 2225, Louvre)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Corot_-_Vue_de_l%27int%C3%A9rieur_de_la_cath%C3%A9drale_de_Sens._RF_2225.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Corot_-_Vue_de_l%27int%C3%A9rieur_de_la_cath%C3%A9drale_de_Sens._RF_2225.jpg/400px-Corot_-_Vue_de_l%27int%C3%A9rieur_de_la_cath%C3%A9drale_de_Sens._RF_2225.jpg",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "corot",
+        "peinture",
+        "louvre",
+        "sens"
+      ],
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "width": 1009,
+      "height": 1500,
+      "mime": "image/jpeg",
+      "description": "Vue de l intérieur de la cathédrale Saint-Étienne de Sens, par Jean-Baptiste-Camille Corot. Huile sur toile, vers 1874. Musée du Louvre, RF 2225."
+    },
+    {
+      "id": "commons_corot_sens_023",
+      "source": "commons",
+      "title": "Corot — Intérieur de la cathédrale de Sens (Louvre, salle 952)",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jean-Baptiste-Camille_Corot_023.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jean-Baptiste-Camille_Corot_023.jpg/400px-Jean-Baptiste-Camille_Corot_023.jpg",
+      "license": "Public domain",
+      "tags": [
+        "cathedrale",
+        "corot",
+        "peinture",
+        "louvre",
+        "sens"
+      ],
+      "relatedHeritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "width": 1576,
+      "height": 2303,
+      "mime": "image/jpeg",
+      "description": "Intérieur de la cathédrale de Sens, par Jean-Baptiste-Camille Corot. Huile sur toile, 1874. Musée du Louvre, salle 952."
     }
   ]
 }

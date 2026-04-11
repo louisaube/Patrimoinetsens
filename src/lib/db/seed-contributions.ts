@@ -348,24 +348,104 @@ export const seedContributions = [
   },
 
   // =========================================================================
-  // ÉGLISE SAINT-MAURICE (item 5)
+  // ÉGLISE SAINT-MAURICE (item 5) — 3 contributions
   // =========================================================================
 
+  // Denis / Saint-Maurice — Synthèse
+  {
+    id: 'f6666666-0005-0005-0005-000000000010',
+    heritageItemId: 'e5555555-0005-0005-0005-000000000005',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Saint-Maurice : l'église des faubourgs",
+    body: "L'église Saint-Maurice se dresse dans le faubourg ouest de Sens, hors de l'enceinte médiévale. Elle doit son nom à Maurice d'Agaune, un officier romain chrétien martyrisé au IIIe siècle — un saint très populaire dans les garnisons romaines et médiévales.\n\nL'édifice actuel date principalement du XIIIe siècle. C'est un bâtiment de style gothique sobre, sans le faste de la cathédrale : une nef unique (un seul vaisseau, sans bas-côtés) couverte d'une voûte d'ogives, un chœur à chevet plat (un fond droit, sans arrondi — typique des églises paroissiales, à la différence des grandes cathédrales dont le chevet est semi-circulaire).\n\nClassée Monument Historique en 1915 (notice PA00113855), l'église a conservé plusieurs éléments remarquables : un portail roman du XIIe siècle (plus ancien que le reste de l'édifice), des vitraux du XVIe siècle dans le chœur, et une chaire en bois sculpté du XVIIe siècle. Le cimetière attenant, l'un des plus anciens de Sens, contient des tombes datant du XVIe siècle.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113855.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    furtherReading: "L'église Saint-Maurice est un exemple typique de l'architecture paroissiale gothique en Sénonais, à comparer avec les églises de Villeneuve-l'Archevêque et de Pont-sur-Yonne, construites à la même époque. Le portail roman, antérieur au reste de l'édifice, suggère l'existence d'une église plus ancienne sur le même site.",
+    period: 'XIIe–XIIIe siècle',
+    audioUrl: null,
+  },
+
+  // Bernard / Saint-Maurice — Récit
+  {
+    id: 'f6666666-0005-0005-0005-000000000011',
+    heritageItemId: 'e5555555-0005-0005-0005-000000000005',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "L'église qu'on oublie toujours",
+    body: "Tout le monde va à la cathédrale. Personne ne va à Saint-Maurice. C'est injuste. Cette petite église du faubourg a un charme que la cathédrale n'a pas : le silence d'un lieu qui n'attend rien de vous. Pas de touristes, pas de guide, pas de flash d'appareil photo. On pousse la porte, on entre, et on est seul avec huit siècles de pierres.\n\nLe portail roman est plus ancien que le reste — c'est le seul vestige d'une église qui existait avant, peut-être du XIe siècle. Les vitraux du chœur datent de la Renaissance : des couleurs étonnamment vives pour un édifice aussi modeste. Et la chaire en bois sculpté, dont personne ne parle dans les guides, est un petit chef-d'œuvre baroque.\n\nLe cimetière autour de l'église est l'un des derniers cimetières urbains médiévaux de Sens. On y trouve des tombes du XVIe siècle, certaines avec des inscriptions encore lisibles.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: 'XIIe siècle — aujourd\'hui',
+    audioUrl: null,
+  },
+
+  // Marie / Saint-Maurice — Observation
+  {
+    id: 'f6666666-0005-0005-0005-000000000012',
+    heritageItemId: 'e5555555-0005-0005-0005-000000000005',
+    authorId: MARIE,
+    contributionType: 'observation' as const,
+    title: "État de l'église — relevé janvier 2026",
+    body: "Visite du 20 janvier 2026. L'église est fermée au public (porte verrouillée). Le portail roman est en bon état mais très noirci. Quelques pierres descellées au-dessus de l'arc. Le mur sud présente une fissure verticale visible depuis la rue (env. 2 m de long, 1 cm d'ouverture). Le cimetière est accessible mais mal entretenu — herbes hautes, quelques tombes renversées. Pas de panneau d'information touristique. Photos prises avec GPS.",
+    sources: null,
+    period: null,
+    audioUrl: null,
+  },
+
   // =========================================================================
-  // HÔPITAL SAINT-JEAN / ABBAYE (item 6)
+  // HÔPITAL SAINT-JEAN / ABBAYE (item 6) — 4 contributions
   // =========================================================================
+
+  // Denis / Abbaye Saint-Jean — Synthèse (enrichie)
   {
     id: 'f6666666-0003-0003-0003-000000000003',
     heritageItemId: 'e5555555-0006-0006-0006-000000000006',
     authorId: DENIS,
     contributionType: 'historique' as const,
     title: "L'abbaye Saint-Jean : quinze siècles d'histoire",
-    body: "L'abbaye Saint-Jean a été fondée vers 495 par l'évêque Héracle de Sens — c'est l'une des plus anciennes fondations monastiques de la région. Après des siècles de guerres et d'invasions (notamment les raids normands), le monastère était en ruines. En 1111, Étienne, prévôt du chapitre cathédral, l'a refondé comme abbaye de chanoines réguliers de Saint-Augustin. L'église actuelle date du XIIIe siècle : son chœur gothique (murs fins, grandes fenêtres) contraste avec les parties romanes plus anciennes. Les bâtiments conventuels ont été reconstruits aux XVIIe et XVIIIe siècles. En 1792, la Révolution a transformé l'abbaye en hôpital. Aujourd'hui, les bâtiments abritent les musées de Sens, avec une collection de mosaïques romaines retrouvées dans le sous-sol de la ville. L'église est classée Monument Historique depuis 1862.",
+    body: "L'abbaye Saint-Jean a été fondée vers 495 par l'évêque Héracle de Sens — c'est l'une des plus anciennes fondations monastiques de la région. Le monastère occupait un site stratégique, au sud de la cathédrale, entre la ville fortifiée et la rivière.\n\nAprès des siècles de guerres et d'invasions (notamment les raids normands du IXe siècle), le monastère était en ruines. En 1111, Étienne, prévôt du chapitre cathédral, l'a refondé comme abbaye de chanoines réguliers de Saint-Augustin (un ordre religieux qui suivait la règle de saint Augustin, moins strict que les Bénédictins).\n\nL'église actuelle date du XIIIe siècle : son chœur gothique (murs fins percés de grandes fenêtres, voûtes d'ogives) contraste avec les parties romanes plus anciennes (murs épais, petites fenêtres, arcs en plein cintre). Les bâtiments conventuels (les logements et salles communes des moines) ont été reconstruits aux XVIIe et XVIIIe siècles dans un style classique.\n\nEn 1792, la Révolution a chassé les religieux et transformé l'abbaye en hôpital — d'où son nom officiel d'« Hôpital Saint-Jean ». L'hôpital a fonctionné jusqu'au XXe siècle. Aujourd'hui, les bâtiments abritent les musées de Sens, avec une collection de mosaïques romaines retrouvées sous les rues de la ville. L'église est classée Monument Historique depuis 1862.",
     sources: [
       'Bulletin de la Société Archéologique de Sens, vol. II, 1856.',
       'Ministère de la Culture, base Mérimée, notice PA00113860.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
     ],
-    period: 'VIe siècle — présent',
+    furtherReading: "Les fouilles archéologiques menées dans les années 1960-1970 sous les bâtiments de l'abbaye ont révélé des niveaux d'occupation gallo-romains (IIe-IVe siècle) avec des tessons de céramique sigillée et des fragments de mosaïque. Le Bulletin SAS de 1856 contient le premier relevé systématique de l'église. Pour la refondation augustinienne de 1111, voir les chartes du cartulaire de Sens (Quantin, 1854).",
+    period: 'Ve siècle — présent',
+    audioUrl: null,
+  },
+
+  // Denis / Abbaye Saint-Jean — Les mosaïques romaines
+  {
+    id: 'f6666666-0006-0006-0006-000000000010',
+    heritageItemId: 'e5555555-0006-0006-0006-000000000006',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les mosaïques romaines d'Agedincum",
+    body: "Le musée installé dans l'abbaye Saint-Jean conserve l'une des plus belles collections de mosaïques gallo-romaines de Bourgogne. Ces mosaïques proviennent de domus (les maisons particulières des notables romains) découvertes lors de travaux de voirie dans les années 1960-1970, sous les rues du centre-ville.\n\nLa plus spectaculaire est la mosaïque dite « de la chasse », trouvée rue de la République : elle représente des scènes de chasse au cerf et au sanglier dans des médaillons entourés de motifs géométriques. Sa datation (IIe-IIIe siècle après J.-C.) confirme la prospérité d'Agedincum — le nom romain de Sens — à cette époque.\n\nSens-Agedincum était en effet la capitale de la Sénonie (Civitas Senonum), l'un des peuples gaulois les plus puissants. C'est de ce peuple que la ville tire son nom. Sous l'Empire romain, Agedincum était un carrefour routier majeur, relié à Lyon (Lugdunum), Paris (Lutetia) et Troyes (Augustobona) par des voies romaines dont certains tracés correspondent aux routes actuelles.",
+    sources: [
+      'Perrugot, Didier. "Les mosaïques gallo-romaines de Sens." Bulletin SAS, 1975.',
+      'Ministère de la Culture, base Mérimée, notice PA00113860.',
+    ],
+    period: 'IIe–IIIe siècle',
+    audioUrl: null,
+  },
+
+  // Bernard / Abbaye Saint-Jean — Récit
+  {
+    id: 'f6666666-0006-0006-0006-000000000011',
+    heritageItemId: 'e5555555-0006-0006-0006-000000000006',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Quand l'hôpital était dans l'abbaye",
+    body: "Mon arrière-grand-mère est née dans cet hôpital, en 1912. À l'époque, on accouchait dans les anciens dortoirs des moines — des pièces immenses avec des plafonds à quatre mètres et des fenêtres en ogive. Les infirmières circulaient dans des couloirs qui avaient servi de cloître pendant six siècles.\n\nL'hôpital a fonctionné dans l'abbaye jusqu'au milieu du XXe siècle. Quand on l'a transféré dans les bâtiments modernes, à la sortie de la ville, les gens du quartier ont eu un pincement au cœur. L'abbaye était devenue l'hôpital dans l'esprit de tout le monde — plus personne ne l'appelait « abbaye ».\n\nAujourd'hui, le musée a redonné une dignité au bâtiment. Les mosaïques romaines dans la grande salle valent le déplacement — surtout la scène de chasse, avec ses couleurs encore vives après dix-huit siècles sous terre.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: 'XIXe–XXe siècle',
     audioUrl: null,
   },
   // Bernard / Gaston Ramon (item 78)
@@ -394,6 +474,38 @@ export const seedContributions = [
     period: null,
     audioUrl: null,
   },
+  // Denis / Fontaine Samaritaine — Historique
+  {
+    id: 'f6666666-0007-0007-0007-000000000010',
+    heritageItemId: 'e5555555-0007-0007-0007-000000000007',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La fontaine de la Samaritaine : l'eau au cœur de la ville",
+    body: "La fontaine de la Samaritaine se dresse place de la République, à quelques pas de la cathédrale. Son nom fait référence à l'épisode biblique de la Samaritaine — une femme que Jésus rencontre au puits de Jacob (Évangile de Jean, chapitre 4). Ce thème était fréquent pour les fontaines publiques : l'eau vivante offerte à tous.\n\nLa fontaine actuelle date du XVIIIe siècle. Elle a été reconstruite à plusieurs reprises depuis le Moyen Âge — des fontaines publiques existaient à cet emplacement dès le XIIIe siècle, alimentées par un réseau de canalisations en pierre qui amenait l'eau depuis les sources de la colline Saint-Bond, au nord de la ville.\n\nLe bassin de pierre est surmonté d'un groupe sculpté représentant la scène biblique. La fontaine est inscrite à l'Inventaire Supplémentaire des Monuments Historiques. Elle a longtemps été le principal point d'eau potable du quartier cathédral.",
+    sources: [
+      'Ministère de la Culture, base Mérimée.',
+      'Daguin, Gérard. "Les fontaines de Sens." histoire-sens-senonais-yonne.com.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: 'XIIIe–XVIIIe siècle',
+    audioUrl: null,
+  },
+
+  // Bernard / Fontaine Samaritaine — Récit
+  {
+    id: 'f6666666-0007-0007-0007-000000000011',
+    heritageItemId: 'e5555555-0007-0007-0007-000000000007',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "La fontaine où tout le monde se retrouvait",
+    body: "La fontaine de la Samaritaine, c'est le point de rendez-vous de Sens depuis toujours. Avant les téléphones portables, on disait « on se retrouve à la Samaritaine » comme les Parisiens disaient « sous l'horloge de la gare de Lyon ». Tout le monde savait où c'était.\n\nJusqu'aux années 1960, l'eau coulait en permanence. Les enfants y trempaient les mains en sortant de l'école. Les jours de marché, les maraîchers remplissaient des seaux pour rafraîchir leurs légumes. Aujourd'hui, la fontaine est à sec la moitié de l'année, et la statue a perdu un bras. C'est triste. Une fontaine sans eau, c'est comme une horloge sans aiguilles.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: 'XVIIIe siècle — aujourd\'hui',
+    audioUrl: null,
+  },
+
   // Marie / Fontaine — observation
   {
     id: 'f6666666-0008-0008-0008-000000000008',
@@ -2077,6 +2189,421 @@ export const seedContributions = [
     ],
     furtherReading: "Le mariage Moreau de Vormes × Tarbé relie deux dynasties sénonaises. Les Tarbé sont documentés par Porée (p. 79-81, « Le Berceau des Tarbé ») et par Landry (1902). L'index du Porée recense au moins huit Moreau dans le Sens médiéval : Guillaume, Thévenin, Gilles (Grande-Rue, XVe s.), Pierre procureur au bailliage, Jean et Baltazar (maison du Croissant, 1615), Claude (héritier Ygot, 1672), Michel sergent royal, Cosme avocat, Jean changeur (maison aux Piliers). Louis-Hardouin Tarbé, cousin germain de l'épouse, acheta le domaine de Bois-le-Roi près de Nailly en 1792 pour 60 000 livres (65 hectares).",
     period: '1750–1806',
+    audioUrl: null,
+  },
+
+  // =========================================================================
+  // PERSONNAGES & LIGNÉES — contributions croisées
+  // =========================================================================
+
+  // --- Loménie de Brienne → cathédrale + fiche dédiée ---
+
+  // Denis / Cathédrale — Loménie de Brienne
+  {
+    id: 'f6666666-0091-0001-0001-000000000001',
+    heritageItemId: 'e5555555-0001-0001-0001-000000000001',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Loménie de Brienne : le dernier grand archevêque de Sens",
+    body: "Étienne Charles de Loménie de Brienne (1727-1794) est nommé archevêque de Sens en 1763. Il restera à ce poste vingt-cinq ans — et quel quart de siècle. Prélat des Lumières, ami de Voltaire et des encyclopédistes, il fait refaire le palais archiépiscopal dans le goût classique, réorganise le séminaire, et soutient la Société Archéologique naissante.\n\nEn 1787, Louis XVI le nomme principal ministre — l'équivalent d'un Premier ministre. Loménie de Brienne tente de résoudre la crise financière de la monarchie en imposant un nouvel impôt foncier (la subvention territoriale, un impôt qui devait frapper toutes les terres, y compris celles de la noblesse et du clergé). Les parlements (les cours de justice d'Ancien Régime, pas des assemblées élues) refusent d'enregistrer l'édit. C'est l'engrenage qui mènera à la convocation des États généraux et à la Révolution.\n\nDémis en août 1788, Loménie de Brienne reçoit le chapeau de cardinal en décembre de la même année — paradoxe d'un homme que Rome récompense au moment où la France le congédie. Arrêté sous la Terreur, il meurt en détention à Sens en février 1794. Son corps est enterré dans la cathédrale qu'il avait administrée pendant un quart de siècle.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+      'Bulletin de la Société Archéologique de Sens, vol. XII, 1880.',
+      'Rials, Stéphane. "La Déclaration des droits de l\'homme et du citoyen." Hachette, 1988.',
+    ],
+    period: '1763–1794',
+    audioUrl: null,
+  },
+
+  // Denis / Fiche Loménie — synthèse
+  {
+    id: 'f6666666-0091-0091-0091-000000000001',
+    heritageItemId: 'e5555555-0091-0091-0091-000000000091',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Le cardinal-ministre : entre Lumières et Révolution",
+    body: "Loménie de Brienne incarne le paradoxe de la fin de l'Ancien Régime : un prélat qui ne croit guère en Dieu (Talleyrand dira qu'il était « le seul athée de tout le clergé de France »), un réformateur dont les réformes précipitent l'effondrement du système qu'il veut sauver, un cardinal mort en prison de la République.\n\nNé dans une famille de la noblesse limousine, il entre dans les ordres par carrière — c'est l'usage pour les cadets de famille. Évêque de Condom à 33 ans, archevêque de Toulouse à 36, archevêque de Sens à 36, il accumule les bénéfices ecclésiastiques (les revenus liés à une charge religieuse, indépendamment de l'exercice réel du culte).\n\nÀ Sens, il marque la ville : il fait reconstruire le palais archiépiscopal, crée des jardins, finance le pavage des rues. Mais c'est son passage au ministère qui le projette dans l'histoire de France. Sa tentative de réforme fiscale — imposer les privilégiés — est celle-là même que la Révolution accomplira, mais par d'autres moyens.\n\nSon tombeau, dans la cathédrale de Sens, a été profané pendant la Terreur. Il a été redécouvert au XIXe siècle lors de travaux dans le chœur.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+      'Price, Munro. "The Road from Versailles: Louis XVI, Marie Antoinette, and the Fall of the French Monarchy." St. Martin\'s, 2002.',
+    ],
+    furtherReading: "La correspondance de Loménie de Brienne (Archives nationales, série AB XIX) est partiellement éditée. Les Bulletins SAS des années 1870-1890 contiennent plusieurs notices sur sa gestion de l'archevêché. Pour le contexte politique, voir Munro Price (2002) et Jean Egret, La Pré-Révolution française (1962).",
+    period: '1727–1794',
+    audioUrl: null,
+  },
+
+  // --- Tristan de Salazar → cathédrale ---
+
+  // Denis / Cathédrale — Salazar
+  {
+    id: 'f6666666-0091-0001-0001-000000000002',
+    heritageItemId: 'e5555555-0001-0001-0001-000000000001',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Tristan de Salazar : l'archevêque bâtisseur de la Renaissance",
+    body: "Tristan de Salazar (1432-1519) est archevêque de Sens de 1475 à 1519 — quarante-quatre ans de règne, un record. Il fait construire le transept sud de la cathédrale (le bras droit de la croix que forme l'édifice), achevé entre 1490 et 1517. Ce transept est l'un des derniers grands chantiers gothiques de France — un gothique flamboyant (caractérisé par des flammes de pierre sculptées dans les remplages des fenêtres, d'une complexité extrême).\n\nSalazar est un homme de la transition : né dans un monde médiéval, il meurt dans un monde Renaissance. Son transept mêle les deux esthétiques — voûtes d'ogives gothiques, mais décor sculpté qui annonce la Renaissance italienne. Denis Cailleaux a montré, dans sa thèse sur les comptes de fabrique (les comptes du chantier de la cathédrale), que ce transept a coûté l'équivalent de plusieurs décennies de revenus de l'archevêché.",
+    sources: [
+      'Cailleaux, Denis. "La cathédrale en chantier. La construction du transept de Saint-Étienne de Sens." CTHS, Paris, 1999.',
+      'Bulletin de la Société Archéologique de Sens, vol. XV, 1890.',
+    ],
+    period: '1475–1519',
+    audioUrl: null,
+  },
+
+  // --- Viollet-le-Duc (ancêtre) → Palais synodal ---
+
+  // Denis / Palais synodal — connexion familiale VLD
+  {
+    id: 'f6666666-0091-0002-0002-000000000001',
+    heritageItemId: 'e5555555-0002-0002-0002-000000000002',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Viollet-le-Duc : une famille sénonaise avant la gloire parisienne",
+    body: "Jean-Nicolas Viollet-le-Duc (1741-1816) est un ancêtre direct d'Eugène Viollet-le-Duc, le célèbre architecte-restaurateur. La famille est originaire du Sénonais — un détail que l'historiographie parisienne oublie souvent.\n\nQuand Eugène Viollet-le-Duc reçoit la commande de restaurer le Palais synodal de Sens en 1863, il revient donc, en un sens, au pays de ses ancêtres. Ce n'est pas un hasard si sa restauration sénonaise est l'une de ses plus soignées : le toit polychrome, les statues de la façade, la galerie néogothique — tout témoigne d'une attention particulière, celle d'un homme qui restaure non seulement un monument, mais un morceau de son propre héritage familial.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+      'Viollet-le-Duc, Eugène. "Dictionnaire raisonné de l\'architecture." Paris, 1854-1868.',
+    ],
+    period: '1741–1875',
+    audioUrl: null,
+  },
+
+  // --- Famille Balduc ---
+
+  {
+    id: 'f6666666-0087-0087-0087-000000000001',
+    heritageItemId: 'e5555555-0087-0087-0087-000000000087',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Balduc : six générations protestantes à Sens",
+    body: "La famille Balduc est documentée à Sens sur six à sept générations, de Nicolas (vers 1480) à Isaac (1726). C'est l'une des rares familles protestantes à avoir traversé les guerres de Religion, l'édit de Nantes (1598, qui autorise le culte réformé), et sa révocation (1685, qui l'interdit de nouveau) sans quitter la ville.\n\nLa lignée : Nicolas (vers 1480) → Étienne (†1548) → Nicolas (vers 1517) → Loup (†1627) → Claude (vers 1598) → Isaac (1627) → Isaac (1662) → Isaac (1726). Chaque génération porte des prénoms bibliques — Isaac, trois fois de suite — marqueurs de l'identité réformée.\n\nLes Balduc sont un cas d'étude pour l'histoire de la tolérance religieuse en France : comment une famille minoritaire survit-elle dans une ville dont l'archevêque est le primat de l'Église catholique de France ? La réponse tient en un mot : discrétion. Les registres montrent des alliances avec d'autres familles protestantes du Sénonais, mais jamais de conflit ouvert avec les autorités ecclésiastiques.",
+    sources: [
+      'Archives départementales de l\'Yonne, registres paroissiaux et d\'état civil, commune de Sens.',
+      'Bulletin de la Société Archéologique de Sens, passim.',
+    ],
+    furtherReading: "Les registres du temple protestant de Sens (AD Yonne, série I) documentent les baptêmes, mariages et sépultures de la communauté réformée du XVIe au XVIIIe siècle. La révocation de l'édit de Nantes (1685) a provoqué l'émigration d'une partie de la communauté vers Genève et les Provinces-Unies — certains Balduc figurent peut-être dans les registres du Refuge.",
+    period: '1480–1726',
+    audioUrl: null,
+  },
+
+  // --- Famille Pigalle ---
+
+  {
+    id: 'f6666666-0089-0089-0089-000000000001',
+    heritageItemId: 'e5555555-0089-0089-0089-000000000089',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Des Pigalle de Sens au quartier Pigalle de Paris",
+    body: "Jean Louis Barnabé Pigalle naît à Sens en 1701. De lui descend toute une lignée sénonaise — huit enfants à la génération suivante (1720-1731), puis Gervais Protais, puis Louis Victor Alexandre. Famille d'artisans ou de petite bourgeoisie, bien implantée dans la paroisse.\n\nMais le plus célèbre des Pigalle n'est pas sénonais de naissance : c'est Jean-Baptiste Pigalle (1714-1785), le sculpteur. Il est né à Paris, mais la famille est originaire de Sens. Son atelier parisien se trouvait rue de la Victoire — et c'est son nom qui a donné naissance au quartier Pigalle, devenu l'un des quartiers les plus célèbres (et les plus mal famés) de Paris.\n\nPeu de Sénonais savent que le « Pigalle » des cabarets, du Moulin Rouge et des néons rouges porte le nom d'une famille d'ici. Le sculpteur, lui, était un artiste reconnu : ses œuvres sont au Louvre, à Versailles, à Saint-Sulpice. Le contraste entre la respectabilité de l'artiste et la réputation de son quartier est l'un des ironies de l'histoire parisienne.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+      'Archives départementales de l\'Yonne, registres paroissiaux.',
+    ],
+    period: '1701–1785',
+    audioUrl: null,
+  },
+
+  // --- Mallarmé ---
+
+  {
+    id: 'f6666666-0092-0092-0092-000000000001',
+    heritageItemId: 'e5555555-0092-0092-0092-000000000092',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Le père de Mallarmé : fonctionnaire à Sens, poète par ricochet",
+    body: "Numa Florent Joseph Mallarmé (1805-1863) est fonctionnaire de l'Enregistrement à Sens. Un métier de bureau, des tampons et des registres. Rien qui prédispose à enfanter un poète — et quel poète : Stéphane Mallarmé, l'un des inventeurs de la poésie moderne, maître des symbolistes, auteur de « L'Après-midi d'un faune » et de « Un coup de dés jamais n'abolira le hasard ».\n\nLe fils naît à Paris en 1842, mais ses premières années sont marquées par la Bourgogne — les paysages de l'Yonne, les ciels gris, les mots précis du père fonctionnaire. Plus tard, Mallarmé enseignera l'anglais dans un lycée — un autre métier de fonctionnaire. On se demande si la précision maniaque de sa poésie, où chaque mot est pesé au milligramme, ne vient pas de ces registres paternels où chaque chiffre devait tomber juste.",
+    sources: [
+      'Archives départementales de l\'Yonne, état civil.',
+      'Marchal, Bertrand. "Mallarmé." Gallimard, collection NRF Biographies, 2022.',
+    ],
+    period: '1805–1863',
+    audioUrl: null,
+  },
+
+  // --- Litzelmann / Maupassant ---
+
+  {
+    id: 'f6666666-0093-0093-0093-000000000001',
+    heritageItemId: 'e5555555-0093-0093-0093-000000000093',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Lucien Litzelmann : le secret de Maupassant dans l'état civil de Sens",
+    body: "Lucien Litzelmann (1883-1947) est le fils naturel de Guy de Maupassant et de Joséphine Litzelmann, une servante. Ce détail généalogique, longtemps ignoré des biographes, est attesté par les registres d'état civil.\n\nMaupassant n'a jamais reconnu cet enfant. En 1883, l'écrivain est au sommet de sa gloire — « Bel-Ami » paraîtra deux ans plus tard. La liaison avec Joséphine est clandestine. L'enfant naît et grandit loin de Paris, dans l'anonymat provincial. Il meurt à Sens en 1947, à 64 ans, sans avoir jamais porté le nom de son père.\n\nCette histoire illustre une réalité sociale de la France du XIXe siècle : les « bâtards » des hommes célèbres, élevés sous le nom de leur mère, invisibles dans les biographies officielles, mais bien présents dans les registres d'état civil — ces documents où la vérité s'inscrit en marge.",
+    sources: [
+      'Archives départementales de l\'Yonne, état civil, commune de Sens.',
+      'Lanoux, Armand. "Maupassant le Bel-Ami." Grasset, 1967 (réédition).',
+    ],
+    period: '1883–1947',
+    audioUrl: null,
+  },
+
+  // --- Bảo Long ---
+
+  {
+    id: 'f6666666-0094-0094-0094-000000000001',
+    heritageItemId: 'e5555555-0094-0094-0094-000000000094',
+    authorId: BERNARD,
+    contributionType: 'recit' as const,
+    title: "Un prince du Vietnam dans le cimetière de Sens",
+    body: "Bảo Long Nguyễn Phúc (1936-2007) est le fils aîné de Bảo Đại, le dernier empereur du Vietnam. Né prince héritier dans un palais de Huế, il arrive en France enfant, quand son père abdique en 1945 après la révolution du Việt Minh.\n\nBảo Long vit ensuite entre Paris et la province, dans un exil discret. Il meurt à Sens en 2007, à 71 ans. Peu de Sénonais savent qu'un prince impérial d'Extrême-Orient repose dans leur cimetière.\n\nMais Sens a l'habitude de ces destins déplacés. Avant Bảo Long, un autre prince étranger est mort ici : Georges Brassov (1910-1931), fils morganatique (issu d'un mariage inégal en rang) du grand-duc Michel Romanov de Russie. Georges est mort dans un accident de voiture à 21 ans, sur la route de Sens. Deux princes, deux empires effondrés, deux tombes dans l'Yonne.",
+    sources: [
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+      'Archives municipales de Sens, registres du cimetière.',
+    ],
+    period: '1936–2007',
+    audioUrl: null,
+  },
+
+  // --- Denis-Claude de Sallo ---
+
+  {
+    id: 'f6666666-0095-0095-0095-000000000001',
+    heritageItemId: 'e5555555-0095-0095-0095-000000000095',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "De Sallo : l'homme qui a inventé la revue scientifique",
+    body: "Denis-Claude de Sallo (†1691) est un magistrat et érudit sénonais. En 1665, il fonde le Journal des savants — la première revue savante d'Europe. Avant lui, le savoir circulait par lettres privées, traités isolés et conversations d'académie. Après lui, la publication périodique devient le véhicule standard de la connaissance scientifique.\n\nLe Journal des savants publie des comptes rendus de livres, des observations scientifiques, des découvertes médicales. Il précède de quelques mois les Philosophical Transactions de la Royal Society de Londres — la deuxième revue savante au monde. De Sallo a donc donné à la France la priorité sur l'Angleterre dans l'invention d'un outil qui structure encore la science aujourd'hui.\n\nLe premier numéro paraît le 5 janvier 1665. Le Journal existe toujours — c'est la plus ancienne revue savante encore en activité au monde. Trois siècles et demi de publication continue, née de l'initiative d'un magistrat de Sens.",
+    sources: [
+      'Vittu, Jean-Pierre. "Le Journal des savants et la République des Lettres, 1665-1714." Thèse, Paris I, 1998.',
+      'Bulletin de la Société Archéologique de Sens, passim.',
+    ],
+    furtherReading: "La BnF conserve la collection complète du Journal des savants (1665-présent), entièrement numérisée sur Gallica. Le premier numéro est consultable en ligne. De Sallo a été brièvement emprisonné à la Bastille pour avoir publié des critiques trop franches — la liberté de la presse n'existait pas encore.",
+    period: '1626–1691',
+    audioUrl: null,
+  },
+
+  // =========================================================================
+  // FAMILLES DES HÔTELS PARTICULIERS — contributions croisées
+  // =========================================================================
+
+  // --- Lavernade → fiche famille ---
+  {
+    id: 'f6666666-0096-0096-0096-000000000001',
+    heritageItemId: 'e5555555-0096-0096-0096-000000000096',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Larcher de Lavernade : cinq générations de robe à Sens",
+    body: "La famille Larcher de Lavernade appartient à la noblesse de robe sénonaise — une noblesse acquise par l'exercice de charges judiciaires, par opposition à la noblesse d'épée (militaire). Thomas Claude de Lavernade (vers 1680) est le premier documenté. La lignée s'étend sur cinq générations : Jean François (1710), puis Charlotte, Pierre Jean et Colombe (1766-1779), Charles (1800), et enfin Aloph (1833).\n\nLes Larcher de Lavernade sont liés à plusieurs familles du réseau notabiliaire sénonais — les Epoigny, les Tarbé, les Pigalle. Ces alliances croisées forment un maillage social qui contrôle la magistrature, le notariat et l'administration locale du XVIIe au XIXe siècle.\n\nLa famille n'a pas d'hôtel particulier identifié à leur nom dans Sens, mais ils apparaissent dans les actes notariés comme propriétaires de maisons dans le centre ancien. Leur patronyme est attesté dans les registres paroissiaux, les minutes notariales et les rôles d'imposition de la ville.",
+    sources: [
+      'Archives départementales de l\'Yonne, registres paroissiaux et d\'état civil.',
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." Société Archéologique de Sens, 1920.',
+    ],
+    period: '1680–1833',
+    audioUrl: null,
+  },
+
+  // --- Vaudricourt → fiche famille + contribution sur l'hôtel ---
+  {
+    id: 'f6666666-0097-0097-0097-000000000001',
+    heritageItemId: 'e5555555-0097-0097-0097-000000000097',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Vaudricourt : des tanneries à l'hôtel Renaissance",
+    body: "La famille de Vaudricourt est issue de la bourgeoisie marchande sénonaise. Jehan de Polangis, membre d'une importante famille de tanneurs, fait construire vers 1560 un « pavillon » à la mode italienne — un hôtel particulier avec cour intérieure, puits central, et façade sur rue. C'est l'actuel Hôtel de Vaudricourt, rue Abélard.\n\nLe bâtiment s'organise selon le schéma classique de l'hôtel particulier entre cour et jardin (un plan en U : le bâtiment principal au fond, deux ailes latérales formant la cour devant, et le jardin derrière). Au XVIIIe siècle, l'étage noble est modernisé et orné de boiseries (des panneaux de bois sculpté qui couvrent les murs, typiques du décor intérieur français des XVIIe-XVIIIe siècles).\n\nL'inscription aux Monuments Historiques (1947) protège le portail d'entrée, la cour avec son puits, les façades et toitures, et les deux salons aux boiseries du XVIIIe siècle. L'intérêt du lieu tient à la cohabitation de trois époques — XVIe, XVIIe et XVIIIe siècles — qui illustre la continuité de l'élite sénonaise sur deux siècles et demi.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113861.',
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." 1920.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: '1560–1800',
+    audioUrl: null,
+  },
+
+  // Contribution croisée : Hôtel de Vaudricourt ← famille
+  {
+    id: 'f6666666-0097-0026-0026-000000000001',
+    heritageItemId: 'e5555555-0026-0026-0026-000000000026',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "La famille de Vaudricourt : les commanditaires de l'hôtel",
+    body: "L'Hôtel de Vaudricourt porte le nom de ses propriétaires les plus illustres, mais c'est Jehan de Polangis, un tanneur enrichi, qui le fait construire vers 1560. La famille de Polangis / Vaudricourt illustre l'ascension sociale typique de la bourgeoisie marchande de la Renaissance : du commerce des peaux à la propriété d'un hôtel particulier en une génération.\n\nLes tanneries sénonaises, installées le long de la Vanne et de l'Yonne, étaient l'une des principales activités économiques de la ville. Les peaux de bœuf et de mouton étaient traitées au tan (de l'écorce de chêne broyée) pendant plusieurs mois dans de grands bacs de pierre. L'odeur était épouvantable — d'où l'implantation des tanneries en périphérie, loin du centre. Mais les profits permettaient aux tanneurs d'habiter au cœur de la ville.",
+    sources: [
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." 1920.',
+      'Ministère de la Culture, base Mérimée, notice PA00113861.',
+    ],
+    period: '1540–1700',
+    audioUrl: null,
+  },
+
+  // --- Vezou → fiche famille + contribution sur l'ancien hôtel de ville ---
+  {
+    id: 'f6666666-0098-0098-0098-000000000001',
+    heritageItemId: 'e5555555-0098-0098-0098-000000000098',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Vezou : quand un hôtel particulier devient mairie",
+    body: "L'Hôtel Vezou est l'un des exemples les plus intéressants de reconversion d'un patrimoine privé en patrimoine public à Sens. Construit par la famille Vezou — des magistrats du bailliage (le tribunal royal de la ville) — l'hôtel devient l'Ancien Hôtel de Ville de Sens lorsque la municipalité l'acquiert.\n\nLa famille Vezou fait partie du réseau des officiers royaux sénonais. Le bailliage de Sens dépend du Parlement de Paris ; ses officiers — le bailli, les lieutenants, les procureurs — forment une élite juridique locale qui se transmet les charges de père en fils. C'est cette noblesse de robe qui construit les hôtels particuliers du centre-ville.\n\nL'Hôtel Vezou, inscrit Monument Historique en 1971 (PA00113863), conserve des éléments architecturaux du XVIIe siècle. Il a servi de mairie jusqu'à la construction du nouvel Hôtel de Ville en 1904.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113863.',
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." 1920.',
+    ],
+    period: '1600–1904',
+    audioUrl: null,
+  },
+
+  // --- Le Fournier d'Yauville → fiche famille ---
+  {
+    id: 'f6666666-0099-0099-0099-000000000001',
+    heritageItemId: 'e5555555-0099-0099-0099-000000000099',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Le Fournier d'Yauville : officiers du roi à Sens",
+    body: "L'Hôtel Le Fournier d'Yauville (MH inscrit 1972, PA00113868) porte le nom d'une famille d'officiers royaux. Les Le Fournier occupent des charges au bailliage et à l'élection (la circonscription fiscale d'Ancien Régime) de Sens à partir du XVIIe siècle.\n\nLe nom « d'Yauville » est un nom de terre — un domaine rural dont la possession donne le droit de s'en nommer. C'est un marqueur social : la bourgeoisie qui achète une terre peut ajouter le nom du domaine à son patronyme, se distinguant ainsi des simples roturiers.\n\nL'hôtel, situé dans le centre ancien, est un bâtiment classique des XVIIe-XVIIIe siècles. Il témoigne de la prospérité de cette couche sociale intermédiaire entre la grande noblesse d'épée (absente de Sens) et la petite bourgeoisie marchande.",
+    sources: [
+      'Ministère de la Culture, base Mérimée, notice PA00113868.',
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." 1920.',
+    ],
+    period: '1650–1800',
+    audioUrl: null,
+  },
+
+  // --- Biencourt → fiche famille ---
+  {
+    id: 'f6666666-0100-0100-0100-000000000001',
+    heritageItemId: 'e5555555-0100-0100-0100-000000000100',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Biencourt : un hôtel Renaissance rue de l'Épée",
+    body: "L'Hôtel de Biencourt, rue de l'Épée, est l'un des plus beaux hôtels particuliers de Sens. La famille de Biencourt appartient à la noblesse locale — une noblesse ancienne, peut-être d'épée (militaire), à la différence de la plupart des familles sénonaises qui sont de robe (judiciaire).\n\nL'hôtel date du XVIe siècle. Sa façade sur rue conserve des éléments Renaissance : fenêtres à meneaux (divisées par des montants de pierre verticaux et horizontaux formant une croix), lucarnes sculptées, et un portail d'entrée orné. L'intérieur, remanié aux XVIIe et XVIIIe siècles, n'est pas accessible au public.\n\nLa rue de l'Épée tire probablement son nom d'une enseigne (une image peinte ou sculptée qui servait d'adresse avant la numérotation des rues, instaurée à Paris en 1805). Les rues sénonaises portent encore ces noms-enseignes : rue du Bœuf Couronné, rue du Plat d'Étain, rue du Lion d'Or.",
+    sources: [
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." 1920.',
+      'Brousse, Bernard. "Sens, une cité d\'art et d\'histoire." Le Charmoiset, 2024.',
+    ],
+    period: '1500–1750',
+    audioUrl: null,
+  },
+
+  // --- Moreau de Vormes → fiche famille ---
+  {
+    id: 'f6666666-0101-0101-0101-000000000001',
+    heritageItemId: 'e5555555-0101-0101-0101-000000000101',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Moreau de Vormes : une dynastie dans les murs de Sens",
+    body: "L'index des rues de Porée recense au moins huit Moreau dans le Sens médiéval et moderne : Guillaume, Thévenin, Gilles (Grande-Rue, XVe siècle), Pierre procureur au bailliage, Jean et Baltazar (maison du Croissant, 1615), Claude (héritier Ygot, 1672), Michel sergent royal, Cosme avocat, Jean changeur (maison aux Piliers). La famille Moreau est omniprésente dans les archives sénonaises sur quatre siècles.\n\nLa branche « de Vormes » s'allie aux Tarbé — une autre grande dynastie sénonaise — par le mariage qui unit les deux familles au XVIIIe siècle. Cette alliance Moreau de Vormes × Tarbé relie deux lignées de magistrature locale. Louis-Hardouin Tarbé, cousin germain de l'épouse, deviendra ministre des Contributions publiques sous la Révolution — preuve que le réseau sénonais a su traverser le changement de régime.\n\nLa Maison Moreau de Vormes, au 190 rue des Déportés et de la Résistance (ancienne Grande-Rue), est le dernier vestige architectural de cette dynastie.",
+    sources: [
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." 1920, p. 35, 54, 79-81.',
+      'Landry, Ernest. "Les Tarbé, généalogie-biographie." Sens, Miriam, 1902.',
+      'Archives départementales de l\'Yonne, recensements de population.',
+    ],
+    period: '1400–1806',
+    audioUrl: null,
+  },
+
+  // --- Corot → cathédrale ---
+  {
+    id: 'f6666666-0001-0001-0001-000000000020',
+    heritageItemId: 'e5555555-0001-0001-0001-000000000001',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Corot à Sens : deux tableaux au Louvre et un secret de famille",
+    body: "En 1874, Jean-Baptiste Camille Corot peint deux vues de l'intérieur de la cathédrale de Sens. Les deux toiles sont aujourd'hui au musée du Louvre (RF 2225, salle 952). Corot, que l'on connaît surtout comme paysagiste, s'est intéressé toute sa vie aux intérieurs d'église — Chartres, Mantes, Marissel — mais celles de Sens sont parmi ses dernières : il meurt en février 1875.\n\nPourquoi Sens ? Le détail est dans les registres d'état civil. Le père de Corot, Jean César Corot (1752-1820), a épousé Colombe Cornisset à Sens. Les Cornisset sont une famille bourgeoise sénonaise bien implantée — Edme Cornisset (1737-1793), son beau-père, est marié à Colombe Lebrun. Edme César Corot (1790-1850), demi-frère ou parent du peintre, naît et meurt à Sens.\n\nCorot ne peint donc pas une cathédrale quelconque : il peint la cathédrale de la ville de sa famille. La lumière qui tombe des fenêtres hautes, les piliers massifs qui s'enfoncent dans la pénombre — c'est un portrait de famille autant qu'un paysage d'architecture.",
+    sources: [
+      'Musée du Louvre, inventaire RF 2225.',
+      'Wikimedia Commons, catégorie "Interior of Cathédrale Saint-Étienne de Sens".',
+      'Archives départementales de l\'Yonne, état civil, commune de Sens.',
+    ],
+    furtherReading: "Alfred Robaut a catalogué l'œuvre complet de Corot (L'Œuvre de Corot, 4 volumes, 1905). Les deux vues de Sens portent les numéros Robaut 2188 et 2189. L'une est une étude préparatoire (plus petite, plus esquissée), l'autre le tableau définitif. Le musée de Sens ne possède pas de Corot — les deux toiles sont restées au Louvre.",
+    period: '1874',
+    audioUrl: null,
+  },
+
+  // =========================================================================
+  // FAMILLES DES REGISTRES DE DÉCÈS
+  // =========================================================================
+
+  // --- Famille Perrot ---
+  {
+    id: 'f6666666-0102-0102-0102-000000000001',
+    heritageItemId: 'e5555555-0102-0102-0102-000000000102',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Perrot : trois siècles et demi de présence sénonaise",
+    body: "La famille Perrot est attestée à Sens dès le XVIIe siècle. Guillaume Perrot (1637-1706) épouse Charlotte Cordier. Leur fille Jeanne (1680-1734) se marie avec René Le Roy de La Vérouillère — une alliance qui relie les Perrot à la petite noblesse locale. Leur fils Antoine (1683-1707) meurt jeune, à 24 ans.\n\nLa lignée se poursuit au XIXe siècle avec Louis Émile Perrot (1837-1911), marié à Adèle Guerrier. Au XXe siècle, deux branches se distinguent : Daniel Perrot (1911-1999), fils de Francisque et Valentine Gelinier, et Pierre Maxime Marie Perrot (1907-1992), fils d'Adolphe André Edmond et Jeanne Lebocq.\n\nLa famille Perrot illustre un phénomène commun dans les villes de taille moyenne comme Sens : une lignée qui se maintient sur le même territoire pendant plus de trois siècles, traversant les régimes (monarchie, Révolution, Empire, Républiques) sans éclat particulier mais avec une constance remarquable. Les registres paroissiaux, puis d'état civil, en sont les seuls témoins.",
+    sources: [
+      'Archives départementales de l\'Yonne, registres paroissiaux et d\'état civil, commune de Sens.',
+    ],
+    period: '1637–1999',
+    audioUrl: null,
+  },
+
+  // --- Famille Gibier de Serbois ---
+  {
+    id: 'f6666666-0103-0103-0103-000000000001',
+    heritageItemId: 'e5555555-0103-0103-0103-000000000103',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Gibier de Serbois : cinq générations dans la justice sénonaise",
+    body: "Nicolas Gibier (1623-1672) épouse Marguerite Le Vuyt (1643-1682). Son fils Nicolas (vers 1700-1775) épouse Madeleine Françoise de Jussy — une alliance avec une autre famille de robe sénonaise, les Jussy. François Gibier de Serbois (1711-1783) épouse Charlotte Hibon de Bagny. Jean Baptiste Nicolas Gibier (1737-1794) épouse Marie Anne Viart d'Orval. Marie Françoise Antoinette (1752-1835) épouse Maximilien de Marsangy — une alliance qui relie les Gibier à la noblesse militaire.\n\nLe nom « de Serbois » est un nom de terre (un domaine dont la possession donne le droit de s'en nommer). Ce mécanisme d'anoblissement par la terre est typique de la société d'Ancien Régime : la famille commence comme « Gibier », simple patronyme, et devient « Gibier de Serbois » en une ou deux générations.\n\nLes Gibier de Serbois sont la famille la plus anciennement enracinée dans la fonction juridique locale. Cinq générations d'officiers de justice, de Nicolas (1623) à François (1783) — deux siècles de service au bailliage de Sens.",
+    sources: [
+      'Archives départementales de l\'Yonne, registres paroissiaux.',
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." 1920.',
+    ],
+    period: '1623–1848',
+    audioUrl: null,
+  },
+
+  // --- Famille Chacerat ---
+  {
+    id: 'f6666666-0104-0104-0104-000000000001',
+    heritageItemId: 'e5555555-0104-0104-0104-000000000104',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Chacerat : une famille de la Sens médiévale",
+    body: "Jehan Chacerat (~1320-1371) est le plus ancien membre documenté. Son fils Jean hérite de la lignée. Pierre Chacerat (~1380-1443), fils de Jean et Marie N., épouse Catherine Sureau. Jehan Chacerat (~1345-1400) épouse Guillemette Chanteprime — un nom qui dit tout : les Chanteprime sont une puissante famille de juristes parisiens et sénonais.\n\nLe mariage Chacerat × Chanteprime (Pierre Chanteprime, ~1330-1413, était marié à Jehanne de La Perreuse) montre l'intégration des notables sénonais dans les réseaux du royaume de France dès le XIVe siècle. Pierre Chanteprime était procureur au Parlement de Paris — le plus haut tribunal du royaume.\n\nLes Chacerat disparaissent des registres après le XVe siècle. Leur trace se lit dans les pierres : si une « maison Chacerat » a existé à Sens, elle a probablement été absorbée dans les remaniements urbains des XVIe-XVIIe siècles.",
+    sources: [
+      'Archives départementales de l\'Yonne, registres paroissiaux.',
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." 1920.',
+    ],
+    period: '1320–1443',
+    audioUrl: null,
+  },
+
+  // --- Famille Epoigny ---
+  {
+    id: 'f6666666-0105-0105-0105-000000000001',
+    heritageItemId: 'e5555555-0105-0105-0105-000000000105',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Epoigny : au carrefour Pigalle-Tarbé",
+    body: "La famille Epoigny est fascinante non par elle-même, mais par ses alliances. Sébastien Epoigny (1698-1768) épouse Marie d'Allençon. Sa fille Rosette (1707-1796) épouse Nicolas Roze. Sa fille Madeleine (1701-1786) épouse Jean Louis Barnabé Pigalle — c'est par ce mariage que les Pigalle entrent dans le réseau sénonais.\n\nClaude Epoigny (1734-1780), fils de Sébastien et Marie d'Allençon, épouse Magdelaine Dominique Tarbé — fille de Charles-Hardouin Tarbé. Ange François Epoigny (1759-1830), fils de Claude et Magdelaine Dominique Tarbé, épouse Rose Madeleine Guerrapain.\n\nLes Epoigny sont le nœud du réseau : par Madeleine, ils connectent les Pigalle ; par Magdelaine Dominique Tarbé, ils connectent les Tarbé. Les alliances Pigalle × Epoigny et Epoigny × Tarbé forment un triangle qui contrôle une part significative de la bourgeoisie sénonaise au XVIIIe siècle. Colombe Catherine Pigalle (1731-1820) épouse Pierre-Hardouin Tarbé — le triangle se ferme.",
+    sources: [
+      'Archives départementales de l\'Yonne, registres paroissiaux.',
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." 1920.',
+    ],
+    furtherReading: "Le réseau Epoigny-Pigalle-Tarbé mériterait une étude prosopographique (l'étude biographique d'un groupe social). Les minutes notariales du XVIIIe siècle (AD Yonne, série E) conservent les contrats de mariage avec les apports en dot — ces documents permettraient de reconstituer les patrimoines et les stratégies matrimoniales.",
+    period: '1698–1830',
+    audioUrl: null,
+  },
+
+  // --- Famille Salleron-Cornisset (avec lien Corot) ---
+  {
+    id: 'f6666666-0106-0106-0106-000000000001',
+    heritageItemId: 'e5555555-0106-0106-0106-000000000106',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Salleron et les Cornisset : la connexion Corot",
+    body: "Jean François Salleron (1795-1869) épouse Louise Cornisset (1799-1885). Leur fils Ernest Salleron (1821-1891) épouse Emma Guillou. Leur fille Berthe (1863-1944) épouse Emile Cottin. Eugène Augustin Salleron (1802-1873) épouse Marie Grenier. Leur fille Zéline (1829-1901) épouse Edme Louis Laroche.\n\nMais la connexion la plus surprenante est celle des Cornisset avec le peintre Jean-Baptiste Camille Corot. Les registres attestent que Jean César Corot (1752-1820) épouse Colombe Cornisset — faisant des Cornisset la belle-famille du père du célèbre paysagiste. Edme César Corot (1790-1850), fils de Jean César et Colombe Cornisset, est né et mort à Sens.\n\nEdme Cornisset (1737-1793) épouse Colombe Lebrun. Leur fille Marie Hélène Ursule (1767-1844) épouse Louis François Augustin Delions. Par Colombe Virginie Cornisset (1770-1838), la famille se connecte aux Luyt.\n\nLes Cornisset-Salleron forment un réseau bourgeois qui irrigue la vie économique sénonaise du XVIIIe au XIXe siècle — et qui, par le hasard d'un mariage, touche à l'histoire de l'art français.",
+    sources: [
+      'Archives départementales de l\'Yonne, registres paroissiaux et d\'état civil.',
+      'Porée, Charles. "Histoire des rues et des maisons de Sens." 1920.',
+    ],
+    period: '1737–1944',
+    audioUrl: null,
+  },
+
+  // --- Famille Berthelin ---
+  {
+    id: 'f6666666-0107-0107-0107-000000000001',
+    heritageItemId: 'e5555555-0107-0107-0107-000000000107',
+    authorId: DENIS,
+    contributionType: 'historique' as const,
+    title: "Les Berthelin : notaires et alliance Brunel de Serbonnes",
+    body: "Louis Berthelin (1664-1740) épouse Catherine Rapault (1671-1752). Leur fils Jean-Baptiste (1737-1830) — qui vit 93 ans, une longévité remarquable pour l'époque — épouse Jeanne Françoise Robert (1746-1781). Leur fille Alexandrine Thérèse (1777-1851) épouse François Maximilien de Brunel de Serbonnes (1770-1828).\n\nCe mariage Berthelin × Brunel de Serbonnes est significatif : il relie la bourgeoisie de robe sénonaise (les Berthelin, notaires) à la noblesse terrienne (les Brunel de Serbonnes, dont le nom indique la possession de la terre de Serbonnes, un village au nord de Sens). Le fils, Alexandrine Thérèse, fait le saut social que beaucoup de familles bourgeoises accomplissent sous l'Ancien Régime : de la robe à l'épée, du notariat à la noblesse.\n\nDe ce mariage naît une descendance qui se connecte aux Méliet, puis aux Roy — un maillage qui relie les Berthelin à la bonne société sénonaise du XIXe siècle.",
+    sources: [
+      'Archives départementales de l\'Yonne, registres paroissiaux et d\'état civil.',
+    ],
+    period: '1664–1851',
     audioUrl: null,
   },
 

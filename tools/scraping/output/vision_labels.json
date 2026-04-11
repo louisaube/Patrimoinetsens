@@ -1,0 +1,679 @@
+{
+  "model": "pixtral-large-latest",
+  "processed": 100,
+  "matched": 84,
+  "labels": [
+    {
+      "imageId": "commons_1f3c9b88f994",
+      "imageTitle": "De Paris a la Mediterranee 1 1874 (145834853).jpg",
+      "heritageItemId": "e5555555-0001-0001-0001-000000000001",
+      "confidence": "high",
+      "description": "Cathédrale Saint-Étienne de Sens",
+      "source": "commons"
+    },
+    {
+      "imageId": "gallica_dad9d2654602",
+      "imageTitle": "Bulletin SAS 1846 — p.7 (dessin)",
+      "heritageItemId": "e5555555-0013-0013-0013-000000000013",
+      "confidence": "high",
+      "description": "Palais archiépiscopal — musées de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_4c4e03b06937",
+      "imageTitle": "Bulletin SAS 1846 — p.11 (vue de)",
+      "heritageItemId": "e5555555-0045-0045-0045-000000000045",
+      "confidence": "high",
+      "description": "Hôtel de Sens à Paris",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_c4d830766439",
+      "imageTitle": "Bulletin SAS 1846 — p.21 (Planche)",
+      "heritageItemId": "e5555555-0071-0071-0071-000000000071",
+      "confidence": "high",
+      "description": "Menhir de Villeneuve-sur-Yonne",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_59c9a7b705c9",
+      "imageTitle": "Bulletin SAS 1846 — p.42 (Planche)",
+      "heritageItemId": "e5555555-0014-0014-0014-000000000014",
+      "confidence": "high",
+      "description": "Vestiges des remparts gallo-romains",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_2eef773103a6",
+      "imageTitle": "Bulletin SAS 1846 — p.46 (Planche)",
+      "heritageItemId": "e5555555-0047-0047-0047-000000000047",
+      "confidence": "high",
+      "description": "Ancien Hôtel-Dieu de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_1290bde90808",
+      "imageTitle": "Bulletin SAS 1846 — p.47 (dessin)",
+      "heritageItemId": "e5555555-0014-0014-0014-000000000014",
+      "confidence": "high",
+      "description": "Vestiges des remparts gallo-romains",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_45435a172620",
+      "imageTitle": "Bulletin SAS 1846 — p.51 (planche)",
+      "heritageItemId": "e5555555-0014-0014-0014-000000000014",
+      "confidence": "high",
+      "description": "Vestiges des remparts gallo-romains",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_2f2fbf9bcdd9",
+      "imageTitle": "Bulletin SAS 1846 — p.54 (dessin)",
+      "heritageItemId": "e5555555-0049-0049-0049-000000000049",
+      "confidence": "high",
+      "description": "Reliefs des murs de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_18405ad22d42",
+      "imageTitle": "Bulletin SAS 1846 — p.57 (figure)",
+      "heritageItemId": "e5555555-0016-0016-0016-000000000016",
+      "confidence": "high",
+      "description": "Monument aux morts de l'arrondissement de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_a48cf0260e7f",
+      "imageTitle": "Bulletin SAS 1846 — p.61 (dessin)",
+      "heritageItemId": "e5555555-0044-0044-0044-000000000044",
+      "confidence": "high",
+      "description": "Monument aux morts de l'arrondissement de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_2e70a73edf47",
+      "imageTitle": "Bulletin SAS 1846 — p.65 (figure)",
+      "heritageItemId": "e5555555-0040-0040-0040-000000000040",
+      "confidence": "high",
+      "description": "Hôtel de Sens à Paris",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_edf592eeb79e",
+      "imageTitle": "Bulletin SAS 1846 — p.66 (dessin)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "high",
+      "description": "Fontaine d'Azon à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_e07c4460c759",
+      "imageTitle": "Bulletin SAS 1846 — p.73 (dessin)",
+      "heritageItemId": "e5555555-0002-0002-0002-000000000002",
+      "confidence": "high",
+      "description": "Dessin du Palais synodal de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_f66b1fe20ed0",
+      "imageTitle": "Bulletin SAS 1846 — p.84 (dessin)",
+      "heritageItemId": "e5555555-0002-0002-0002-000000000002",
+      "confidence": "high",
+      "description": "Palais synodal de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_9dfee2682a69",
+      "imageTitle": "Bulletin SAS 1846 — p.87 (dessin)",
+      "heritageItemId": "e5555555-0044-0044-0044-000000000044",
+      "confidence": "high",
+      "description": "Ancien cimetière juif de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_48c13c050ae0",
+      "imageTitle": "Bulletin SAS 1846 — p.91 (dessin)",
+      "heritageItemId": "e5555555-0014-0014-0014-000000000014",
+      "confidence": "high",
+      "description": "Vestiges des remparts gallo-romains",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_7d3ad61ee885",
+      "imageTitle": "Bulletin SAS 1846 — p.93 (plan de)",
+      "heritageItemId": "d93f166b-5071-54ba-a0e0-023976fa2fbc",
+      "confidence": "high",
+      "description": "Plan de la Maison des Fontenottes",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_10c2f336d376",
+      "imageTitle": "Bulletin SAS 1846 — p.95 (figure)",
+      "heritageItemId": "e5555555-0045-0045-0045-000000000045",
+      "confidence": "high",
+      "description": "Hôtel de Sens à Paris",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_7d09d4ff3b4b",
+      "imageTitle": "Bulletin SAS 1846 — p.96 (figure)",
+      "heritageItemId": "e5555555-0013-0013-0013-000000000013",
+      "confidence": "high",
+      "description": "Palais archiépiscopal de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_2452db71f706",
+      "imageTitle": "Bulletin SAS 1846 — p.103 (vue de)",
+      "heritageItemId": "e5555555-0002-0002-0002-000000000002",
+      "confidence": "high",
+      "description": "Palais synodal de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_7a2995dc97e4",
+      "imageTitle": "Bulletin SAS 1846 — p.104 (vue de)",
+      "heritageItemId": "e5555555-0002-0002-0002-000000000002",
+      "confidence": "high",
+      "description": "Palais synodal de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_d64de597518c",
+      "imageTitle": "Bulletin SAS 1846 — p.110 (PLAN DE)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "high",
+      "description": "Fontaine d'Azon à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_4b0e706de2be",
+      "imageTitle": "Bulletin SAS 1846 — p.111 (vue de)",
+      "heritageItemId": "e5555555-0003-0003-0003-000000000003",
+      "confidence": "high",
+      "description": "Maison dite d'Abraham à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_ff366f86da4d",
+      "imageTitle": "Bulletin SAS 1846 — p.114 (vue de)",
+      "heritageItemId": "e5555555-0052-0052-0052-000000000052",
+      "confidence": "high",
+      "description": "Camp de César — Motte du Ciar",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_da91c2297ea3",
+      "imageTitle": "Bulletin SAS 1846 — p.129 (figure)",
+      "heritageItemId": "d93f166b-5071-54ba-a0e0-023976fa2fbc",
+      "confidence": "high",
+      "description": "Maison des Fontenottes à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_ad2029bf30e5",
+      "imageTitle": "Bulletin SAS 1851 — p.25 (vue de)",
+      "heritageItemId": "e5555555-0040-0040-0040-000000000040",
+      "confidence": "high",
+      "description": "Hôtel de Sens à Paris",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_ddbf5c9f8409",
+      "imageTitle": "Bulletin SAS 1851 — p.56 (plan de)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "high",
+      "description": "Fontaine d'Azon à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_df7a96c4c16f",
+      "imageTitle": "Bulletin SAS 1858 — p.7 (figure)",
+      "heritageItemId": "e5555555-0014-0014-0014-000000000014",
+      "confidence": "high",
+      "description": "Vestiges des remparts gallo-romains",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_bfdacb7a4b17",
+      "imageTitle": "Bulletin SAS 1858 — p.11 (figure)",
+      "heritageItemId": "e5555555-0014-0014-0014-000000000014",
+      "confidence": "high",
+      "description": "Vestiges des remparts gallo-romains",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_3646ebecf16b",
+      "imageTitle": "Bulletin SAS 1858 — p.13 (vue de)",
+      "heritageItemId": "e5555555-0014-0014-0014-000000000014",
+      "confidence": "high",
+      "description": "Vestiges des remparts gallo-romains",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_2a22d4124f0a",
+      "imageTitle": "Bulletin SAS 1858 — p.16 (vue de)",
+      "heritageItemId": "3709bc5b-95d3-57f7-9839-0d917729af42",
+      "confidence": "high",
+      "description": "Croix de pierre à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_800c87a49456",
+      "imageTitle": "Bulletin SAS 1858 — p.40 (vue de)",
+      "heritageItemId": "d93f166b-5071-54ba-a0e0-023976fa2fbc",
+      "confidence": "high",
+      "description": "Maison du 16e siècle, dite Maison des Fontenottes",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_b2a7f44afef1",
+      "imageTitle": "Bulletin SAS 1858 — p.62 (figure)",
+      "heritageItemId": "e5555555-0024-0024-0024-000000000024",
+      "confidence": "high",
+      "description": "Couvent des Célestins à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_ece230001bfb",
+      "imageTitle": "Bulletin SAS 1858 — p.89 (gravure)",
+      "heritageItemId": "057c0c81-6890-5e70-b82a-401149799091",
+      "confidence": "high",
+      "description": "Ancienne église Saint-Martin de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_4d13da90ba67",
+      "imageTitle": "Bulletin SAS 1858 — p.126 (planche)",
+      "heritageItemId": "e5555555-0066-0066-0066-000000000066",
+      "confidence": "medium",
+      "description": "Porte de Sens à Villeneuve-sur-Yonne",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_bdf250674d97",
+      "imageTitle": "Bulletin SAS 1867 — p.50 (figure)",
+      "heritageItemId": "e5555555-0026-0026-0026-000000000026",
+      "confidence": "high",
+      "description": "Hôtel de Vaudricourt à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_df6a5b78eecc",
+      "imageTitle": "Bulletin SAS 1867 — p.59 (vue de)",
+      "heritageItemId": "57131c64-5c7d-5618-80bb-a6d6d7477d51",
+      "confidence": "high",
+      "description": "Ancien archevêché ou ancien palais archiépiscopal",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_3b284fde0259",
+      "imageTitle": "Bulletin SAS 1867 — p.61 (vue de)",
+      "heritageItemId": "e5555555-0004-0004-0004-000000000004",
+      "confidence": "high",
+      "description": "Marché couvert de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_29c9d628a08e",
+      "imageTitle": "Bulletin SAS 1867 — p.82 (planche)",
+      "heritageItemId": "e5555555-0002-0002-0002-000000000002",
+      "confidence": "high",
+      "description": "Description du Palais synodal",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_09c9c58896af",
+      "imageTitle": "Bulletin SAS 1867 — p.83 (dessin)",
+      "heritageItemId": "e5555555-0066-0066-0066-000000000066",
+      "confidence": "medium",
+      "description": "Dessin d'un temple maçonnique",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_979a5e55c005",
+      "imageTitle": "Bulletin SAS 1880 — p.34 (planche)",
+      "heritageItemId": "057c0c81-6890-5e70-b82a-401149799091",
+      "confidence": "high",
+      "description": "Ancienne église Saint-Martin",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_c1163f0d3645",
+      "imageTitle": "Bulletin SAS 1880 — p.39 (figure)",
+      "heritageItemId": "e5555555-0016-0016-0016-000000000016",
+      "confidence": "high",
+      "description": "Monument aux morts de l'arrondissement de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_36b802b9fb42",
+      "imageTitle": "Bulletin SAS 1880 — p.42 (planche)",
+      "heritageItemId": "3fa7e313-b153-56b1-b24c-91d1665abc7e",
+      "confidence": "high",
+      "description": "Maison à pans de bois dite Maison de l'Ave-Maria",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_34a075ce19ee",
+      "imageTitle": "Bulletin SAS 1880 — p.77 (figure)",
+      "heritageItemId": "e5555555-0040-0040-0040-000000000040",
+      "confidence": "high",
+      "description": "Hôtel de Sens à Paris",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_d87e2512d646",
+      "imageTitle": "Bulletin SAS 1880 — p.88 (dessin)",
+      "heritageItemId": "e5555555-0062-0062-0062-000000000062",
+      "confidence": "high",
+      "description": "Statue de Jean Cousin au Square Jean Cousin",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_897a93a41874",
+      "imageTitle": "Bulletin SAS 1880 — p.183 (planche)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "medium",
+      "description": "Fontaine d'Azon — lieu du supplice de Sainte-Colombe",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_3029dfe35487",
+      "imageTitle": "Bulletin SAS 1880 — p.186 (planche)",
+      "heritageItemId": "e5555555-0010-0010-0010-000000000010",
+      "confidence": "high",
+      "description": "Basilique Saint-Savinien de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_4fd1f7cc45c1",
+      "imageTitle": "Bulletin SAS 1880 — p.208 (vue de)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "medium",
+      "description": "Fontaine d'Azon à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_ed3d1d2205d7",
+      "imageTitle": "Bulletin SAS 1880 — p.225 (dessin)",
+      "heritageItemId": "e5555555-0017-0017-0017-000000000017",
+      "confidence": "high",
+      "description": "Maison Jean Cousin — musée",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_eb356c64f318",
+      "imageTitle": "Bulletin SAS 1880 — p.226 (dessin)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "medium",
+      "description": "Fontaine d'Azon — lieu du supplice de Sainte-Colombe",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_900866f7e74f",
+      "imageTitle": "Bulletin SAS 1880 — p.229 (dessin)",
+      "heritageItemId": "d93f166b-5071-54ba-a0e0-023976fa2fbc",
+      "confidence": "high",
+      "description": "Maison du 16e siècle, dite Maison des Fontenottes",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_a26785ff53d4",
+      "imageTitle": "Bulletin SAS 1880 — p.231 (dessin)",
+      "heritageItemId": "057c0c81-6890-5e70-b82a-401149799091",
+      "confidence": "high",
+      "description": "Ancienne église Saint-Martin de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_23d104e9ed3b",
+      "imageTitle": "Bulletin SAS 1880 — p.232 (dessin)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "high",
+      "description": "Fontaine d'Azon à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_2db6fe2aca90",
+      "imageTitle": "Bulletin SAS 1880 — p.239 (dessin)",
+      "heritageItemId": "e5555555-0003-0003-0003-000000000003",
+      "confidence": "high",
+      "description": "Maison dite d'Abraham à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_738c2a67a488",
+      "imageTitle": "Bulletin SAS 1880 — p.240 (figure)",
+      "heritageItemId": "e5555555-0019-0019-0019-000000000019",
+      "confidence": "high",
+      "description": "Ancien Hôtel de Ville de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_f232f4618727",
+      "imageTitle": "Bulletin SAS 1880 — p.244 (Figure)",
+      "heritageItemId": "e5555555-0038-0038-0038-000000000038",
+      "confidence": "high",
+      "description": "Maison de l'Aviler à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_2206241c06db",
+      "imageTitle": "Bulletin SAS 1880 — p.248 (Figure)",
+      "heritageItemId": "e5555555-0038-0038-0038-000000000038",
+      "confidence": "high",
+      "description": "Maison de l'Aviler à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_7f3bc6741efa",
+      "imageTitle": "Bulletin SAS 1880 — p.254 (Figure)",
+      "heritageItemId": "e5555555-0013-0013-0013-000000000013",
+      "confidence": "high",
+      "description": "Palais archiépiscopal — musées de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_1bbae786045d",
+      "imageTitle": "Bulletin SAS 1880 — p.258 (figure)",
+      "heritageItemId": "e5555555-0002-0002-0002-000000000002",
+      "confidence": "high",
+      "description": "Document sur le Palais synodal",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_72e97db4395e",
+      "imageTitle": "Bulletin SAS 1880 — p.263 (Figure)",
+      "heritageItemId": "e5555555-0003-0003-0003-000000000003",
+      "confidence": "high",
+      "description": "Maison dite d'Abraham à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_1fdd777ead62",
+      "imageTitle": "Bulletin SAS 1880 — p.271 (dessin)",
+      "heritageItemId": "e5555555-0015-0015-0015-000000000015",
+      "confidence": "high",
+      "description": "Théâtre municipal de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_a5c75bea8b0a",
+      "imageTitle": "Bulletin SAS 1892 — p.45 (vue de)",
+      "heritageItemId": "e5555555-0014-0014-0014-000000000014",
+      "confidence": "high",
+      "description": "Vestiges des remparts gallo-romains",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_f26ff35337ac",
+      "imageTitle": "Bulletin SAS 1892 — p.57 (dessin)",
+      "heritageItemId": "e5555555-0023-0023-0023-000000000023",
+      "confidence": "high",
+      "description": "Moulin de la Vierge à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_a4aadee0629f",
+      "imageTitle": "Bulletin SAS 1892 — p.59 (figure)",
+      "heritageItemId": "e5555555-0002-0002-0002-000000000002",
+      "confidence": "high",
+      "description": "Palais synodal de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_fdf302addd66",
+      "imageTitle": "Bulletin SAS 1892 — p.62 (figure)",
+      "heritageItemId": "e5555555-0010-0010-0010-000000000010",
+      "confidence": "high",
+      "description": "Basilique Saint-Savinien de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_566e3d0dd55d",
+      "imageTitle": "Bulletin SAS 1892 — p.70 (planche)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "high",
+      "description": "Fontaine d'Azon à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_dc8a64466110",
+      "imageTitle": "Bulletin SAS 1892 — p.73 (figure)",
+      "heritageItemId": "e5555555-0010-0010-0010-000000000010",
+      "confidence": "high",
+      "description": "Contre-sceau de la Basilique Saint-Savinien",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_2d5f790d0308",
+      "imageTitle": "Bulletin SAS 1892 — p.79 (gravure)",
+      "heritageItemId": "e5555555-0010-0010-0010-000000000010",
+      "confidence": "high",
+      "description": "Basilique Saint-Savinien de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_bf185f81d492",
+      "imageTitle": "Bulletin SAS 1892 — p.83 (planche)",
+      "heritageItemId": "e5555555-0034-0034-0034-000000000034",
+      "confidence": "high",
+      "description": "Ancien monastère Saint-Pierre-le-Vif",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_1e2957684b73",
+      "imageTitle": "Bulletin SAS 1892 — p.88 (gravure)",
+      "heritageItemId": "e5555555-0010-0010-0010-000000000010",
+      "confidence": "high",
+      "description": "Basilique Saint-Savinien de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_7bb841e2211a",
+      "imageTitle": "Bulletin SAS 1892 — p.89 (figure)",
+      "heritageItemId": "e5555555-0034-0034-0034-000000000034",
+      "confidence": "high",
+      "description": "Ancien monastère Saint-Pierre-le-Vif",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_26ffbd1c589c",
+      "imageTitle": "Bulletin SAS 1892 — p.97 (dessin)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "high",
+      "description": "Fontaine d'Azon — lieu du supplice de Sainte-Colombe",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_5f8a766ac73e",
+      "imageTitle": "Bulletin SAS 1892 — p.116 (planche)",
+      "heritageItemId": "e5555555-0016-0016-0016-000000000016",
+      "confidence": "high",
+      "description": "Monument aux morts de l'arrondissement de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_a91cd46c86d3",
+      "imageTitle": "Bulletin SAS 1892 — p.127 (figure)",
+      "heritageItemId": "e5555555-0019-0019-0019-000000000019",
+      "confidence": "high",
+      "description": "Ancien Hôtel de Ville de Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_085c47ad23ab",
+      "imageTitle": "Bulletin SAS 1892 — p.136 (figure)",
+      "heritageItemId": "e5555555-0003-0003-0003-000000000003",
+      "confidence": "high",
+      "description": "Maison dite d'Abraham à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_89012f67375d",
+      "imageTitle": "Bulletin SAS 1892 — p.150 (figure)",
+      "heritageItemId": "e5555555-0060-0060-0060-000000000060",
+      "confidence": "high",
+      "description": "Hôtel de Paris et de la Poste",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_cc23f881e997",
+      "imageTitle": "Bulletin SAS 1892 — p.170 (figure)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "high",
+      "description": "Fontaine d'Azon — lieu du supplice de Sainte-Colombe",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_c5aa0c96ebed",
+      "imageTitle": "Bulletin SAS 1892 — p.240 (plan de)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "high",
+      "description": "Maison dite d'Abraham à Sens",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_20478ded8106",
+      "imageTitle": "Bulletin SAS 1892 — p.259 (vue de)",
+      "heritageItemId": "e5555555-0040-0040-0040-000000000040",
+      "confidence": "high",
+      "description": "Hôtel de Sens à Paris",
+      "source": "gallica"
+    },
+    {
+      "imageId": "gallica_59db7f5d15ac",
+      "imageTitle": "Bulletin SAS 1892 — p.267 (vue de)",
+      "heritageItemId": "e5555555-0013-0013-0013-000000000013",
+      "confidence": "high",
+      "description": "Enceinte gallo-romaine — vestiges des remparts",
+      "source": "gallica"
+    },
+    {
+      "imageId": "yonne_0f42a9af48fd",
+      "imageTitle": "1 vue  - Saint Denis les Sens-La Ferme et le Couvent. (ouvre la visionneuse)",
+      "heritageItemId": "e5555555-0011-0011-0011-000000000011",
+      "confidence": "high",
+      "description": "Abbaye Sainte-Colombe à Saint-Denis-lès-Sens",
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_61267b41e523",
+      "imageTitle": "1 vue  - Saint Denis les Sens-La Ferme et le Couvent. (ouvre la visionneuse)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "high",
+      "description": "Abbaye Sainte-Colombe à Saint-Denis-lès-Sens",
+      "source": "archives_yonne"
+    },
+    {
+      "imageId": "yonne_7ce631b9d260",
+      "imageTitle": "1 vue  - Saint Denis les Sens-La Ferme et le Couvent. (ouvre la visionneuse)",
+      "heritageItemId": "e5555555-0033-0033-0033-000000000033",
+      "confidence": "high",
+      "description": "Abbaye Sainte-Colombe à Saint-Denis-lès-Sens",
+      "source": "archives_yonne"
+    }
+  ]
+}

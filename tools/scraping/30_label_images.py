@@ -60,6 +60,38 @@ TAG_TO_ITEM: dict[str, str] = {
     "saint-maurice": "e5555555-0005-0005-0005-000000000005",
 }
 
+# Alias phrases → heritage item ID (exact substring match in normalized text)
+# These catch multi-word names that tokenization breaks
+ALIAS_TO_ITEM: dict[str, str] = {
+    "cathedrale saint etienne": "e5555555-0001-0001-0001-000000000001",
+    "cathedrale saint-etienne": "e5555555-0001-0001-0001-000000000001",
+    "cathedral sens": "e5555555-0001-0001-0001-000000000001",
+    "palais synodal": "e5555555-0002-0002-0002-000000000002",
+    "salle synodale": "e5555555-0002-0002-0002-000000000002",
+    "maison abraham": "e5555555-0003-0003-0003-000000000003",
+    "maison d abraham": "e5555555-0003-0003-0003-000000000003",
+    "arbre de jesse": "e5555555-0003-0003-0003-000000000003",
+    "marche couvert": "e5555555-0004-0004-0004-000000000004",
+    "halles de sens": "e5555555-0004-0004-0004-000000000004",
+    "saint maurice": "e5555555-0005-0005-0005-000000000005",
+    "eglise saint maurice": "e5555555-0005-0005-0005-000000000005",
+    "abbaye saint jean": "e5555555-0006-0006-0006-000000000006",
+    "hopital saint jean": "e5555555-0006-0006-0006-000000000006",
+    "archeveche": "e5555555-0006-0006-0006-000000000006",  # l'archevêché = musées de Sens = abbaye
+    "palais archiepiscopal": "e5555555-0006-0006-0006-000000000006",
+    "musee de sens": "e5555555-0006-0006-0006-000000000006",
+    "musees de sens": "e5555555-0006-0006-0006-000000000006",
+    "fontaine samaritaine": "e5555555-0007-0007-0007-000000000007",
+    "porte dauphine": "e5555555-0008-0008-0008-000000000008",
+    "hotel de ville": "e5555555-0009-0009-0009-000000000009",
+    "seminaire": "e5555555-0010-0010-0010-000000000010",
+    "ancien seminaire": "e5555555-0010-0010-0010-000000000010",
+    "sainte colombe": "e5555555-0011-0011-0011-000000000011",
+    "abbaye sainte colombe": "e5555555-0011-0011-0011-000000000011",
+    "rempart": "e5555555-0012-0012-0012-000000000012",
+    "enceinte gallo": "e5555555-0012-0012-0012-000000000012",
+}
+
 # Stop words to ignore in matching
 STOP_WORDS = {
     "de", "du", "des", "le", "la", "les", "l", "un", "une",
@@ -176,6 +208,12 @@ def score_match(
     img_text_norm = normalize(img_text)
     if item_title_norm and item_title_norm in img_text_norm:
         score += 10
+
+    # 1b. Alias phrase match (catches multi-word names)
+    for alias, alias_item_id in ALIAS_TO_ITEM.items():
+        if alias_item_id == item["id"] and alias in img_text_norm:
+            score += 12  # stronger than title match — aliases are precise
+            break
 
     # 2. Token overlap
     img_tokens = tokenize(img_text)

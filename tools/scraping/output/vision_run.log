@@ -1,0 +1,126 @@
+============================================================
+Vision Labelling — Mistral Pixtral
+============================================================
+
+[1/4] Loading heritage items...
+  136 items loaded
+
+[2/4] Loading unmatched images...
+  139 unmatched images
+
+[3/4] Processing 100 images with Mistral Vision...
+  [1/100] De Paris a la Mediterranee 1 1874 (145834853).jpg... → MATCH (high): Cathédrale Saint-Étienne de Sens
+  [2/100] Bulletin SAS 1846 — p.7 (dessin)... → MATCH (high): Palais archiépiscopal — musées de Sens
+  [3/100] Bulletin SAS 1846 — p.11 (vue de)... → MATCH (high): Hôtel de Sens à Paris
+  [4/100] Bulletin SAS 1846 — p.21 (Planche)... → MATCH (high): Menhir de Villeneuve-sur-Yonne
+  [5/100] Bulletin SAS 1846 — p.34 (Planche)... → no match (image non identifiable)
+  [6/100] Bulletin SAS 1846 — p.42 (Planche)... → MATCH (high): Vestiges des remparts gallo-romains
+  [7/100] Bulletin SAS 1846 — p.46 (Planche)... → MATCH (high): Ancien Hôtel-Dieu de Sens
+  [8/100] Bulletin SAS 1846 — p.47 (dessin)... → MATCH (high): Vestiges des remparts gallo-romains
+  [9/100] Bulletin SAS 1846 — p.51 (planche)... → MATCH (high): Vestiges des remparts gallo-romains
+  [10/100] Bulletin SAS 1846 — p.54 (dessin)... → MATCH (high): Reliefs des murs de Sens
+  [11/100] Bulletin SAS 1846 — p.57 (figure)... → MATCH (high): Monument aux morts de l'arrondissement de Sens
+  [12/100] Bulletin SAS 1846 — p.61 (dessin)... 
+    [429] Rate limited, waiting 15s (attempt 1/3)... → MATCH (high): Monument aux morts de l'arrondissement de Sens
+  [13/100] Bulletin SAS 1846 — p.65 (figure)... → MATCH (high): Hôtel de Sens à Paris
+  [14/100] Bulletin SAS 1846 — p.66 (dessin)... → MATCH (high): Fontaine d'Azon à Sens
+  [15/100] Bulletin SAS 1846 — p.73 (dessin)... → MATCH (high): Dessin du Palais synodal de Sens
+  [16/100] Bulletin SAS 1846 — p.84 (dessin)... → MATCH (high): Palais synodal de Sens
+  [17/100] Bulletin SAS 1846 — p.87 (dessin)... → MATCH (high): Ancien cimetière juif de Sens
+  [18/100] Bulletin SAS 1846 — p.91 (dessin)... → MATCH (high): Vestiges des remparts gallo-romains
+  [19/100] Bulletin SAS 1846 — p.93 (plan de)... → MATCH (high): Plan de la Maison des Fontenottes
+  [20/100] Bulletin SAS 1846 — p.95 (figure)... → MATCH (high): Hôtel de Sens à Paris
+  [21/100] Bulletin SAS 1846 — p.96 (figure)... → MATCH (high): Palais archiépiscopal de Sens
+  [22/100] Bulletin SAS 1846 — p.103 (vue de)... → MATCH (high): Palais synodal de Sens
+  [23/100] Bulletin SAS 1846 — p.104 (vue de)... → MATCH (high): Palais synodal de Sens
+  [24/100] Bulletin SAS 1846 — p.110 (PLAN DE)... → MATCH (high): Fontaine d'Azon à Sens
+  [25/100] Bulletin SAS 1846 — p.111 (vue de)... → MATCH (high): Maison dite d'Abraham à Sens
+  [26/100] Bulletin SAS 1846 — p.114 (vue de)... → MATCH (high): Camp de César — Motte du Ciar
+  [27/100] Bulletin SAS 1846 — p.129 (figure)... → MATCH (high): Maison des Fontenottes à Sens
+  [28/100] Bulletin SAS 1851 — p.25 (vue de)... → MATCH (high): Hôtel de Sens à Paris
+  [29/100] Bulletin SAS 1851 — p.56 (plan de)... → MATCH (high): Fontaine d'Azon à Sens
+  [30/100] Bulletin SAS 1858 — p.7 (figure)... → MATCH (high): Vestiges des remparts gallo-romains
+  [31/100] Bulletin SAS 1858 — p.11 (figure)... → MATCH (high): Vestiges des remparts gallo-romains
+  [32/100] Bulletin SAS 1858 — p.13 (vue de)... → MATCH (high): Vestiges des remparts gallo-romains
+  [33/100] Bulletin SAS 1858 — p.16 (vue de)... → MATCH (high): Croix de pierre à Sens
+  [34/100] Bulletin SAS 1858 — p.40 (vue de)... → MATCH (high): Maison du 16e siècle, dite Maison des Fontenottes
+  [35/100] Bulletin SAS 1858 — p.62 (figure)... → MATCH (high): Couvent des Célestins à Sens
+  [36/100] Bulletin SAS 1858 — p.71 (vue de)... → no match (Document historique non identifiable)
+  [37/100] Bulletin SAS 1858 — p.89 (gravure)... → MATCH (high): Ancienne église Saint-Martin de Sens
+  [38/100] Bulletin SAS 1858 — p.123 (dessin)... → no match (image non identifiable)
+  [39/100] Bulletin SAS 1858 — p.126 (planche)... → MATCH (medium): Porte de Sens à Villeneuve-sur-Yonne
+  [40/100] Bulletin SAS 1867 — p.50 (figure)... → MATCH (high): Hôtel de Vaudricourt à Sens
+  [41/100] Bulletin SAS 1867 — p.59 (vue de)... → MATCH (high): Ancien archevêché ou ancien palais archiépiscopal
+  [42/100] Bulletin SAS 1867 — p.61 (vue de)... → MATCH (high): Marché couvert de Sens
+  [43/100] Bulletin SAS 1867 — p.82 (planche)... → MATCH (high): Description du Palais synodal
+  [44/100] Bulletin SAS 1867 — p.83 (dessin)... → MATCH (medium): Dessin d'un temple maçonnique
+  [45/100] Bulletin SAS 1880 — p.34 (planche)... → MATCH (high): Ancienne église Saint-Martin
+  [46/100] Bulletin SAS 1880 — p.39 (figure)... → MATCH (high): Monument aux morts de l'arrondissement de Sens
+  [47/100] Bulletin SAS 1880 — p.42 (planche)... → MATCH (high): Maison à pans de bois dite Maison de l'Ave-Maria
+  [48/100] Bulletin SAS 1880 — p.45 (figure)... → no match (image non identifiable)
+  [49/100] Bulletin SAS 1880 — p.71 (figure)... → no match (Document historique sur l'abbé Deligand)
+  [50/100] Bulletin SAS 1880 — p.77 (figure)... → MATCH (high): Hôtel de Sens à Paris
+  [51/100] Bulletin SAS 1880 — p.88 (dessin)... → MATCH (high): Statue de Jean Cousin au Square Jean Cousin
+  [52/100] Bulletin SAS 1880 — p.90 (gravure)... → no match (image non identifiable)
+  [53/100] Bulletin SAS 1880 — p.181 (planche)... → no match (image non identifiable)
+  [54/100] Bulletin SAS 1880 — p.183 (planche)... → MATCH (medium): Fontaine d'Azon — lieu du supplice de Sainte-Colombe
+  [55/100] Bulletin SAS 1880 — p.184 (planche)... → no match (image non identifiable)
+  [56/100] Bulletin SAS 1880 — p.186 (planche)... → MATCH (high): Basilique Saint-Savinien de Sens
+  [57/100] Bulletin SAS 1880 — p.208 (vue de)... → MATCH (medium): Fontaine d'Azon à Sens
+  [58/100] Bulletin SAS 1880 — p.225 (dessin)... → MATCH (high): Maison Jean Cousin — musée
+  [59/100] Bulletin SAS 1880 — p.226 (dessin)... → MATCH (medium): Fontaine d'Azon — lieu du supplice de Sainte-Colombe
+  [60/100] Bulletin SAS 1880 — p.229 (dessin)... → MATCH (high): Maison du 16e siècle, dite Maison des Fontenottes
+  [61/100] Bulletin SAS 1880 — p.231 (dessin)... → MATCH (high): Ancienne église Saint-Martin de Sens
+  [62/100] Bulletin SAS 1880 — p.232 (dessin)... → MATCH (high): Fontaine d'Azon à Sens
+  [63/100] Bulletin SAS 1880 — p.239 (dessin)... → MATCH (high): Maison dite d'Abraham à Sens
+  [64/100] Bulletin SAS 1880 — p.240 (figure)... → MATCH (high): Ancien Hôtel de Ville de Sens
+  [65/100] Bulletin SAS 1880 — p.244 (Figure)... → MATCH (high): Maison de l'Aviler à Sens
+  [66/100] Bulletin SAS 1880 — p.248 (Figure)... → MATCH (high): Maison de l'Aviler à Sens
+  [67/100] Bulletin SAS 1880 — p.254 (Figure)... → MATCH (high): Palais archiépiscopal — musées de Sens
+  [68/100] Bulletin SAS 1880 — p.258 (figure)... → MATCH (high): Document sur le Palais synodal
+  [69/100] Bulletin SAS 1880 — p.263 (Figure)... → MATCH (high): Maison dite d'Abraham à Sens
+  [70/100] Bulletin SAS 1880 — p.271 (dessin)... → MATCH (high): Théâtre municipal de Sens
+  [71/100] Bulletin SAS 1892 — p.21 (vue de)... → no match (image non identifiable)
+  [72/100] Bulletin SAS 1892 — p.45 (vue de)... → MATCH (high): Vestiges des remparts gallo-romains
+  [73/100] Bulletin SAS 1892 — p.57 (dessin)... → MATCH (high): Moulin de la Vierge à Sens
+  [74/100] Bulletin SAS 1892 — p.59 (figure)... → MATCH (high): Palais synodal de Sens
+  [75/100] Bulletin SAS 1892 — p.62 (figure)... → MATCH (high): Basilique Saint-Savinien de Sens
+  [76/100] Bulletin SAS 1892 — p.70 (planche)... → MATCH (high): Fontaine d'Azon à Sens
+  [77/100] Bulletin SAS 1892 — p.73 (figure)... → MATCH (high): Contre-sceau de la Basilique Saint-Savinien
+  [78/100] Bulletin SAS 1892 — p.79 (gravure)... → MATCH (high): Basilique Saint-Savinien de Sens
+  [79/100] Bulletin SAS 1892 — p.83 (planche)... → MATCH (high): Ancien monastère Saint-Pierre-le-Vif
+  [80/100] Bulletin SAS 1892 — p.88 (gravure)... → MATCH (high): Basilique Saint-Savinien de Sens
+  [81/100] Bulletin SAS 1892 — p.89 (figure)... → MATCH (high): Ancien monastère Saint-Pierre-le-Vif
+  [82/100] Bulletin SAS 1892 — p.97 (dessin)... → MATCH (high): Fontaine d'Azon — lieu du supplice de Sainte-Colombe
+  [83/100] Bulletin SAS 1892 — p.116 (planche)... → MATCH (high): Monument aux morts de l'arrondissement de Sens
+  [84/100] Bulletin SAS 1892 — p.127 (figure)... → MATCH (high): Ancien Hôtel de Ville de Sens
+  [85/100] Bulletin SAS 1892 — p.136 (figure)... → MATCH (high): Maison dite d'Abraham à Sens
+  [86/100] Bulletin SAS 1892 — p.150 (figure)... → MATCH (high): Hôtel de Paris et de la Poste
+  [87/100] Bulletin SAS 1892 — p.170 (figure)... → MATCH (high): Fontaine d'Azon — lieu du supplice de Sainte-Colombe
+  [88/100] Bulletin SAS 1892 — p.240 (plan de)... → MATCH (high): Maison dite d'Abraham à Sens
+  [89/100] Bulletin SAS 1892 — p.259 (vue de)... → MATCH (high): Hôtel de Sens à Paris
+  [90/100] Bulletin SAS 1892 — p.267 (vue de)... → MATCH (high): Enceinte gallo-romaine — vestiges des remparts
+  [91/100] Bulletin SAS 1892 — p.298 (figure)... → no match (Boucle de ceinture en bronze)
+  [92/100] 1 vue  - Bellechaume (Yonne). Grande-Rue. Route de Sens / Cl... → no match (Rue d'un village avec maisons anciennes)
+  [93/100] 1 vue  - Cornant. La route de Sens. (ouvre la visionneuse)... → no match (Route de campagne avec maisons)
+  [94/100] 1 vue  - Fleurigny. L\'église et la Route de Sens. (ouvre la... → no match (église inconnue sur la route)
+  [95/100] 1 vue  - Environs de Sens. Maillot (Yonne). L\'abreuvoir prè... → no match (Abreuvoir près du pont sur la Vanne)
+  [96/100] 1 vue  - Molinons (Yonne). L\'église et la route de Sens. (o... → no match (église inconnue sur la route de Sens)
+  [97/100] 1 vue  - Saint Denis les Sens-La Ferme et le Couvent. (ouvre... → MATCH (high): Abbaye Sainte-Colombe à Saint-Denis-lès-Sens
+  [98/100] 1 vue  - Saint Denis les Sens-La Ferme et le Couvent. (ouvre... → MATCH (high): Abbaye Sainte-Colombe à Saint-Denis-lès-Sens
+  [99/100] 1 vue  - Saint Denis les Sens-La Ferme et le Couvent. (ouvre... → MATCH (high): Abbaye Sainte-Colombe à Saint-Denis-lès-Sens
+  [100/100] Chargement en cours...... 
+    [ERROR] API call failed after 3 attempts: 400 Client Error: Bad Request for url: https://api.mistral.ai/v1/chat/completions
+→ error
+
+  New matches: 84/100
+    high: 79
+    medium: 5
+
+[4/4] Saving...
+  Vision labels: C:\Users\louis\Desktop\K&C\Patrimoine & Sens\tools\scraping\output\vision_labels.json
+  Updated 84 entries in image_catalog.json
+
+  Total coverage: 178/237 (75%)
+
+Done.

@@ -33,7 +33,14 @@ export async function GET(request: NextRequest): Promise<NextResponse> {
 
     if (query && query.trim()) {
       const term = `%${query.trim()}%`
-      conditions.push(ilike(heritageItems.title, term))
+      // Recherche dans le titre de la fiche, le titre des contributions, et le corps des contributions
+      conditions.push(
+        or(
+          ilike(heritageItems.title, term),
+          ilike(contributions.title, term),
+          ilike(contributions.body, term),
+        )!
+      )
     }
     if (category) {
       conditions.push(eq(heritageItems.category, category as (typeof heritageItems.category)['_']['data']))

@@ -240,13 +240,6 @@ export default function HeritageDetailPage() {
               alt={heritage.title}
               className="h-full w-full object-cover"
             />
-          ) : images.length > 0 ? (
-            /* eslint-disable-next-line @next/next/no-img-element */
-            <img
-              src={images[0].thumbnail || images[0].url}
-              alt={images[0].title}
-              className="h-full w-full object-cover"
-            />
           ) : (
             <div className="flex h-full items-center justify-center bg-gradient-to-br from-slate-200 to-blue-100">
               <MapPin className="size-16 text-slate-300" />

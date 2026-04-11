@@ -29,6 +29,7 @@ export const categoryEnum = pgEnum('category_enum', [
   'edifice_religieux',
   'mobilier_urbain',
   'patrimoine_naturel',
+  'personnalite',
   'autre',
 ])
 
