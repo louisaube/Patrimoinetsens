@@ -3,6 +3,11 @@
     "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
   },
   "permissions": {
-    "allow": ["*"]
+    "allow": [
+      "*"
+    ]
+  },
+  "enabledPlugins": {
+    "superpowers@superpowers-dev": true
   }
 }
