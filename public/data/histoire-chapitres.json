@@ -2037,6 +2037,36 @@
       "color": "#7C3AED",
       "events": [
         {
+          "year": 1551,
+          "title": "Le presidial de Sens : 9 juges dans le premier bailliage de France",
+          "text": "En janvier 1551, Henri II cree un siege presidial a Sens --- l'un des 60 tribunaux superieurs de France. Le bailliage de Sens, cree par Philippe Auguste en 1184, est le plus ancien et l'un des plus etendus du royaume. Il releve du Parlement de Paris (pas de Dijon --- Sens n'est pas en Bourgogne). Le presidial requiert au minimum 9 magistrats. Il sera supprime en fevrier 1790 par la Revolution.",
+          "location": {
+            "lat": 48.1968,
+            "lng": 3.285,
+            "label": "Palais de justice --- presidial"
+          },
+          "sources": [
+            "Wikipedia, Bailliage de Sens.",
+            "Archives de l'Yonne."
+          ],
+          "heritageItemId": "e5555555-0036-0036-0036-000000000036"
+        },
+        {
+          "year": 1606,
+          "title": "Jacques Davy du Perron : le cardinal qui a converti Henri IV",
+          "text": "En 1606, le cardinal Jacques Davy du Perron est nomme archeveque de Sens. C'est l'homme qui a instruit la conversion d'Henri IV au catholicisme en 1593 --- celle qui a mis fin aux guerres de Religion ('Paris vaut bien une messe'). Theologien brillant, polemiste redoutable, il devient Primat des Gaules et de Germanie. Son frere Jean lui succedera en 1618. Leurs corps reposent dans la cathedrale. Leurs armoiries --- trois harpes d'or sur champ d'azur --- sont visibles sur les vitraux.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Cathedrale --- cardinal Davy du Perron"
+          },
+          "sources": [
+            "Wikipedia, Jacques Davy du Perron.",
+            "Catholic Encyclopedia."
+          ],
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+        },
+        {
           "year": 1620,
           "title": "Le Carmel de Sens : un lieu discret dans la ville",
           "text": "Au début du XVIIe siècle, les Carmélites fondent un couvent à Sens. Elles vivent cloîtrées dans le silence et la prière. Leur installation témoigne du renouveau religieux post-guerres de Religion : Sens, traumatisée par les massacres du XVIe siècle, se reconstruit dans la ferveur catholique.",
@@ -2114,6 +2144,35 @@
           "longText": "s terrassements qu'a exigés la con- fection de la route Royale, les deux cordons de briques n'étaient séparés que par dix rangées de pierres de revêtement, et près du jardin de M. Huré beaucoup plus bas, par neuf rangées. Entre ce jardin et l'atelier du sieurBallard existait, il y a quel- ques semaines encore, le débris le plus remarquable, à mon sens, de l'ancienne enceinte. La tour que fait démolir en ce mo- ment M. Vieille montrait, dans son extrémité inférieure, trois qu'il m'est d'autant plus impossible de deviner que je n'ai la con- naissance d'aucun document analogue. J'insiste cependant, Messieurs, pour que ces fragments soient conservés avec autant de soin que les autres. D'autres fouilles, d'autres découvertes, des connaissances plus approfondies, nous conduiront plus tard peut-être à l'explication qui nous fuit au- jourd'hui."
         },
         {
+          "year": 1638,
+          "title": "Salves pour Louis XIV : les vitraux de la cathedrale volent en eclats",
+          "text": "Le 5 septembre 1638, a l'annonce de la naissance de Louis XIV, une massive decharge d'artillerie est tiree dans Sens. La joie est excessive : les vitraux de la cathedrale volent en eclats, des proprietes sont endommagees, des habitants blesses. C'est la celebrite de Sens qui vaut ce traitement : une ville ordinaire n'aurait pas tire autant de canons. Vingt ans plus tard, le jeune roi viendra en personne.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Cathedrale --- vitraux brises 1638"
+          },
+          "sources": [
+            "auxpaysdemesancetres.com."
+          ],
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+        },
+        {
+          "year": 1646,
+          "title": "Gondrin, l'archeveque janseniste qui gifle Madame de Montespan",
+          "text": "Louis-Henri de Gondrin, archeveque de Sens de 1646 a 1674, est un ami de Port-Royal --- le foyer du jansenisme. En 1653, il interdit les Jesuites de son diocese. Mais l'anecdote la plus celebre est ailleurs : Gondrin est l'oncle de Francoise-Athenais de Montespan, maitresse de Louis XIV. Desapprouvant la conduite de sa niece, il la gifle. La repression royale est immediate : une lettre de cachet l'exile de son diocese. Mais Gondrin menace d'excommunication quiconque viendrait l'arreter. L'archeveque de Sens tient tete au Roi-Soleil.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Palais archiepiscopal --- Gondrin"
+          },
+          "sources": [
+            "Wikipedia, Louis-Henri de Pardaillan de Gondrin.",
+            "Persee, these Dubois 1902."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
           "year": 1650,
           "title": "Les corporations de métiers sous l'Ancien Régime",
           "text": "Sous l'Ancien Régime, chaque métier est organisé en corporation (\"maîtrise\" ou \"jurande\"). Pour devenir maître boulanger, cordonnier, tailleur ou tonnelier, il faut faire un apprentissage de plusieurs années, produire un \"chef-d'oeuvre\" (une pièce parfaite jugée par les anciens), et payer un droit d'entrée. Les bouchers du faubourg ont même leur propre halle, séparée de celle de la ville : la \"croix des bouchers\" marque la frontière. Ce système rigide — qui bloque l'innovation et protège les héritiers — sera l'une des cibles de la Révolution.",
@@ -2144,6 +2203,20 @@
           "heritageItemId": null,
           "longText": "me, par l'expulsion des Tarquins, fonde sa future grandeur, les Gaulois Sénonais refluent vers le berceau du genre humain et courent au-devant des foyers de civilisation dont les révélations sont destinées à se résumer, à se continuer sur leur propre territoire. Cette grande expédition, en sens inverse des migrations des peuples, n'a plus d'analogue dans l'histoire de l'antiquité jus- qu'aux conquêtes d'Alexandre quel en a été le mobile? nous l'ignorerons toujours. Quelle réaction a-telle produite sur la mère patrie? c'est à l'archéologie qu'il appartient de chercher à résou- dre cette question. Peut-être un examen attentif, une classifica- tion chronologique des monuments de l'ère celtique, mettront-ils sur la trace de quelques améliorations dans les arts, et par suite dans les moeurs d'une nation qui s'était ouvert le monde.",
           "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_01449.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2216722&MTIME=1346436966"
+        },
+        {
+          "year": 1658,
+          "title": "Louis XIV entre dans Sens : mousquets, tapisseries et chevaux effrays",
+          "text": "Le 25 octobre 1658, Louis XIV (20 ans, pas encore marie) entre a Sens par la Porte d'Yonne. Les habitants en armes sont venus a sa rencontre jusqu'a Sainte-Colombe. Mais une salve de mousquets effraie les chevaux du carrosse des dames d'honneur de la reine-mere, qui manquent de se noyer dans l'Yonne en crue. La Grand-Rue est ornee de tapisseries jusqu'a la cathedrale. Le surlendemain, le roi ordonne : plus de mousquets dans l'escorte, seulement l'epee.",
+          "location": {
+            "lat": 48.1955,
+            "lng": 3.282,
+            "label": "Porte d'Yonne --- entree de Louis XIV"
+          },
+          "sources": [
+            "Daguin, G. 'La Porte d'Yonne, Louis XIV a Sens en 1658.'"
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1696,
@@ -2197,6 +2270,36 @@
           "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010185.jpg/500px-Cath%C3%A9drale_Saint-Etienne_-_Sens_-_M%C3%A9diath%C3%A8que_de_l%27architecture_et_du_patrimoine_-_APMH00010185.jpg"
         },
         {
+          "year": 1721,
+          "title": "L'archeveque de Sens elu a l'Academie francaise --- contre Voltaire",
+          "text": "En 1721, l'archeveque Languet de Gergy est elu a l'Academie francaise (fauteuil 1). Il y combat avec acharnement les candidatures de Montesquieu et de Voltaire. En 1730, il impose un nouveau catechisme au diocese de Sens. En 1743, c'est son successeur le cardinal de Luynes qui est elu a l'Academie --- prefere a Voltaire par intervention royale. L'archeveche de Sens produit des academiciens, pas des philosophes.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Archeveche --- Academie francaise"
+          },
+          "sources": [
+            "Academie-francaise.fr.",
+            "Wikipedia, Jean-Joseph Languet de Gergy."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
+          "year": 1742,
+          "title": "Le maitre-autel de Servandoni : des colonnes volees a Louis XIV",
+          "text": "En 1742, le celebre decorateur italo-francais Servandoni installe le nouveau maitre-autel de la cathedrale, surmonte d'un baldaquin soutenu par quatre colonnes de marbre rouge. Detail savoureux : ces colonnes proviennent du monument a Louis XIV de la Place des Victoires a Paris, demonte quelques annees plus tot. Le baldaquin est inspire de celui de Saint-Pierre de Rome par le Bernin. Sens recycle le prestige royal pour orner sa cathedrale.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Cathedrale --- maitre-autel Servandoni"
+          },
+          "sources": [
+            "Wikipedia, Cathedrale de Sens.",
+            "Pop.culture.gouv.fr, PM89001624."
+          ],
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
+        },
+        {
           "year": 1748,
           "title": "Jacques-Louis David",
           "text": "Jacques-Louis David, le peintre du Sacre de Napoléon, a séjourné à Sens. Il y a peint et le musée conserve l'une de ses toiles. Ce lien inattendu entre le plus célèbre peintre néoclassique et une ville de province rappelle que Sens attirait les grands noms bien au-delà de son archevêché.",
@@ -2213,6 +2316,35 @@
           "image": "https://archives.yonne.fr/archives/img/plus_pt.gif?1717664997"
         },
         {
+          "year": 1753,
+          "title": "Le cardinal de Luynes : l'archeveque qui observe Venus depuis Sens",
+          "text": "Paul d'Albert de Luynes, archeveque de Sens (1753-1788), est aussi astronome et physicien. Elu a l'Academie francaise en 1743 (prefere a Voltaire par intervention royale), membre de l'Academie des sciences, il installe des lignes meridiennes a Sens et au chateau de Noslon. En 1761, il observe le passage de Venus devant le Soleil depuis sa residence --- un phenomene astronomique que toute l'Europe savante guette. L'archeveque de Sens est un homme des Lumieres.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Palais archiepiscopal --- cardinal-astronome"
+          },
+          "sources": [
+            "Wikipedia, Paul d'Albert de Luynes.",
+            "Academie-francaise.fr."
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
+        },
+        {
+          "year": 1754,
+          "title": "Les Jacobins demolissent leur propre eglise : 7 moines dans un couvent vide",
+          "text": "Vers 1754, les Jacobins (Dominicains) de Sens, reduits a 7 ou 8 religieux, n'ont plus les moyens d'entretenir leur eglise conventuelle. Ils font demolir la nef, le choeur et les chapelles. C'est le signe avant-coureur de la Revolution : les ordres religieux se vident de l'interieur avant meme qu'on les supprime. En 1790, quand l'Assemblee nationale decrete la dissolution des ordres, beaucoup de couvents senonais sont deja des coquilles vides.",
+          "location": {
+            "lat": 48.1975,
+            "lng": 3.281,
+            "label": "Couvent des Jacobins --- demolition"
+          },
+          "sources": [
+            "Daguin, G. histoire-sens-senonais-yonne.com."
+          ],
+          "heritageItemId": "e5555555-0027-0027-0027-000000000027"
+        },
+        {
           "year": 1756,
           "title": "On comble les fosses : les remparts deviennent des boulevards",
           "text": "En 1756, le Conseil autorise a combler les fosses entre la porte Saint-Didier et la porte Saint-Antoine. C'est le debut de la transformation de la ville close medievale en ville ouverte moderne. Les fosses combles deviennent des promenades, puis des boulevards (14-Juillet, du Mail, Garibaldi). En 1776, un incendie rue Couverte fournit les materiaux pour poursuivre le comblement. Les portes de la ville seront demolies entre 1831 et 1882. L'amande gallo-romaine eclate enfin --- apres 15 siecles.",
@@ -2225,6 +2357,21 @@
             "Daguin, G. 'Des portes qui laissaient entrer le voyageur.' histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": "e5555555-0014-0014-0014-000000000014"
+        },
+        {
+          "year": 1757,
+          "title": "L'Almanach de Sens : l'imprimeur Tarbe invente la presse locale",
+          "text": "En 1757, l'imprimeur Pierre Hardouin Tarbe lance l'Almanach historique de la ville, bailliage et diocese de Sens --- une publication annuelle qui paraitra sans interruption pendant 90 ans (jusqu'en 1847). En 1770, il cree aussi les Affiches de Sens, bimensuelles. C'est la naissance de la presse locale senonaise. Son fils Theodore prendra la releve. La famille Tarbe d'imprimeurs durera trois generations --- jusqu'a ce que le Senonais prenne le relais en 1845.",
+          "location": {
+            "lat": 48.1972,
+            "lng": 3.2838,
+            "label": "Imprimerie Tarbe --- presse locale"
+          },
+          "sources": [
+            "Persee, 'Le cabinet Tarbe, 2015.'",
+            "Gallica, Recherches historiques Tarbe."
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1762,
@@ -2240,6 +2387,21 @@
           ],
           "heritageItemId": "e5555555-0066-0066-0066-000000000066",
           "longText": "et la dernière en haut se compose de pierres plus longues et plus plates que les autres. De la porte St-Antoine à la porte d'Yonne, le plan offre de grandes lacunes, à cause de la destruction presque complète, en cette partie, de l'enceinte romaine. J'ai cependant remarqué que, dans le mur dt M. Lacave, où les assises de grosses pierres se sont trouvées enterrées sous les terrassements qu'a exigés la con- fection de la route Royale, les deux cordons de briques n'étaient séparés que par dix rangées de pierres de revêtement, et près du jardin de M. Huré beaucoup plus bas, par neuf rangées. Entre ce jardin et l'atelier du sieurBallard existait, il y a quel- ques semaines encore, le débris le plus remarquable, à mon sens, de l'ancienne enceinte. La tour que fait démolir en ce mo- ment M."
+        },
+        {
+          "year": 1765,
+          "title": "Le Dauphin meurt a Fontainebleau : Sens herite du pere de trois rois",
+          "text": "Le 20 decembre 1765, le Dauphin Louis --- fils de Louis XV, pere des trois derniers rois de France (Louis XVI, Louis XVIII, Charles X) --- meurt de tuberculose a Fontainebleau. Son corps est inhume dans la cathedrale de Sens. Sa veuve Marie-Josephe de Saxe contracte la maladie et le rejoint le 13 mars 1767. Pourquoi Sens et pas Saint-Denis ? Parce que le Dauphin l'a demande, par devotion envers l'archeveche primatial. En 1777, Louis XV commandera un mausolee au sculpteur Coustou.",
+          "location": {
+            "lat": 48.1979,
+            "lng": 3.2837,
+            "label": "Cathedrale --- tombeau du Dauphin"
+          },
+          "sources": [
+            "Wikipedia, Cathedrale de Sens.",
+            "Daguin, Curiosites cathedrale."
+          ],
+          "heritageItemId": "e5555555-0001-0001-0001-000000000001"
         },
         {
           "year": 1769,
