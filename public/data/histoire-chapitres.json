@@ -1283,6 +1283,21 @@
           "heritageItemId": null
         },
         {
+          "year": 1233,
+          "title": "Robert le Bougre : l'inquisiteur fou dont les archeveques de Sens se plaignent",
+          "text": "En 1233, Robert le Petit, dit 'le Bougre' --- ancien cathare converti puis devenu dominicain --- est nomme premier inquisiteur general de France par le pape. Ses methodes sont effroyables : il agit sans le consentement des eveques, condamne sans proces equitable. Les archeveques de Sens et de Reims protestent aupres du pape. Le pape le suspend en 1234, le retablit en 1235. En 1239, a Mont-Aime pres de Provins, il fait bruler 183 personnes en un seul jour --- le plus grand bucher de l'histoire de l'Inquisition en France. Il est finalement condamne a la prison perpetuelle.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Archeveche --- protestation contre l'inquisiteur"
+          },
+          "sources": [
+            "Wikipedia, Robert le Bougre.",
+            "Gallica, 'Robert le Bougre, premier inquisiteur.'"
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1234,
           "title": "Le mariage de Saint Louis",
           "text": "Le 27 mai 1234, le roi Louis IX — vingt ans — épouse Marguerite de Provence — quatorze ans — dans la cathédrale de Sens. Pas à Paris, pas à Reims : à Sens. Parce que l'archevêque de Sens est le supérieur de l'évêque de Paris.",
@@ -1448,7 +1463,7 @@
         {
           "year": 1310,
           "title": "Le procès des Templiers",
-          "text": "Le concile provincial de Sens se réunit en 1310. L'archevêque Philippe de Marigny y fait condamner 54 Templiers au bûcher. Ils sont brûlés vifs dans un champ près de la porte de Paris. C'est l'un des épisodes les plus sanglants de la destruction de l'Ordre du Temple.",
+          "text": "Le concile provincial de Sens se reunit en mai 1310. L'archeveque Philippe de Marigny --- demi-frere d'Enguerrand de Marigny, tout-puissant conseiller du roi --- condamne 54 Templiers comme relaps. Ces hommes avaient d'abord avoue sous la torture, puis s'etaient retractes pour defendre leur ordre. En revenant sur leurs aveux, ils deviennent 'relaps' (retombes dans l'heresie) --- peine de mort automatique. Ils sont brules vifs devant l'abbaye Saint-Antoine a Paris. Ce massacre judiciaire brise la defense de l'Ordre : plus personne n'ose se retracter.",
           "location": {
             "lat": 48.1979,
             "lng": 3.2837,
@@ -3126,16 +3141,32 @@
         {
           "year": 1794,
           "title": "Mgr L'Hermite de Champbertrand guillotine : la fin d'un monde",
-          "text": "En 1794, Monseigneur L'Hermite de Champbertrand est conduit a l'echafaud. Ironie cruelle : la famille L'Hermite, seigneurs du domaine de Champbertrand (la grande ferme au sud de Sens), etait deja ruinee AVANT la Revolution. Ils avaient vendu la propriete aux Leblanc-Duvernoy. Le prelat guillotine ne possede meme plus sa terre --- il garde le nom, mais pas le domaine. La Revolution tue un homme qui a deja tout perdu. Aujourd'hui, Champbertrand est une exploitation agricole de 170 hectares (famille Aube).",
+          "text": "En avril 1793, 49 pretres sont arretes a Sens. Trois restent detenus : Mgr L'Hermite de Champbertrand, le chanoine Seguier et le chanoine Roger. Transfores a Paris, juges pour 'intelligence avec l'ennemi', ils sont guillotines place du Trone (actuelle place de la Nation). Ironie cruelle : la famille L'Hermite, seigneurs du domaine de Champbertrand (la grande ferme au sud de Sens), etait deja ruinee AVANT la Revolution. Ils avaient vendu la propriete aux Leblanc-Duvernoy. Le prelat guillotine ne possede meme plus sa terre --- il garde le nom, mais pas le domaine.",
           "location": {
-            "lat": 48.194,
-            "lng": 3.283,
-            "label": "Champbertrand --- domaine L'Hermite"
+            "lat": 48.8484,
+            "lng": 2.3956,
+            "label": "Paris, place du Trone --- guillotine"
           },
           "sources": [
             "Daguin, G. '1793 Monseigneur de Champbertrand est guillotine.' histoire-sens-senonais-yonne.com."
           ],
           "heritageItemId": null
+        },
+        {
+          "year": 1794,
+          "title": "Lomenie de Brienne meurt en prison a Sens : l'ancien premier ministre tombe",
+          "text": "Le 18 fevrier 1794, Etienne-Charles de Lomenie de Brienne --- ancien premier ministre de Louis XVI, cardinal, membre de l'Academie francaise --- est arrete a Sens. Il avait achete l'abbaye Saint-Pierre-le-Vif et s'y etait installe apres avoir demoli l'eglise. Bien qu'il ait prete serment a la Constitution civile du clerge et meme renonce a la pretrise, cela ne le sauve pas. Il meurt dans la nuit meme en prison --- d'une apoplexie, bien que le poison et le suicide aient ete evoques. Un ancien premier ministre de France meurt dans une prison de Sens.",
+          "location": {
+            "lat": 48.191,
+            "lng": 3.283,
+            "label": "Saint-Pierre-le-Vif --- mort de Lomenie"
+          },
+          "sources": [
+            "Wikipedia, Lomenie de Brienne.",
+            "Academie francaise, fiche Lomenie.",
+            "Daguin, G. histoire-sens-senonais-yonne.com."
+          ],
+          "heritageItemId": "e5555555-0034-0034-0034-000000000034"
         },
         {
           "year": 1796,
@@ -3894,6 +3925,21 @@
           "heritageItemId": null
         },
         {
+          "year": 1918,
+          "title": "Le jeune Brasillach arrive a Sens : son professeur s'appelle Gabriel Marcel",
+          "text": "En mars 1918, la famille Brasillach s'installe a Sens. Le jeune Robert fait ses etudes au lycee de la rue Thenard. Son professeur de philosophie n'est autre que Gabriel Marcel --- le futur grand philosophe existentialiste. A 18 ans, en 1927, Brasillach publie un roman-feuilleton sous pseudonyme dans La Tribune de l'Yonne (49 episodes). Il deviendra redacteur en chef de Je suis partout, journal fasciste et collaborationniste. Fusille le 6 fevrier 1945. De Gaulle refuse la grace malgre une petition signee par Camus, Valery et Claudel. Un enfant de Sens devenu l'un des ecrivains les plus controverses du XXe siecle.",
+          "location": {
+            "lat": 48.1985,
+            "lng": 3.287,
+            "label": "Lycee de Sens --- Brasillach eleve de Gabriel Marcel"
+          },
+          "sources": [
+            "Daguin, G. 'Robert Brasillach.' histoire-sens-senonais-yonne.com.",
+            "Wikipedia, Robert Brasillach."
+          ],
+          "heritageItemId": null
+        },
+        {
           "year": 1920,
           "title": "Augusta Hure : premiere femme conservatrice de musee en France",
           "text": "En 1920, Augusta Hure est nommee conservatrice des musees de Sens --- premiere femme a occuper ce poste en France. Orpheline a 13 ans, modiste avec sa mere, elle decouvre des gisements de phosphate et recoit la medaille d'argent de la Societe geologique. Pendant la guerre, sous-directrice d'hopital. Conservatrice benevole pendant 33 ans. Trois volumes de reference, 112 memoires, des milliers de silex. Les plus grands savants --- Reinach, Jullian --- la respectent. Legion d'honneur en 1952, un an avant sa mort. Elle legue tout a la ville de Sens.",
@@ -3909,6 +3955,21 @@
           ],
           "heritageItemId": "e5555555-0013-0013-0013-000000000013",
           "longText": "Georgie Augusta Hure nait le 8 septembre 1870 a Sens, fille de viticulteurs. Orpheline de pere a 13 ans, elle quitte l'ecole et travaille comme modiste. Rien ne la predestine a la science. Mais elle tient des carnets de voyage ou elle documente monuments, geologie et histoire.\n\nEn 1907, elle adhere a la Societe des Sciences de l'Yonne. En 1913, triple adhesion : Societe geologique de France, Societe prehistorique francaise, Societe des Sciences. Ses prospections dans les champs du Senonais revelent des gisements de phosphate --- medaille d'argent 1916.\n\nPendant la Grande Guerre, infirmiere puis sous-directrice de l'Hopital 105. Palmes d'or de la Croix-Rouge, insignes d'or du Ministere de la Guerre.\n\nEn 1920, le maire Cornet la nomme conservatrice. Elle exercera benevolement pendant 33 ans. Son oeuvre : Le Senonais prehistorique (550 pages, couronne par l'Academie), Le Senonais aux ages du Bronze et du Fer (mention Academie des Inscriptions), Le Senonais gallo-romain (publie apres sa mort). 112 memoires. Des milliers de silex neolithiques collectes a pied dans les champs.\n\nAdrien Blanchet, Salomon Reinach, Camille Jullian --- les plus grands savants de l'epoque --- la respectent. En 1937, correspondante des Monuments historiques. En 1952, Legion d'honneur. Elle legue tous ses biens a Sens. Une rue porte son nom dans le quartier sud."
+        },
+        {
+          "year": 1921,
+          "title": "Le Dr Petiot s'installe a Villeneuve-sur-Yonne : le tueur en serie de l'Yonne",
+          "text": "En 1921, Marcel Petiot (ne a Auxerre en 1897) s'installe comme medecin a Villeneuve-sur-Yonne. Il en est elu maire en 1926, revoque par le prefet en 1934 pour malversations. A Paris sous l'Occupation, il attire au moins 27 personnes en leur promettant de les faire fuir vers l'Amerique du Sud --- puis les tue et brule les corps. Guillotine le 25 mai 1946. Le medecin-maire de Villeneuve-sur-Yonne etait un tueur en serie.",
+          "location": {
+            "lat": 48.08,
+            "lng": 3.3,
+            "label": "Villeneuve-sur-Yonne --- Dr Petiot"
+          },
+          "sources": [
+            "Wikipedia, Marcel Petiot.",
+            "France 3 BFC, 'Le mystere du Dr Petiot.'"
+          ],
+          "heritageItemId": null
         },
         {
           "year": 1923,
@@ -4263,6 +4324,21 @@
           ],
           "heritageItemId": null,
           "image": "https://archives.yonne.fr/cgi-bin/iipsrv.fcgi?FIF=%2Fhome%2Fhttpd%2Fad89%2Fdiffusion%2Fprod%2Fapp%2F%2Fwebroot%2Fdata%2Ffiles%2Fad89.diffusion%2Fimages%2FFRAD089_02Fi%2FFRAD089_02Fi_05619.jpg&HEI=240&QLT=80&CVT=JPG&SIZE=2262681&MTIME=1346439579"
+        },
+        {
+          "year": 2012,
+          "title": "Braquage a l'aube : 100 stateres d'or voles au musee de Sens",
+          "text": "Le dimanche 17 juin 2012, a 5h30 du matin, trois individus cagoules et gantes forcent l'entree du musee de Sens, attaquent a la barre de fer la vitrine securisee, et volent environ 100 monnaies d'or gauloises du tresor de Saint-Denis-les-Sens (trouve lors des fouilles de l'A5 en 1992). Les pieces, parfaitement repertoriees, sont theoriquement invendables sur le marche legal. Valeur estimee : 50 000 a 100 000 euros. Les Senons continuent de faire parler d'eux 2 100 ans apres Brennus.",
+          "location": {
+            "lat": 48.197,
+            "lng": 3.2845,
+            "label": "Musee de Sens --- vol du tresor gaulois"
+          },
+          "sources": [
+            "Le Journal des Arts, 'Vol musee de Sens.'",
+            "FranceInfo, 'Vol au musee de Sens.'"
+          ],
+          "heritageItemId": "e5555555-0013-0013-0013-000000000013"
         },
         {
           "year": 2017,
